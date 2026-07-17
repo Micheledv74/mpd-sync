@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-17T14:40:20.679Z",
+  "pushedAt": "2026-07-17T14:41:57.776Z",
   "todosCount": 186,
   "todos": [
     {
@@ -4034,20 +4034,20 @@
       "outlookStatus": "notStarted"
     },
     {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "NORRBOTTEN  REQ: No 25 - 26 - 27 - 30",
-      "tags": [
-        "outlook"
-      ],
       "id": "outlook_AAJSHyOBAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJSHyOBAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJSHw3dAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: NORRBOTTEN  REQ: No 25 - 26 - 27 - 30",
+      "category": "Nave",
+      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
+      "reference": "NORRBOTTEN  REQ: No 25 - 26 - 27 - 30",
+      "tags": [
+        "outlook"
+      ],
       "dueDate": "2026-07-16",
       "note": "",
       "createdAt": "2026-07-17T14:25:00.7170797Z",
