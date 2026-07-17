@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-17T14:17:57.621Z",
+  "pushedAt": "2026-07-17T14:18:27.727Z",
   "todosCount": 185,
   "todos": [
     {
@@ -3990,20 +3990,20 @@
       "updatedAt": "2026-07-17T09:17:01.691Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO - Action required: Please update onboard inventory in Infoship",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJSHyOAAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJSHyOAAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7qOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "I: M/V PEPPINO - Action required: Please update onboard inventory in Infoship",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "M/V PEPPINO - Action required: Please update onboard inventory in Infoship",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-07-16",
       "note": "",
       "createdAt": "2026-07-17T10:34:47.3350144Z",
@@ -4012,20 +4012,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "NORRBOTTEN REQ: No 31 ENG",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJSHyN-AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJSHyN-AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJSHw3TAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: NORRBOTTEN REQ: No 31 ENG",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "NORRBOTTEN REQ: No 31 ENG",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-07-16",
       "note": "",
       "createdAt": "2026-07-17T10:14:04.9786734Z",
