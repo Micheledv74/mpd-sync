@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-17T07:13:35.549Z",
+  "pushedAt": "2026-07-17T07:13:42.011Z",
   "todosCount": 178,
   "todos": [
     {
@@ -3824,12 +3824,15 @@
       "outlookLinkedName": "R: MV PEPPINO - URGENT THINNER REQUEST FOR SINGAPORE",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-07-15",
+      "dueDate": "2026-07-17",
       "note": "",
       "createdAt": "2026-07-16T11:15:13.5874073Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-07-17T07:13:38.325Z"
     },
     {
       "category": "Nave",
