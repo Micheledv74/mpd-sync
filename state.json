@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-17T07:11:39.072Z",
+  "pushedAt": "2026-07-17T07:12:57.449Z",
   "todosCount": 178,
   "todos": [
     {
@@ -3776,12 +3776,15 @@
       "outlookLinkedName": "Re: I: M/V MED TOSCANA PO63 HQPO-00063 MDT-HQPO-00063 YH MARINE TRADE CO.,LTD",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-07-15",
+      "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-07-16T07:12:48.0879626Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-07-17T07:12:53.548Z"
     },
     {
       "category": "Nave",
