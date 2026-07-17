@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-17T10:39:57.319Z",
+  "pushedAt": "2026-07-17T10:40:24.032Z",
   "todosCount": 180,
   "todos": [
     {
@@ -3888,12 +3888,12 @@
       "dueDate": "2026-07-17",
       "note": "",
       "createdAt": "2026-07-16T12:54:35.5360051Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-17T10:40:20.473Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-17T07:18:37.691Z"
+      "updatedAt": "2026-07-17T10:40:20.473Z"
     },
     {
       "id": "outlook_AAJSHyN_AAA=",
@@ -3913,12 +3913,12 @@
       "dueDate": "2026-07-17",
       "note": "",
       "createdAt": "2026-07-17T07:48:37.8804331Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-17T10:40:23.641Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-17T09:17:22.082Z"
+      "updatedAt": "2026-07-17T10:40:23.641Z"
     },
     {
       "id": "outlook_AAJSHyN9AAA=",
@@ -16743,6 +16743,20 @@
       "completedAt": "2026-07-17T10:39:10.289Z",
       "todoId": "outlook_AAJIqr3cAAA=",
       "title": "MV Norrbotten - Service offer for DP1 upgrade and audit"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJSHyN7AAA=",
+      "listId": "",
+      "completedAt": "2026-07-17T10:40:20.475Z",
+      "todoId": "outlook_AAJSHyN7AAA=",
+      "title": "NORRBOTTEN ME REQ: No 24"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJSHyN_AAA=",
+      "listId": "",
+      "completedAt": "2026-07-17T10:40:23.642Z",
+      "todoId": "outlook_AAJSHyN_AAA=",
+      "title": "NORRBOTTEN ME REQ: No 23"
     }
   ],
   "manualOrders": {
