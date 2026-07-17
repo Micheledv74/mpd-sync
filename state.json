@@ -1,23 +1,607 @@
 {
   "schemaVersion": "1.3",
-  "deviceId": "dev_ex1cq6qu8y",
-  "pushedAt": "2026-07-17T16:22:13.139Z",
+  "deviceId": "dev_a1lys50jni",
+  "pushedAt": "2026-07-17T18:01:24.302Z",
   "todosCount": 187,
   "todos": [
     {
+      "category": "Ufficio",
+      "priority": "media",
+      "reference": "Rispondere a Osculati S.r.l. — Aggiornamento numeri telefonici diretti Osculati",
+      "tags": [
+        "email",
+        "osculati.it"
+      ],
+      "id": "td_1784301358941_kh9s4",
+      "vessel": "",
+      "action": "Inviare email",
+      "dueDate": "2026-07-20",
+      "note": "Sono cambiati alcuni numeri diretti. Verifica se hai salvato i contatti corretti. If you are not reading this message correctly, click here Gentile Cliente, Gentile Fornitore, desideriamo informarti che Osculati ha recentemente cambiato il propri",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJSHwAsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Aggiornamento numeri telefonici diretti Osculati",
+      "done": false,
+      "createdAt": "2026-07-17T15:15:58.941Z"
+    },
+    {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "",
+      "tags": [],
+      "id": "td_1784293935708_mrhag",
+      "vessel": "",
+      "action": "",
+      "dueDate": "2026-07-20",
+      "note": "",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-07-17T13:12:15.708Z",
+      "updatedAt": "2026-07-17T13:13:20.418Z"
+    },
+    {
+      "category": "Email",
+      "priority": "normal",
+      "reference": "",
+      "tags": [],
+      "id": "td_1784293732745_ygnh9",
+      "vessel": "",
+      "action": "Rispondere a Umberto D'Amato — I: Aries Marine and Engineering Services-After Meeting Details",
+      "dueDate": "",
+      "note": "",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-07-17T13:08:52.745Z"
+    },
+    {
+      "category": "Email",
+      "priority": "normal",
+      "reference": "",
+      "tags": [],
+      "id": "td_1784293698996_14izd",
+      "vessel": "",
+      "action": "Rispondere a Crew SSSDAM — I: Med Toscana / Internet ",
+      "dueDate": "",
+      "note": "",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-07-17T13:08:18.996Z"
+    },
+    {
       "category": "Nave",
       "priority": "media",
-      "reference": "Roger",
+      "reference": "Fixed Water - Based Local Fire Extingui…",
       "tags": [],
-      "id": "td_1781260448612_g37cc",
-      "vessel": "peppino",
-      "action": "Aspettare risposta",
-      "dueDate": "2026-06-12",
-      "note": "Confere con PO Lagger",
+      "id": "td_1784201941234_u2an9",
+      "vessel": "medtoscana",
+      "action": "Consegna",
+      "dueDate": "2026-07-21",
+      "note": "YH MARINE TRADE CO.,LTD",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-07-16T11:39:01.234Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "URGENTLY ORIGINAL HEADSET/ACCESSORY FOR…",
+      "tags": [],
+      "id": "td_1784201938211_q3frv",
+      "vessel": "medtoscana",
+      "action": "Consegna",
+      "dueDate": "2026-07-21",
+      "note": "Global Marine Safety - America",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-07-16T11:38:58.211Z"
+    },
+    {
+      "category": "Email",
+      "priority": "high",
+      "reference": "",
+      "tags": [],
+      "id": "td_1783975051920_8322w",
+      "vessel": "",
+      "action": "Rispondere a Purchasing SSSDAm — Automatic reply: M/v PEPPINO - L/R exchange in Singapore",
+      "dueDate": "",
+      "note": "",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-07-13T20:37:31.920Z"
+    },
+    {
+      "category": "Email",
+      "priority": "normal",
+      "reference": "",
+      "tags": [],
+      "id": "td_1783951284124_07r18",
+      "vessel": "",
+      "action": "Rispondere a YH MARINE TRADE — Re: Re: Fw: MV PEPPINO - URGENT REQUISITIONS- Site requst for Dongguan 10th July ",
+      "dueDate": "",
+      "note": "",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-07-13T14:01:24.124Z"
+    },
+    {
+      "category": "Colleghi",
+      "priority": "media",
+      "reference": "TEKOMAR XPERT",
+      "tags": [],
+      "id": "td_1783601322335_eewwt",
+      "vessel": "",
+      "action": "Inviare email",
+      "dueDate": "2026-07-31",
+      "note": "Inviare Report Tekoma Xpert @Supt.",
+      "recur": {
+        "type": "months",
+        "interval": 1
+      },
+      "kind": "fleet",
+      "done": false,
+      "createdAt": "2026-07-09T12:48:42.335Z",
+      "updatedAt": "2026-07-09T12:49:29.401Z"
+    },
+    {
+      "category": "Infoship",
+      "priority": "alta",
+      "reference": "",
+      "tags": [
+        "Med Toscana"
+      ],
+      "id": "td_1783585038157_zd5gq",
+      "vessel": "",
+      "action": "Controllare",
+      "dueDate": "2026-07-21",
+      "note": "Planned Maintenance Nov/2025:\n- Cargo Crain\n- Hatch Cover",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-07-09T08:17:18.157Z",
+      "updatedAt": "2026-07-16T07:25:21.373Z"
+    },
+    {
+      "category": "Email",
+      "priority": "normal",
+      "reference": "",
+      "tags": [],
+      "id": "td_1783086454428_4y6c1",
+      "vessel": "",
+      "action": "Rispondere a ALISEKERCI — Norbotten Pins",
+      "dueDate": "",
+      "note": "",
+      "recur": null,
       "done": true,
-      "createdAt": "2026-06-12T10:34:08.612Z",
-      "updatedAt": "2026-06-15T07:46:07.271Z",
-      "doneAt": "2026-06-15T07:46:07.271Z"
+      "createdAt": "2026-07-03T13:47:34.428Z",
+      "doneAt": "2026-07-09T09:00:59.472Z",
+      "updatedAt": "2026-07-09T09:00:59.472Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "Gommone",
+      "tags": [],
+      "id": "td_1783017770752_kv8ku",
+      "vessel": "vegauno",
+      "action": "Documentare",
+      "dueDate": "2026-07-20",
+      "note": "Model. HRS280 2.80 mt.\n3 persone, 550 kg.\n7.5 KW 10 hp",
+      "recur": null,
+      "done": false,
+      "createdAt": "2026-07-02T18:42:50.752Z",
+      "updatedAt": "2026-07-14T11:01:16.384Z",
+      "kind": "todo"
+    },
+    {
+      "category": "Nave",
+      "priority": "alta",
+      "reference": "Certificati",
+      "tags": [],
+      "id": "td_1782998290876_nx4fe",
+      "vessel": "medtoscana",
+      "action": "Controllare",
+      "dueDate": "2026-07-15",
+      "note": "",
+      "recur": {
+        "type": "days",
+        "interval": 15
+      },
+      "done": false,
+      "createdAt": "2026-07-02T13:18:10.876Z",
+      "kind": "fleet",
+      "updatedAt": "2026-07-09T09:00:36.392Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "alta",
+      "reference": "Certificati",
+      "tags": [],
+      "id": "td_1782998253732_c054w",
+      "vessel": "peppino",
+      "action": "Controllare",
+      "dueDate": "2026-07-15",
+      "note": "",
+      "recur": {
+        "type": "days",
+        "interval": 15
+      },
+      "done": false,
+      "createdAt": "2026-07-02T13:17:33.732Z",
+      "kind": "fleet",
+      "updatedAt": "2026-07-09T09:00:40.856Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "alta",
+      "reference": "Certificati",
+      "tags": [],
+      "id": "td_1782998141540_0ntai",
+      "vessel": "medliguria",
+      "action": "Controllare",
+      "dueDate": "2026-07-15",
+      "note": "",
+      "recur": {
+        "type": "days",
+        "interval": 15
+      },
+      "done": false,
+      "createdAt": "2026-07-02T13:15:41.540Z",
+      "updatedAt": "2026-07-09T09:00:45.328Z",
+      "kind": "fleet"
+    },
+    {
+      "category": "Nave",
+      "priority": "alta",
+      "reference": "Ali Sekerci",
+      "tags": [
+        "San Colombano"
+      ],
+      "id": "td_1782919797827_159z5",
+      "vessel": "norrbotten",
+      "action": "Aspettare risposta",
+      "dueDate": "2026-07-03",
+      "note": "x pagamenti",
+      "done": true,
+      "createdAt": "2026-07-01T15:29:57.827Z",
+      "updatedAt": "2026-07-03T11:54:22.380Z",
+      "recur": null,
+      "doneAt": "2026-07-03T11:54:22.380Z"
+    },
+    {
+      "category": "Email",
+      "priority": "normal",
+      "reference": "",
+      "tags": [],
+      "id": "td_1782828392847_kzi24",
+      "vessel": "",
+      "action": "Rispondere a Sara | Mistral Marine Solution — M/V PEPPINO PR83 PEP-SHPR-00083 Mistral Suisse Sagl P21051/TE22207 SHIPPING DOCUMENTS",
+      "dueDate": "",
+      "note": "",
+      "done": true,
+      "createdAt": "2026-06-30T14:06:32.847Z",
+      "doneAt": "2026-07-02T12:18:38.212Z",
+      "updatedAt": "2026-07-02T12:18:38.212Z"
+    },
+    {
+      "category": "Email",
+      "priority": "normal",
+      "reference": "",
+      "tags": [],
+      "id": "td_1782827940298_86g1f",
+      "vessel": "",
+      "action": "Rispondere a ops6@tailormadelogistic.com — R: M/V MED LIGURIA - Battery info",
+      "dueDate": "",
+      "note": "",
+      "done": true,
+      "createdAt": "2026-06-30T13:59:00.298Z",
+      "doneAt": "2026-07-02T12:18:27.404Z",
+      "updatedAt": "2026-07-02T12:18:27.404Z"
+    },
+    {
+      "category": "Ufficio",
+      "priority": "media",
+      "reference": "Lista fornitori IHM",
+      "tags": [],
+      "id": "td_1782732621374_g23pt",
+      "vessel": "",
+      "action": "Appuntamento",
+      "dueDate": "2026-07-01",
+      "note": "",
+      "done": true,
+      "createdAt": "2026-06-29T11:30:21.374Z",
+      "doneAt": "2026-07-01T08:47:01.185Z",
+      "updatedAt": "2026-07-01T08:47:01.186Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "Hanla level. C/H water ingress system sensor · Dongjin Intec Co., Ltd. · 2026-MDT-HQPO-00064",
+      "tags": [
+        "engine"
+      ],
+      "id": "td_1782461968038_pncti",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "dueDate": "2026-07-07",
+      "note": "Recepito come RFQ, preparato come PO 26/06/2026",
+      "done": true,
+      "createdAt": "2026-06-26T08:19:28.038Z",
+      "updatedAt": "2026-07-07T07:24:30.905Z",
+      "kind": "todo",
+      "recur": null,
+      "doneAt": "2026-07-07T07:24:30.905Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "alta",
+      "reference": "Cargo Crane Claim spare part · YH MARINE TRADE CO.,LTD · 2026-MDT-HQPO-00063",
+      "tags": [
+        "cargo"
+      ],
+      "id": "td_1782392129955_310zb",
+      "vessel": "medtoscana",
+      "action": "Inviare email",
+      "dueDate": "2026-07-21",
+      "note": "Indicare dove spedire",
+      "done": false,
+      "createdAt": "2026-06-25T12:55:29.955Z",
+      "updatedAt": "2026-07-16T07:25:14.244Z",
+      "kind": "todo",
+      "recur": null
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "PC SOPEP · GALLAGHER MARINE SYSTEMS · 2026-MDT-HQPO-00067",
+      "tags": [
+        "deck"
+      ],
+      "id": "td_1782391458824_9ms8l",
+      "vessel": "medtoscana",
+      "action": "Controllare",
+      "dueDate": "2026-06-26",
+      "note": "Capt. Aiello",
+      "done": true,
+      "createdAt": "2026-06-25T12:44:18.824Z",
+      "doneAt": "2026-06-26T12:11:17.051Z",
+      "updatedAt": "2026-06-26T12:11:17.051Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "BWMS - BALCLOR - SPARE PARTS · CSSC SUNRUI / SHIPSERVICE · 2026-MLG-HQPO-00043",
+      "tags": [
+        "deck",
+        "CSSC"
+      ],
+      "id": "td_1782309416797_bpndu",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "dueDate": "2026-07-17",
+      "note": "@merce pronta x invio indirizzo",
+      "done": false,
+      "createdAt": "2026-06-24T13:56:56.797Z",
+      "updatedAt": "2026-07-15T09:13:49.265Z",
+      "kind": "todo",
+      "recur": null
+    },
+    {
+      "category": "Nave",
+      "priority": "alta",
+      "reference": "SPA Req. Aux. Boiler Mission OC · Mistral Suisse Sagl · 2026-PEP-HQPO-00116",
+      "tags": [
+        "engine"
+      ],
+      "id": "td_1782117052278_zhqrv",
+      "vessel": "peppino",
+      "action": "Verificare",
+      "dueDate": "2026-06-29",
+      "note": "postecipato Singapore\nDT @28 week",
+      "done": true,
+      "createdAt": "2026-06-22T08:30:52.278Z",
+      "updatedAt": "2026-06-25T11:12:14.169Z",
+      "doneAt": "2026-06-25T11:12:14.169Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "SPA Req. Aux. Engine Doosan-MAN Diesel 5L23/30Hx720RPM · Zephyr Trading srl · 2026-PEP-HQPO-00112",
+      "tags": [
+        "engine"
+      ],
+      "id": "td_1781852060296_ghmiw",
+      "vessel": "peppino",
+      "action": "Controllare",
+      "dueDate": "2026-07-01",
+      "note": "Se arrivata a Singapore",
+      "done": true,
+      "createdAt": "2026-06-19T06:54:20.296Z",
+      "updatedAt": "2026-07-01T08:48:39.123Z",
+      "doneAt": "2026-07-01T08:48:39.123Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "alta",
+      "reference": "TML",
+      "tags": [],
+      "id": "td_1781797511935_m473f",
+      "vessel": "peppino",
+      "action": "Inviare email",
+      "dueDate": "2026-06-19",
+      "note": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4j2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "done": true,
+      "createdAt": "2026-06-18T15:45:11.935Z",
+      "doneAt": "2026-06-19T12:48:13.691Z",
+      "updatedAt": "2026-06-19T12:48:13.691Z"
+    },
+    {
+      "category": "Ufficio",
+      "priority": "media",
+      "reference": "",
+      "tags": [],
+      "id": "td_1781779370582_fp0kc",
+      "vessel": "",
+      "action": "Verificare",
+      "dueDate": "2026-06-23",
+      "note": "Gommone VEGA UNO",
+      "done": true,
+      "createdAt": "2026-06-18T10:42:50.582Z",
+      "doneAt": "2026-06-23T09:28:55.073Z",
+      "updatedAt": "2026-06-23T09:28:55.073Z"
+    },
+    {
+      "category": "Personale",
+      "priority": "alta",
+      "reference": "Banca",
+      "tags": [],
+      "id": "td_1781623123704_6utpr",
+      "vessel": "",
+      "action": "Inviare email",
+      "dueDate": "2026-06-17",
+      "note": "Doc",
+      "done": true,
+      "createdAt": "2026-06-16T15:18:43.704Z",
+      "doneAt": "2026-06-17T07:40:15.832Z",
+      "updatedAt": "2026-06-17T07:40:15.835Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "bassa",
+      "reference": "SPA Req. GS#1 Temperature sensor · DUBHE CO., LTD. · 2026-PEP-HQPO-00100",
+      "tags": [
+        "engine"
+      ],
+      "id": "td_1781594085068_88hrw",
+      "vessel": "peppino",
+      "action": "Controllare",
+      "dueDate": "2026-08-03",
+      "note": "Controllare ordine e spedizione",
+      "done": false,
+      "createdAt": "2026-06-16T07:14:45.068Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "alta",
+      "reference": "MESSANGER LINE FOR MOORING ROPE · YH MARINE TRADE CO.,LTD · 2026-PEP-HQDN-00089",
+      "tags": [
+        "deck"
+      ],
+      "id": "td_1781535849114_54cvz",
+      "vessel": "peppino",
+      "action": "Chiedere",
+      "dueDate": "2026-07-01",
+      "note": "Organizzare TML Singapore per bordo",
+      "done": true,
+      "createdAt": "2026-06-15T15:04:09.114Z",
+      "updatedAt": "2026-07-01T08:04:39.996Z",
+      "doneAt": "2026-07-01T08:04:39.995Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "alta",
+      "reference": "CHLORINE REAGENT KIT FOR BALLAST TREATMENT SYSTEM · ERMA FIRST · 2026-PEP-HQPO-00105",
+      "tags": [
+        "deck",
+        "Bonifico"
+      ],
+      "id": "td_1781534230606_jn0uw",
+      "vessel": "peppino",
+      "action": "Sollecitare",
+      "dueDate": "2026-06-18",
+      "note": "",
+      "done": true,
+      "createdAt": "2026-06-15T14:37:10.606Z",
+      "doneAt": "2026-06-18T15:19:54.383Z",
+      "updatedAt": "2026-06-18T15:19:54.383Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "Carletto",
+      "tags": [],
+      "id": "td_1781517056132_75kuf",
+      "vessel": "norrbotten",
+      "action": "Controllare",
+      "dueDate": "2026-06-25",
+      "note": "Formattazione Pc e Server",
+      "done": true,
+      "createdAt": "2026-06-15T09:50:56.132Z",
+      "updatedAt": "2026-06-25T13:00:21.971Z",
+      "doneAt": "2026-06-25T13:00:21.971Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "Carletto",
+      "tags": [],
+      "id": "td_1781276746010_ed9r8",
+      "vessel": "norrbotten",
+      "action": "Telefonare",
+      "dueDate": "2026-06-15",
+      "note": "Formattare server",
+      "done": true,
+      "createdAt": "2026-06-12T15:05:46.010Z",
+      "doneAt": "2026-06-15T09:49:47.441Z",
+      "updatedAt": "2026-06-15T09:49:47.441Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "SPA Req. Rescue Boat (Electric source switch) · G&P TECH CO. · 2026-PEP-HQPO-00098",
+      "tags": [
+        "engine",
+        "TML"
+      ],
+      "id": "td_1781272767223_sdq6t",
+      "vessel": "peppino",
+      "action": "Verificare",
+      "dueDate": "2026-06-22",
+      "note": "Arrivo a TML KOREA",
+      "done": true,
+      "createdAt": "2026-06-12T13:59:27.223Z",
+      "updatedAt": "2026-06-22T08:48:38.485Z",
+      "doneAt": "2026-06-22T08:48:38.485Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "alta",
+      "reference": "Alessio Giusto",
+      "tags": [
+        "Tekomar"
+      ],
+      "id": "td_1781269005212_cr82z",
+      "vessel": "medtoscana",
+      "action": "Aspettare risposta",
+      "dueDate": "2026-06-23",
+      "note": "",
+      "done": true,
+      "createdAt": "2026-06-12T12:56:45.212Z",
+      "updatedAt": "2026-06-25T10:55:12.241Z",
+      "doneAt": "2026-06-25T10:55:12.241Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "alta",
+      "reference": "Alessio Giusto",
+      "tags": [
+        "Tekomar"
+      ],
+      "id": "td_1781268968339_cs4pf",
+      "vessel": "medliguria",
+      "action": "Chiedere",
+      "dueDate": "2026-06-23",
+      "note": "",
+      "done": true,
+      "createdAt": "2026-06-12T12:56:08.339Z",
+      "updatedAt": "2026-06-24T07:57:24.768Z",
+      "doneAt": "2026-06-24T07:57:24.768Z"
     },
     {
       "category": "Nave",
@@ -288,196 +872,17 @@
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "Carletto",
+      "reference": "Roger",
       "tags": [],
-      "id": "td_1781276746010_ed9r8",
-      "vessel": "norrbotten",
-      "action": "Telefonare",
-      "dueDate": "2026-06-15",
-      "note": "Formattare server",
-      "done": true,
-      "createdAt": "2026-06-12T15:05:46.010Z",
-      "doneAt": "2026-06-15T09:49:47.441Z",
-      "updatedAt": "2026-06-15T09:49:47.441Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "SPA Req. Rescue Boat (Electric source switch) · G&P TECH CO. · 2026-PEP-HQPO-00098",
-      "tags": [
-        "engine",
-        "TML"
-      ],
-      "id": "td_1781272767223_sdq6t",
+      "id": "td_1781260448612_g37cc",
       "vessel": "peppino",
-      "action": "Verificare",
-      "dueDate": "2026-06-22",
-      "note": "Arrivo a TML KOREA",
-      "done": true,
-      "createdAt": "2026-06-12T13:59:27.223Z",
-      "updatedAt": "2026-06-22T08:48:38.485Z",
-      "doneAt": "2026-06-22T08:48:38.485Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "Alessio Giusto",
-      "tags": [
-        "Tekomar"
-      ],
-      "id": "td_1781269005212_cr82z",
-      "vessel": "medtoscana",
       "action": "Aspettare risposta",
-      "dueDate": "2026-06-23",
-      "note": "",
+      "dueDate": "2026-06-12",
+      "note": "Confere con PO Lagger",
       "done": true,
-      "createdAt": "2026-06-12T12:56:45.212Z",
-      "updatedAt": "2026-06-25T10:55:12.241Z",
-      "doneAt": "2026-06-25T10:55:12.241Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "Alessio Giusto",
-      "tags": [
-        "Tekomar"
-      ],
-      "id": "td_1781268968339_cs4pf",
-      "vessel": "medliguria",
-      "action": "Chiedere",
-      "dueDate": "2026-06-23",
-      "note": "",
-      "done": true,
-      "createdAt": "2026-06-12T12:56:08.339Z",
-      "updatedAt": "2026-06-24T07:57:24.768Z",
-      "doneAt": "2026-06-24T07:57:24.768Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "bassa",
-      "reference": "SPA Req. GS#1 Temperature sensor · DUBHE CO., LTD. · 2026-PEP-HQPO-00100",
-      "tags": [
-        "engine"
-      ],
-      "id": "td_1781594085068_88hrw",
-      "vessel": "peppino",
-      "action": "Controllare",
-      "dueDate": "2026-08-03",
-      "note": "Controllare ordine e spedizione",
-      "done": false,
-      "createdAt": "2026-06-16T07:14:45.068Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "MESSANGER LINE FOR MOORING ROPE · YH MARINE TRADE CO.,LTD · 2026-PEP-HQDN-00089",
-      "tags": [
-        "deck"
-      ],
-      "id": "td_1781535849114_54cvz",
-      "vessel": "peppino",
-      "action": "Chiedere",
-      "dueDate": "2026-07-01",
-      "note": "Organizzare TML Singapore per bordo",
-      "done": true,
-      "createdAt": "2026-06-15T15:04:09.114Z",
-      "updatedAt": "2026-07-01T08:04:39.996Z",
-      "doneAt": "2026-07-01T08:04:39.995Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "CHLORINE REAGENT KIT FOR BALLAST TREATMENT SYSTEM · ERMA FIRST · 2026-PEP-HQPO-00105",
-      "tags": [
-        "deck",
-        "Bonifico"
-      ],
-      "id": "td_1781534230606_jn0uw",
-      "vessel": "peppino",
-      "action": "Sollecitare",
-      "dueDate": "2026-06-18",
-      "note": "",
-      "done": true,
-      "createdAt": "2026-06-15T14:37:10.606Z",
-      "doneAt": "2026-06-18T15:19:54.383Z",
-      "updatedAt": "2026-06-18T15:19:54.383Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "Carletto",
-      "tags": [],
-      "id": "td_1781517056132_75kuf",
-      "vessel": "norrbotten",
-      "action": "Controllare",
-      "dueDate": "2026-06-25",
-      "note": "Formattazione Pc e Server",
-      "done": true,
-      "createdAt": "2026-06-15T09:50:56.132Z",
-      "updatedAt": "2026-06-25T13:00:21.971Z",
-      "doneAt": "2026-06-25T13:00:21.971Z"
-    },
-    {
-      "category": "Personale",
-      "priority": "alta",
-      "reference": "Banca",
-      "tags": [],
-      "id": "td_1781623123704_6utpr",
-      "vessel": "",
-      "action": "Inviare email",
-      "dueDate": "2026-06-17",
-      "note": "Doc",
-      "done": true,
-      "createdAt": "2026-06-16T15:18:43.704Z",
-      "doneAt": "2026-06-17T07:40:15.832Z",
-      "updatedAt": "2026-06-17T07:40:15.835Z"
-    },
-    {
-      "category": "Ufficio",
-      "priority": "media",
-      "reference": "",
-      "tags": [],
-      "id": "td_1781779370582_fp0kc",
-      "vessel": "",
-      "action": "Verificare",
-      "dueDate": "2026-06-23",
-      "note": "Gommone VEGA UNO",
-      "done": true,
-      "createdAt": "2026-06-18T10:42:50.582Z",
-      "doneAt": "2026-06-23T09:28:55.073Z",
-      "updatedAt": "2026-06-23T09:28:55.073Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "TML",
-      "tags": [],
-      "id": "td_1781797511935_m473f",
-      "vessel": "peppino",
-      "action": "Inviare email",
-      "dueDate": "2026-06-19",
-      "note": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4j2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "done": true,
-      "createdAt": "2026-06-18T15:45:11.935Z",
-      "doneAt": "2026-06-19T12:48:13.691Z",
-      "updatedAt": "2026-06-19T12:48:13.691Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "SPA Req. Aux. Engine Doosan-MAN Diesel 5L23/30Hx720RPM · Zephyr Trading srl · 2026-PEP-HQPO-00112",
-      "tags": [
-        "engine"
-      ],
-      "id": "td_1781852060296_ghmiw",
-      "vessel": "peppino",
-      "action": "Controllare",
-      "dueDate": "2026-07-01",
-      "note": "Se arrivata a Singapore",
-      "done": true,
-      "createdAt": "2026-06-19T06:54:20.296Z",
-      "updatedAt": "2026-07-01T08:48:39.123Z",
-      "doneAt": "2026-07-01T08:48:39.123Z"
+      "createdAt": "2026-06-12T10:34:08.612Z",
+      "updatedAt": "2026-06-15T07:46:07.271Z",
+      "doneAt": "2026-06-15T07:46:07.271Z"
     },
     {
       "category": "Infoship",
@@ -655,7 +1060,7 @@
       "note": "",
       "createdAt": "2026-06-19T12:02:48.5943665Z",
       "done": true,
-      "doneAt": "2026-06-19T18:55:43.9989223Z",
+      "doneAt": "2026-06-24T16:43:53.0118035Z",
       "outlookStatus": "completed",
       "updatedAt": "2026-06-19T15:11:04.706Z",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJABuc6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
@@ -702,7 +1107,7 @@
       "note": "",
       "createdAt": "2026-06-19T08:32:28.5013952Z",
       "done": true,
-      "doneAt": "2026-06-19T18:55:44.0483695Z",
+      "doneAt": "2026-06-24T16:43:53.0499058Z",
       "outlookStatus": "completed",
       "updatedAt": "2026-06-19T15:12:04.490Z",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJABlnbAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
@@ -1051,7 +1456,7 @@
       "note": "",
       "createdAt": "2026-06-19T16:43:03.4704685Z",
       "done": true,
-      "doneAt": "2026-06-19T18:55:44.0563979Z",
+      "doneAt": "2026-06-24T16:37:53.1231225Z",
       "outlookStatus": "completed",
       "updatedAt": "2026-06-19T18:09:17.267Z"
     },
@@ -1077,23 +1482,6 @@
       "doneAt": "2026-06-23T09:23:33.918Z",
       "outlookStatus": "notStarted",
       "updatedAt": "2026-06-23T09:23:33.918Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "SPA Req. Aux. Boiler Mission OC · Mistral Suisse Sagl · 2026-PEP-HQPO-00116",
-      "tags": [
-        "engine"
-      ],
-      "id": "td_1782117052278_zhqrv",
-      "vessel": "peppino",
-      "action": "Verificare",
-      "dueDate": "2026-06-29",
-      "note": "postecipato Singapore\nDT @28 week",
-      "done": true,
-      "createdAt": "2026-06-22T08:30:52.278Z",
-      "updatedAt": "2026-06-25T11:12:14.169Z",
-      "doneAt": "2026-06-25T11:12:14.169Z"
     },
     {
       "category": "Infoship",
@@ -1538,25 +1926,6 @@
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "BWMS - BALCLOR - SPARE PARTS · CSSC SUNRUI / SHIPSERVICE · 2026-MLG-HQPO-00043",
-      "tags": [
-        "deck",
-        "CSSC"
-      ],
-      "id": "td_1782309416797_bpndu",
-      "vessel": "medliguria",
-      "action": "Altro",
-      "dueDate": "2026-07-17",
-      "note": "@merce pronta x invio indirizzo",
-      "done": false,
-      "createdAt": "2026-06-24T13:56:56.797Z",
-      "updatedAt": "2026-07-15T09:13:49.265Z",
-      "kind": "todo",
-      "recur": null
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
       "reference": "M/V MED TOSCANA - Scratch cards – Credentials and instructions",
       "tags": [
         "outlook"
@@ -1600,41 +1969,6 @@
       "doneAt": "2026-06-25T11:01:05.308Z",
       "outlookStatus": "notStarted",
       "updatedAt": "2026-06-25T11:01:05.308Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "Cargo Crane Claim spare part · YH MARINE TRADE CO.,LTD · 2026-MDT-HQPO-00063",
-      "tags": [
-        "cargo"
-      ],
-      "id": "td_1782392129955_310zb",
-      "vessel": "medtoscana",
-      "action": "Inviare email",
-      "dueDate": "2026-07-21",
-      "note": "Indicare dove spedire",
-      "done": false,
-      "createdAt": "2026-06-25T12:55:29.955Z",
-      "updatedAt": "2026-07-16T07:25:14.244Z",
-      "kind": "todo",
-      "recur": null
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "PC SOPEP · GALLAGHER MARINE SYSTEMS · 2026-MDT-HQPO-00067",
-      "tags": [
-        "deck"
-      ],
-      "id": "td_1782391458824_9ms8l",
-      "vessel": "medtoscana",
-      "action": "Controllare",
-      "dueDate": "2026-06-26",
-      "note": "Capt. Aiello",
-      "done": true,
-      "createdAt": "2026-06-25T12:44:18.824Z",
-      "doneAt": "2026-06-26T12:11:17.051Z",
-      "updatedAt": "2026-06-26T12:11:17.051Z"
     },
     {
       "category": "Nave",
@@ -1827,25 +2161,6 @@
       "updatedAt": "2026-06-26T11:41:14.162Z"
     },
     {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "Hanla level. C/H water ingress system sensor · Dongjin Intec Co., Ltd. · 2026-MDT-HQPO-00064",
-      "tags": [
-        "engine"
-      ],
-      "id": "td_1782461968038_pncti",
-      "vessel": "medtoscana",
-      "action": "Altro",
-      "dueDate": "2026-07-07",
-      "note": "Recepito come RFQ, preparato come PO 26/06/2026",
-      "done": true,
-      "createdAt": "2026-06-26T08:19:28.038Z",
-      "updatedAt": "2026-07-07T07:24:30.905Z",
-      "kind": "todo",
-      "recur": null,
-      "doneAt": "2026-07-07T07:24:30.905Z"
-    },
-    {
       "category": "Altro",
       "priority": "media",
       "reference": "Carl Baguhn GmbH & Co. KG - Modified Sales Enquiry CBH/043940+CBH43941",
@@ -1915,21 +2230,6 @@
       "doneAt": "2026-06-29T12:11:25.192Z",
       "outlookStatus": "notStarted",
       "updatedAt": "2026-06-29T12:11:25.192Z"
-    },
-    {
-      "category": "Ufficio",
-      "priority": "media",
-      "reference": "Lista fornitori IHM",
-      "tags": [],
-      "id": "td_1782732621374_g23pt",
-      "vessel": "",
-      "action": "Appuntamento",
-      "dueDate": "2026-07-01",
-      "note": "",
-      "done": true,
-      "createdAt": "2026-06-29T11:30:21.374Z",
-      "doneAt": "2026-07-01T08:47:01.185Z",
-      "updatedAt": "2026-07-01T08:47:01.186Z"
     },
     {
       "category": "Nave",
@@ -2023,143 +2323,6 @@
       "doneAt": "2026-06-30T10:35:14.359Z",
       "outlookStatus": "notStarted",
       "updatedAt": "2026-06-30T10:35:14.359Z"
-    },
-    {
-      "category": "Email",
-      "priority": "normal",
-      "reference": "",
-      "tags": [],
-      "id": "td_1782828392847_kzi24",
-      "vessel": "",
-      "action": "Rispondere a Sara | Mistral Marine Solution — M/V PEPPINO PR83 PEP-SHPR-00083 Mistral Suisse Sagl P21051/TE22207 SHIPPING DOCUMENTS",
-      "dueDate": "",
-      "note": "",
-      "done": true,
-      "createdAt": "2026-06-30T14:06:32.847Z",
-      "doneAt": "2026-07-02T12:18:38.212Z",
-      "updatedAt": "2026-07-02T12:18:38.212Z"
-    },
-    {
-      "category": "Email",
-      "priority": "normal",
-      "reference": "",
-      "tags": [],
-      "id": "td_1782827940298_86g1f",
-      "vessel": "",
-      "action": "Rispondere a ops6@tailormadelogistic.com — R: M/V MED LIGURIA - Battery info",
-      "dueDate": "",
-      "note": "",
-      "done": true,
-      "createdAt": "2026-06-30T13:59:00.298Z",
-      "doneAt": "2026-07-02T12:18:27.404Z",
-      "updatedAt": "2026-07-02T12:18:27.404Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "Gommone",
-      "tags": [],
-      "id": "td_1783017770752_kv8ku",
-      "vessel": "vegauno",
-      "action": "Documentare",
-      "dueDate": "2026-07-20",
-      "note": "Model. HRS280 2.80 mt.\n3 persone, 550 kg.\n7.5 KW 10 hp",
-      "recur": null,
-      "done": false,
-      "createdAt": "2026-07-02T18:42:50.752Z",
-      "updatedAt": "2026-07-14T11:01:16.384Z",
-      "kind": "todo"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "Certificati",
-      "tags": [],
-      "id": "td_1782998290876_nx4fe",
-      "vessel": "medtoscana",
-      "action": "Controllare",
-      "dueDate": "2026-07-15",
-      "note": "",
-      "recur": {
-        "type": "days",
-        "interval": 15
-      },
-      "done": false,
-      "createdAt": "2026-07-02T13:18:10.876Z",
-      "kind": "fleet",
-      "updatedAt": "2026-07-09T09:00:36.392Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "Certificati",
-      "tags": [],
-      "id": "td_1782998253732_c054w",
-      "vessel": "peppino",
-      "action": "Controllare",
-      "dueDate": "2026-07-15",
-      "note": "",
-      "recur": {
-        "type": "days",
-        "interval": 15
-      },
-      "done": false,
-      "createdAt": "2026-07-02T13:17:33.732Z",
-      "kind": "fleet",
-      "updatedAt": "2026-07-09T09:00:40.856Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "Certificati",
-      "tags": [],
-      "id": "td_1782998141540_0ntai",
-      "vessel": "medliguria",
-      "action": "Controllare",
-      "dueDate": "2026-07-15",
-      "note": "",
-      "recur": {
-        "type": "days",
-        "interval": 15
-      },
-      "done": false,
-      "createdAt": "2026-07-02T13:15:41.540Z",
-      "updatedAt": "2026-07-09T09:00:45.328Z",
-      "kind": "fleet"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "Ali Sekerci",
-      "tags": [
-        "San Colombano"
-      ],
-      "id": "td_1782919797827_159z5",
-      "vessel": "norrbotten",
-      "action": "Aspettare risposta",
-      "dueDate": "2026-07-03",
-      "note": "x pagamenti",
-      "done": true,
-      "createdAt": "2026-07-01T15:29:57.827Z",
-      "updatedAt": "2026-07-03T11:54:22.380Z",
-      "recur": null,
-      "doneAt": "2026-07-03T11:54:22.380Z"
-    },
-    {
-      "category": "Email",
-      "priority": "normal",
-      "reference": "",
-      "tags": [],
-      "id": "td_1783086454428_4y6c1",
-      "vessel": "",
-      "action": "Rispondere a ALISEKERCI — Norbotten Pins",
-      "dueDate": "",
-      "note": "",
-      "recur": null,
-      "done": true,
-      "createdAt": "2026-07-03T13:47:34.428Z",
-      "doneAt": "2026-07-09T09:00:59.472Z",
-      "updatedAt": "2026-07-09T09:00:59.472Z"
     },
     {
       "category": "Nave",
@@ -3115,73 +3278,6 @@
       "updatedAt": "2026-07-13T14:12:46.298Z"
     },
     {
-      "category": "Email",
-      "priority": "high",
-      "reference": "",
-      "tags": [],
-      "id": "td_1783975051920_8322w",
-      "vessel": "",
-      "action": "Rispondere a Purchasing SSSDAm — Automatic reply: M/v PEPPINO - L/R exchange in Singapore",
-      "dueDate": "",
-      "note": "",
-      "recur": null,
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-13T20:37:31.920Z"
-    },
-    {
-      "category": "Email",
-      "priority": "normal",
-      "reference": "",
-      "tags": [],
-      "id": "td_1783951284124_07r18",
-      "vessel": "",
-      "action": "Rispondere a YH MARINE TRADE — Re: Re: Fw: MV PEPPINO - URGENT REQUISITIONS- Site requst for Dongguan 10th July ",
-      "dueDate": "",
-      "note": "",
-      "recur": null,
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-13T14:01:24.124Z"
-    },
-    {
-      "category": "Colleghi",
-      "priority": "media",
-      "reference": "TEKOMAR XPERT",
-      "tags": [],
-      "id": "td_1783601322335_eewwt",
-      "vessel": "",
-      "action": "Inviare email",
-      "dueDate": "2026-07-31",
-      "note": "Inviare Report Tekoma Xpert @Supt.",
-      "recur": {
-        "type": "months",
-        "interval": 1
-      },
-      "kind": "fleet",
-      "done": false,
-      "createdAt": "2026-07-09T12:48:42.335Z",
-      "updatedAt": "2026-07-09T12:49:29.401Z"
-    },
-    {
-      "category": "Infoship",
-      "priority": "alta",
-      "reference": "",
-      "tags": [
-        "Med Toscana"
-      ],
-      "id": "td_1783585038157_zd5gq",
-      "vessel": "",
-      "action": "Controllare",
-      "dueDate": "2026-07-21",
-      "note": "Planned Maintenance Nov/2025:\n- Cargo Crain\n- Hatch Cover",
-      "recur": null,
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-09T08:17:18.157Z",
-      "updatedAt": "2026-07-16T07:25:21.373Z"
-    },
-    {
       "category": "Nave",
       "priority": "media",
       "reference": "M/V PEPPINO - Delivery on board at Dongguan",
@@ -3721,36 +3817,6 @@
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "Fixed Water - Based Local Fire Extingui…",
-      "tags": [],
-      "id": "td_1784201941234_u2an9",
-      "vessel": "medtoscana",
-      "action": "Consegna",
-      "dueDate": "2026-07-21",
-      "note": "YH MARINE TRADE CO.,LTD",
-      "recur": null,
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-16T11:39:01.234Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "URGENTLY ORIGINAL HEADSET/ACCESSORY FOR…",
-      "tags": [],
-      "id": "td_1784201938211_q3frv",
-      "vessel": "medtoscana",
-      "action": "Consegna",
-      "dueDate": "2026-07-21",
-      "note": "Global Marine Safety - America",
-      "recur": null,
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-16T11:38:58.211Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
       "reference": "R: Mv NORRBOTTEN - IMO 9191931,Bow Thruster Jastram BU 2889 Ref.00012515 [ thread::S3uHNhHeFuSXTDnzgaxOxxE:: ",
       "tags": [
         "outlook"
@@ -3848,31 +3914,6 @@
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "NORRBOTTEN ME REQ: No 24",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJSHyN7AAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJSHyN7AAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJSHw3HAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "RE: NORRBOTTEN ME REQ: No 24",
-      "vessel": "norrbotten",
-      "action": "Altro",
-      "dueDate": "2026-07-17",
-      "note": "",
-      "createdAt": "2026-07-16T12:54:35.5360051Z",
-      "done": true,
-      "doneAt": "2026-07-17T10:40:20.473Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-07-17T10:40:20.473Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
       "reference": "M/V PEPPINO - Action required: Please update onboard inventory in Infoship",
       "tags": [
         "outlook"
@@ -3896,70 +3937,29 @@
       "updatedAt": "2026-07-17T10:39:53.488Z"
     },
     {
-      "id": "td_1784301358941_kh9s4",
-      "category": "Ufficio",
+      "category": "Nave",
       "priority": "media",
-      "vessel": "",
-      "action": "Inviare email",
-      "reference": "Rispondere a Osculati S.r.l. — Aggiornamento numeri telefonici diretti Osculati",
+      "reference": "NORRBOTTEN ME REQ: No 24",
       "tags": [
-        "email",
-        "osculati.it"
+        "outlook"
       ],
-      "dueDate": "2026-07-20",
-      "note": "Sono cambiati alcuni numeri diretti. Verifica se hai salvato i contatti corretti. If you are not reading this message correctly, click here Gentile Cliente, Gentile Fornitore, desideriamo informarti che Osculati ha recentemente cambiato il propri",
-      "recur": null,
-      "kind": "todo",
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJSHwAsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "Aggiornamento numeri telefonici diretti Osculati",
-      "done": false,
-      "createdAt": "2026-07-17T15:15:58.941Z"
-    },
-    {
-      "category": "Altro",
-      "priority": "media",
-      "reference": "",
-      "tags": [],
-      "id": "td_1784293935708_mrhag",
-      "vessel": "",
-      "action": "",
-      "dueDate": "2026-07-20",
+      "id": "outlook_AAJSHyN7AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJSHyN7AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJSHw3HAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: NORRBOTTEN ME REQ: No 24",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "dueDate": "2026-07-17",
       "note": "",
-      "recur": null,
+      "createdAt": "2026-07-16T12:54:35.5360051Z",
+      "done": true,
+      "doneAt": "2026-07-17T10:40:20.473Z",
+      "outlookStatus": "notStarted",
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-17T13:12:15.708Z",
-      "updatedAt": "2026-07-17T13:13:20.418Z"
-    },
-    {
-      "category": "Email",
-      "priority": "normal",
-      "reference": "",
-      "tags": [],
-      "id": "td_1784293732745_ygnh9",
-      "vessel": "",
-      "action": "Rispondere a Umberto D'Amato — I: Aries Marine and Engineering Services-After Meeting Details",
-      "dueDate": "",
-      "note": "",
       "recur": null,
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-17T13:08:52.745Z"
-    },
-    {
-      "category": "Email",
-      "priority": "normal",
-      "reference": "",
-      "tags": [],
-      "id": "td_1784293698996_14izd",
-      "vessel": "",
-      "action": "Rispondere a Crew SSSDAM — I: Med Toscana / Internet ",
-      "dueDate": "",
-      "note": "",
-      "recur": null,
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-17T13:08:18.996Z"
+      "updatedAt": "2026-07-17T10:40:20.473Z"
     },
     {
       "category": "Nave",
@@ -4085,12 +4085,12 @@
     "peppino::liferaft exchange": "@Singapore 30/06\n\nhttps://outlook.cloud.microsoft/mail/deeplink/read/AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAAHHe60aAABYWF9qc37UTpbqyo_4NVKtAADqwEOvAAA%3d?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAADqwEOvAAA%3D&exvsurl=1",
     "peppino::lubrication oil": "@Singapore 30/06",
     "peppino::spa req aux engine doosanman diesel 5l23/30hx720rpm": "@Singapore 30/06",
-    "peppino::chlorine reagent kit for ballast treatment system": "@Singapore 30/06",
     "peppino::doosan man diesel 5l23/30h x 720rpm auxilliary generator": "@Singapore con TML",
     "peppino::spa req rescue boat electric source switch": "@Singapore 07/07",
     "peppino::spa req gs#1 temperature sensor": "@03/08",
     "med liguria::mitsubishi hydraulic deck machinery shimonoseki shipyard mitsubishi heavy industriesltd": "?",
     "med toscana::hanla level c/h water ingress system sensor": "Ritardo",
+    "peppino::chlorine reagent kit for ballast treatment system": "@Singapore 30/06",
     "peppino::spa req aux boiler mission oc": "DHL tracking. 9620470661\nETD: 29 June 2026\nETA: 30 June 2026\nDHL shipment status can be check online at\nhttps://www.dhl.com/gb-en/home/tracking.html?tracking-id=9620470661&submit=1",
     "med toscana::portable gas detector & bump test kit with botle og gases": "only GX-3R Pro, 3 pcs.",
     "med toscana::cargo crane claim spare part": "Standby @Roger",
@@ -4102,7 +4102,8 @@
     "todo:td_1780846490055_byv9f": "2026-06-22",
     "todo:outlook_AAJABq_oAAA=": "2026-06-22",
     "todo:td_1781594085068_88hrw": "2026-08-03",
-    "todo:outlook_AAJD1gbbAAA=": "2026-07-02"
+    "todo:outlook_AAJD1gbbAAA=": "2026-07-02",
+    "overdue:peppino::cargo hold bilges suction non return valves": "2026-06-05"
   },
   "archivedActions": {
     "overdue:peppino::spare part for ballast system": {
@@ -16910,7 +16911,7 @@
     },
     "peppino::liferaft exchange": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "next"
     },
     "med toscana::cfr publication 2026mdt292026": {
       "mode": "voyage",
@@ -16936,15 +16937,15 @@
     },
     "peppino::lubrication oil": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "next"
     },
     "peppino::spa req aux engine doosanman diesel 5l23/30hx720rpm": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "next"
     },
     "peppino::spa req rescue boat electric source switch": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "next"
     },
     "peppino::doosan man diesel 5l23/30h x 720rpm auxilliary generator": {
       "mode": "voyage",
@@ -17003,8 +17004,9 @@
       "snapshot": null
     },
     "peppino::spa req sewage treatment plant blower": {
-      "mode": "voyage",
-      "leg": "current"
+      "mode": "manual",
+      "port": "Donguann",
+      "date": "2026-06-29"
     },
     "peppino::epirb hru": {
       "mode": "voyage",
@@ -17086,30 +17088,25 @@
       "_notionId": "3102131b-343e-8021-ab4f-d3ddd4ab067d"
     },
     "Accelleron Switzerland Ltd": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-81bf-9463-c1c6d16c361f",
       "email": "alessio.giusto@accelleron-industries.com",
-      "country": "CHE",
-      "code": "SSS0025"
+      "rating": 0,
+      "_notionId": "3952131b-343e-81bf-9463-c1c6d16c361f"
     },
     "C/O AGENT": {
       "rating": 0,
       "_notionId": "31f2131b-343e-8003-aaca-da1dccc73a2b"
     },
     "ERMA FIRST": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-8105-99a2-f367e528113f",
       "email": "k.pagoni@ermafirst.com",
       "phone": "+30 210 40 93 088",
-      "code": "SSS0039"
+      "rating": 0,
+      "_notionId": "3952131b-343e-8105-99a2-f367e528113f"
     },
     "FARMACIA GHIGLIAZZA": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-81c0-88dc-e5ad7c0189a1",
       "email": "ship@farmaciaghigliazza.it,sales@farmaciaghigliazza.it",
       "phone": "0187 970991",
-      "country": "IT-SP",
-      "code": "SSS0036"
+      "rating": 0,
+      "_notionId": "3952131b-343e-81c0-88dc-e5ad7c0189a1"
     },
     "Global Marine Supplies Spa": {
       "rating": 0,
@@ -17117,505 +17114,387 @@
       "email": "info@gmsupplies.it"
     },
     "HAKEPA SRL": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-81ac-a57e-ca63efd9160b",
       "email": "sales@hakepa.com, eugenio.mele@hakepa.com",
       "phone": "+39 0815609565",
-      "country": "IT-NA",
-      "code": "SSS0001"
+      "rating": 0,
+      "_notionId": "3952131b-343e-81ac-a57e-ca63efd9160b"
     },
     "LFA Global. Pte Ltd.": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-8101-9f45-c874dbc482d8",
       "email": "sales@lfaglobal.com",
       "phone": "+65 6861 9998",
-      "code": "SSS0030"
+      "rating": 0,
+      "_notionId": "3952131b-343e-8101-9f45-c874dbc482d8"
     },
     "LG Marine Services(HK) Co.,Limited": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-818a-8c87-de701e7bcd42",
       "contact": "Lu En",
       "email": "lgmarine@lgmarineservices.com",
       "phone": "+86 21-3823 0186-688",
-      "country": "CHN",
-      "code": "SSS0007"
+      "rating": 0,
+      "_notionId": "3952131b-343e-818a-8c87-de701e7bcd42"
     },
     "MacGregor Pte Ltd": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-814a-9cd3-f47706d0fef2",
       "email": "customer.care.italy@macgregor.com",
       "phone": "+10 277 04012",
-      "country": "IT-GE",
-      "code": "SSS0034"
+      "rating": 0,
+      "_notionId": "3952131b-343e-814a-9cd3-f47706d0fef2"
     },
     "MAS MARINE SHIPPING SUPPLIES": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-8184-a9bc-dad10b14fcc1",
       "email": "info@masmarine.it",
       "phone": "+39 0818683255",
-      "country": "IT-NA",
-      "code": "SSS0002"
+      "rating": 0,
+      "_notionId": "3952131b-343e-8184-a9bc-dad10b14fcc1"
     },
     "RINA Consulting S.p.A.": {
       "rating": 0,
       "_notionId": "3102131b-343e-803c-8582-f935d3ffc327"
     },
     "RINA Digital Solutions": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-817f-a157-d5d6b425a8f6",
       "phone": "+39 344 020 97 18",
-      "country": "IT-GE",
-      "code": "SSS0021"
+      "rating": 0,
+      "_notionId": "3952131b-343e-817f-a157-d5d6b425a8f6"
     },
     "SQE MARINE GROUP": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-8179-900f-e013ab8735b4",
       "email": "info@sqemarine.com",
       "phone": "210.4520.410",
-      "code": "SSS0028"
+      "rating": 0,
+      "_notionId": "3952131b-343e-8179-900f-e013ab8735b4"
     },
     "TEFIN SCRL": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-8127-9594-c7c6782cc06e",
       "email": "info@tefin.it",
       "phone": "+39.081.5595361",
-      "country": "IT-NA",
-      "contact": "Dott.ssa Ilaria Fiorillo",
-      "code": "SSS0033"
+      "rating": 0,
+      "_notionId": "3952131b-343e-8127-9594-c7c6782cc06e"
     },
     "Umut Denizcilik": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-81d7-b287-ec8a6eaa078d",
       "email": "sales.dpt@umutdenizcilik.com",
       "phone": "90 212 251 81 02/245",
-      "code": "SSS0035"
+      "rating": 0,
+      "_notionId": "3952131b-343e-81d7-b287-ec8a6eaa078d"
     },
     "Wartsila Italia S.p.A.": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-81fe-9581-d3b9b43518ed",
       "email": "parts.italy@wartsila.com",
       "phone": "+39 040 3195014",
-      "country": "ITA",
-      "code": "SSS0032"
+      "rating": 0,
+      "_notionId": "3952131b-343e-81fe-9581-d3b9b43518ed"
     },
     "Wilhelmsen Ships Service": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-811e-96a2-d393001d66ac",
       "email": "wss.italy.cs@wilhelmsen.com",
       "phone": "010 6142101",
-      "country": "IT-GE",
-      "code": "SSS0037"
+      "rating": 0,
+      "_notionId": "3952131b-343e-811e-96a2-d393001d66ac"
     },
     "YH MARINE TRADE CO.,LTD": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-8124-8127-f6aabedf5616",
       "email": "supply@yhmarine.com.cn",
       "phone": "+86 51384377320",
-      "country": "CHN",
-      "code": "SSS0003"
+      "rating": 0,
+      "_notionId": "3952131b-343e-8124-8127-f6aabedf5616"
     },
     "Zephyr Trading srl": {
-      "rating": 0,
-      "_notionId": "3952131b-343e-81ee-b33e-c82fda943227",
       "contact": "Maurizio Montanari",
       "email": "info@zephyrtrading.com",
       "phone": "0187 502341",
-      "country": "IT-SP",
-      "code": "SSS0005"
+      "rating": 0,
+      "_notionId": "3952131b-343e-81ee-b33e-c82fda943227"
     },
     "Accelleron Italy S.p.A.": {
       "contact": "Teverola Service Station",
       "email": "alessio.giusto@accelleron-industries.com",
       "phone": "+39 8119447",
-      "rating": 4,
-      "_notionId": "3952131b-343e-81cb-b3ee-d2e03dc7be96",
-      "country": "IT-CE",
-      "city": "Caserta",
-      "address": "",
-      "code": "SSS0024"
+      "rating": 0,
+      "_notionId": "3952131b-343e-81cb-b3ee-d2e03dc7be96"
     },
     "AL SAFWAN MARINE EQUIPMENT MAINT.LLC": {
       "email": "sales6@alsafwanmarine.com",
       "rating": 0,
-      "_notionId": "3952131b-343e-81b0-8d89-f44a0e2d52bd",
-      "code": "SSS0043"
+      "_notionId": "3952131b-343e-81b0-8d89-f44a0e2d52bd"
     },
     "Alfa Laval SpA, Marine & Diesel, Service": {
       "email": "marineservice@alfalaval.com",
       "phone": "010 601 01",
       "rating": 0,
-      "_notionId": "3952131b-343e-8198-992a-e09b875710d2",
-      "country": "IT-GE",
-      "city": "Genova",
-      "code": "SSS0055"
+      "_notionId": "3952131b-343e-8198-992a-e09b875710d2"
     },
     "Alfa Laval SRL": {
       "email": "marineservice.italia@alfalaval.com",
       "phone": "+39 010 601 01",
       "rating": 0,
-      "_notionId": "3952131b-343e-8125-b955-e3ddcfc3d611",
-      "country": "IT-GE",
-      "code": "SSS0049"
+      "_notionId": "3952131b-343e-8125-b955-e3ddcfc3d611"
     },
     "CAIM": {
       "email": "caim@caim.it;segreteria@caim.it;roberto.olivarello@caim.it",
       "phone": "010 54 23 04",
       "rating": 0,
-      "_notionId": "3952131b-343e-8108-9d2a-e1bbd012f1bb",
-      "country": "IT-GE",
-      "city": "Genova",
-      "address": "",
-      "code": "SSS0038"
+      "_notionId": "3952131b-343e-8108-9d2a-e1bbd012f1bb"
     },
     "CSSC SUNRUI / SHIPSERVICE": {
       "email": "shipservice@sunrui.net",
       "phone": "53268725185",
       "rating": 0,
-      "_notionId": "3952131b-343e-8123-a759-eab72771e40b",
-      "country": "CHN",
-      "code": "SSS0052"
+      "_notionId": "3952131b-343e-8123-a759-eab72771e40b"
     },
     "DEMOS MOTORS S.A.": {
       "contact": "Athinos Avenue - 12243 Egaleo - Athens - Grece",
       "email": "demosmotors@otenet.gr",
       "phone": "+30 2105310966",
       "rating": 0,
-      "_notionId": "3952131b-343e-8170-919c-ef67bd9a908a",
-      "country": "GRC",
-      "code": "SSS0009"
+      "_notionId": "3952131b-343e-8170-919c-ef67bd9a908a"
     },
     "DEN-JET MARINE Pte Ltd": {
       "email": "ac@denjet.com",
       "phone": "+65 62681238",
       "rating": 0,
-      "_notionId": "3952131b-343e-81bb-b954-d524d5750786",
-      "country": "SGP",
-      "code": "SSS0050"
+      "_notionId": "3952131b-343e-81bb-b954-d524d5750786"
     },
     "Dongjin Intec Co., Ltd.": {
       "email": "dintec.sales1@dintec.co.kr",
       "phone": "+82 51-664-1158",
       "rating": 0,
-      "_notionId": "3952131b-343e-81d7-affc-d3048cffc6cf",
-      "country": "KOR",
-      "code": "SSS0012"
+      "_notionId": "3952131b-343e-81d7-affc-d3048cffc6cf"
     },
     "DUBHE CO., LTD.": {
       "email": "service@dubheco.com",
       "phone": "+82 70-7496-2100",
       "rating": 0,
-      "_notionId": "3952131b-343e-811e-8075-d7280e06105c",
-      "country": "KOREA",
-      "code": "SSS0006"
+      "_notionId": "3952131b-343e-811e-8075-d7280e06105c"
     },
     "EAST WIND Ship- and Shipyard Supplies": {
       "email": "sma@east-wind.de; sales@east-wind.de",
       "phone": "+49-40-78850-34",
       "rating": 0,
-      "_notionId": "3952131b-343e-815e-80d0-ddf370e8ceed",
-      "country": "DE",
-      "code": "SSS0048"
+      "_notionId": "3952131b-343e-815e-80d0-ddf370e8ceed"
     },
     "Everllence Italia S.r.l.": {
       "email": "primeserv-parts-it@everllence.com",
       "phone": "+39 039 93 +39 039 9362229",
       "rating": 0,
-      "_notionId": "3952131b-343e-8128-bca0-e9d9a0840a43",
-      "country": "ITA",
-      "code": "SSS0023"
+      "_notionId": "3952131b-343e-8128-bca0-e9d9a0840a43"
     },
     "Fast Marine Services (FMS)": {
       "email": "sales@fastmarine.net",
       "phone": "+90 216 519 1903",
       "rating": 0,
-      "_notionId": "3952131b-343e-8158-89ba-ed0335218bef",
-      "country": "TUR",
-      "code": "SSS0044"
+      "_notionId": "3952131b-343e-8158-89ba-ed0335218bef"
     },
     "FUJI ELECTRIC Co.; Ltd": {
       "email": "MACH-1@FUJITRADING.CO.JP",
       "phone": "+81 78-413-2621",
       "rating": 0,
-      "_notionId": "3952131b-343e-817d-a577-d947252a6444",
-      "country": "JPN",
-      "code": "SSS0004"
+      "_notionId": "3952131b-343e-817d-a577-d947252a6444"
     },
     "G&P TECH CO.": {
       "email": "jeon@gandptech.com",
       "phone": "+82 (0)517142310",
       "rating": 0,
-      "_notionId": "3952131b-343e-8144-97aa-da0adfe52a3b",
-      "country": "KOR",
-      "code": "SSS0010"
+      "_notionId": "3952131b-343e-8144-97aa-da0adfe52a3b"
     },
     "GALLAGHER MARINE SYSTEMS": {
       "rating": 0,
-      "_notionId": "3952131b-343e-8124-b8e3-f65f9f360eee",
-      "country": "US-NJ",
-      "code": "SSS0054"
+      "_notionId": "3952131b-343e-8124-b8e3-f65f9f360eee"
     },
     "GEORGE MENABONI SRL": {
       "email": "spare@menaboni.com",
       "phone": "+39 0586426122",
       "rating": 0,
-      "_notionId": "3952131b-343e-8176-b740-cbecaa5cbdd7",
-      "country": "IT-LI",
-      "code": "SSS0008"
+      "_notionId": "3952131b-343e-8176-b740-cbecaa5cbdd7"
     },
     "Global Marine Safety - America": {
       "email": "hussain@gms-america.com",
       "phone": "+1 713-518-1715",
       "rating": 0,
-      "_notionId": "3952131b-343e-8108-b524-c9acc4e1aec2",
-      "country": "US-AK",
-      "code": "SSS0051"
+      "_notionId": "3952131b-343e-8108-b524-c9acc4e1aec2"
     },
     "GLOBAL MARINE SUPPLIES SPA": {
       "email": "info@gmsupplies.it,",
       "phone": "+10 7499190",
       "rating": 0,
-      "_notionId": "3952131b-343e-81fb-b8bc-c3db9933cf58",
-      "country": "IT-GE",
-      "code": "SSS0022"
+      "_notionId": "3952131b-343e-81fb-b8bc-c3db9933cf58"
     },
     "Gulf Oil Marine Ltd.": {
       "email": "emilia.arena@gulf-marine.com,operation.eu@gulf-marine.com",
       "phone": "+39 010 806 11 97",
       "rating": 0,
-      "_notionId": "3952131b-343e-8142-9bae-c83d349e6977",
-      "country": "IT-GE",
-      "code": "SSS0045"
+      "_notionId": "3952131b-343e-8142-9bae-c83d349e6977"
     },
     "HAGEDORN Products & Systems GmbH": {
       "email": "nfo@hagedorn-products.de",
       "phone": "+49 4771 68904 0",
       "rating": 0,
-      "_notionId": "3952131b-343e-81bb-8f86-e0a1d50353e6",
-      "country": "DEU",
-      "code": "SSS0013"
+      "_notionId": "3952131b-343e-81bb-8f86-e0a1d50353e6"
     },
     "Host Agency, LLC": {
       "email": "neworleans@hostagency.com",
       "rating": 0,
-      "_notionId": "3952131b-343e-818d-8b51-dd155b5457c0",
-      "country": "US-LA",
-      "code": "SSS0053"
+      "_notionId": "3952131b-343e-818d-8b51-dd155b5457c0"
     },
     "KORONAKIS D. S.A.": {
       "email": "sales@koronakis.gr",
       "phone": "0030 210 40 60 641",
       "rating": 0,
-      "_notionId": "3952131b-343e-815e-a3b1-e7e9b406cee0",
-      "code": "SSS0029"
+      "_notionId": "3952131b-343e-815e-a3b1-e7e9b406cee0"
     },
     "LIBERIAN MARITIME AUTHORITY LISCR, LLC": {
       "email": "accounting@liscr.com",
       "rating": 0,
-      "_notionId": "3952131b-343e-815e-a7b3-e01b61b13bb6",
-      "country": "US-VA",
-      "code": "SSS0041"
+      "_notionId": "3952131b-343e-815e-a7b3-e01b61b13bb6"
     },
     "MARINE DIESEL ITALY SRL (MDI SRL)": {
       "contact": "Matthias Heinze",
       "email": "a.bacci@mdisrl.it",
       "phone": "+39 0586 516237",
       "rating": 0,
-      "_notionId": "3952131b-343e-81a8-8d41-efda60ff3502",
-      "country": "IT-LI",
-      "code": "SSS0014"
+      "_notionId": "3952131b-343e-81a8-8d41-efda60ff3502"
     },
     "Mistral Suisse Sagl": {
       "contact": "CHE-153.518.141",
       "email": "giorgia@mistralsuisse.ch",
       "rating": 0,
-      "_notionId": "3952131b-343e-8164-9544-cb83a67c5795",
-      "code": "SSS0040"
+      "_notionId": "3952131b-343e-8164-9544-cb83a67c5795"
     },
     "Monjasa Pte. Ltd.": {
       "email": "cmo@monjasa.com",
       "phone": "+357 99 888 713",
       "rating": 0,
-      "_notionId": "3952131b-343e-814e-945c-cbaec4767c2f",
-      "country": "SGP",
-      "code": "SSS0046"
+      "_notionId": "3952131b-343e-814e-945c-cbaec4767c2f"
     },
     "NEW SEA GENERATION S.R.L": {
       "email": "g.scotto@newseagenerationgreece.com",
       "phone": "+30 6941554725",
       "rating": 0,
-      "_notionId": "3952131b-343e-8128-adee-e2ed84f9802c",
-      "country": "IT-NA",
-      "code": "SSS0059"
+      "_notionId": "3952131b-343e-8128-adee-e2ed84f9802c"
     },
     "O&Bis": {
       "contact": "Oil % Bulk Inspection Service Srl",
       "email": "coordinamento.deckma@obis.it",
       "phone": "+39 010 2367760",
       "rating": 0,
-      "_notionId": "3952131b-343e-8140-8dac-ed084c7f3e85",
-      "country": "IT-GE",
-      "code": "SSS0057"
+      "_notionId": "3952131b-343e-8140-8dac-ed084c7f3e85"
     },
     "PPG PROTECTIVE & MARINE COATINS": {
       "email": "ewelinareina@ppg.com;NDeBenedetti@ppg.com",
       "rating": 0,
-      "_notionId": "3952131b-343e-816f-bed3-cbd35b7c7632",
-      "country": "POL",
-      "code": "SSS0058"
+      "_notionId": "3952131b-343e-816f-bed3-cbd35b7c7632"
     },
     "Proinelca Korea Co., Ltd.": {
       "email": "spares@proinelcakorea.com",
       "phone": "+82 51 741 331",
       "rating": 0,
-      "_notionId": "3952131b-343e-817c-826a-f3c2ce70706e",
-      "code": "SSS0026"
+      "_notionId": "3952131b-343e-817c-826a-f3c2ce70706e"
     },
     "Reseaworld Srl": {
       "email": "Lubricants@reseaworld.com",
       "phone": "+39 081 18377388",
       "rating": 0,
-      "_notionId": "3952131b-343e-8186-89c4-fa252b7f00d2",
-      "country": "IT-NA",
-      "code": "SSS0056"
+      "_notionId": "3952131b-343e-8186-89c4-fa252b7f00d2"
     },
     "RK MARINE SERVICE": {
       "contact": "Mr. Arjun D. RK",
       "email": "technical.rkmarineservice@gmail.com",
       "phone": "0091 9712799264",
       "rating": 0,
-      "_notionId": "3952131b-343e-8112-935b-ea0844764ba8",
-      "country": "IND",
-      "code": "SSS0020"
+      "_notionId": "3952131b-343e-8112-935b-ea0844764ba8"
     },
     "SGS ITALIA SPA": {
       "contact": "VIA CALDERA, 21 - 20153 MILANO",
       "email": "sabrina.bottazzi@sgs.com",
       "phone": "+39 3666352741",
       "rating": 0,
-      "_notionId": "3952131b-343e-81f0-b41f-d4e7778e40ca",
-      "country": "ITA",
-      "code": "SSS0031"
+      "_notionId": "3952131b-343e-81f0-b41f-d4e7778e40ca"
     },
     "SHANGHAI AOHAN MARINE COMPANY": {
       "email": "info@aohan.com.cn",
       "phone": "+86 21-63539080",
       "rating": 0,
-      "_notionId": "3952131b-343e-8109-b9ea-d79af5a89280",
-      "country": "CHN",
-      "code": "SSS0027"
+      "_notionId": "3952131b-343e-8109-b9ea-d79af5a89280"
     },
     "Ship Survey And Service S.r.l.": {
       "rating": 0,
-      "_notionId": "3952131b-343e-817e-bba4-f5c0b47c9d4d",
-      "country": "ITA",
-      "code": "SSS"
+      "_notionId": "3952131b-343e-817e-bba4-f5c0b47c9d4d"
     },
     "SSI SERVIZI SPECIALI INTEGRATIVI": {
       "email": "bordi@ssi-ge.it; G.Bertolotto@ssi-ge.it",
       "rating": 0,
-      "_notionId": "3952131b-343e-8154-a2e6-e69ac9cc5717",
-      "country": "IT-GE",
-      "code": "SSS0060"
+      "_notionId": "3952131b-343e-8154-a2e6-e69ac9cc5717"
     },
     "Sufimar Shipping Services Co.": {
       "contact": "Sufimar Denizcilik Lojistik Ve Liman Hizmetleri San. Tic. Lt",
       "email": "agency@sufimar.com",
       "phone": "+90 324 231 20 77",
       "rating": 0,
-      "_notionId": "3952131b-343e-81cd-bea8-fa96961fc234",
-      "country": "TK",
-      "code": "SSS0042"
+      "_notionId": "3952131b-343e-81cd-bea8-fa96961fc234"
     },
     "SUNJIN ENTECH Co.,Ltd.": {
       "email": "service@sunjincmk.com",
       "phone": "+82 51-262-3520",
       "rating": 0,
-      "_notionId": "3952131b-343e-81bc-869d-ed30bdc1769f",
-      "country": "KOR",
-      "code": "SSS0011"
+      "_notionId": "3952131b-343e-81bc-869d-ed30bdc1769f"
     },
     "TAILOR MADE LOGISTIC - Germany": {
       "contact": "C/O Shipsoul GmbH - K.A. Mr Bastian Groth",
       "rating": 0,
-      "_notionId": "3952131b-343e-8104-8773-df824042fc9d",
-      "code": "TML-DEU"
+      "_notionId": "3952131b-343e-8104-8773-df824042fc9d"
     },
     "TAILOR MADE LOGISTIC - Japan": {
       "contact": "C/O KB Trans Corporation. - K.A. Mr Noda",
       "rating": 0,
-      "_notionId": "3952131b-343e-81a5-9a4d-d9a4cdf1c4b2",
-      "code": "TML-JPN"
+      "_notionId": "3952131b-343e-81a5-9a4d-d9a4cdf1c4b2"
     },
     "TAILOR MADE LOGISTIC - Singapore": {
       "contact": "C/O The National Forwarder (S) Pte Ltd - K.a. Mr Cheng",
       "rating": 0,
-      "_notionId": "3952131b-343e-81df-8242-df64106a10a1",
-      "code": "TML-SGP"
+      "_notionId": "3952131b-343e-81df-8242-df64106a10a1"
     },
     "TAILOR MADE LOGISTIC - TO BE SPECIFIED": {
       "contact": "Contact Purchasing Agent for Instructions",
       "rating": 0,
-      "_notionId": "3952131b-343e-817f-bf71-c414250337bd",
-      "code": "TML-TBD"
+      "_notionId": "3952131b-343e-817f-bf71-c414250337bd"
     },
     "TAILORMADE LOGISTIC - China": {
       "contact": "C/O SLK Caesar Logistics Co.,Ltd - K.A. Mr. Flash",
       "rating": 0,
-      "_notionId": "3952131b-343e-8128-b6ad-d425c059c258",
-      "code": "TML-CHN"
+      "_notionId": "3952131b-343e-8128-b6ad-d425c059c258"
     },
     "TAILORMADE LOGISTIC - Genoa": {
       "contact": "K.A. MR Daniele Scarfo",
       "phone": "+39 010 8444571",
       "rating": 0,
-      "_notionId": "3952131b-343e-8153-9103-d6374286704c",
-      "country": "IT-GE",
-      "code": "TML-GOA"
+      "_notionId": "3952131b-343e-8153-9103-d6374286704c"
     },
     "TAILORMADE LOGISTIC - Holland": {
       "contact": "c/o Rotra Air & Ocean BV - K.a. Rebecca Verheul",
       "rating": 0,
-      "_notionId": "3952131b-343e-81a6-9f1d-f980ef8869f0",
-      "code": "TML-NLD"
+      "_notionId": "3952131b-343e-81a6-9f1d-f980ef8869f0"
     },
     "TAILORMADE LOGISTIC - Houston": {
       "contact": "C/O MARSERVE, INC. - K.A. Heather Hensarling",
       "rating": 0,
-      "_notionId": "3952131b-343e-8189-9428-cb480387a670",
-      "code": "TML-HOU"
+      "_notionId": "3952131b-343e-8189-9428-cb480387a670"
     },
     "TAILORMADE LOGISTIC - Panama": {
       "contact": "C/O Alliance Transport Logistics (ATL) - K.A. Nancy C. Herna",
       "rating": 0,
-      "_notionId": "3952131b-343e-8167-b167-eb397d74f854",
-      "code": "TML-PAN"
+      "_notionId": "3952131b-343e-8167-b167-eb397d74f854"
     },
     "TAILORMADE LOGISTIC - South Korea": {
       "contact": "c/o AAL Co Ltd - K.A Ms. Alice",
       "rating": 0,
-      "_notionId": "3952131b-343e-81bb-8740-d7e5e004b041",
-      "code": "TML-KOR"
+      "_notionId": "3952131b-343e-81bb-8740-d7e5e004b041"
     },
     "TAILORMADE LOGISTIC - UK": {
       "contact": "DMS International - K.A. Mr Michael Willoughby",
       "rating": 0,
-      "_notionId": "3952131b-343e-81d5-be41-d47360e2b603",
-      "code": "TML-GBR"
+      "_notionId": "3952131b-343e-81d5-be41-d47360e2b603"
     },
     "Tushar Gole": {
       "email": "tushar@integr8fuels.com",
       "phone": "+971 52 270 0552",
       "rating": 0,
-      "_notionId": "3952131b-343e-8182-bf5f-e150978074df",
-      "code": "SSS0047"
+      "_notionId": "3952131b-343e-8182-bf5f-e150978074df"
     },
     "WESTEAM": {
       "email": "info@westeam.it, marco.calcagno@westeam.it",
       "phone": "010 7491280",
       "rating": 0,
-      "_notionId": "3952131b-343e-810a-a151-fe880be27ec1",
-      "country": "IT-GE",
-      "code": "SSS0038"
+      "_notionId": "3952131b-343e-810a-a151-fe880be27ec1"
     }
   },
   "agencyProfiles": {
@@ -17623,45 +17502,36 @@
       "email": "BLA Thailand - Port Agency Services <portservices.th@benline.com>",
       "phone": "+66 (0)2 352 3173",
       "rating": 0,
-      "_notionId": "3122131b-343e-80f3-97f8-e9359ea4344f",
-      "country": "Thailand"
+      "_notionId": "3122131b-343e-80f3-97f8-e9359ea4344f"
     },
     "GAC Philippines, Inc. (Filippine)": {
       "email": "Franco Angelo Zosa <franco.zosa@gac.com>",
       "phone": "Tel +63 288 922 713 | Mob + 63 998 588 1913",
       "rating": 0,
-      "_notionId": "3102131b-343e-80d4-beb0-efdc4624a297",
-      "country": "Manila"
+      "_notionId": "3102131b-343e-80d4-beb0-efdc4624a297"
     },
     "Johnasia Shipping (S) Pte Ltd": {
       "email": "singapore@johnasia.com",
       "phone": "Eric Chew (Mobile +65 97331640) Lucas Lau (Mobile +65 97353362)",
       "rating": 0,
-      "_notionId": "31f2131b-343e-80e9-a434-fb2563d09f5c",
-      "country": "Singapore"
+      "_notionId": "31f2131b-343e-80e9-a434-fb2563d09f5c"
     },
     "Sufimar Shipping Services Co": {
       "email": "agency@sufimar.com",
       "phone": "Tel: +90 324 231 20 77 Mob & Whatsapp: +90 533 697 32 55",
       "rating": 0,
-      "_notionId": "3102131b-343e-8017-bf29-fd734c3196bf",
-      "country": "Turkey"
+      "_notionId": "3102131b-343e-8017-bf29-fd734c3196bf"
     },
     "Host Agency, LLC": {
       "email": "neworleans@hostagency.com",
       "rating": 0,
-      "_notionId": "3952131b-343e-8125-9290-cf12df540c0a",
-      "country": "USA",
-      "city": "New Orleans"
+      "_notionId": "3952131b-343e-8125-9290-cf12df540c0a"
     },
     "LG Marine Services(HK) Co.,Limited": {
       "email": "lgmarine@lgmarineservices.com",
       "phone": "+86 21-3823 0186-688",
       "rating": 0,
-      "_notionId": "3952131b-343e-811c-90ad-de65d053c59f",
-      "country": "CHN",
-      "city": "Pudong Shanghai,China 201204",
-      "address": "201204"
+      "_notionId": "3952131b-343e-811c-90ad-de65d053c59f"
     },
     "JOHNASIA SHANGHAI": {
       "rating": 5
@@ -17701,94 +17571,84 @@
   },
   "worldClockCities": [
     {
-      "code": "LAX",
       "label": "Los Angeles",
-      "tz": "America/Los_Angeles"
+      "tz": "America/Los_Angeles",
+      "code": "LAX"
     },
     {
-      "code": "HOU",
       "label": "Houston",
-      "tz": "America/Chicago"
+      "tz": "America/Chicago",
+      "code": "HOU"
     },
     {
-      "code": "NYC",
       "label": "New York",
-      "tz": "America/New_York"
+      "tz": "America/New_York",
+      "code": "NYC"
     },
     {
-      "code": "SAO",
+      "label": "Caracas",
+      "tz": "America/Caracas",
+      "code": "CCS"
+    },
+    {
       "label": "San Paolo",
-      "tz": "America/Sao_Paulo"
+      "tz": "America/Sao_Paulo",
+      "code": "SAO"
     },
     {
-      "code": "DKR",
       "label": "Dakar",
-      "tz": "Africa/Dakar"
+      "tz": "Africa/Dakar",
+      "code": "DKR"
     },
     {
-      "code": "LON",
       "label": "Londra",
-      "tz": "Europe/London"
+      "tz": "Europe/London",
+      "code": "LON"
     },
     {
-      "code": "NAP",
       "label": "Napoli",
-      "tz": "Europe/Rome"
+      "tz": "Europe/Rome",
+      "code": "NAP"
     },
     {
-      "code": "IST",
       "label": "Istanbul",
-      "tz": "Europe/Istanbul"
+      "tz": "Europe/Istanbul",
+      "code": "IST"
     },
     {
-      "code": "DXB",
+      "label": "Cipro",
+      "tz": "Asia/Nicosia",
+      "code": "LCA"
+    },
+    {
       "label": "Dubai",
-      "tz": "Asia/Dubai"
+      "tz": "Asia/Dubai",
+      "code": "DXB"
     },
     {
-      "code": "BOM",
       "label": "Mumbai",
-      "tz": "Asia/Kolkata"
+      "tz": "Asia/Kolkata",
+      "code": "BOM"
     },
     {
-      "code": "SIN",
       "label": "Singapore",
-      "tz": "Asia/Singapore"
+      "tz": "Asia/Singapore",
+      "code": "SIN"
     },
     {
-      "code": "SHA",
       "label": "Shanghai",
-      "tz": "Asia/Shanghai"
+      "tz": "Asia/Shanghai",
+      "code": "SHA"
     },
     {
-      "code": "SEL",
       "label": "Seoul",
-      "tz": "Asia/Seoul"
+      "tz": "Asia/Seoul",
+      "code": "SEL"
     },
     {
-      "code": "TYO",
       "label": "Tokyo",
-      "tz": "Asia/Tokyo"
-    },
-    {
-      "code": "SYD",
-      "label": "Sydney",
-      "tz": "Australia/Sydney"
-    },
-    {
-      "code": "HAW",
-      "label": "Hawii",
-      "tz": "Pacific/Honolulu"
-    },
-    {
-      "code": "ANC",
-      "label": "Anchorage",
-      "tz": "America/Anchorage"
-    },
-    {
-      "code": "UTC",
-      "label": "UTC",
-      "tz": "UTC"
+      "tz": "Asia/Tokyo",
+      "code": "TYO"
     }
   ]
 }
