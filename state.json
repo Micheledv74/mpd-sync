@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-17T07:16:34.962Z",
+  "pushedAt": "2026-07-17T07:17:02.176Z",
   "todosCount": 178,
   "todos": [
     {
@@ -3328,7 +3328,7 @@
       "outlookLinkedName": "I: NORRBOTTEN HYDRAULIC SPARE PARTS",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-07-16",
+      "dueDate": "2026-07-17",
       "note": "",
       "createdAt": "2026-07-09T08:06:36.4086456Z",
       "done": false,
@@ -3336,7 +3336,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-15T09:02:19.687Z"
+      "updatedAt": "2026-07-17T07:16:58.017Z"
     },
     {
       "category": "Nave",
