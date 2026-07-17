@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-17T07:18:28.909Z",
+  "pushedAt": "2026-07-17T07:18:34.705Z",
   "todosCount": 178,
   "todos": [
     {
@@ -3741,12 +3741,12 @@
       "dueDate": "2026-07-16",
       "note": "",
       "createdAt": "2026-07-15T12:53:54.2492878Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-17T07:18:30.825Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-16T07:25:00.939Z"
+      "updatedAt": "2026-07-17T07:18:30.825Z"
     },
     {
       "category": "Nave",
@@ -16664,6 +16664,13 @@
       "completedAt": "2026-07-17T07:18:18.082Z",
       "todoId": "outlook_AAJQkfHLAAA=",
       "title": "M/V PEPPINO - Action required: Please update onboard inventory in Infoship"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJRZ-2-AAA=",
+      "listId": "",
+      "completedAt": "2026-07-17T07:18:30.826Z",
+      "todoId": "outlook_AAJRZ-2-AAA=",
+      "title": "Certificate - FALL PREVENTION DEVICE FOR RESCUE BOAT"
     }
   ],
   "manualOrders": {
