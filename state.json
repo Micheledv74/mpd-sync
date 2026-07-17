@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-17T07:16:02.257Z",
+  "pushedAt": "2026-07-17T07:16:11.003Z",
   "todosCount": 178,
   "todos": [
     {
@@ -2929,7 +2929,7 @@
       "outlookLinkedName": "I: M/V MED LIGURIA  PR36  HQRQ-00078  MLG-SHPR-00036  YH MARINE TRADE CO.,LTD",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-07-16",
+      "dueDate": "2026-07-20",
       "note": "",
       "createdAt": "2026-07-07T07:30:16.5714359Z",
       "done": false,
@@ -2937,7 +2937,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-15T09:04:31.193Z"
+      "updatedAt": "2026-07-17T07:16:07.078Z"
     },
     {
       "category": "Nave",
