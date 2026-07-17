@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-17T13:13:24.725Z",
+  "pushedAt": "2026-07-17T13:40:18.488Z",
   "todosCount": 183,
   "todos": [
     {
@@ -15994,6 +15994,7 @@
     "medliguria": {
       "status": "at_sea",
       "current": {
+        "id": "vmrozjfha41th",
         "from": "VITORIA",
         "to": "SINGAPORE",
         "etd": "",
@@ -16005,17 +16006,18 @@
         }
       },
       "next": {
+        "id": "vmrozjfhbk92o",
         "from": "Singapore",
         "to": "Xiemen",
         "etb": "",
-        "eta": "",
+        "eta": "2026-08-16T00:00",
         "agency": {
           "name": "JOHNASIA SHANGHAI",
           "contacts": "Claris Huang\nMob/Wechat:+86 157 1061 8221\nXiamen JA Shipping Agency Limited\nAdd: Room512A,Block B, International Shipping Center, No.91 XiangyuRd, Xiamen, Fujian, P.R.China. Post Code 361006. \nTel: +86 592 6035561\nFax:+86 592 6035560\nE-mail: xiamen@johnasia.com"
         }
       },
       "notes": "",
-      "updatedAt": "2026-07-13T15:01:00.617Z"
+      "updatedAt": "2026-07-17T13:40:14.495Z"
     },
     "medtoscana": {
       "status": "in_port",
