@@ -1,23 +1,24 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-17T13:12:19.279Z",
+  "pushedAt": "2026-07-17T13:13:24.725Z",
   "todosCount": 183,
   "todos": [
     {
       "id": "td_1784293935708_mrhag",
-      "category": "Email",
-      "priority": "normal",
+      "category": "",
+      "priority": "",
       "vessel": "",
-      "action": "Rispondere a Atlantic Global Shipping (DJS) — RE: Med Toscana  / ETA",
+      "action": "",
       "reference": "",
       "tags": [],
-      "dueDate": "",
+      "dueDate": "2026-07-20",
       "note": "",
       "recur": null,
       "kind": "todo",
       "done": false,
-      "createdAt": "2026-07-17T13:12:15.708Z"
+      "createdAt": "2026-07-17T13:12:15.708Z",
+      "updatedAt": "2026-07-17T13:13:20.418Z"
     },
     {
       "id": "td_1784293732745_ygnh9",
