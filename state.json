@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-17T14:18:27.727Z",
+  "pushedAt": "2026-07-17T14:19:59.989Z",
   "todosCount": 185,
   "todos": [
     {
@@ -16964,8 +16964,9 @@
       "leg": "current"
     },
     "peppino::fresh water generator model sl 6000": {
-      "mode": "voyage",
-      "leg": "current"
+      "mode": "manual",
+      "port": "Donnguan",
+      "date": "2026-07-10"
     },
     "peppino::spa req macgregor jib top mounting spare parts": {
       "mode": "voyage",
