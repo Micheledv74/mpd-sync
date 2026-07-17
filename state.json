@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-17T07:14:52.525Z",
+  "pushedAt": "2026-07-17T07:16:02.257Z",
   "todosCount": 178,
   "todos": [
     {
@@ -2903,7 +2903,7 @@
       "outlookLinkedName": "I: M/V MED LIGURIA  PR36  HQRQ-00079  MLG-SHPR-00036  DUBHE CO., LTD.",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-07-16",
+      "dueDate": "2026-07-20",
       "note": "",
       "createdAt": "2026-07-07T07:40:06.2168044Z",
       "done": false,
@@ -2911,7 +2911,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-15T09:04:37.280Z"
+      "updatedAt": "2026-07-17T07:15:58.766Z"
     },
     {
       "category": "Nave",
