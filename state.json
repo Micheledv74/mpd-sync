@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-19T17:00:05.621Z",
+  "pushedAt": "2026-07-19T17:01:35.362Z",
   "todosCount": 187,
   "todos": [
     {
@@ -16078,15 +16078,15 @@
         }
       },
       "next": {
-        "id": "",
-        "from": "",
-        "to": "",
+        "id": "vmrs1lzfgu9f3",
+        "from": "Singapore",
+        "to": "Port Luis, Mauritius ·",
         "etb": "",
         "eta": "",
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-07-17T15:25:31.037Z",
+      "updatedAt": "2026-07-19T17:01:31.420Z",
       "fromNoon": "2026-07-16"
     },
     "medliguria": {
@@ -17683,7 +17683,7 @@
     "supplierTimezones": "2026-07-17T18:03:56.451Z",
     "supplierLanguages": "2026-07-17T18:03:56.451Z",
     "certificates": "2026-07-17T18:03:56.451Z",
-    "voyages": "2026-07-17T18:03:56.451Z",
+    "voyages": "2026-07-19T17:01:33.105Z",
     "outlookCompletionQueue": "2026-07-17T18:03:56.451Z",
     "manualOrders": "2026-07-17T18:03:56.451Z",
     "deliveries": "2026-07-17T18:03:56.451Z",
@@ -17693,6 +17693,6 @@
     "worldClockCities": "2026-07-17T18:03:56.451Z",
     "itemOverrides": "2026-07-17T18:03:56.451Z"
   },
-  "rev": 25,
-  "savedAt": "2026-07-19T17:00:05.621Z"
+  "rev": 26,
+  "savedAt": "2026-07-19T17:01:35.362Z"
 }
