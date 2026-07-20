@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T10:19:07.708Z",
+  "pushedAt": "2026-07-20T10:33:49.570Z",
   "todosCount": 188,
   "todos": [
     {
@@ -17099,9 +17099,9 @@
       "leg": "next"
     },
     "peppino::doosan man diesel 5l23/30h x 720rpm auxilliary generator": {
-      "mode": "voyage",
-      "leg": "current",
-      "voyageLegId": "vmrp3atcsp5z0"
+      "mode": "manual",
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "med toscana::underwater inspection barranquilla": {
       "mode": "manual",
@@ -17891,13 +17891,13 @@
     "voyages": "2026-07-20T09:21:48.518Z",
     "outlookCompletionQueue": "2026-07-17T18:03:56.451Z",
     "manualOrders": "2026-07-17T18:03:56.451Z",
-    "deliveries": "2026-07-20T10:19:03.100Z",
+    "deliveries": "2026-07-20T10:33:49.565Z",
     "vesselPos": "2026-07-17T18:03:56.451Z",
     "supplierProfiles": "2026-07-17T18:03:56.451Z",
     "agencyProfiles": "2026-07-17T18:03:56.451Z",
     "worldClockCities": "2026-07-17T18:03:56.451Z",
     "itemOverrides": "2026-07-17T18:03:56.451Z"
   },
-  "rev": 62,
-  "savedAt": "2026-07-20T10:19:07.708Z"
+  "rev": 63,
+  "savedAt": "2026-07-20T10:33:49.570Z"
 }
