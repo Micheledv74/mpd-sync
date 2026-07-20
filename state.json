@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T12:25:17.751Z",
+  "pushedAt": "2026-07-20T12:25:39.340Z",
   "todosCount": 188,
   "todos": [
     {
@@ -17885,24 +17885,24 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-20T11:07:45.221Z",
-    "notes": "2026-07-20T11:07:45.221Z",
-    "snoozed": "2026-07-20T11:07:45.221Z",
-    "archivedActions": "2026-07-20T11:07:45.221Z",
-    "completionsHistory": "2026-07-20T11:07:45.221Z",
-    "supplierTimezones": "2026-07-20T11:07:45.221Z",
-    "supplierLanguages": "2026-07-20T11:07:45.221Z",
-    "certificates": "2026-07-20T11:07:45.221Z",
-    "voyages": "2026-07-20T11:07:45.221Z",
-    "outlookCompletionQueue": "2026-07-20T11:07:45.221Z",
-    "manualOrders": "2026-07-20T11:07:45.221Z",
-    "deliveries": "2026-07-20T11:07:45.221Z",
-    "vesselPos": "2026-07-20T11:07:45.221Z",
-    "supplierProfiles": "2026-07-20T11:07:45.221Z",
-    "agencyProfiles": "2026-07-20T11:07:45.221Z",
-    "worldClockCities": "2026-07-20T11:07:45.221Z",
-    "itemOverrides": "2026-07-20T11:07:45.221Z"
+    "todos": "2026-07-20T12:25:38.362Z",
+    "notes": "2026-07-20T12:25:38.362Z",
+    "snoozed": "2026-07-20T12:25:38.362Z",
+    "archivedActions": "2026-07-20T12:25:38.362Z",
+    "completionsHistory": "2026-07-20T12:25:38.362Z",
+    "supplierTimezones": "2026-07-20T12:25:38.362Z",
+    "supplierLanguages": "2026-07-20T12:25:38.362Z",
+    "certificates": "2026-07-20T12:25:38.362Z",
+    "voyages": "2026-07-20T12:25:38.362Z",
+    "outlookCompletionQueue": "2026-07-20T12:25:38.362Z",
+    "manualOrders": "2026-07-20T12:25:38.362Z",
+    "deliveries": "2026-07-20T12:25:38.362Z",
+    "vesselPos": "2026-07-20T12:25:38.362Z",
+    "supplierProfiles": "2026-07-20T12:25:38.362Z",
+    "agencyProfiles": "2026-07-20T12:25:38.362Z",
+    "worldClockCities": "2026-07-20T12:25:38.362Z",
+    "itemOverrides": "2026-07-20T12:25:38.362Z"
   },
-  "rev": 90,
-  "savedAt": "2026-07-20T12:25:17.751Z"
+  "rev": 91,
+  "savedAt": "2026-07-20T12:25:39.340Z"
 }
