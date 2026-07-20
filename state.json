@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T11:02:59.793Z",
+  "pushedAt": "2026-07-20T11:03:41.966Z",
   "todosCount": 188,
   "todos": [
     {
@@ -17283,6 +17283,11 @@
       "mode": "manual",
       "port": "Dongguan",
       "date": "2026-07-10"
+    },
+    "peppino::paint thinner urgent": {
+      "mode": "manual",
+      "port": "Singapore",
+      "date": "2026-07-17"
     }
   },
   "vesselPos": {
@@ -17891,13 +17896,13 @@
     "voyages": "2026-07-20T11:02:02.155Z",
     "outlookCompletionQueue": "2026-07-20T11:02:02.155Z",
     "manualOrders": "2026-07-20T11:02:02.155Z",
-    "deliveries": "2026-07-20T11:02:02.155Z",
+    "deliveries": "2026-07-20T11:03:41.962Z",
     "vesselPos": "2026-07-20T11:02:02.155Z",
     "supplierProfiles": "2026-07-20T11:02:02.155Z",
     "agencyProfiles": "2026-07-20T11:02:02.155Z",
     "worldClockCities": "2026-07-20T11:02:02.155Z",
     "itemOverrides": "2026-07-20T11:02:02.155Z"
   },
-  "rev": 76,
-  "savedAt": "2026-07-20T11:02:59.793Z"
+  "rev": 77,
+  "savedAt": "2026-07-20T11:03:41.966Z"
 }
