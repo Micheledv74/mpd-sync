@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T13:05:43.951Z",
+  "pushedAt": "2026-07-20T13:05:49.848Z",
   "todosCount": 188,
   "todos": [
     {
@@ -3932,12 +3932,12 @@
       "dueDate": "2026-07-20",
       "note": "",
       "createdAt": "2026-07-16T15:23:45.3296944Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-20T13:05:44.457Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-17T10:39:53.488Z"
+      "updatedAt": "2026-07-20T13:05:44.457Z"
     },
     {
       "category": "Nave",
@@ -4030,12 +4030,12 @@
       "dueDate": "2026-07-20",
       "note": "",
       "createdAt": "2026-07-17T10:34:47.3350144Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-20T13:05:46.129Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-17T15:21:39.610Z"
+      "updatedAt": "2026-07-20T13:05:46.129Z"
     },
     {
       "category": "Nave",
@@ -17063,6 +17063,20 @@
       "completedAt": "2026-07-20T13:05:40.058Z",
       "todoId": "outlook_AAJIqr3eAAA=",
       "title": "Invoice: Mv Norrbotten - Hydr cylinders from GV Marine"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJSHyN8AAA=",
+      "listId": "",
+      "completedAt": "2026-07-20T13:05:44.457Z",
+      "todoId": "outlook_AAJSHyN8AAA=",
+      "title": "M/V PEPPINO - Action required: Please update onboard inventory in Infoship"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJSHyOAAAA=",
+      "listId": "",
+      "completedAt": "2026-07-20T13:05:46.130Z",
+      "todoId": "outlook_AAJSHyOAAAA=",
+      "title": "M/V PEPPINO - Action required: Please update onboard inventory in Infoship"
     }
   ],
   "manualOrders": {
@@ -17897,7 +17911,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-20T13:05:43.947Z",
+    "todos": "2026-07-20T13:05:49.844Z",
     "notes": "2026-07-20T12:25:38.362Z",
     "snoozed": "2026-07-20T12:25:38.362Z",
     "archivedActions": "2026-07-20T12:25:38.362Z",
@@ -17906,7 +17920,7 @@
     "supplierLanguages": "2026-07-20T12:25:38.362Z",
     "certificates": "2026-07-20T12:25:38.362Z",
     "voyages": "2026-07-20T12:25:38.362Z",
-    "outlookCompletionQueue": "2026-07-20T13:05:43.947Z",
+    "outlookCompletionQueue": "2026-07-20T13:05:49.844Z",
     "manualOrders": "2026-07-20T12:25:38.362Z",
     "deliveries": "2026-07-20T12:47:06.504Z",
     "vesselPos": "2026-07-20T12:25:38.362Z",
@@ -17915,6 +17929,6 @@
     "worldClockCities": "2026-07-20T12:25:38.362Z",
     "itemOverrides": "2026-07-20T12:25:38.362Z"
   },
-  "rev": 119,
-  "savedAt": "2026-07-20T13:05:43.951Z"
+  "rev": 120,
+  "savedAt": "2026-07-20T13:05:49.848Z"
 }
