@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T13:05:00.689Z",
+  "pushedAt": "2026-07-20T13:05:08.867Z",
   "todosCount": 188,
   "todos": [
     {
@@ -3117,7 +3117,7 @@
       "outlookLinkedName": "I: M/V MED LIGURIA  PR36  HQRQ-00115  MLG-SHPR-00036  GEORGE MENABONI SRL",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-07-20",
+      "dueDate": "2026-07-21",
       "note": "",
       "createdAt": "2026-07-07T15:27:22.2374814Z",
       "done": false,
@@ -3125,7 +3125,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-17T07:16:31.023Z"
+      "updatedAt": "2026-07-20T13:05:04.829Z"
     },
     {
       "category": "Nave",
@@ -17890,7 +17890,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-20T13:04:55.241Z",
+    "todos": "2026-07-20T13:05:08.863Z",
     "notes": "2026-07-20T12:25:38.362Z",
     "snoozed": "2026-07-20T12:25:38.362Z",
     "archivedActions": "2026-07-20T12:25:38.362Z",
@@ -17908,6 +17908,6 @@
     "worldClockCities": "2026-07-20T12:25:38.362Z",
     "itemOverrides": "2026-07-20T12:25:38.362Z"
   },
-  "rev": 115,
-  "savedAt": "2026-07-20T13:05:00.689Z"
+  "rev": 116,
+  "savedAt": "2026-07-20T13:05:08.867Z"
 }
