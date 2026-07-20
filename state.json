@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T10:18:09.921Z",
+  "pushedAt": "2026-07-20T10:18:42.737Z",
   "todosCount": 188,
   "todos": [
     {
@@ -17194,9 +17194,9 @@
       "date": "2026-07-10"
     },
     "peppino::security equipment": {
-      "mode": "voyage",
-      "leg": "current",
-      "voyageLegId": "vmrp3atcsp5z0"
+      "mode": "manual",
+      "port": "Dongguan",
+      "date": "2026-07-10"
     },
     "peppino::spa req ship combined oil test kit": {
       "mode": "voyage",
@@ -17890,13 +17890,13 @@
     "voyages": "2026-07-20T09:21:48.518Z",
     "outlookCompletionQueue": "2026-07-17T18:03:56.451Z",
     "manualOrders": "2026-07-17T18:03:56.451Z",
-    "deliveries": "2026-07-20T10:18:09.916Z",
+    "deliveries": "2026-07-20T10:18:42.731Z",
     "vesselPos": "2026-07-17T18:03:56.451Z",
     "supplierProfiles": "2026-07-17T18:03:56.451Z",
     "agencyProfiles": "2026-07-17T18:03:56.451Z",
     "worldClockCities": "2026-07-17T18:03:56.451Z",
     "itemOverrides": "2026-07-17T18:03:56.451Z"
   },
-  "rev": 59,
-  "savedAt": "2026-07-20T10:18:09.921Z"
+  "rev": 60,
+  "savedAt": "2026-07-20T10:18:42.737Z"
 }
