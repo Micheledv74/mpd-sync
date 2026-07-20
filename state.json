@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T12:35:54.226Z",
+  "pushedAt": "2026-07-20T12:36:19.852Z",
   "todosCount": 188,
   "todos": [
     {
@@ -17231,10 +17231,9 @@
       "date": "2026-07-17"
     },
     "peppino::deck/engine/electrical/safety store for deck maintenance urgent": {
-      "mode": "voyage",
-      "leg": "current",
-      "voyageLegId": "vmrp3atcsp5z0",
-      "snapshot": null
+      "mode": "manual",
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::spa req air conditioner": {
       "mode": "manual",
@@ -17898,13 +17897,13 @@
     "voyages": "2026-07-20T12:25:38.362Z",
     "outlookCompletionQueue": "2026-07-20T12:25:38.362Z",
     "manualOrders": "2026-07-20T12:25:38.362Z",
-    "deliveries": "2026-07-20T12:35:54.222Z",
+    "deliveries": "2026-07-20T12:36:19.848Z",
     "vesselPos": "2026-07-20T12:25:38.362Z",
     "supplierProfiles": "2026-07-20T12:25:38.362Z",
     "agencyProfiles": "2026-07-20T12:25:38.362Z",
     "worldClockCities": "2026-07-20T12:25:38.362Z",
     "itemOverrides": "2026-07-20T12:25:38.362Z"
   },
-  "rev": 96,
-  "savedAt": "2026-07-20T12:35:54.226Z"
+  "rev": 97,
+  "savedAt": "2026-07-20T12:36:19.853Z"
 }
