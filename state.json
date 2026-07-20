@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T10:34:14.573Z",
+  "pushedAt": "2026-07-20T10:34:37.134Z",
   "todosCount": 188,
   "todos": [
     {
@@ -17094,8 +17094,9 @@
       "date": "2026-07-17"
     },
     "peppino::spa req rescue boat electric source switch": {
-      "mode": "voyage",
-      "leg": "next"
+      "mode": "manual",
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::doosan man diesel 5l23/30h x 720rpm auxilliary generator": {
       "mode": "manual",
@@ -17890,13 +17891,13 @@
     "voyages": "2026-07-20T09:21:48.518Z",
     "outlookCompletionQueue": "2026-07-17T18:03:56.451Z",
     "manualOrders": "2026-07-17T18:03:56.451Z",
-    "deliveries": "2026-07-20T10:34:14.569Z",
+    "deliveries": "2026-07-20T10:34:37.129Z",
     "vesselPos": "2026-07-17T18:03:56.451Z",
     "supplierProfiles": "2026-07-17T18:03:56.451Z",
     "agencyProfiles": "2026-07-17T18:03:56.451Z",
     "worldClockCities": "2026-07-17T18:03:56.451Z",
     "itemOverrides": "2026-07-17T18:03:56.451Z"
   },
-  "rev": 64,
-  "savedAt": "2026-07-20T10:34:14.573Z"
+  "rev": 65,
+  "savedAt": "2026-07-20T10:34:37.134Z"
 }
