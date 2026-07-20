@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T13:20:19.217Z",
+  "pushedAt": "2026-07-20T13:20:25.331Z",
   "todosCount": 188,
   "todos": [
     {
@@ -3782,7 +3782,7 @@
       "outlookLinkedName": "RE: M/V MED TOSCANA - Mounthly Data Usage",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-07-17",
+      "dueDate": "2026-07-21",
       "note": "",
       "createdAt": "2026-07-15T07:02:19.5805743Z",
       "done": false,
@@ -3790,7 +3790,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-17T07:18:25.152Z"
+      "updatedAt": "2026-07-20T13:20:21.793Z"
     },
     {
       "category": "Altro",
@@ -17911,7 +17911,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-20T13:20:19.205Z",
+    "todos": "2026-07-20T13:20:25.327Z",
     "notes": "2026-07-20T12:25:38.362Z",
     "snoozed": "2026-07-20T12:25:38.362Z",
     "archivedActions": "2026-07-20T12:25:38.362Z",
@@ -17929,6 +17929,6 @@
     "worldClockCities": "2026-07-20T12:25:38.362Z",
     "itemOverrides": "2026-07-20T12:25:38.362Z"
   },
-  "rev": 123,
-  "savedAt": "2026-07-20T13:20:19.217Z"
+  "rev": 124,
+  "savedAt": "2026-07-20T13:20:25.331Z"
 }
