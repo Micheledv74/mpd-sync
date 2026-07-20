@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T10:33:49.570Z",
+  "pushedAt": "2026-07-20T10:34:14.573Z",
   "todosCount": 188,
   "todos": [
     {
@@ -17079,10 +17079,9 @@
       "leg": "current"
     },
     "peppino::messanger line for mooring rope": {
-      "mode": "voyage",
-      "leg": "current",
-      "voyageLegId": "vmrp3atcsp5z0",
-      "snapshot": null
+      "mode": "manual",
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::lubrication oil": {
       "mode": "manual",
@@ -17891,13 +17890,13 @@
     "voyages": "2026-07-20T09:21:48.518Z",
     "outlookCompletionQueue": "2026-07-17T18:03:56.451Z",
     "manualOrders": "2026-07-17T18:03:56.451Z",
-    "deliveries": "2026-07-20T10:33:49.565Z",
+    "deliveries": "2026-07-20T10:34:14.569Z",
     "vesselPos": "2026-07-17T18:03:56.451Z",
     "supplierProfiles": "2026-07-17T18:03:56.451Z",
     "agencyProfiles": "2026-07-17T18:03:56.451Z",
     "worldClockCities": "2026-07-17T18:03:56.451Z",
     "itemOverrides": "2026-07-17T18:03:56.451Z"
   },
-  "rev": 63,
-  "savedAt": "2026-07-20T10:33:49.570Z"
+  "rev": 64,
+  "savedAt": "2026-07-20T10:34:14.573Z"
 }
