@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T09:18:47.953Z",
+  "pushedAt": "2026-07-20T09:19:45.083Z",
   "todosCount": 188,
   "todos": [
     {
@@ -4124,7 +4124,8 @@
     "med toscana::cargo crane claim spare part": "Standby @Roger",
     "med liguria::battery module": "@standby YH MARINE",
     "med toscana::bilge separetor": "arrivo @Houston 03/07/2026",
-    "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": "Standby @Roger"
+    "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": "Standby @Roger",
+    "med toscana::ships crane spare parts": "Standby @Roger"
   },
   "snoozed": {
     "todo:td_1780846490055_byv9f": "2026-06-22",
@@ -17700,7 +17701,7 @@
   },
   "collMeta": {
     "todos": "2026-07-20T09:18:45.056Z",
-    "notes": "2026-07-17T18:03:56.451Z",
+    "notes": "2026-07-20T09:19:44.813Z",
     "snoozed": "2026-07-17T18:03:56.451Z",
     "archivedActions": "2026-07-17T18:03:56.451Z",
     "completionsHistory": "2026-07-17T18:03:56.451Z",
@@ -17717,6 +17718,6 @@
     "worldClockCities": "2026-07-17T18:03:56.451Z",
     "itemOverrides": "2026-07-17T18:03:56.451Z"
   },
-  "rev": 32,
-  "savedAt": "2026-07-20T09:18:47.953Z"
+  "rev": 33,
+  "savedAt": "2026-07-20T09:19:45.083Z"
 }
