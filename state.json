@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T13:20:40.635Z",
+  "pushedAt": "2026-07-20T13:20:44.560Z",
   "todosCount": 188,
   "todos": [
     {
@@ -4105,9 +4105,10 @@
       "dueDate": "2026-07-19",
       "note": "",
       "createdAt": "2026-07-20T07:39:46.5618704Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-07-20T13:20:40.761Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-07-20T13:20:40.761Z"
     }
   ],
   "notes": {
@@ -17084,6 +17085,13 @@
       "completedAt": "2026-07-20T13:20:25.476Z",
       "todoId": "outlook_AAJSHyN6AAA=",
       "title": "MV PEPPINO - URGENT THINNER REQUEST FOR SINGAPORE"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJUPXCPAAA=",
+      "listId": "",
+      "completedAt": "2026-07-20T13:20:40.762Z",
+      "todoId": "outlook_AAJUPXCPAAA=",
+      "title": "Logo request for Coveralls"
     }
   ],
   "manualOrders": {
@@ -17936,6 +17944,6 @@
     "worldClockCities": "2026-07-20T12:25:38.362Z",
     "itemOverrides": "2026-07-20T12:25:38.362Z"
   },
-  "rev": 127,
-  "savedAt": "2026-07-20T13:20:40.635Z"
+  "rev": 128,
+  "savedAt": "2026-07-20T13:20:44.560Z"
 }
