@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T12:29:56.364Z",
+  "pushedAt": "2026-07-20T12:30:33.104Z",
   "todosCount": 188,
   "todos": [
     {
@@ -17067,8 +17067,9 @@
       "leg": "current"
     },
     "med toscana::temperature dry bulb for coal celsium up to +70": {
-      "mode": "voyage",
-      "leg": "current"
+      "mode": "manual",
+      "port": "Houston",
+      "date": "2026-07-08"
     },
     "med toscana::portable gas detector & bump test kit with botle og gases": {
       "mode": "manual",
@@ -17898,13 +17899,13 @@
     "voyages": "2026-07-20T12:25:38.362Z",
     "outlookCompletionQueue": "2026-07-20T12:25:38.362Z",
     "manualOrders": "2026-07-20T12:25:38.362Z",
-    "deliveries": "2026-07-20T12:29:56.360Z",
+    "deliveries": "2026-07-20T12:30:30.487Z",
     "vesselPos": "2026-07-20T12:25:38.362Z",
     "supplierProfiles": "2026-07-20T12:25:38.362Z",
     "agencyProfiles": "2026-07-20T12:25:38.362Z",
     "worldClockCities": "2026-07-20T12:25:38.362Z",
     "itemOverrides": "2026-07-20T12:25:38.362Z"
   },
-  "rev": 93,
-  "savedAt": "2026-07-20T12:29:56.364Z"
+  "rev": 94,
+  "savedAt": "2026-07-20T12:30:33.104Z"
 }
