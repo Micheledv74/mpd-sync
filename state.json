@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T10:09:47.493Z",
+  "pushedAt": "2026-07-20T10:10:36.459Z",
   "todosCount": 188,
   "todos": [
     {
@@ -17272,6 +17272,11 @@
       "mode": "manual",
       "port": "Dongguan",
       "date": "2026-07-10"
+    },
+    "peppino::spa req aux boiler mission oc kboe burner": {
+      "mode": "manual",
+      "port": "Dongguan",
+      "date": "2026-07-10"
     }
   },
   "vesselPos": {
@@ -17880,13 +17885,13 @@
     "voyages": "2026-07-20T09:21:48.518Z",
     "outlookCompletionQueue": "2026-07-17T18:03:56.451Z",
     "manualOrders": "2026-07-17T18:03:56.451Z",
-    "deliveries": "2026-07-20T10:09:44.918Z",
+    "deliveries": "2026-07-20T10:10:36.455Z",
     "vesselPos": "2026-07-17T18:03:56.451Z",
     "supplierProfiles": "2026-07-17T18:03:56.451Z",
     "agencyProfiles": "2026-07-17T18:03:56.451Z",
     "worldClockCities": "2026-07-17T18:03:56.451Z",
     "itemOverrides": "2026-07-17T18:03:56.451Z"
   },
-  "rev": 47,
-  "savedAt": "2026-07-20T10:09:47.493Z"
+  "rev": 48,
+  "savedAt": "2026-07-20T10:10:36.459Z"
 }
