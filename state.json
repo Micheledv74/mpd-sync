@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T21:45:48.273Z",
+  "pushedAt": "2026-07-20T21:52:28.336Z",
   "todosCount": 190,
   "todos": [
     {
@@ -16144,17 +16144,27 @@
     "peppino": {
       "status": "at_sea",
       "current": {
-        "etd": "",
         "id": "vmrs1lzfgu9f3",
         "from": "Singapore",
         "to": "Port Luis, Mauritius",
+        "etd": "",
         "etb": "",
         "eta": "2026-08-02T16:00",
         "agency": null
       },
-      "next": {},
+      "next": {
+        "id": "vmrtrfwxq1fry",
+        "from": "",
+        "to": "Takoradi (Ghana)",
+        "etb": "",
+        "eta": "",
+        "agency": {
+          "name": "Hull Blyth Ghana Ltd",
+          "contacts": "Takoradi:\n\nJonathan  Otchere\nOperations Officer\n\nPhone:  (233) 243 402   558\n               (233) 203  359  653\n               (233) 264  402  558\n                (233)  312 022 000\nWeb:       www.hull-blyth.com\nAs Agents Only\n\nTema :\n\nIsaac Coleman Acquah\nAsst Operations Manager  \n\nPhone:   +233 544 316 643\nPhone:   +233 242 154 579\nWeb:      www.hull-blyth.com\nAs Agents Only"
+        }
+      },
       "notes": "",
-      "updatedAt": "2026-07-20T09:21:51.577Z",
+      "updatedAt": "2026-07-20T21:52:24.446Z",
       "fromNoon": "2026-07-20",
       "history": [
         {
@@ -17984,7 +17994,7 @@
     "supplierTimezones": "2026-07-20T21:42:41.059Z",
     "supplierLanguages": "2026-07-20T21:42:41.059Z",
     "certificates": "2026-07-20T21:42:41.059Z",
-    "voyages": "2026-07-20T21:42:41.059Z",
+    "voyages": "2026-07-20T21:52:28.234Z",
     "outlookCompletionQueue": "2026-07-20T21:42:41.059Z",
     "manualOrders": "2026-07-20T21:42:41.059Z",
     "deliveries": "2026-07-20T21:42:41.059Z",
@@ -17994,6 +18004,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-20T21:42:41.059Z"
   },
-  "rev": 153,
-  "savedAt": "2026-07-20T21:45:48.273Z"
+  "rev": 154,
+  "savedAt": "2026-07-20T21:52:28.336Z"
 }
