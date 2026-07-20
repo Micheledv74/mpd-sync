@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T09:21:55.202Z",
+  "pushedAt": "2026-07-20T10:04:20.517Z",
   "todosCount": 188,
   "todos": [
     {
@@ -17232,6 +17232,11 @@
       "leg": "current",
       "voyageLegId": "vmrp3atcsp5z0",
       "snapshot": null
+    },
+    "peppino::spa req air conditioner": {
+      "mode": "manual",
+      "port": "Dongguan",
+      "date": "2026-07-10"
     }
   },
   "vesselPos": {
@@ -17840,13 +17845,13 @@
     "voyages": "2026-07-20T09:21:48.518Z",
     "outlookCompletionQueue": "2026-07-17T18:03:56.451Z",
     "manualOrders": "2026-07-17T18:03:56.451Z",
-    "deliveries": "2026-07-20T09:21:48.518Z",
+    "deliveries": "2026-07-20T10:04:20.513Z",
     "vesselPos": "2026-07-17T18:03:56.451Z",
     "supplierProfiles": "2026-07-17T18:03:56.451Z",
     "agencyProfiles": "2026-07-17T18:03:56.451Z",
     "worldClockCities": "2026-07-17T18:03:56.451Z",
     "itemOverrides": "2026-07-17T18:03:56.451Z"
   },
-  "rev": 37,
-  "savedAt": "2026-07-20T09:21:55.203Z"
+  "rev": 38,
+  "savedAt": "2026-07-20T10:04:20.517Z"
 }
