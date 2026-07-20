@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T13:20:25.331Z",
+  "pushedAt": "2026-07-20T13:20:29.656Z",
   "todosCount": 188,
   "todos": [
     {
@@ -3907,12 +3907,12 @@
       "dueDate": "2026-07-17",
       "note": "",
       "createdAt": "2026-07-16T11:15:13.5874073Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-20T13:20:25.473Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-17T07:13:38.325Z"
+      "updatedAt": "2026-07-20T13:20:25.473Z"
     },
     {
       "category": "Nave",
@@ -17077,6 +17077,13 @@
       "completedAt": "2026-07-20T13:05:46.130Z",
       "todoId": "outlook_AAJSHyOAAAA=",
       "title": "M/V PEPPINO - Action required: Please update onboard inventory in Infoship"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJSHyN6AAA=",
+      "listId": "",
+      "completedAt": "2026-07-20T13:20:25.476Z",
+      "todoId": "outlook_AAJSHyN6AAA=",
+      "title": "MV PEPPINO - URGENT THINNER REQUEST FOR SINGAPORE"
     }
   ],
   "manualOrders": {
@@ -17929,6 +17936,6 @@
     "worldClockCities": "2026-07-20T12:25:38.362Z",
     "itemOverrides": "2026-07-20T12:25:38.362Z"
   },
-  "rev": 124,
-  "savedAt": "2026-07-20T13:20:25.331Z"
+  "rev": 125,
+  "savedAt": "2026-07-20T13:20:29.656Z"
 }
