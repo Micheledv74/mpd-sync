@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
-  "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T21:36:47.113Z",
+  "deviceId": "dev_ex1cq6qu8y",
+  "pushedAt": "2026-07-20T21:39:10.285Z",
   "todosCount": 190,
   "todos": [
     {
@@ -17994,6 +17994,6 @@
     "worldClockCities": "2026-07-20T12:25:38.362Z",
     "itemOverrides": "2026-07-20T12:25:38.362Z"
   },
-  "rev": 140,
-  "savedAt": "2026-07-20T21:36:47.113Z"
+  "rev": 141,
+  "savedAt": "2026-07-20T21:39:10.285Z"
 }
