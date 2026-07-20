@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T21:42:13.792Z",
+  "pushedAt": "2026-07-20T21:42:41.945Z",
   "todosCount": 190,
   "todos": [
     {
@@ -17976,24 +17976,24 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-20T21:36:42.224Z",
-    "notes": "2026-07-20T12:25:38.362Z",
-    "snoozed": "2026-07-20T12:25:38.362Z",
-    "archivedActions": "2026-07-20T12:25:38.362Z",
-    "completionsHistory": "2026-07-20T12:25:38.362Z",
-    "supplierTimezones": "2026-07-20T12:25:38.362Z",
-    "supplierLanguages": "2026-07-20T12:25:38.362Z",
-    "certificates": "2026-07-20T12:25:38.362Z",
-    "voyages": "2026-07-20T21:36:47.110Z",
-    "outlookCompletionQueue": "2026-07-20T13:05:49.844Z",
-    "manualOrders": "2026-07-20T12:25:38.362Z",
-    "deliveries": "2026-07-20T21:36:47.110Z",
-    "vesselPos": "2026-07-20T12:25:38.362Z",
-    "supplierProfiles": "2026-07-20T12:25:38.362Z",
-    "agencyProfiles": "2026-07-20T12:25:38.362Z",
-    "worldClockCities": "2026-07-20T12:25:38.362Z",
-    "itemOverrides": "2026-07-20T12:25:38.362Z"
+    "todos": "2026-07-20T21:42:41.059Z",
+    "notes": "2026-07-20T21:42:41.059Z",
+    "snoozed": "2026-07-20T21:42:41.059Z",
+    "archivedActions": "2026-07-20T21:42:41.059Z",
+    "completionsHistory": "2026-07-20T21:42:41.059Z",
+    "supplierTimezones": "2026-07-20T21:42:41.059Z",
+    "supplierLanguages": "2026-07-20T21:42:41.059Z",
+    "certificates": "2026-07-20T21:42:41.059Z",
+    "voyages": "2026-07-20T21:42:41.059Z",
+    "outlookCompletionQueue": "2026-07-20T21:42:41.059Z",
+    "manualOrders": "2026-07-20T21:42:41.059Z",
+    "deliveries": "2026-07-20T21:42:41.059Z",
+    "vesselPos": "2026-07-20T21:42:41.059Z",
+    "supplierProfiles": "2026-07-20T21:42:41.059Z",
+    "agencyProfiles": "2026-07-20T21:42:41.059Z",
+    "worldClockCities": "2026-07-20T21:42:41.059Z",
+    "itemOverrides": "2026-07-20T21:42:41.059Z"
   },
-  "rev": 148,
-  "savedAt": "2026-07-20T21:42:13.792Z"
+  "rev": 149,
+  "savedAt": "2026-07-20T21:42:41.945Z"
 }
