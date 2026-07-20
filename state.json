@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T09:20:56.347Z",
+  "pushedAt": "2026-07-20T09:21:51.215Z",
   "todosCount": 188,
   "todos": [
     {
@@ -16090,18 +16090,7 @@
     "peppino": {
       "status": "at_sea",
       "current": {
-        "id": "vmrp3atcsp5z0",
-        "from": "DONGGUAN, CHINA",
-        "to": "SINGAPORE",
-        "etd": "2026-07-18T11:00",
-        "etb": "",
-        "eta": "2026-07-17T18:00",
-        "agency": {
-          "name": "JOHNASIA SINGAPORE",
-          "contacts": "Lucas Lau\nMob : +65 9735 3362\nAs agents only\n\nJOHNASIA SHIPPING (S) PTE. LTD.\n11 Irving Place, Tai Seng Point # 07-03 Singapore (369551)\nTel : +65 6223 5922 | Fax : +65 6223 5923\nEmail : singapore@johnasia.com | Web : www.johnasia.com"
-        }
-      },
-      "next": {
+        "etd": "",
         "id": "vmrs1lzfgu9f3",
         "from": "Singapore",
         "to": "Port Luis, Mauritius ·",
@@ -16109,9 +16098,137 @@
         "eta": "",
         "agency": null
       },
+      "next": {},
       "notes": "",
-      "updatedAt": "2026-07-19T17:01:31.420Z",
-      "fromNoon": "2026-07-16"
+      "updatedAt": "2026-07-20T09:21:47.553Z",
+      "fromNoon": "2026-07-16",
+      "history": [
+        {
+          "id": "vmrp3atcsp5z0",
+          "from": "DONGGUAN, CHINA",
+          "to": "SINGAPORE",
+          "etd": "2026-07-18T11:00",
+          "etb": "",
+          "eta": "2026-07-17T18:00",
+          "agency": {
+            "name": "JOHNASIA SINGAPORE",
+            "contacts": "Lucas Lau\nMob : +65 9735 3362\nAs agents only\n\nJOHNASIA SHIPPING (S) PTE. LTD.\n11 Irving Place, Tai Seng Point # 07-03 Singapore (369551)\nTel : +65 6223 5922 | Fax : +65 6223 5923\nEmail : singapore@johnasia.com | Web : www.johnasia.com"
+          },
+          "closedAt": "2026-07-20T09:21:47.552Z",
+          "deliveredItems": [
+            {
+              "poNumber": "2026-PEP-HQPO-00133",
+              "description": "SAFETY EQUIPMENT",
+              "supplier": "LFA Global. Pte Ltd."
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00136",
+              "description": "DECK/ENGINE/ELECTRICAL/SAFETY STORE FOR DECK MAINTENANCE URGENT",
+              "supplier": "LFA Global. Pte Ltd."
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00134",
+              "description": "SPA Req. Ship combined oil test kit",
+              "supplier": "Wilhelmsen Ships Service"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00132",
+              "description": "PAINT URGENT",
+              "supplier": "PPG PROTECTIVE & MARINE COATINS"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00131",
+              "description": "Store Grinder Angle Electric - SINGAPORE UGRENT",
+              "supplier": "LFA Global. Pte Ltd."
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00130",
+              "description": "STRAIGHT NOZZLE , 1000 BAR DEN-JET HIGH PRESSURE WATER BLASTER",
+              "supplier": "DEN-JET MARINE Pte Ltd"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00135",
+              "description": "Electrical Store for maintenance URGENT",
+              "supplier": "LFA Global. Pte Ltd."
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00125",
+              "description": "DECK MAINTENANCE URGENT",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00126",
+              "description": "SAFETY SYMBOLS AND EQUIPMENT",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00127",
+              "description": "SPA Req. Air Conditioning Plant, USDN40H",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00129",
+              "description": "ROTATING NOZZLE , 1000 BAR DEN-JET HIGH PRESSURE WATER BLASTER",
+              "supplier": "DEN-JET MARINE Pte Ltd"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00117",
+              "description": "SPA Req. MacGREGOR Jib Top Mounting - Spare Parts",
+              "supplier": "LG Marine Services(HK) Co.,Limited"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00116",
+              "description": "SPA Req. Aux. Boiler Mission OC",
+              "supplier": "Mistral Suisse Sagl"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00121",
+              "description": "SECURITY EQUIPMENT",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00118",
+              "description": "DECK MAINTENANCE",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00120",
+              "description": "SPAN GAS COMPOSITION BOTTLES FOR GAS DETECTORS",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00113",
+              "description": "Portable gangway ladder",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00111",
+              "description": "PAINT",
+              "supplier": "PPG PROTECTIVE & MARINE COATINS"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00110",
+              "description": "EPIRB HRU",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00096",
+              "description": "MESSANGER LINE FOR MOORING ROPE",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00128",
+              "description": "ACETYLENE and OXYGEN",
+              "supplier": "Wilhelmsen Ships Service"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00082",
+              "description": "DOOSAN MAN DIESEL 5L23/30H x 720RPM AUXILLIARY GENERATOR",
+              "supplier": "MAS MARINE SHIPPING SUPPLIES"
+            }
+          ]
+        }
+      ]
     },
     "medliguria": {
       "status": "at_sea",
@@ -16938,7 +17055,7 @@
     "peppino::spa req aux boiler mission oc": {
       "mode": "voyage",
       "leg": "current",
-      "voyageLegId": null,
+      "voyageLegId": "vmrp3atcsp5z0",
       "snapshot": null
     },
     "peppino::liferaft exchange": {
@@ -16964,7 +17081,7 @@
     "peppino::messanger line for mooring rope": {
       "mode": "voyage",
       "leg": "current",
-      "voyageLegId": null,
+      "voyageLegId": "vmrp3atcsp5z0",
       "snapshot": null
     },
     "peppino::lubrication oil": {
@@ -16981,7 +17098,8 @@
     },
     "peppino::doosan man diesel 5l23/30h x 720rpm auxilliary generator": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "current",
+      "voyageLegId": "vmrp3atcsp5z0"
     },
     "med toscana::underwater inspection barranquilla": {
       "mode": "manual",
@@ -16998,12 +17116,13 @@
     },
     "peppino::electrical store for maintenance urgent": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "current",
+      "voyageLegId": "vmrp3atcsp5z0"
     },
     "peppino::acetylene and oxygen": {
       "mode": "voyage",
       "leg": "current",
-      "voyageLegId": null,
+      "voyageLegId": "vmrp3atcsp5z0",
       "snapshot": null
     },
     "peppino::engine store urgent": {
@@ -17013,26 +17132,29 @@
     },
     "peppino::deck maintenance urgent": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "current",
+      "voyageLegId": "vmrp3atcsp5z0"
     },
     "peppino::safety symbols and equipment": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "current",
+      "voyageLegId": "vmrp3atcsp5z0"
     },
     "peppino::spa req air conditioning plant usdn40h": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "current",
+      "voyageLegId": "vmrp3atcsp5z0"
     },
     "peppino::straight nozzle 1000 bar denjet high pressure water blaster": {
       "mode": "voyage",
       "leg": "current",
-      "voyageLegId": null,
+      "voyageLegId": "vmrp3atcsp5z0",
       "snapshot": null
     },
     "peppino::rotating nozzle 1000 bar denjet high pressure water blaster": {
       "mode": "voyage",
       "leg": "current",
-      "voyageLegId": null,
+      "voyageLegId": "vmrp3atcsp5z0",
       "snapshot": null
     },
     "peppino::spa req sewage treatment plant blower": {
@@ -17042,7 +17164,8 @@
     },
     "peppino::epirb hru": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "current",
+      "voyageLegId": "vmrp3atcsp5z0"
     },
     "peppino::fresh water generator model sl 6000": {
       "mode": "manual",
@@ -17051,58 +17174,63 @@
     },
     "peppino::spa req macgregor jib top mounting spare parts": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "current",
+      "voyageLegId": "vmrp3atcsp5z0"
     },
     "peppino::portable gangway ladder": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "current",
+      "voyageLegId": "vmrp3atcsp5z0"
     },
     "peppino::span gas composition bottles for gas detectors": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "current",
+      "voyageLegId": "vmrp3atcsp5z0"
     },
     "peppino::deck maintenance": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "current",
+      "voyageLegId": "vmrp3atcsp5z0"
     },
     "peppino::security equipment": {
       "mode": "voyage",
-      "leg": "current"
+      "leg": "current",
+      "voyageLegId": "vmrp3atcsp5z0"
     },
     "peppino::spa req ship combined oil test kit": {
       "mode": "voyage",
       "leg": "current",
-      "voyageLegId": null,
+      "voyageLegId": "vmrp3atcsp5z0",
       "snapshot": null
     },
     "peppino::paint urgent": {
       "mode": "voyage",
       "leg": "current",
-      "voyageLegId": null,
+      "voyageLegId": "vmrp3atcsp5z0",
       "snapshot": null
     },
     "peppino::store grinder angle electric singapore ugrent": {
       "mode": "voyage",
       "leg": "current",
-      "voyageLegId": null,
+      "voyageLegId": "vmrp3atcsp5z0",
       "snapshot": null
     },
     "peppino::safety equipment": {
       "mode": "voyage",
       "leg": "current",
-      "voyageLegId": null,
+      "voyageLegId": "vmrp3atcsp5z0",
       "snapshot": null
     },
     "peppino::paint": {
       "mode": "voyage",
       "leg": "current",
-      "voyageLegId": null,
+      "voyageLegId": "vmrp3atcsp5z0",
       "snapshot": null
     },
     "peppino::deck/engine/electrical/safety store for deck maintenance urgent": {
       "mode": "voyage",
       "leg": "current",
-      "voyageLegId": null,
+      "voyageLegId": "vmrp3atcsp5z0",
       "snapshot": null
     }
   },
@@ -17709,16 +17837,16 @@
     "supplierTimezones": "2026-07-17T18:03:56.451Z",
     "supplierLanguages": "2026-07-17T18:03:56.451Z",
     "certificates": "2026-07-17T18:03:56.451Z",
-    "voyages": "2026-07-19T18:57:31.414Z",
+    "voyages": "2026-07-20T09:21:48.518Z",
     "outlookCompletionQueue": "2026-07-17T18:03:56.451Z",
     "manualOrders": "2026-07-17T18:03:56.451Z",
-    "deliveries": "2026-07-17T18:03:56.451Z",
+    "deliveries": "2026-07-20T09:21:48.518Z",
     "vesselPos": "2026-07-17T18:03:56.451Z",
     "supplierProfiles": "2026-07-17T18:03:56.451Z",
     "agencyProfiles": "2026-07-17T18:03:56.451Z",
     "worldClockCities": "2026-07-17T18:03:56.451Z",
     "itemOverrides": "2026-07-17T18:03:56.451Z"
   },
-  "rev": 35,
-  "savedAt": "2026-07-20T09:20:56.347Z"
+  "rev": 36,
+  "savedAt": "2026-07-20T09:21:51.215Z"
 }
