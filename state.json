@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T10:06:59.992Z",
+  "pushedAt": "2026-07-20T10:08:02.533Z",
   "todosCount": 188,
   "todos": [
     {
@@ -17252,6 +17252,11 @@
       "mode": "manual",
       "port": "Dongguan",
       "date": "2026-07-10"
+    },
+    "peppino::spa req rescue boat battery": {
+      "mode": "manual",
+      "port": "Dongguan",
+      "date": "2026-07-10"
     }
   },
   "vesselPos": {
@@ -17860,13 +17865,13 @@
     "voyages": "2026-07-20T09:21:48.518Z",
     "outlookCompletionQueue": "2026-07-17T18:03:56.451Z",
     "manualOrders": "2026-07-17T18:03:56.451Z",
-    "deliveries": "2026-07-20T10:06:51.185Z",
+    "deliveries": "2026-07-20T10:08:02.528Z",
     "vesselPos": "2026-07-17T18:03:56.451Z",
     "supplierProfiles": "2026-07-17T18:03:56.451Z",
     "agencyProfiles": "2026-07-17T18:03:56.451Z",
     "worldClockCities": "2026-07-17T18:03:56.451Z",
     "itemOverrides": "2026-07-17T18:03:56.451Z"
   },
-  "rev": 43,
-  "savedAt": "2026-07-20T10:06:59.992Z"
+  "rev": 44,
+  "savedAt": "2026-07-20T10:08:02.533Z"
 }
