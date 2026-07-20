@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T12:46:05.750Z",
+  "pushedAt": "2026-07-20T12:47:06.510Z",
   "todosCount": 188,
   "todos": [
     {
@@ -17145,9 +17145,9 @@
       "date": "2026-07-10"
     },
     "peppino::spa req air conditioning plant usdn40h": {
-      "mode": "voyage",
-      "leg": "current",
-      "voyageLegId": "vmrp3atcsp5z0"
+      "mode": "manual",
+      "port": "Dongguan",
+      "date": "2026-07-10"
     },
     "peppino::straight nozzle 1000 bar denjet high pressure water blaster": {
       "mode": "manual",
@@ -17891,13 +17891,13 @@
     "voyages": "2026-07-20T12:25:38.362Z",
     "outlookCompletionQueue": "2026-07-20T12:25:38.362Z",
     "manualOrders": "2026-07-20T12:25:38.362Z",
-    "deliveries": "2026-07-20T12:46:05.743Z",
+    "deliveries": "2026-07-20T12:47:06.504Z",
     "vesselPos": "2026-07-20T12:25:38.362Z",
     "supplierProfiles": "2026-07-20T12:25:38.362Z",
     "agencyProfiles": "2026-07-20T12:25:38.362Z",
     "worldClockCities": "2026-07-20T12:25:38.362Z",
     "itemOverrides": "2026-07-20T12:25:38.362Z"
   },
-  "rev": 107,
-  "savedAt": "2026-07-20T12:46:05.750Z"
+  "rev": 108,
+  "savedAt": "2026-07-20T12:47:06.510Z"
 }
