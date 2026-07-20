@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T13:38:56.506Z",
+  "pushedAt": "2026-07-20T13:41:12.211Z",
   "todosCount": 188,
   "todos": [
     {
@@ -16267,10 +16267,10 @@
       "current": {
         "id": "vmrs5r2wte7fu",
         "from": "Houston",
-        "to": "AGW WP, KANDLA",
+        "to": "Kandla (AGW WP)",
         "etd": "",
         "etb": "",
-        "eta": "2026-08-24T07:00",
+        "eta": "2026-08-24T07:30",
         "agency": {
           "name": "Atlantic Global Shipping Pvt Ltd.",
           "contacts": "DEVRAJ SONAWANE\nManager - Bulk Ops\n\nMobile:\n\n+91 8828433486\n\nPhone:\n+91 22 66677462\n\nEmail:\nind-bulk@atlanticglobalshipping.com\n\nSecondary Contact\n\nAJINKYA DHAMALE\nSenior Manager - Bulk Ops\n\nMobile:\n+91 8828435238\n\nPhone:\n+91 22 66677463\n\nEmail:\nind-bulk@atlanticglobalshipping.com\n\nWeb:\nwww.sunrichgroup.com / www.atlanticglobalshipping.com\nAddress:\n5th & 8th Floor, Ashford Centre, Shankarrao Naram Marg, Lower Parel (W), Opp. Peninsula Corporate Park, Mumbai 400013 - Maharashtra, India."
@@ -16285,7 +16285,8 @@
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-07-19T18:57:27.677Z"
+      "updatedAt": "2026-07-20T13:41:08.473Z",
+      "fromNoon": "2026-07-19"
     },
     "norrbotten": {
       "status": "drydock",
@@ -17934,7 +17935,7 @@
     "supplierTimezones": "2026-07-20T12:25:38.362Z",
     "supplierLanguages": "2026-07-20T12:25:38.362Z",
     "certificates": "2026-07-20T12:25:38.362Z",
-    "voyages": "2026-07-20T12:25:38.362Z",
+    "voyages": "2026-07-20T13:41:12.207Z",
     "outlookCompletionQueue": "2026-07-20T13:05:49.844Z",
     "manualOrders": "2026-07-20T12:25:38.362Z",
     "deliveries": "2026-07-20T12:47:06.504Z",
@@ -17944,6 +17945,6 @@
     "worldClockCities": "2026-07-20T12:25:38.362Z",
     "itemOverrides": "2026-07-20T12:25:38.362Z"
   },
-  "rev": 130,
-  "savedAt": "2026-07-20T13:38:56.506Z"
+  "rev": 131,
+  "savedAt": "2026-07-20T13:41:12.211Z"
 }
