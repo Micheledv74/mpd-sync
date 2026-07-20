@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T13:20:35.123Z",
+  "pushedAt": "2026-07-20T13:20:40.635Z",
   "todosCount": 188,
   "todos": [
     {
@@ -4077,7 +4077,7 @@
       "outlookLinkedName": "RE: NORRBOTTEN  REQ: No 25 - 26 - 27 - 30",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-07-18",
+      "dueDate": "2026-07-21",
       "note": "",
       "createdAt": "2026-07-17T14:25:00.7170797Z",
       "done": false,
@@ -4085,7 +4085,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-17T18:18:30.839Z"
+      "updatedAt": "2026-07-20T13:20:36.889Z"
     },
     {
       "category": "Altro",
@@ -17936,6 +17936,6 @@
     "worldClockCities": "2026-07-20T12:25:38.362Z",
     "itemOverrides": "2026-07-20T12:25:38.362Z"
   },
-  "rev": 126,
-  "savedAt": "2026-07-20T13:20:35.123Z"
+  "rev": 127,
+  "savedAt": "2026-07-20T13:20:40.635Z"
 }
