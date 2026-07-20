@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
-  "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-20T14:45:52.423Z",
-  "todosCount": 188,
+  "deviceId": "dev_jcjbq8zhzw",
+  "pushedAt": "2026-07-20T14:55:12.752Z",
+  "todosCount": 190,
   "todos": [
     {
       "category": "Ufficio",
@@ -4109,6 +4109,50 @@
       "doneAt": "2026-07-20T13:20:40.761Z",
       "outlookStatus": "notStarted",
       "updatedAt": "2026-07-20T13:20:40.761Z"
+    },
+    {
+      "id": "outlook_AAJU_wN_AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJU_wN_AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJU%2BpKDAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: m/v Norrbotten Thruster offer",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "m/v Norrbotten Thruster offer",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-20",
+      "note": "",
+      "createdAt": "2026-07-20T13:10:17.4556702Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJU_wN9AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJU_wN9AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7qfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: M/V PEPPINO - Action required: Please update onboard inventory in Infoship",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO - Action required: Please update onboard inventory in Infoship",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-20",
+      "note": "",
+      "createdAt": "2026-07-20T12:54:44.030671Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -17930,7 +17974,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-20T13:20:35.119Z",
+    "todos": "2026-07-20T14:55:08.497Z",
     "notes": "2026-07-20T12:25:38.362Z",
     "snoozed": "2026-07-20T12:25:38.362Z",
     "archivedActions": "2026-07-20T12:25:38.362Z",
@@ -17948,6 +17992,6 @@
     "worldClockCities": "2026-07-20T12:25:38.362Z",
     "itemOverrides": "2026-07-20T12:25:38.362Z"
   },
-  "rev": 135,
-  "savedAt": "2026-07-20T14:45:52.423Z"
+  "rev": 136,
+  "savedAt": "2026-07-20T14:55:12.752Z"
 }
