@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
-  "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-21T09:23:37.239Z",
-  "todosCount": 194,
+  "deviceId": "dev_ex1cq6qu8y",
+  "pushedAt": "2026-07-21T09:45:53.309Z",
+  "todosCount": 197,
   "todos": [
     {
       "category": "Ufficio",
@@ -4207,21 +4207,21 @@
       "updatedAt": "2026-07-21T08:55:37.267Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "R: M/V MED TOSCANA  PR66  HQPO-00081  MDT-SHPR-00066  YH MARINE TRADE CO.,LTD",
+      "tags": [
+        "outlook",
+        "fornitore:YH"
+      ],
       "id": "outlook_AAJVJVA-AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJVJVA-AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60eAABYWF9qc37UTpbqyo%2B4NVKtAADqwE3cAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: R: M/V MED TOSCANA  PR66  HQPO-00081  MDT-SHPR-00066  YH MARINE TRADE CO.,LTD",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "R: M/V MED TOSCANA  PR66  HQPO-00081  MDT-SHPR-00066  YH MARINE TRADE CO.,LTD",
-      "tags": [
-        "outlook",
-        "fornitore:YH"
-      ],
       "dueDate": "2026-07-23",
       "note": "",
       "createdAt": "2026-07-21T08:10:31.9798634Z",
@@ -4230,21 +4230,21 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED LIGURIA  PO51  HQPO-00051  MLG-HQPO-00051  LG Marine Services(HK) Co.,Limited",
+      "tags": [
+        "outlook",
+        "fornitore:LG"
+      ],
       "id": "outlook_AAJVJVA_AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJVJVA_AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAADqwEuvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V MED LIGURIA  PO51  HQPO-00051  MLG-HQPO-00051  LG Marine Services(HK) Co.,Limited",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "M/V MED LIGURIA  PO51  HQPO-00051  MLG-HQPO-00051  LG Marine Services(HK) Co.,Limited",
-      "tags": [
-        "outlook",
-        "fornitore:LG"
-      ],
       "dueDate": "2026-07-21",
       "note": "",
       "createdAt": "2026-07-21T06:59:14.582592Z",
@@ -4254,6 +4254,72 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-07-21T08:55:53.212Z"
+    },
+    {
+      "id": "outlook_AAJVJVBCAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJVJVBCAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7qsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: NORRBOTTEN ME REQ: No 32  OIL",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "NORRBOTTEN ME REQ: No 32  OIL",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-21",
+      "note": "",
+      "createdAt": "2026-07-21T08:48:52.8330814Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJVJVBBAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJVJVBBAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7qrAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: NORRBOTTEN ME REQ: No 32  OIL",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "NORRBOTTEN ME REQ: No 32  OIL",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-21",
+      "note": "",
+      "createdAt": "2026-07-21T08:47:59.1590382Z",
+      "done": true,
+      "doneAt": "2026-07-21T08:48:52.4696764Z",
+      "outlookStatus": "completed"
+    },
+    {
+      "id": "outlook_AAJVJVBAAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJVJVBAAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60dAABYWF9qc37UTpbqyo%2B4NVKtAAAABHjKAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Sales quote Q26-009874",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "Sales quote Q26-009874",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-20",
+      "note": "",
+      "createdAt": "2026-07-21T08:31:21.4395477Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -18088,7 +18154,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-21T09:23:37.234Z",
+    "todos": "2026-07-21T09:45:49.143Z",
     "notes": "2026-07-20T21:42:41.059Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18106,6 +18172,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-20T21:42:41.059Z"
   },
-  "rev": 171,
-  "savedAt": "2026-07-21T09:23:37.239Z"
+  "rev": 172,
+  "savedAt": "2026-07-21T09:45:53.310Z"
 }
