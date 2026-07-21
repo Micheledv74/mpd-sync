@@ -1,9 +1,24 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_jcjbq8zhzw",
-  "pushedAt": "2026-07-21T22:46:09.007Z",
-  "todosCount": 202,
+  "pushedAt": "2026-07-21T22:47:11.654Z",
+  "todosCount": 203,
   "todos": [
+    {
+      "id": "td_1784674028027_u2pxq",
+      "category": "Ufficio",
+      "priority": "alta",
+      "vessel": "",
+      "action": "Controllare",
+      "reference": "Awb",
+      "tags": [],
+      "dueDate": "2026-07-21",
+      "note": "Chiedere a Claude se inserire AWB",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-07-21T22:47:08.027Z"
+    },
     {
       "category": "Nave",
       "priority": "alta",
@@ -18273,7 +18288,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-21T22:46:06.022Z",
+    "todos": "2026-07-21T22:47:11.650Z",
     "notes": "2026-07-21T12:54:42.157Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18291,6 +18306,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-21T12:55:06.025Z"
   },
-  "rev": 237,
-  "savedAt": "2026-07-21T22:46:09.007Z"
+  "rev": 238,
+  "savedAt": "2026-07-21T22:47:11.654Z"
 }
