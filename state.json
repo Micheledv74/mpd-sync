@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-21T09:23:03.958Z",
+  "pushedAt": "2026-07-21T09:23:37.239Z",
   "todosCount": 194,
   "todos": [
     {
@@ -353,11 +353,12 @@
       "action": "Inviare email",
       "dueDate": "2026-07-21",
       "note": "Indicare dove spedire",
-      "done": false,
+      "done": true,
       "createdAt": "2026-06-25T12:55:29.955Z",
-      "updatedAt": "2026-07-16T07:25:14.244Z",
+      "updatedAt": "2026-07-21T09:23:33.411Z",
       "kind": "todo",
-      "recur": null
+      "recur": null,
+      "doneAt": "2026-07-21T09:23:33.411Z"
     },
     {
       "category": "Nave",
@@ -18087,7 +18088,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-21T09:23:03.953Z",
+    "todos": "2026-07-21T09:23:37.234Z",
     "notes": "2026-07-20T21:42:41.059Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18105,6 +18106,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-20T21:42:41.059Z"
   },
-  "rev": 170,
-  "savedAt": "2026-07-21T09:23:03.958Z"
+  "rev": 171,
+  "savedAt": "2026-07-21T09:23:37.239Z"
 }
