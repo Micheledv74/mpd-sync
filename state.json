@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-21T10:01:46.825Z",
+  "pushedAt": "2026-07-21T10:01:51.396Z",
   "todosCount": 197,
   "todos": [
     {
@@ -101,8 +101,10 @@
       "note": "Global Marine Safety - America",
       "recur": null,
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-16T11:38:58.211Z"
+      "done": true,
+      "createdAt": "2026-07-16T11:38:58.211Z",
+      "doneAt": "2026-07-21T10:01:47.674Z",
+      "updatedAt": "2026-07-21T10:01:47.674Z"
     },
     {
       "category": "Email",
@@ -18173,6 +18175,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-20T21:42:41.059Z"
   },
-  "rev": 180,
-  "savedAt": "2026-07-21T10:01:46.825Z"
+  "rev": 181,
+  "savedAt": "2026-07-21T10:01:51.396Z"
 }
