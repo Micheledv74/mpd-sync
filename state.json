@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-21T08:55:40.574Z",
+  "pushedAt": "2026-07-21T08:55:57.076Z",
   "todosCount": 194,
   "todos": [
     {
@@ -4244,12 +4244,15 @@
         "outlook",
         "fornitore:LG"
       ],
-      "dueDate": "2026-07-20",
+      "dueDate": "2026-07-21",
       "note": "",
       "createdAt": "2026-07-21T06:59:14.582592Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-07-21T08:55:53.212Z"
     }
   ],
   "notes": {
@@ -18084,7 +18087,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-21T08:55:37.333Z",
+    "todos": "2026-07-21T08:55:57.071Z",
     "notes": "2026-07-20T21:42:41.059Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18102,6 +18105,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-20T21:42:41.059Z"
   },
-  "rev": 168,
-  "savedAt": "2026-07-21T08:55:40.574Z"
+  "rev": 169,
+  "savedAt": "2026-07-21T08:55:57.076Z"
 }
