@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_ex1cq6qu8y",
-  "pushedAt": "2026-07-21T14:28:33.683Z",
+  "pushedAt": "2026-07-21T14:32:43.695Z",
   "todosCount": 199,
   "todos": [
     {
@@ -4335,20 +4335,20 @@
       "updatedAt": "2026-07-21T12:42:58.114Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "NORRBOTTEN - Chains for bottom doors",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJVJVBEAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJVJVBEAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7qwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "I: NORRBOTTEN - Chains for bottom doors",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "NORRBOTTEN - Chains for bottom doors",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-07-21",
       "note": "",
       "createdAt": "2026-07-21T14:13:31.7631449Z",
@@ -4357,20 +4357,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "NORRBOTTEN ME REQ: No 46  OIL",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJVJVBDAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJVJVBDAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJVJEISAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: NORRBOTTEN ME REQ: No 46  OIL",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "NORRBOTTEN ME REQ: No 46  OIL",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-07-21",
       "note": "",
       "createdAt": "2026-07-21T13:30:06.582943Z",
@@ -18236,7 +18236,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-21T14:28:29.590Z",
+    "todos": "2026-07-21T14:32:40.607Z",
     "notes": "2026-07-21T12:54:42.157Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18254,6 +18254,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-21T12:55:06.025Z"
   },
-  "rev": 223,
-  "savedAt": "2026-07-21T14:28:33.683Z"
+  "rev": 224,
+  "savedAt": "2026-07-21T14:32:43.695Z"
 }
