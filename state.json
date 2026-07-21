@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-21T12:54:42.162Z",
+  "pushedAt": "2026-07-21T12:55:06.029Z",
   "todosCount": 197,
   "todos": [
     {
@@ -18180,6 +18180,10 @@
     "peppino::hatch covers cleats": {
       "excludePerf": true,
       "excludeReason": "strategic"
+    },
+    "med toscana::rki bump kit with gas botle 45 gases 1set": {
+      "excludePerf": true,
+      "excludeReason": "strategic"
     }
   },
   "collMeta": {
@@ -18199,8 +18203,8 @@
     "supplierProfiles": "2026-07-20T21:42:41.059Z",
     "agencyProfiles": "2026-07-20T21:42:41.059Z",
     "worldClockCities": "2026-07-20T21:42:41.059Z",
-    "itemOverrides": "2026-07-21T12:46:48.421Z"
+    "itemOverrides": "2026-07-21T12:55:06.025Z"
   },
-  "rev": 208,
-  "savedAt": "2026-07-21T12:54:42.162Z"
+  "rev": 209,
+  "savedAt": "2026-07-21T12:55:06.029Z"
 }
