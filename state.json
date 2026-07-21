@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_ex1cq6qu8y",
-  "pushedAt": "2026-07-21T05:53:08.168Z",
+  "pushedAt": "2026-07-21T05:53:30.254Z",
   "todosCount": 192,
   "todos": [
     {
@@ -4200,8 +4200,8 @@
       "dueDate": "2026-07-20",
       "note": "",
       "createdAt": "2026-07-20T13:48:58.5344497Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-21T05:53:26.466Z",
       "outlookStatus": "notStarted"
     }
   ],
@@ -18030,7 +18030,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-21T05:52:41.240Z",
+    "todos": "2026-07-21T05:53:30.244Z",
     "notes": "2026-07-20T21:42:41.059Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18048,6 +18048,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-20T21:42:41.059Z"
   },
-  "rev": 159,
-  "savedAt": "2026-07-21T05:53:08.168Z"
+  "rev": 160,
+  "savedAt": "2026-07-21T05:53:30.254Z"
 }
