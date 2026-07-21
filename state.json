@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
-  "deviceId": "dev_jcjbq8zhzw",
-  "pushedAt": "2026-07-21T08:20:37.827Z",
+  "deviceId": "dev_a1lys50jni",
+  "pushedAt": "2026-07-21T08:51:57.390Z",
   "todosCount": 194,
   "todos": [
     {
@@ -4147,12 +4147,15 @@
       "outlookLinkedName": "I: M/V PEPPINO - Action required: Please update onboard inventory in Infoship",
       "vessel": "peppino",
       "action": "Altro",
-      "dueDate": "2026-07-20",
+      "dueDate": "2026-07-22",
       "note": "",
       "createdAt": "2026-07-20T12:54:44.030671Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-07-21T08:51:54.001Z"
     },
     {
       "category": "Nave",
@@ -18070,7 +18073,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-21T08:20:35.052Z",
+    "todos": "2026-07-21T08:51:57.384Z",
     "notes": "2026-07-20T21:42:41.059Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18088,6 +18091,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-20T21:42:41.059Z"
   },
-  "rev": 165,
-  "savedAt": "2026-07-21T08:20:37.827Z"
+  "rev": 166,
+  "savedAt": "2026-07-21T08:51:57.390Z"
 }
