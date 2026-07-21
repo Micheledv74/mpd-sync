@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-21T13:27:44.412Z",
+  "pushedAt": "2026-07-21T14:18:44.904Z",
   "todosCount": 197,
   "todos": [
     {
@@ -16503,10 +16503,10 @@
       "current": {
         "id": "vmrs5r2wte7fu",
         "from": "Houston",
-        "to": "AGW WP, KANDLA",
+        "to": "Kandla",
         "etd": "",
         "etb": "",
-        "eta": "2026-08-24T07:00",
+        "eta": "2026-08-24T07:30",
         "agency": {
           "name": "Atlantic Global Shipping Pvt Ltd.",
           "contacts": "DEVRAJ SONAWANE\nManager - Bulk Ops\n\nMobile:\n\n+91 8828433486\n\nPhone:\n+91 22 66677462\n\nEmail:\nind-bulk@atlanticglobalshipping.com\n\nSecondary Contact\n\nAJINKYA DHAMALE\nSenior Manager - Bulk Ops\n\nMobile:\n+91 8828435238\n\nPhone:\n+91 22 66677463\n\nEmail:\nind-bulk@atlanticglobalshipping.com\n\nWeb:\nwww.sunrichgroup.com / www.atlanticglobalshipping.com\nAddress:\n5th & 8th Floor, Ashford Centre, Shankarrao Naram Marg, Lower Parel (W), Opp. Peninsula Corporate Park, Mumbai 400013 - Maharashtra, India."
@@ -16521,7 +16521,8 @@
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-07-19T18:57:27.677Z"
+      "updatedAt": "2026-07-21T14:18:41.416Z",
+      "fromNoon": "2026-07-20"
     },
     "norrbotten": {
       "status": "drydock",
@@ -18199,7 +18200,7 @@
     "supplierTimezones": "2026-07-20T21:42:41.059Z",
     "supplierLanguages": "2026-07-20T21:42:41.059Z",
     "certificates": "2026-07-20T21:42:41.059Z",
-    "voyages": "2026-07-20T21:52:28.234Z",
+    "voyages": "2026-07-21T14:18:43.649Z",
     "outlookCompletionQueue": "2026-07-21T10:18:10.559Z",
     "manualOrders": "2026-07-20T21:42:41.059Z",
     "deliveries": "2026-07-20T21:42:41.059Z",
@@ -18209,6 +18210,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-21T12:55:06.025Z"
   },
-  "rev": 221,
-  "savedAt": "2026-07-21T13:27:44.412Z"
+  "rev": 222,
+  "savedAt": "2026-07-21T14:18:44.904Z"
 }
