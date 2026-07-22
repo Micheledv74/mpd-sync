@@ -1,9 +1,29 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-22T15:19:55.417Z",
-  "todosCount": 211,
+  "pushedAt": "2026-07-22T15:21:28.460Z",
+  "todosCount": 212,
   "todos": [
+    {
+      "id": "td_1784733684775_j4b8o",
+      "category": "Ufficio",
+      "priority": "media",
+      "vessel": "",
+      "action": "Documentare",
+      "reference": "Rispondere a Umberto D'Amato — I: FOBAS - Vessel: Peppino, Grade RMG380-VLS, Status <GREEN>, Port Singapore, Bunker Date 2026-07-17",
+      "tags": [
+        "email",
+        "sssdam.com"
+      ],
+      "dueDate": "2026-07-23",
+      "note": "Dear Captain & Chief Engineer Pls find attached latest FO sample analysis report, all parameters are well within limits, always follow Fobas instructions and use Octamar additive as usual, Many Thanks + Kind Regards Ing. Umberto d’Amato - DPA",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0geaAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: FOBAS - Vessel: Peppino, Grade RMG380-VLS, Status <GREEN>, Port Singapore, Bunker Date 2026-07-17",
+      "done": false,
+      "createdAt": "2026-07-22T15:21:24.775Z"
+    },
     {
       "id": "td_1784733591488_38aiy",
       "category": "Ufficio",
@@ -18565,7 +18585,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-22T15:19:55.413Z",
+    "todos": "2026-07-22T15:21:28.455Z",
     "notes": "2026-07-21T12:54:42.157Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18583,6 +18603,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-21T12:55:06.025Z"
   },
-  "rev": 271,
-  "savedAt": "2026-07-22T15:19:55.417Z"
+  "rev": 272,
+  "savedAt": "2026-07-22T15:21:28.460Z"
 }
