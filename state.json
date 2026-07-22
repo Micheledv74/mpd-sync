@@ -1,19 +1,19 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-22T22:27:24.264Z",
+  "pushedAt": "2026-07-22T22:27:37.957Z",
   "todosCount": 213,
   "todos": [
     {
-      "id": "td_1784758729422_w6d40",
       "category": "Nave",
       "priority": "media",
-      "vessel": "medtoscana",
-      "action": "Controllare",
       "reference": "BWTS SUCTION PUMP MN 40-125 · HAKEPA SRL · 2026-MDT-HQPO-00078",
       "tags": [
         "engine"
       ],
+      "id": "td_1784758729422_w6d40",
+      "vessel": "medtoscana",
+      "action": "Controllare",
       "dueDate": "2026-07-22",
       "note": "",
       "recur": null,
@@ -18903,7 +18903,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-22T22:18:52.965Z",
+    "todos": "2026-07-22T22:27:31.096Z",
     "notes": "2026-07-22T18:57:31.789Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -18923,6 +18923,6 @@
     "repliesDismissed": "2026-07-22T18:59:34.361Z",
     "shipments": "2026-07-22T22:20:54.551Z"
   },
-  "rev": 391,
-  "savedAt": "2026-07-22T22:27:24.264Z"
+  "rev": 392,
+  "savedAt": "2026-07-22T22:27:37.958Z"
 }
