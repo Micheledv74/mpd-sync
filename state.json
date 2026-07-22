@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-22T14:39:29.126Z",
+  "pushedAt": "2026-07-22T14:39:58.403Z",
   "todosCount": 206,
   "todos": [
     {
@@ -4307,12 +4307,12 @@
       "dueDate": "2026-07-22",
       "note": "",
       "createdAt": "2026-07-21T06:59:14.582592Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-22T14:39:54.537Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-21T10:18:21.866Z"
+      "updatedAt": "2026-07-22T14:39:54.537Z"
     },
     {
       "category": "Nave",
@@ -17572,6 +17572,13 @@
       "completedAt": "2026-07-22T14:38:29.469Z",
       "todoId": "outlook_AAJIqr3LAAA=",
       "title": "M/V MED LIGURIA  PR36  HQRQ-00115  MLG-SHPR-00036  GEORGE MENABONI SRL"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJVJVA_AAA=",
+      "listId": "",
+      "completedAt": "2026-07-22T14:39:54.538Z",
+      "todoId": "outlook_AAJVJVA_AAA=",
+      "title": "M/V MED LIGURIA  PO51  HQPO-00051  MLG-HQPO-00051  LG Marine Services(HK) Co.,Limited"
     }
   ],
   "manualOrders": {
@@ -18414,7 +18421,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-22T14:39:29.119Z",
+    "todos": "2026-07-22T14:39:58.398Z",
     "notes": "2026-07-21T12:54:42.157Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18423,7 +18430,7 @@
     "supplierLanguages": "2026-07-20T21:42:41.059Z",
     "certificates": "2026-07-21T14:59:38.353Z",
     "voyages": "2026-07-21T14:18:43.649Z",
-    "outlookCompletionQueue": "2026-07-22T14:38:32.244Z",
+    "outlookCompletionQueue": "2026-07-22T14:39:58.398Z",
     "manualOrders": "2026-07-20T21:42:41.059Z",
     "deliveries": "2026-07-20T21:42:41.059Z",
     "vesselPos": "2026-07-20T21:42:41.059Z",
@@ -18432,6 +18439,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-21T12:55:06.025Z"
   },
-  "rev": 255,
-  "savedAt": "2026-07-22T14:39:29.127Z"
+  "rev": 256,
+  "savedAt": "2026-07-22T14:39:58.403Z"
 }
