@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-22T22:00:18.566Z",
+  "pushedAt": "2026-07-22T22:10:06.427Z",
   "todosCount": 212,
   "todos": [
     {
@@ -18827,7 +18827,22 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALU_6IJox-lKj-BuGuu8y6U=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFGwt37-G7RJtfvd-t2y_yM="
   ],
-  "shipments": {},
+  "shipments": {
+    "med toscana::bwts suction pump mn 40125": [
+      {
+        "id": "shmrwmy9biacs",
+        "route": "supplier-hub",
+        "carrier": "Altro",
+        "hub": "",
+        "number": "38 2166 9040",
+        "status": "pending",
+        "pickup": "2026-07-22",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-07-22T22:10:00.750Z"
+      }
+    ]
+  },
   "sourceDevice": {
     "id": "dev_a1lys50jni",
     "name": "PC Windows",
@@ -18851,8 +18866,9 @@
     "agencyProfiles": "2026-07-22T18:57:31.789Z",
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-22T18:57:31.789Z",
-    "repliesDismissed": "2026-07-22T18:59:34.361Z"
+    "repliesDismissed": "2026-07-22T18:59:34.361Z",
+    "shipments": "2026-07-22T22:10:01.462Z"
   },
-  "rev": 377,
-  "savedAt": "2026-07-22T22:00:18.567Z"
+  "rev": 378,
+  "savedAt": "2026-07-22T22:10:06.428Z"
 }
