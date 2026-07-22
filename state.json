@@ -1,9 +1,29 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-22T08:11:04.055Z",
-  "todosCount": 205,
+  "pushedAt": "2026-07-22T08:11:18.551Z",
+  "todosCount": 206,
   "todos": [
+    {
+      "id": "td_1784707874702_lante",
+      "category": "Ufficio",
+      "priority": "media",
+      "vessel": "",
+      "action": "Inviare email",
+      "reference": "Rispondere a Pasquale Esposito — Fw: MV Med Toscana - DECKMA, Calibration Certificate",
+      "tags": [
+        "email",
+        "sssdam.com"
+      ],
+      "dueDate": "2026-07-22",
+      "note": "Da mettere nei certificati Inviato da Outlook per Android ________________________________ Da: MED TOSCANA <medtoscana@shipsemail.it> Inviato: Martedì, Luglio 21, 2026 9:14:20 PM A: Pasquale Esposito <pesposito@sssdam.com> Cc: Giuseppe Aiello <g",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0geEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Fw: MV Med Toscana - DECKMA, Calibration Certificate",
+      "done": false,
+      "createdAt": "2026-07-22T08:11:14.702Z"
+    },
     {
       "id": "td_1784674028027_u2pxq",
       "category": "Ufficio",
@@ -18353,7 +18373,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-22T08:11:04.051Z",
+    "todos": "2026-07-22T08:11:18.547Z",
     "notes": "2026-07-21T12:54:42.157Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18371,6 +18391,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-21T12:55:06.025Z"
   },
-  "rev": 240,
-  "savedAt": "2026-07-22T08:11:04.055Z"
+  "rev": 241,
+  "savedAt": "2026-07-22T08:11:18.551Z"
 }
