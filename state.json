@@ -1,9 +1,71 @@
 {
   "schemaVersion": "1.3",
-  "deviceId": "dev_ex1cq6qu8y",
-  "pushedAt": "2026-07-22T18:26:31.736Z",
+  "deviceId": "dev_a1lys50jni",
+  "pushedAt": "2026-07-22T18:26:26.187Z",
   "todosCount": 212,
   "todos": [
+    {
+      "category": "Ufficio",
+      "priority": "media",
+      "reference": "Rispondere a Umberto D'Amato — I: FOBAS - Vessel: Peppino, Grade RMG380-VLS, Status <GREEN>, Port Singapore, Bunker Date 2026-07-17",
+      "tags": [
+        "email",
+        "sssdam.com"
+      ],
+      "id": "td_1784733684775_j4b8o",
+      "vessel": "",
+      "action": "Documentare",
+      "dueDate": "2026-07-23",
+      "note": "Dear Captain & Chief Engineer Pls find attached latest FO sample analysis report, all parameters are well within limits, always follow Fobas instructions and use Octamar additive as usual, Many Thanks + Kind Regards Ing. Umberto d’Amato - DPA",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0geaAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: FOBAS - Vessel: Peppino, Grade RMG380-VLS, Status <GREEN>, Port Singapore, Bunker Date 2026-07-17",
+      "done": false,
+      "createdAt": "2026-07-22T15:21:24.775Z"
+    },
+    {
+      "category": "Ufficio",
+      "priority": "media",
+      "reference": "Rispondere a RK MARINE SERVICE INDIA — Re: M/V MED TOSCANA - High-pressure Pump",
+      "tags": [
+        "email",
+        "gmail.com"
+      ],
+      "id": "td_1784733591488_38aiy",
+      "vessel": "",
+      "action": "Controllare",
+      "dueDate": "2026-07-23",
+      "note": "Respected, Michele del vecchio & Pasquale Esposito Greetings from RK MARINE SERVICE INDIA Dear Sir We can offer Danfoss PAH 80 High Pressure Tap Water Pump 180B0041 Technical Data Brand: Danfoss Type: PAH 80 Code No: 180B0041 Flow [gpm] [Max]: 3",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0gejAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Re: M/V MED TOSCANA - High-pressure Pump",
+      "done": false,
+      "createdAt": "2026-07-22T15:19:51.488Z"
+    },
+    {
+      "category": "Ufficio",
+      "priority": "media",
+      "reference": "Rispondere a Pasquale Esposito — Fw: MV Med Toscana - DECKMA, Calibration Certificate",
+      "tags": [
+        "email",
+        "sssdam.com"
+      ],
+      "id": "td_1784707874702_lante",
+      "vessel": "",
+      "action": "Inviare email",
+      "dueDate": "2026-07-22",
+      "note": "Da mettere nei certificati Inviato da Outlook per Android ________________________________ Da: MED TOSCANA <medtoscana@shipsemail.it> Inviato: Martedì, Luglio 21, 2026 9:14:20 PM A: Pasquale Esposito <pesposito@sssdam.com> Cc: Giuseppe Aiello <g",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0geEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Fw: MV Med Toscana - DECKMA, Calibration Certificate",
+      "done": true,
+      "createdAt": "2026-07-22T08:11:14.702Z",
+      "doneAt": "2026-07-22T15:18:33.610Z",
+      "updatedAt": "2026-07-22T15:18:33.610Z"
+    },
     {
       "category": "Ufficio",
       "priority": "alta",
@@ -4217,7 +4279,10 @@
       "createdAt": "2026-07-20T13:50:41.3564737Z",
       "done": true,
       "doneAt": "2026-07-22T07:19:55.0949336Z",
-      "outlookStatus": "completed"
+      "outlookStatus": "completed",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-07-21T08:53:35.737Z"
     },
     {
       "category": "Nave",
@@ -4462,6 +4527,56 @@
     {
       "category": "Nave",
       "priority": "media",
+      "reference": "Norrbotten Coveralls",
+      "tags": [
+        "outlook"
+      ],
+      "id": "outlook_AAJV0oTrAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oTrAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJV0xmbAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Norrbotten Coveralls",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "dueDate": "2026-07-22",
+      "note": "",
+      "createdAt": "2026-07-22T08:10:55.4577489Z",
+      "done": true,
+      "doneAt": "2026-07-22T15:16:25.520Z",
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-07-22T15:16:25.520Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO - Action required: Please update onboard inventory in Infoship",
+      "tags": [
+        "outlook"
+      ],
+      "id": "outlook_AAJV0oTqAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oTqAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJV0uDkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: M/V PEPPINO - Action required: Please update onboard inventory in Infoship",
+      "vessel": "peppino",
+      "action": "Altro",
+      "dueDate": "2026-07-23",
+      "note": "",
+      "createdAt": "2026-07-22T07:03:59.9262583Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-07-22T15:18:04.194Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
       "reference": "M/V MED TOSCANA - High-pressure Pump",
       "tags": [
         "outlook"
@@ -4554,118 +4669,6 @@
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "Norrbotten Coveralls",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJV0oTrAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oTrAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJV0xmbAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "Norrbotten Coveralls",
-      "vessel": "norrbotten",
-      "action": "Altro",
-      "dueDate": "2026-07-22",
-      "note": "",
-      "createdAt": "2026-07-22T08:10:55.4577489Z",
-      "done": true,
-      "doneAt": "2026-07-22T15:16:25.520Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-07-22T15:16:25.520Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/V PEPPINO - Action required: Please update onboard inventory in Infoship",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJV0oTqAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oTqAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJV0uDkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "RE: M/V PEPPINO - Action required: Please update onboard inventory in Infoship",
-      "vessel": "peppino",
-      "action": "Altro",
-      "dueDate": "2026-07-23",
-      "note": "",
-      "createdAt": "2026-07-22T07:03:59.9262583Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-07-22T15:18:04.194Z"
-    },
-    {
-      "category": "Ufficio",
-      "priority": "media",
-      "reference": "Rispondere a Umberto D'Amato — I: FOBAS - Vessel: Peppino, Grade RMG380-VLS, Status <GREEN>, Port Singapore, Bunker Date 2026-07-17",
-      "tags": [
-        "email",
-        "sssdam.com"
-      ],
-      "id": "td_1784733684775_j4b8o",
-      "vessel": "",
-      "action": "Documentare",
-      "dueDate": "2026-07-23",
-      "note": "Dear Captain & Chief Engineer Pls find attached latest FO sample analysis report, all parameters are well within limits, always follow Fobas instructions and use Octamar additive as usual, Many Thanks + Kind Regards Ing. Umberto d’Amato - DPA",
-      "recur": null,
-      "kind": "todo",
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0geaAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "I: FOBAS - Vessel: Peppino, Grade RMG380-VLS, Status <GREEN>, Port Singapore, Bunker Date 2026-07-17",
-      "done": false,
-      "createdAt": "2026-07-22T15:21:24.775Z"
-    },
-    {
-      "category": "Ufficio",
-      "priority": "media",
-      "reference": "Rispondere a RK MARINE SERVICE INDIA — Re: M/V MED TOSCANA - High-pressure Pump",
-      "tags": [
-        "email",
-        "gmail.com"
-      ],
-      "id": "td_1784733591488_38aiy",
-      "vessel": "",
-      "action": "Controllare",
-      "dueDate": "2026-07-23",
-      "note": "Respected, Michele del vecchio & Pasquale Esposito Greetings from RK MARINE SERVICE INDIA Dear Sir We can offer Danfoss PAH 80 High Pressure Tap Water Pump 180B0041 Technical Data Brand: Danfoss Type: PAH 80 Code No: 180B0041 Flow [gpm] [Max]: 3",
-      "recur": null,
-      "kind": "todo",
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0gejAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "Re: M/V MED TOSCANA - High-pressure Pump",
-      "done": false,
-      "createdAt": "2026-07-22T15:19:51.488Z"
-    },
-    {
-      "category": "Ufficio",
-      "priority": "media",
-      "reference": "Rispondere a Pasquale Esposito — Fw: MV Med Toscana - DECKMA, Calibration Certificate",
-      "tags": [
-        "email",
-        "sssdam.com"
-      ],
-      "id": "td_1784707874702_lante",
-      "vessel": "",
-      "action": "Inviare email",
-      "dueDate": "2026-07-22",
-      "note": "Da mettere nei certificati Inviato da Outlook per Android ________________________________ Da: MED TOSCANA <medtoscana@shipsemail.it> Inviato: Martedì, Luglio 21, 2026 9:14:20 PM A: Pasquale Esposito <pesposito@sssdam.com> Cc: Giuseppe Aiello <g",
-      "recur": null,
-      "kind": "todo",
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0geEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "Fw: MV Med Toscana - DECKMA, Calibration Certificate",
-      "done": true,
-      "createdAt": "2026-07-22T08:11:14.702Z",
-      "doneAt": "2026-07-22T15:18:33.610Z",
-      "updatedAt": "2026-07-22T15:18:33.610Z"
     }
   ],
   "notes": {
@@ -18588,7 +18591,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-22T18:20:02.401Z",
+    "todos": "2026-07-22T18:26:26.183Z",
     "notes": "2026-07-21T12:54:42.157Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18606,6 +18609,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-21T12:55:06.025Z"
   },
-  "rev": 284,
-  "savedAt": "2026-07-22T18:26:31.737Z"
+  "rev": 285,
+  "savedAt": "2026-07-22T18:26:26.187Z"
 }
