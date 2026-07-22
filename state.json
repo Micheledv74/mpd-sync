@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-22T08:10:55.739Z",
-  "todosCount": 203,
+  "pushedAt": "2026-07-22T08:11:04.055Z",
+  "todosCount": 205,
   "todos": [
     {
       "id": "td_1784674028027_u2pxq",
@@ -4212,9 +4212,9 @@
       "dueDate": "2026-07-22",
       "note": "",
       "createdAt": "2026-07-20T13:50:41.3564737Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-07-22T07:19:55.0949336Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-07-21T08:53:35.737Z"
@@ -4447,6 +4447,50 @@
       "dueDate": "2026-07-22",
       "note": "",
       "createdAt": "2026-07-21T22:32:08.4981491Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJV0oTrAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oTrAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJV0xmbAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Norrbotten Coveralls",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "Norrbotten Coveralls",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-21",
+      "note": "",
+      "createdAt": "2026-07-22T08:10:55.4577489Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJV0oTqAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oTqAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJV0uDkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: M/V PEPPINO - Action required: Please update onboard inventory in Infoship",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO - Action required: Please update onboard inventory in Infoship",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-21",
+      "note": "",
+      "createdAt": "2026-07-22T07:03:59.9262583Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -18309,7 +18353,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-22T08:10:55.734Z",
+    "todos": "2026-07-22T08:11:04.051Z",
     "notes": "2026-07-21T12:54:42.157Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18327,6 +18371,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-21T12:55:06.025Z"
   },
-  "rev": 239,
-  "savedAt": "2026-07-22T08:10:55.739Z"
+  "rev": 240,
+  "savedAt": "2026-07-22T08:11:04.055Z"
 }
