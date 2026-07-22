@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-22T15:19:02.165Z",
+  "pushedAt": "2026-07-22T15:19:20.835Z",
   "todosCount": 210,
   "todos": [
     {
@@ -4596,9 +4596,10 @@
       "dueDate": "2026-07-22",
       "note": "",
       "createdAt": "2026-07-22T11:04:06.1719738Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-07-22T15:19:17.148Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-07-22T15:19:17.148Z"
     },
     {
       "id": "outlook_AAJV0oTsAAA=",
@@ -17695,6 +17696,13 @@
       "completedAt": "2026-07-22T15:16:25.522Z",
       "todoId": "outlook_AAJV0oTrAAA=",
       "title": "Norrbotten Coveralls"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oTtAAA=",
+      "listId": "",
+      "completedAt": "2026-07-22T15:19:17.150Z",
+      "todoId": "outlook_AAJV0oTtAAA=",
+      "title": "M/V MED LIGURIA / Xiamen Call -Request for Shipping Instructions "
     }
   ],
   "manualOrders": {
@@ -18537,7 +18545,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-22T15:19:02.160Z",
+    "todos": "2026-07-22T15:19:20.830Z",
     "notes": "2026-07-21T12:54:42.157Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18546,7 +18554,7 @@
     "supplierLanguages": "2026-07-20T21:42:41.059Z",
     "certificates": "2026-07-21T14:59:38.353Z",
     "voyages": "2026-07-21T14:18:43.649Z",
-    "outlookCompletionQueue": "2026-07-22T15:16:27.830Z",
+    "outlookCompletionQueue": "2026-07-22T15:19:20.830Z",
     "manualOrders": "2026-07-20T21:42:41.059Z",
     "deliveries": "2026-07-20T21:42:41.059Z",
     "vesselPos": "2026-07-20T21:42:41.059Z",
@@ -18555,6 +18563,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-21T12:55:06.025Z"
   },
-  "rev": 269,
-  "savedAt": "2026-07-22T15:19:02.165Z"
+  "rev": 270,
+  "savedAt": "2026-07-22T15:19:20.835Z"
 }
