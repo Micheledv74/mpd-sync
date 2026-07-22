@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-22T09:22:17.009Z",
+  "pushedAt": "2026-07-22T09:22:38.774Z",
   "todosCount": 206,
   "todos": [
     {
@@ -4399,12 +4399,15 @@
       "outlookLinkedName": "I: NORRBOTTEN - Chains for bottom doors",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-07-21",
+      "dueDate": "2026-07-22",
       "note": "",
       "createdAt": "2026-07-21T14:13:31.7631449Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-07-22T09:22:38.545Z"
     },
     {
       "category": "Nave",
@@ -4488,12 +4491,15 @@
       "tags": [
         "outlook"
       ],
-      "dueDate": "2026-07-21",
+      "dueDate": "2026-07-22",
       "note": "",
       "createdAt": "2026-07-22T08:10:55.4577489Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-07-22T09:22:34.986Z"
     },
     {
       "id": "outlook_AAJV0oTqAAA=",
@@ -18382,7 +18388,7 @@
     }
   },
   "collMeta": {
-    "todos": "2026-07-22T09:22:11.962Z",
+    "todos": "2026-07-22T09:22:38.767Z",
     "notes": "2026-07-21T12:54:42.157Z",
     "snoozed": "2026-07-20T21:42:41.059Z",
     "archivedActions": "2026-07-20T21:42:41.059Z",
@@ -18400,6 +18406,6 @@
     "worldClockCities": "2026-07-20T21:42:41.059Z",
     "itemOverrides": "2026-07-21T12:55:06.025Z"
   },
-  "rev": 244,
-  "savedAt": "2026-07-22T09:22:17.010Z"
+  "rev": 245,
+  "savedAt": "2026-07-22T09:22:38.774Z"
 }
