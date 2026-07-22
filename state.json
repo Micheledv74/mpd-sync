@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-22T18:57:27.109Z",
+  "pushedAt": "2026-07-22T18:57:32.546Z",
   "todosCount": 212,
   "todos": [
     {
@@ -18817,26 +18817,31 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALNjAjY80kyJt_24fxRtOyg=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQABKnBJIlVH5DkRaNAlRB2yw="
   ],
-  "sourceDevice": null,
-  "collMeta": {
-    "todos": "2026-07-22T18:36:38.185Z",
-    "notes": "2026-07-22T18:36:38.185Z",
-    "snoozed": "2026-07-22T18:36:38.185Z",
-    "archivedActions": "2026-07-22T18:36:38.185Z",
-    "completionsHistory": "2026-07-22T18:36:38.185Z",
-    "supplierTimezones": "2026-07-22T18:36:38.185Z",
-    "supplierLanguages": "2026-07-22T18:36:38.185Z",
-    "certificates": "2026-07-22T18:36:38.185Z",
-    "voyages": "2026-07-22T18:36:38.185Z",
-    "outlookCompletionQueue": "2026-07-22T18:36:38.185Z",
-    "manualOrders": "2026-07-22T18:36:38.185Z",
-    "deliveries": "2026-07-22T18:36:38.185Z",
-    "vesselPos": "2026-07-22T18:36:38.185Z",
-    "supplierProfiles": "2026-07-22T18:36:38.185Z",
-    "agencyProfiles": "2026-07-22T18:36:38.185Z",
-    "worldClockCities": "2026-07-22T18:36:38.185Z",
-    "itemOverrides": "2026-07-22T18:36:38.185Z"
+  "sourceDevice": {
+    "id": "dev_a1lys50jni",
+    "name": "PC Windows",
+    "ts": "2026-07-22T18:57:31.789Z"
   },
-  "rev": 355,
-  "savedAt": "2026-07-22T18:57:27.109Z"
+  "collMeta": {
+    "todos": "2026-07-22T18:57:31.789Z",
+    "notes": "2026-07-22T18:57:31.789Z",
+    "snoozed": "2026-07-22T18:57:31.789Z",
+    "archivedActions": "2026-07-22T18:57:31.789Z",
+    "completionsHistory": "2026-07-22T18:57:31.789Z",
+    "supplierTimezones": "2026-07-22T18:57:31.789Z",
+    "supplierLanguages": "2026-07-22T18:57:31.789Z",
+    "certificates": "2026-07-22T18:57:31.789Z",
+    "voyages": "2026-07-22T18:57:31.789Z",
+    "outlookCompletionQueue": "2026-07-22T18:57:31.789Z",
+    "manualOrders": "2026-07-22T18:57:31.789Z",
+    "deliveries": "2026-07-22T18:57:31.789Z",
+    "vesselPos": "2026-07-22T18:57:31.789Z",
+    "supplierProfiles": "2026-07-22T18:57:31.789Z",
+    "agencyProfiles": "2026-07-22T18:57:31.789Z",
+    "worldClockCities": "2026-07-22T18:57:31.789Z",
+    "itemOverrides": "2026-07-22T18:57:31.789Z",
+    "repliesDismissed": "2026-07-22T18:57:31.789Z"
+  },
+  "rev": 356,
+  "savedAt": "2026-07-22T18:57:32.546Z"
 }
