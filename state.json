@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-23T15:23:37.751Z",
+  "pushedAt": "2026-07-23T15:23:49.845Z",
   "todosCount": 222,
   "todos": [
     {
@@ -9,7 +9,7 @@
       "category": "Nave",
       "priority": "media",
       "vessel": "medtoscana",
-      "action": "Telefonare",
+      "action": "Verificare",
       "reference": "Infoship",
       "tags": [],
       "dueDate": "2026-07-24",
@@ -17,7 +17,8 @@
       "recur": null,
       "kind": "todo",
       "done": false,
-      "createdAt": "2026-07-23T15:23:34.150Z"
+      "createdAt": "2026-07-23T15:23:34.150Z",
+      "updatedAt": "2026-07-23T15:23:45.678Z"
     },
     {
       "id": "td_1784819361339_ghi84",
@@ -19149,7 +19150,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-23T15:23:37.746Z",
+    "todos": "2026-07-23T15:23:49.840Z",
     "notes": "2026-07-22T18:57:31.789Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19169,6 +19170,6 @@
     "repliesDismissed": "2026-07-23T15:10:00.693Z",
     "shipments": "2026-07-23T09:10:15.614Z"
   },
-  "rev": 445,
-  "savedAt": "2026-07-23T15:23:37.752Z"
+  "rev": 446,
+  "savedAt": "2026-07-23T15:23:49.845Z"
 }
