@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-23T10:33:37.773Z",
+  "pushedAt": "2026-07-23T10:48:15.614Z",
   "todosCount": 216,
   "todos": [
     {
@@ -3724,7 +3724,7 @@
       "outlookLinkedName": "Re: MED TOSCANA - Operational Procedures for Tekomar XPERT Data Recording ",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-07-23",
+      "dueDate": "2026-07-24",
       "note": "",
       "createdAt": "2026-07-10T13:44:00.0902213Z",
       "done": false,
@@ -3732,7 +3732,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-22T14:39:09.309Z"
+      "updatedAt": "2026-07-23T10:48:11.661Z"
     },
     {
       "category": "Nave",
@@ -19011,7 +19011,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-23T10:33:37.768Z",
+    "todos": "2026-07-23T10:48:15.609Z",
     "notes": "2026-07-22T18:57:31.789Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19031,6 +19031,6 @@
     "repliesDismissed": "2026-07-23T08:37:55.011Z",
     "shipments": "2026-07-23T09:10:15.614Z"
   },
-  "rev": 425,
-  "savedAt": "2026-07-23T10:33:37.774Z"
+  "rev": 426,
+  "savedAt": "2026-07-23T10:48:15.614Z"
 }
