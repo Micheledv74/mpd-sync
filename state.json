@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-23T08:37:58.542Z",
-  "todosCount": 214,
+  "pushedAt": "2026-07-23T08:38:19.948Z",
+  "todosCount": 215,
   "todos": [
     {
       "id": "td_1784790628895_crk53",
@@ -4701,6 +4701,28 @@
       "dueDate": "2026-07-26",
       "note": "",
       "createdAt": "2026-07-22T10:45:45.6228254Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJV0oTwAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oTwAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7rDAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/B VEGA UNO, Ravenna - Richiesta disponibilità e quotazione servizi di sicurezza",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "vegauno",
+      "action": "Altro",
+      "reference": "M/B VEGA UNO, Ravenna - Richiesta disponibilità e quotazione servizi di sicurezza",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-22",
+      "note": "",
+      "createdAt": "2026-07-23T08:29:44.724056Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -18807,7 +18829,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-23T08:37:20.529Z",
+    "todos": "2026-07-23T08:38:19.944Z",
     "notes": "2026-07-22T18:57:31.789Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -18827,6 +18849,6 @@
     "repliesDismissed": "2026-07-23T08:37:55.011Z",
     "shipments": "2026-07-22T22:20:54.551Z"
   },
-  "rev": 413,
-  "savedAt": "2026-07-23T08:37:58.542Z"
+  "rev": 414,
+  "savedAt": "2026-07-23T08:38:19.948Z"
 }
