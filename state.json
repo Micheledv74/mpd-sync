@@ -1,9 +1,29 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-23T15:08:53.168Z",
-  "todosCount": 220,
+  "pushedAt": "2026-07-23T15:09:25.060Z",
+  "todosCount": 221,
   "todos": [
+    {
+      "id": "td_1784819361339_ghi84",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Aspettare risposta",
+      "reference": "Rispondere a ANCB-Riva Barbara — Re: M/V NORBOTTEN - Gas Detector",
+      "tags": [
+        "email",
+        "ancb.it"
+      ],
+      "dueDate": "2026-07-24",
+      "note": "Buon giorno gig. Del Vecchio, la ringraziamo per la sua richiesta. Le invieremo una quotazione quanto prima. -- A disposizione per ogni chiarimento si rendesse necessario / If you require any further information, feel free to contact me Cordiali sal",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0ge9AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Re: M/V NORBOTTEN - Gas Detector",
+      "done": false,
+      "createdAt": "2026-07-23T15:09:21.339Z"
+    },
     {
       "id": "td_1784798422198_r5kep",
       "category": "Nave",
@@ -19111,7 +19131,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-23T14:10:53.236Z",
+    "todos": "2026-07-23T15:09:25.055Z",
     "notes": "2026-07-22T18:57:31.789Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19131,6 +19151,6 @@
     "repliesDismissed": "2026-07-23T15:08:49.182Z",
     "shipments": "2026-07-23T09:10:15.614Z"
   },
-  "rev": 438,
-  "savedAt": "2026-07-23T15:08:53.168Z"
+  "rev": 439,
+  "savedAt": "2026-07-23T15:09:25.061Z"
 }
