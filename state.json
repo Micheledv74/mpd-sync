@@ -1,9 +1,24 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-23T15:10:33.103Z",
-  "todosCount": 221,
+  "pushedAt": "2026-07-23T15:23:37.751Z",
+  "todosCount": 222,
   "todos": [
+    {
+      "id": "td_1784820214150_8kv55",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Telefonare",
+      "reference": "Infoship",
+      "tags": [],
+      "dueDate": "2026-07-24",
+      "note": "Deck Crane and Hatch Cover",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-07-23T15:23:34.150Z"
+    },
     {
       "id": "td_1784819361339_ghi84",
       "category": "Nave",
@@ -19134,7 +19149,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-23T15:09:25.055Z",
+    "todos": "2026-07-23T15:23:37.746Z",
     "notes": "2026-07-22T18:57:31.789Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19154,6 +19169,6 @@
     "repliesDismissed": "2026-07-23T15:10:00.693Z",
     "shipments": "2026-07-23T09:10:15.614Z"
   },
-  "rev": 444,
-  "savedAt": "2026-07-23T15:10:33.103Z"
+  "rev": 445,
+  "savedAt": "2026-07-23T15:23:37.752Z"
 }
