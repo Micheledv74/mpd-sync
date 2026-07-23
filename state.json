@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_sretp6a5rn",
-  "pushedAt": "2026-07-23T19:08:28.715Z",
-  "todosCount": 222,
+  "pushedAt": "2026-07-23T19:08:34.102Z",
+  "todosCount": 223,
   "todos": [
     {
       "id": "td_1784820214150_8kv55",
@@ -4870,6 +4870,28 @@
       "dueDate": "2026-07-22",
       "note": "",
       "createdAt": "2026-07-23T10:27:51.389974Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJV0oT1AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oT1AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJV0xmxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: Norrbotten – Technician Attendance and Access Formalities at Yalova Shipyard - CAMBIO NOME E SOPRALLUOGO PER RETROFIT IMPIANTO TIMONE ",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "Norrbotten – Technician Attendance and Access Formalities at Yalova Shipyard - CAMBIO NOME E SOPRALLUOGO PER RETROFIT IMPIANTO TIMONE ",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-30",
+      "note": "",
+      "createdAt": "2026-07-23T15:28:54.1594549Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -19110,6 +19132,6 @@
     "itemOverrides": "2026-07-22T18:57:31.789Z",
     "repliesDismissed": "2026-07-23T15:10:00.693Z"
   },
-  "rev": 450,
-  "savedAt": "2026-07-23T19:08:28.715Z"
+  "rev": 451,
+  "savedAt": "2026-07-23T19:08:34.102Z"
 }
