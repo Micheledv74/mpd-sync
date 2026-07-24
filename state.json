@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-24T07:18:56.930Z",
+  "pushedAt": "2026-07-24T07:31:36.806Z",
   "todosCount": 224,
   "todos": [
     {
@@ -19130,10 +19130,28 @@
         "carrier": "DHL Express",
         "hub": "",
         "number": "3821669040",
-        "status": "in_transit",
+        "status": "delivered",
         "pickup": "2026-07-22",
         "eta": "2026-07-22",
         "events": [
+          {
+            "ts": "2026-07-23T12:27:00+02:00",
+            "place": "GENOVA - ITALY",
+            "text": "Delivered",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-07-23T10:03:00+02:00",
+            "place": "GENOA - ITALY",
+            "text": "Shipment is out with courier for delivery",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-23T08:23:00+02:00",
+            "place": "GENOA - ITALY",
+            "text": "Arrived at DHL Delivery Facility GENOA - ITALY",
+            "code": "transit"
+          },
           {
             "ts": "2026-07-23T03:56:00+02:00",
             "place": "BOLOGNA - ITALY",
@@ -19177,7 +19195,7 @@
             "code": "transit"
           }
         ],
-        "updatedAt": "2026-07-23T09:10:12.589Z"
+        "updatedAt": "2026-07-24T07:31:33.105Z"
       }
     ]
   },
@@ -19205,8 +19223,8 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-22T18:57:31.789Z",
     "repliesDismissed": "2026-07-23T15:10:00.693Z",
-    "shipments": "2026-07-23T09:10:15.614Z"
+    "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 454,
-  "savedAt": "2026-07-24T07:18:56.931Z"
+  "rev": 455,
+  "savedAt": "2026-07-24T07:31:36.806Z"
 }
