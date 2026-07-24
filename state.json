@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-24T10:12:21.381Z",
+  "pushedAt": "2026-07-24T10:12:44.110Z",
   "todosCount": 224,
   "todos": [
     {
@@ -3783,12 +3783,12 @@
       "dueDate": "2026-07-24",
       "note": "",
       "createdAt": "2026-07-10T13:44:00.0902213Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-24T10:12:40.519Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-23T10:48:11.661Z"
+      "updatedAt": "2026-07-24T10:12:40.520Z"
     },
     {
       "category": "Nave",
@@ -18049,6 +18049,13 @@
       "completedAt": "2026-07-24T10:09:53.121Z",
       "todoId": "outlook_AAJV0oTwAAA=",
       "title": "M/B VEGA UNO, Ravenna - Richiesta disponibilità e quotazione servizi di sicurezza"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJIqr3fAAA=",
+      "listId": "",
+      "completedAt": "2026-07-24T10:12:40.521Z",
+      "todoId": "outlook_AAJIqr3fAAA=",
+      "title": "MED TOSCANA - Operational Procedures for Tekomar XPERT Data Recording"
     }
   ],
   "manualOrders": {
@@ -19234,7 +19241,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-24T10:12:21.376Z",
+    "todos": "2026-07-24T10:12:44.106Z",
     "notes": "2026-07-22T18:57:31.789Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19243,7 +19250,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-07-23T09:27:54.131Z",
-    "outlookCompletionQueue": "2026-07-24T10:09:56.337Z",
+    "outlookCompletionQueue": "2026-07-24T10:12:44.106Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-23T08:39:51.801Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -19254,6 +19261,6 @@
     "repliesDismissed": "2026-07-23T15:10:00.693Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 475,
-  "savedAt": "2026-07-24T10:12:21.382Z"
+  "rev": 476,
+  "savedAt": "2026-07-24T10:12:44.110Z"
 }
