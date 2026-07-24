@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-24T10:02:42.262Z",
+  "pushedAt": "2026-07-24T10:03:11.888Z",
   "todosCount": 224,
   "todos": [
     {
@@ -3679,7 +3679,7 @@
       "outlookLinkedName": "I: NORRBOTTEN FREEFALL & RESCUE BOAT",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-07-23",
+      "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-10T07:25:12.9439366Z",
       "done": false,
@@ -3687,7 +3687,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-22T14:39:03.686Z"
+      "updatedAt": "2026-07-24T10:03:07.998Z"
     },
     {
       "category": "Nave",
@@ -19221,7 +19221,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-24T10:02:42.257Z",
+    "todos": "2026-07-24T10:03:11.883Z",
     "notes": "2026-07-22T18:57:31.789Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19241,6 +19241,6 @@
     "repliesDismissed": "2026-07-23T15:10:00.693Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 463,
-  "savedAt": "2026-07-24T10:02:42.262Z"
+  "rev": 464,
+  "savedAt": "2026-07-24T10:03:11.888Z"
 }
