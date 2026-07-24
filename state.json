@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-24T10:09:56.345Z",
+  "pushedAt": "2026-07-24T10:10:11.198Z",
   "todosCount": 224,
   "todos": [
     {
@@ -140,14 +140,15 @@
       "id": "td_1784733591488_38aiy",
       "vessel": "",
       "action": "Controllare",
-      "dueDate": "2026-07-23",
+      "dueDate": "2026-07-27",
       "note": "Respected, Michele del vecchio & Pasquale Esposito Greetings from RK MARINE SERVICE INDIA Dear Sir We can offer Danfoss PAH 80 High Pressure Tap Water Pump 180B0041 Technical Data Brand: Danfoss Type: PAH 80 Code No: 180B0041 Flow [gpm] [Max]: 3",
       "recur": null,
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0gejAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: M/V MED TOSCANA - High-pressure Pump",
       "done": false,
-      "createdAt": "2026-07-22T15:19:51.488Z"
+      "createdAt": "2026-07-22T15:19:51.488Z",
+      "updatedAt": "2026-07-24T10:10:08.031Z"
     },
     {
       "category": "Ufficio",
@@ -19228,7 +19229,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-24T10:09:56.337Z",
+    "todos": "2026-07-24T10:10:11.191Z",
     "notes": "2026-07-22T18:57:31.789Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19248,6 +19249,6 @@
     "repliesDismissed": "2026-07-23T15:10:00.693Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 468,
-  "savedAt": "2026-07-24T10:09:56.345Z"
+  "rev": 469,
+  "savedAt": "2026-07-24T10:10:11.199Z"
 }
