@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-24T10:10:11.198Z",
+  "pushedAt": "2026-07-24T10:10:23.638Z",
   "todosCount": 224,
   "todos": [
     {
@@ -4842,12 +4842,15 @@
       "outlookLinkedName": "Re: M/V MED TOSCANA PR64 HQRQ-00127 MDT-SHPR-00064 RK MARINE SERVICE",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-07-22",
+      "dueDate": "2026-07-24",
       "note": "",
       "createdAt": "2026-07-23T13:02:25.9187539Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-07-24T10:10:19.407Z"
     },
     {
       "category": "Altro",
@@ -19229,7 +19232,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-24T10:10:11.191Z",
+    "todos": "2026-07-24T10:10:21.686Z",
     "notes": "2026-07-22T18:57:31.789Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19249,6 +19252,6 @@
     "repliesDismissed": "2026-07-23T15:10:00.693Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 469,
-  "savedAt": "2026-07-24T10:10:11.199Z"
+  "rev": 470,
+  "savedAt": "2026-07-24T10:10:23.638Z"
 }
