@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-24T14:38:39.932Z",
+  "pushedAt": "2026-07-24T14:43:30.773Z",
   "todosCount": 230,
   "todos": [
     {
@@ -17252,7 +17252,10 @@
         "etd": "",
         "etb": "",
         "eta": "2026-08-16T08:00",
-        "agency": null
+        "agency": {
+          "name": "Port Luis Shipping Agency Ltd",
+          "contacts": "As Agent ONLY\nKL Centre 101 ǀ Abattoir Road ǀ Port Louis ǀ Mauritius ǀ BRN: C10096082\nTel  : + 230 217 66 00 ǀ Fax : + 230 217 99 00 ǀ Mob: + 230 5500 2826\nEmail: sastri@portlouis-shipping.com ǀ web site: www.portlouis-shipping.com"
+        }
       },
       "next": {
         "id": "vmrywla39ctr4",
@@ -17263,7 +17266,7 @@
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-07-24T14:37:22.493Z",
+      "updatedAt": "2026-07-24T14:43:27.110Z",
       "fromNoon": "2026-07-22"
     },
     "norrbotten": {
@@ -19430,7 +19433,7 @@
     "supplierTimezones": "2026-07-22T18:57:31.789Z",
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
-    "voyages": "2026-07-24T14:37:26.078Z",
+    "voyages": "2026-07-24T14:43:30.765Z",
     "outlookCompletionQueue": "2026-07-24T10:13:31.718Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-23T08:39:51.801Z",
@@ -19442,6 +19445,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 518,
-  "savedAt": "2026-07-24T14:38:39.932Z"
+  "rev": 519,
+  "savedAt": "2026-07-24T14:43:30.773Z"
 }
