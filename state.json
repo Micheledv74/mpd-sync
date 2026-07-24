@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-24T10:11:00.254Z",
+  "pushedAt": "2026-07-24T10:12:05.573Z",
   "todosCount": 224,
   "todos": [
     {
@@ -286,14 +286,14 @@
       "tags": [],
       "id": "td_1784201941234_u2an9",
       "vessel": "medtoscana",
-      "action": "",
-      "dueDate": "2026-07-24",
+      "action": "Altro",
+      "dueDate": "2026-07-27",
       "note": "YH MARINE TRADE CO.,LTD",
       "recur": null,
       "kind": "todo",
       "done": false,
       "createdAt": "2026-07-16T11:39:01.234Z",
-      "updatedAt": "2026-07-21T10:01:43.145Z"
+      "updatedAt": "2026-07-24T10:12:01.575Z"
     },
     {
       "category": "Nave",
@@ -19234,7 +19234,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-24T10:11:00.248Z",
+    "todos": "2026-07-24T10:12:05.387Z",
     "notes": "2026-07-22T18:57:31.789Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19254,6 +19254,6 @@
     "repliesDismissed": "2026-07-23T15:10:00.693Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 472,
-  "savedAt": "2026-07-24T10:11:00.255Z"
+  "rev": 473,
+  "savedAt": "2026-07-24T10:12:05.573Z"
 }
