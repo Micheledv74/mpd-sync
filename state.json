@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-24T07:34:21.072Z",
+  "pushedAt": "2026-07-24T07:34:41.994Z",
   "todosCount": 224,
   "todos": [
     {
@@ -4820,9 +4820,10 @@
       "dueDate": "2026-07-22",
       "note": "",
       "createdAt": "2026-07-23T13:37:06.2998425Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-07-24T07:34:36.333Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-07-24T07:34:36.333Z"
     },
     {
       "category": "Nave",
@@ -18022,6 +18023,13 @@
       "completedAt": "2026-07-23T10:48:41.159Z",
       "todoId": "outlook_AAJV0oTvAAA=",
       "title": "M/V MED TOSCANA - High-pressure Pump"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oT0AAA=",
+      "listId": "",
+      "completedAt": "2026-07-24T07:34:36.334Z",
+      "todoId": "outlook_AAJV0oT0AAA=",
+      "title": "MED TOSCANA - Operational Procedures for Tekomar XPERT Data Recording "
     }
   ],
   "manualOrders": {
@@ -19207,7 +19215,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-24T07:34:18.378Z",
+    "todos": "2026-07-24T07:34:41.984Z",
     "notes": "2026-07-22T18:57:31.789Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19216,7 +19224,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-07-23T09:27:54.131Z",
-    "outlookCompletionQueue": "2026-07-23T10:48:41.232Z",
+    "outlookCompletionQueue": "2026-07-24T07:34:41.984Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-23T08:39:51.801Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -19227,6 +19235,6 @@
     "repliesDismissed": "2026-07-23T15:10:00.693Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 459,
-  "savedAt": "2026-07-24T07:34:21.073Z"
+  "rev": 460,
+  "savedAt": "2026-07-24T07:34:41.995Z"
 }
