@@ -1,9 +1,24 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-24T07:17:14.432Z",
-  "todosCount": 223,
+  "pushedAt": "2026-07-24T07:18:56.930Z",
+  "todosCount": 224,
   "todos": [
+    {
+      "id": "td_1784877533341_5cfzq",
+      "category": "Nave",
+      "priority": "alta",
+      "vessel": "medliguria",
+      "action": "Sollecitare",
+      "reference": "",
+      "tags": [],
+      "dueDate": "2026-07-31",
+      "note": "Dead Line per Hub TML 06/08/2026",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-07-24T07:18:53.341Z"
+    },
     {
       "category": "Nave",
       "priority": "media",
@@ -19172,7 +19187,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-24T07:17:11.634Z",
+    "todos": "2026-07-24T07:18:56.924Z",
     "notes": "2026-07-22T18:57:31.789Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19192,6 +19207,6 @@
     "repliesDismissed": "2026-07-23T15:10:00.693Z",
     "shipments": "2026-07-23T09:10:15.614Z"
   },
-  "rev": 453,
-  "savedAt": "2026-07-24T07:17:14.432Z"
+  "rev": 454,
+  "savedAt": "2026-07-24T07:18:56.931Z"
 }
