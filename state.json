@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-24T07:34:06.426Z",
+  "pushedAt": "2026-07-24T07:34:10.498Z",
   "todosCount": 224,
   "todos": [
     {
@@ -182,9 +182,10 @@
       "note": "Chiedere a Claude se inserire AWB",
       "recur": null,
       "kind": "todo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-07-21T22:47:08.027Z",
-      "updatedAt": "2026-07-24T07:34:02.805Z"
+      "updatedAt": "2026-07-24T07:34:06.886Z",
+      "doneAt": "2026-07-24T07:34:06.886Z"
     },
     {
       "category": "Nave",
@@ -19225,6 +19226,6 @@
     "repliesDismissed": "2026-07-23T15:10:00.693Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 456,
-  "savedAt": "2026-07-24T07:34:06.427Z"
+  "rev": 457,
+  "savedAt": "2026-07-24T07:34:10.498Z"
 }
