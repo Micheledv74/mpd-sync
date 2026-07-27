@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-27T15:02:47.613Z",
+  "pushedAt": "2026-07-27T15:02:52.346Z",
   "todosCount": 235,
   "todos": [
     {
@@ -18657,8 +18657,7 @@
     "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": {
       "mode": "manual",
       "port": "Port Luis, Mauritius",
-      "date": "2026-08-16",
-      "frozenFromVoyage": true
+      "date": "2026-08-16"
     }
   },
   "vesselPos": {
@@ -19624,6 +19623,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 571,
-  "savedAt": "2026-07-27T15:02:47.614Z"
+  "rev": 572,
+  "savedAt": "2026-07-27T15:02:52.346Z"
 }
