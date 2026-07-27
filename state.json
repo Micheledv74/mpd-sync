@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-27T14:22:05.294Z",
+  "pushedAt": "2026-07-27T14:22:12.616Z",
   "todosCount": 233,
   "todos": [
     {
@@ -4972,7 +4972,7 @@
       "outlookLinkedName": "I: M/B VEGA UNO - Revisione e collaudo estintori",
       "vessel": "vegauno",
       "action": "Altro",
-      "dueDate": "2026-07-27",
+      "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-24T13:09:28.3485228Z",
       "done": false,
@@ -4980,7 +4980,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-24T13:21:17.576Z"
+      "updatedAt": "2026-07-27T14:22:09.103Z"
     },
     {
       "category": "Nave",
@@ -19532,7 +19532,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-27T14:22:05.289Z",
+    "todos": "2026-07-27T14:22:12.610Z",
     "notes": "2026-07-27T07:21:54.423Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19552,6 +19552,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 547,
-  "savedAt": "2026-07-27T14:22:05.294Z"
+  "rev": 548,
+  "savedAt": "2026-07-27T14:22:12.616Z"
 }
