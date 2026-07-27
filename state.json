@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-27T14:15:35.961Z",
+  "pushedAt": "2026-07-27T14:20:20.452Z",
   "todosCount": 233,
   "todos": [
     {
@@ -4779,12 +4779,12 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-22T10:45:45.6228254Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-27T14:20:16.820Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-24T13:21:58.545Z"
+      "updatedAt": "2026-07-27T14:20:16.820Z"
     },
     {
       "category": "Nave",
@@ -4903,12 +4903,12 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-23T10:27:51.389974Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-27T14:20:19.932Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-24T10:02:38.396Z"
+      "updatedAt": "2026-07-27T14:20:19.932Z"
     },
     {
       "category": "Nave",
@@ -18314,6 +18314,20 @@
       "completedAt": "2026-07-27T14:14:54.605Z",
       "todoId": "outlook_AAJIqr3UAAA=",
       "title": "NORRBOTTEN HYDRAULIC SPARE PARTS"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oTsAAA=",
+      "listId": "",
+      "completedAt": "2026-07-27T14:20:16.822Z",
+      "todoId": "outlook_AAJV0oTsAAA=",
+      "title": "R: R: M/V MED TOSCANA  PR66  HQPO-00081  MDT-SHPR-00066  YH MARINE TRADE CO.,LTD"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oTxAAA=",
+      "listId": "",
+      "completedAt": "2026-07-27T14:20:19.933Z",
+      "todoId": "outlook_AAJV0oTxAAA=",
+      "title": "M/V NORBOTTEN - Gas Detector"
     }
   ],
   "manualOrders": {
@@ -19511,7 +19525,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-27T14:15:35.952Z",
+    "todos": "2026-07-27T14:20:20.446Z",
     "notes": "2026-07-27T07:21:54.423Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19520,7 +19534,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-07-27T08:03:16.550Z",
-    "outlookCompletionQueue": "2026-07-27T14:14:58.547Z",
+    "outlookCompletionQueue": "2026-07-27T14:20:20.446Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-23T08:39:51.801Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -19531,6 +19545,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 541,
-  "savedAt": "2026-07-27T14:15:35.961Z"
+  "rev": 542,
+  "savedAt": "2026-07-27T14:20:20.452Z"
 }
