@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-27T14:22:35.033Z",
+  "pushedAt": "2026-07-27T14:22:44.304Z",
   "todosCount": 233,
   "todos": [
     {
@@ -5025,12 +5025,12 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-24T13:07:37.4447089Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-27T14:22:42.112Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-24T13:21:03.784Z"
+      "updatedAt": "2026-07-27T14:22:42.112Z"
     },
     {
       "category": "Nave",
@@ -18335,6 +18335,13 @@
       "completedAt": "2026-07-27T14:21:54.951Z",
       "todoId": "outlook_AAJV0oTyAAA=",
       "title": "M/V NORBOTTEN - Gas Detector"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJXWl8sAAA=",
+      "listId": "",
+      "completedAt": "2026-07-27T14:22:42.113Z",
+      "todoId": "outlook_AAJXWl8sAAA=",
+      "title": "M/B VEGA UNO - Revisione e collaudo estintori"
     }
   ],
   "manualOrders": {
@@ -19532,7 +19539,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-27T14:22:35.023Z",
+    "todos": "2026-07-27T14:22:44.295Z",
     "notes": "2026-07-27T07:21:54.423Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19541,7 +19548,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-07-27T08:03:16.550Z",
-    "outlookCompletionQueue": "2026-07-27T14:21:58.633Z",
+    "outlookCompletionQueue": "2026-07-27T14:22:44.295Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-23T08:39:51.801Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -19552,6 +19559,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 549,
-  "savedAt": "2026-07-27T14:22:35.033Z"
+  "rev": 550,
+  "savedAt": "2026-07-27T14:22:44.304Z"
 }
