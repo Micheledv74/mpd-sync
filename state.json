@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-24T15:25:09.919Z",
+  "pushedAt": "2026-07-27T07:21:57.358Z",
   "todosCount": 230,
   "todos": [
     {
-      "id": "td_1784877533341_5cfzq",
       "category": "Nave",
       "priority": "alta",
-      "vessel": "medliguria",
-      "action": "Sollecitare",
       "reference": "",
       "tags": [],
+      "id": "td_1784877533341_5cfzq",
+      "vessel": "medliguria",
+      "action": "Sollecitare",
       "dueDate": "2026-07-31",
       "note": "Dead Line per Hub TML 06/08/2026",
       "recur": null,
@@ -4909,20 +4909,20 @@
       "updatedAt": "2026-07-24T10:02:38.396Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "Norrbotten – Technician Attendance and Access Formalities at Yalova Shipyard - CAMBIO NOME E SOPRALLUOGO PER RETROFIT IMPIANTO TIMONE ",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJV0oT1AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oT1AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJV0xmxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: Norrbotten – Technician Attendance and Access Formalities at Yalova Shipyard - CAMBIO NOME E SOPRALLUOGO PER RETROFIT IMPIANTO TIMONE ",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "Norrbotten – Technician Attendance and Access Formalities at Yalova Shipyard - CAMBIO NOME E SOPRALLUOGO PER RETROFIT IMPIANTO TIMONE ",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-23T15:28:54.1594549Z",
@@ -4931,20 +4931,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/B VEGA UNO, Ravenna - Richiesta disponibilità e quotazione servizi di sicurezza",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJXWl8vAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJXWl8vAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7rZAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "I: M/B VEGA UNO, Ravenna - Richiesta disponibilità e quotazione servizi di sicurezza",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "vegauno",
       "action": "Altro",
-      "reference": "M/B VEGA UNO, Ravenna - Richiesta disponibilità e quotazione servizi di sicurezza",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-24T13:13:21.1043062Z",
@@ -4956,20 +4956,20 @@
       "updatedAt": "2026-07-24T13:21:22.464Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/B VEGA UNO - Revisione e collaudo estintori",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJXWl8uAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJXWl8uAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7rYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "I: M/B VEGA UNO - Revisione e collaudo estintori",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "vegauno",
       "action": "Altro",
-      "reference": "M/B VEGA UNO - Revisione e collaudo estintori",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-24T13:09:28.3485228Z",
@@ -4981,20 +4981,20 @@
       "updatedAt": "2026-07-24T13:21:17.576Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/B VEGA UNO - Revisione e collaudo estintori",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJXWl8tAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJXWl8tAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7rXAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/B VEGA UNO - Revisione e collaudo estintori",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "vegauno",
       "action": "Altro",
-      "reference": "M/B VEGA UNO - Revisione e collaudo estintori",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-24T13:07:38.3997341Z",
@@ -5006,20 +5006,20 @@
       "updatedAt": "2026-07-24T13:21:09.096Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/B VEGA UNO - Revisione e collaudo estintori",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJXWl8sAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJXWl8sAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7rWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/B VEGA UNO - Revisione e collaudo estintori",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "vegauno",
       "action": "Altro",
-      "reference": "M/B VEGA UNO - Revisione e collaudo estintori",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-24T13:07:37.4447089Z",
@@ -5031,21 +5031,21 @@
       "updatedAt": "2026-07-24T13:21:03.784Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED TOSCANA PR64 HQRQ-00127 MDT-SHPR-00064 RK MARINE SERVICE",
+      "tags": [
+        "outlook",
+        "fornitore:RK"
+      ],
       "id": "outlook_AAJXWl8rAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJXWl8rAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAJXWhtOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: M/V MED TOSCANA PR64 HQRQ-00127 MDT-SHPR-00064 RK MARINE SERVICE",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "M/V MED TOSCANA PR64 HQRQ-00127 MDT-SHPR-00064 RK MARINE SERVICE",
-      "tags": [
-        "outlook",
-        "fornitore:RK"
-      ],
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-24T10:15:18.5087485Z",
@@ -5057,20 +5057,20 @@
       "updatedAt": "2026-07-24T13:21:41.537Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/B VEGA UNO, Ravenna - Richiesta disponibilità e quotazione servizi di sicurezza",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJXWl8qAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJXWl8qAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7rSAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: M/B VEGA UNO, Ravenna - Richiesta disponibilità e quotazione servizi di sicurezza",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "vegauno",
       "action": "Altro",
-      "reference": "M/B VEGA UNO, Ravenna - Richiesta disponibilità e quotazione servizi di sicurezza",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-24T10:11:44.6125057Z",
@@ -5105,7 +5105,8 @@
     "med toscana::rki bump kit with gas botle 45 gases 1set": "Non fornito in America /Houston\nVedere altrove ->viaggio",
     "peppino::hatch covers cleats": "Pronta x PO",
     "peppino::spa req charging & discharging panel": "Pronta x PO",
-    "peppino::spa req transportable pump unit top urgent": "Pronta x PO"
+    "peppino::spa req transportable pump unit top urgent": "Pronta x PO",
+    "med toscana::hanla level c/h water ingress system sensor": "Ritardo"
   },
   "snoozed": {
     "todo:td_1780846490055_byv9f": "2026-06-22",
@@ -19425,8 +19426,8 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-24T15:25:09.898Z",
-    "notes": "2026-07-24T13:55:16.211Z",
+    "todos": "2026-07-27T07:21:53.054Z",
+    "notes": "2026-07-27T07:21:54.423Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
     "completionsHistory": "2026-07-22T18:57:31.789Z",
@@ -19445,6 +19446,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 520,
-  "savedAt": "2026-07-24T15:25:09.919Z"
+  "rev": 521,
+  "savedAt": "2026-07-27T07:21:57.358Z"
 }
