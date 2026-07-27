@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-27T14:41:53.357Z",
+  "pushedAt": "2026-07-27T14:42:08.802Z",
   "todosCount": 235,
   "todos": [
     {
@@ -5176,20 +5176,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "M/V NORBOTTEN - Gas Detector",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJY7qC4AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC4AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7rgAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: M/V NORBOTTEN - Gas Detector",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "M/V NORBOTTEN - Gas Detector",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-27T14:14:11.4610112Z",
@@ -18400,20 +18400,28 @@
       "frozenFromVoyage": true
     },
     "peppino::liferaft exchange": {
-      "mode": "voyage",
-      "leg": "next"
+      "mode": "manual",
+      "port": "",
+      "date": "",
+      "frozenFromVoyage": true
     },
     "med toscana::cfr publication 2026mdt292026": {
-      "mode": "voyage",
-      "leg": "current"
+      "mode": "manual",
+      "port": "Port Luis, Mauritius",
+      "date": "2026-08-16",
+      "frozenFromVoyage": true
     },
     "med toscana::portable gas detector & bump test kit with botle og gases": {
-      "mode": "voyage",
-      "leg": "current"
+      "mode": "manual",
+      "port": "Port Luis, Mauritius",
+      "date": "2026-08-16",
+      "frozenFromVoyage": true
     },
     "med toscana::bilge separetor": {
-      "mode": "voyage",
-      "leg": "current"
+      "mode": "manual",
+      "port": "Port Luis, Mauritius",
+      "date": "2026-08-16",
+      "frozenFromVoyage": true
     },
     "peppino::messanger line for mooring rope": {
       "mode": "manual",
@@ -18422,16 +18430,22 @@
       "frozenFromVoyage": true
     },
     "peppino::lubrication oil": {
-      "mode": "voyage",
-      "leg": "next"
+      "mode": "manual",
+      "port": "",
+      "date": "",
+      "frozenFromVoyage": true
     },
     "peppino::spa req aux engine doosanman diesel 5l23/30hx720rpm": {
-      "mode": "voyage",
-      "leg": "next"
+      "mode": "manual",
+      "port": "",
+      "date": "",
+      "frozenFromVoyage": true
     },
     "peppino::spa req rescue boat electric source switch": {
-      "mode": "voyage",
-      "leg": "next"
+      "mode": "manual",
+      "port": "",
+      "date": "",
+      "frozenFromVoyage": true
     },
     "peppino::doosan man diesel 5l23/30h x 720rpm auxilliary generator": {
       "mode": "manual",
@@ -18445,12 +18459,16 @@
       "date": "2026-06-29"
     },
     "med toscana::urgently original headset/accessory/ garniture for icom icf61 fireman": {
-      "mode": "voyage",
-      "leg": "current"
+      "mode": "manual",
+      "port": "Port Luis, Mauritius",
+      "date": "2026-08-16",
+      "frozenFromVoyage": true
     },
     "med toscana::gulf marine lubricant": {
-      "mode": "voyage",
-      "leg": "current"
+      "mode": "manual",
+      "port": "Port Luis, Mauritius",
+      "date": "2026-08-16",
+      "frozenFromVoyage": true
     },
     "peppino::electrical store for maintenance urgent": {
       "mode": "manual",
@@ -19585,7 +19603,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-27T14:41:50.307Z",
+    "todos": "2026-07-27T14:42:05.193Z",
     "notes": "2026-07-27T07:21:54.423Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19596,7 +19614,7 @@
     "voyages": "2026-07-27T08:03:16.550Z",
     "outlookCompletionQueue": "2026-07-27T14:22:44.295Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
-    "deliveries": "2026-07-27T14:30:44.649Z",
+    "deliveries": "2026-07-27T14:42:05.193Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
     "supplierProfiles": "2026-07-22T18:57:31.789Z",
     "agencyProfiles": "2026-07-22T18:57:31.789Z",
@@ -19605,6 +19623,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 557,
-  "savedAt": "2026-07-27T14:41:53.357Z"
+  "rev": 558,
+  "savedAt": "2026-07-27T14:42:08.803Z"
 }
