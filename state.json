@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-27T14:30:44.657Z",
-  "todosCount": 234,
+  "pushedAt": "2026-07-27T14:41:53.357Z",
+  "todosCount": 235,
   "todos": [
     {
       "category": "Nave",
@@ -5153,24 +5153,46 @@
       "updatedAt": "2026-07-27T14:23:08.161Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED TOSCANA PR64 HQRQ-00127 MDT-SHPR-00064 RK MARINE SERVICE",
+      "tags": [
+        "outlook",
+        "fornitore:RK"
+      ],
       "id": "outlook_AAJY7qC3AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC3AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60dAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B5OYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: M/V MED TOSCANA PR64 HQRQ-00127 MDT-SHPR-00064 RK MARINE SERVICE",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "M/V MED TOSCANA PR64 HQRQ-00127 MDT-SHPR-00064 RK MARINE SERVICE",
-      "tags": [
-        "outlook",
-        "fornitore:RK"
-      ],
       "dueDate": "2026-07-26",
       "note": "",
       "createdAt": "2026-07-27T13:09:01.8749119Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJY7qC4AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC4AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7rgAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: M/V NORBOTTEN - Gas Detector",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "M/V NORBOTTEN - Gas Detector",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-27",
+      "note": "",
+      "createdAt": "2026-07-27T14:14:11.4610112Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -19563,7 +19585,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-27T14:23:46.735Z",
+    "todos": "2026-07-27T14:41:50.307Z",
     "notes": "2026-07-27T07:21:54.423Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19583,6 +19605,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 556,
-  "savedAt": "2026-07-27T14:30:44.657Z"
+  "rev": 557,
+  "savedAt": "2026-07-27T14:41:53.357Z"
 }
