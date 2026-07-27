@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-27T14:12:53.754Z",
+  "pushedAt": "2026-07-27T14:14:17.586Z",
   "todosCount": 233,
   "todos": [
     {
@@ -293,9 +293,10 @@
       "note": "YH MARINE TRADE CO.,LTD",
       "recur": null,
       "kind": "todo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-07-16T11:39:01.234Z",
-      "updatedAt": "2026-07-27T07:34:19.936Z"
+      "updatedAt": "2026-07-27T14:14:13.673Z",
+      "doneAt": "2026-07-27T14:14:13.673Z"
     },
     {
       "category": "Nave",
@@ -19503,7 +19504,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-27T14:12:53.749Z",
+    "todos": "2026-07-27T14:14:17.580Z",
     "notes": "2026-07-27T07:21:54.423Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19523,6 +19524,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 536,
-  "savedAt": "2026-07-27T14:12:53.754Z"
+  "rev": 537,
+  "savedAt": "2026-07-27T14:14:17.586Z"
 }
