@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-27T13:57:34.616Z",
+  "pushedAt": "2026-07-27T14:12:32.840Z",
   "todosCount": 233,
   "todos": [
     {
@@ -53,9 +53,10 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0ge9AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: M/V NORBOTTEN - Gas Detector",
-      "done": false,
+      "done": true,
       "createdAt": "2026-07-23T15:09:21.339Z",
-      "updatedAt": "2026-07-24T13:20:22.823Z"
+      "updatedAt": "2026-07-27T14:12:29.120Z",
+      "doneAt": "2026-07-27T14:12:29.120Z"
     },
     {
       "category": "Nave",
@@ -19502,7 +19503,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-27T11:57:22.943Z",
+    "todos": "2026-07-27T14:12:32.833Z",
     "notes": "2026-07-27T07:21:54.423Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19522,6 +19523,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 534,
-  "savedAt": "2026-07-27T13:57:34.616Z"
+  "rev": 535,
+  "savedAt": "2026-07-27T14:12:32.840Z"
 }
