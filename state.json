@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-27T15:02:52.346Z",
+  "pushedAt": "2026-07-27T15:03:20.999Z",
   "todosCount": 235,
   "todos": [
     {
@@ -18658,6 +18658,12 @@
       "mode": "manual",
       "port": "Port Luis, Mauritius",
       "date": "2026-08-16"
+    },
+    "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": {
+      "mode": "manual",
+      "port": "Port Luis, Mauritius",
+      "date": "2026-08-16",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -19614,7 +19620,7 @@
     "voyages": "2026-07-27T08:03:16.550Z",
     "outlookCompletionQueue": "2026-07-27T14:22:44.295Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
-    "deliveries": "2026-07-27T15:02:47.606Z",
+    "deliveries": "2026-07-27T15:03:20.991Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
     "supplierProfiles": "2026-07-22T18:57:31.789Z",
     "agencyProfiles": "2026-07-22T18:57:31.789Z",
@@ -19623,6 +19629,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 572,
-  "savedAt": "2026-07-27T15:02:52.346Z"
+  "rev": 573,
+  "savedAt": "2026-07-27T15:03:20.999Z"
 }
