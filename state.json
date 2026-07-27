@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-27T08:02:09.039Z",
+  "pushedAt": "2026-07-27T08:03:16.555Z",
   "todosCount": 233,
   "todos": [
     {
@@ -17332,11 +17332,11 @@
         "from": "Port Luis, Mauritius",
         "to": "Kandla",
         "etb": "",
-        "eta": "2026-08-24T06:01",
+        "eta": "2026-08-26T06:01",
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-07-24T14:43:27.110Z",
+      "updatedAt": "2026-07-27T08:03:13.004Z",
       "fromNoon": "2026-07-22"
     },
     "norrbotten": {
@@ -19510,7 +19510,7 @@
     "supplierTimezones": "2026-07-22T18:57:31.789Z",
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
-    "voyages": "2026-07-24T14:43:30.765Z",
+    "voyages": "2026-07-27T08:03:16.550Z",
     "outlookCompletionQueue": "2026-07-27T08:01:19.545Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-23T08:39:51.801Z",
@@ -19522,6 +19522,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 529,
-  "savedAt": "2026-07-27T08:02:09.039Z"
+  "rev": 530,
+  "savedAt": "2026-07-27T08:03:16.555Z"
 }
