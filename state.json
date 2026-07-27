@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-27T15:03:20.999Z",
+  "pushedAt": "2026-07-27T15:04:14.330Z",
   "todosCount": 235,
   "todos": [
     {
@@ -18664,6 +18664,11 @@
       "port": "Port Luis, Mauritius",
       "date": "2026-08-16",
       "frozenFromVoyage": true
+    },
+    "med toscana::ships crane spare parts": {
+      "mode": "manual",
+      "port": "Port Luis, Mauritius",
+      "date": "2026-08-16"
     }
   },
   "vesselPos": {
@@ -19620,7 +19625,7 @@
     "voyages": "2026-07-27T08:03:16.550Z",
     "outlookCompletionQueue": "2026-07-27T14:22:44.295Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
-    "deliveries": "2026-07-27T15:03:20.991Z",
+    "deliveries": "2026-07-27T15:04:14.323Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
     "supplierProfiles": "2026-07-22T18:57:31.789Z",
     "agencyProfiles": "2026-07-22T18:57:31.789Z",
@@ -19629,6 +19634,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 573,
-  "savedAt": "2026-07-27T15:03:20.999Z"
+  "rev": 574,
+  "savedAt": "2026-07-27T15:04:14.331Z"
 }
