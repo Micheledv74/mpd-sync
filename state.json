@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-27T14:22:44.304Z",
+  "pushedAt": "2026-07-27T14:23:00.953Z",
   "todosCount": 233,
   "todos": [
     {
@@ -5073,7 +5073,7 @@
       "outlookLinkedName": "R: M/B VEGA UNO, Ravenna - Richiesta disponibilità e quotazione servizi di sicurezza",
       "vessel": "vegauno",
       "action": "Altro",
-      "dueDate": "2026-07-27",
+      "dueDate": "2026-07-28",
       "note": "",
       "createdAt": "2026-07-24T10:11:44.6125057Z",
       "done": false,
@@ -5081,7 +5081,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-24T13:20:57.743Z"
+      "updatedAt": "2026-07-27T14:22:57.337Z"
     },
     {
       "category": "Altro",
@@ -19539,7 +19539,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-27T14:22:44.295Z",
+    "todos": "2026-07-27T14:23:00.946Z",
     "notes": "2026-07-27T07:21:54.423Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19559,6 +19559,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 550,
-  "savedAt": "2026-07-27T14:22:44.304Z"
+  "rev": 551,
+  "savedAt": "2026-07-27T14:23:00.953Z"
 }
