@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-27T07:55:35.990Z",
+  "pushedAt": "2026-07-27T08:01:19.549Z",
   "todosCount": 230,
   "todos": [
     {
@@ -5049,12 +5049,12 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-24T10:15:18.5087485Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-27T08:01:15.882Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-24T13:21:41.537Z"
+      "updatedAt": "2026-07-27T08:01:15.883Z"
     },
     {
       "category": "Nave",
@@ -18229,6 +18229,13 @@
       "completedAt": "2026-07-24T10:13:28.089Z",
       "todoId": "outlook_AAJV0oTzAAA=",
       "title": "M/V MED TOSCANA PR64 HQRQ-00127 MDT-SHPR-00064 RK MARINE SERVICE"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJXWl8rAAA=",
+      "listId": "",
+      "completedAt": "2026-07-27T08:01:15.884Z",
+      "todoId": "outlook_AAJXWl8rAAA=",
+      "title": "M/V MED TOSCANA PR64 HQRQ-00127 MDT-SHPR-00064 RK MARINE SERVICE"
     }
   ],
   "manualOrders": {
@@ -19426,7 +19433,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-27T07:55:35.984Z",
+    "todos": "2026-07-27T08:01:19.545Z",
     "notes": "2026-07-27T07:21:54.423Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19435,7 +19442,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-07-24T14:43:30.765Z",
-    "outlookCompletionQueue": "2026-07-24T10:13:31.718Z",
+    "outlookCompletionQueue": "2026-07-27T08:01:19.545Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-23T08:39:51.801Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -19446,6 +19453,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 526,
-  "savedAt": "2026-07-27T07:55:35.990Z"
+  "rev": 527,
+  "savedAt": "2026-07-27T08:01:19.549Z"
 }
