@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-28T14:04:47.117Z",
+  "pushedAt": "2026-07-28T15:07:25.070Z",
   "todosCount": 244,
   "todos": [
     {
@@ -17649,10 +17649,13 @@
         "to": "Torre Annunziata",
         "etb": "",
         "eta": "",
-        "agency": null
+        "agency": {
+          "name": "DI.AR. MARITIME srl",
+          "contacts": "Shipping Agency - Services\nVia A. De Gasperi, 45 - 80133 Naples, ITALY  \nPhone: ++39 0815527833 - Fax: ++39 0815527837\ne-mail: info@diarma.it - WebSite: www.diarma.it"
+        }
       },
       "notes": "",
-      "updatedAt": "2026-07-28T13:12:19.378Z"
+      "updatedAt": "2026-07-28T15:07:21.391Z"
     }
   },
   "outlookCompletionQueue": [
@@ -19950,7 +19953,7 @@
     "supplierTimezones": "2026-07-22T18:57:31.789Z",
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
-    "voyages": "2026-07-28T13:12:23.061Z",
+    "voyages": "2026-07-28T15:07:25.064Z",
     "outlookCompletionQueue": "2026-07-28T13:13:16.787Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-27T15:24:58.296Z",
@@ -19962,6 +19965,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T10:03:54.222Z"
   },
-  "rev": 663,
-  "savedAt": "2026-07-28T14:04:47.117Z"
+  "rev": 664,
+  "savedAt": "2026-07-28T15:07:25.070Z"
 }
