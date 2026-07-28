@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-28T13:11:29.324Z",
+  "pushedAt": "2026-07-28T13:11:56.428Z",
   "todosCount": 244,
   "todos": [
     {
@@ -17632,9 +17632,10 @@
     "vegauno": {
       "status": "in_port",
       "current": {
+        "id": "vms4odbrdbcr4",
         "from": "Ravenna",
         "to": "Ravenna",
-        "etd": "",
+        "etd": "2026-08-03T08:00",
         "etb": "",
         "eta": "",
         "agency": {
@@ -17643,6 +17644,7 @@
         }
       },
       "next": {
+        "id": "",
         "from": "",
         "to": "",
         "etb": "",
@@ -17650,7 +17652,7 @@
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-07-08T08:37:42.987Z"
+      "updatedAt": "2026-07-28T13:11:52.777Z"
     }
   },
   "outlookCompletionQueue": [
@@ -19927,7 +19929,7 @@
     "supplierTimezones": "2026-07-22T18:57:31.789Z",
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
-    "voyages": "2026-07-27T08:03:16.550Z",
+    "voyages": "2026-07-28T13:11:56.422Z",
     "outlookCompletionQueue": "2026-07-28T13:01:47.845Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-27T15:24:58.296Z",
@@ -19939,6 +19941,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T10:03:54.222Z"
   },
-  "rev": 655,
-  "savedAt": "2026-07-28T13:11:29.324Z"
+  "rev": 656,
+  "savedAt": "2026-07-28T13:11:56.428Z"
 }
