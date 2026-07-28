@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-28T13:02:52.748Z",
+  "pushedAt": "2026-07-28T13:03:01.587Z",
   "todosCount": 244,
   "todos": [
     {
@@ -644,11 +644,11 @@
       "id": "td_1782309416797_bpndu",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-07-28",
+      "dueDate": "2026-07-31",
       "note": "Chiedere a Pasquale\n@merce pronta x invio indirizzo",
       "done": false,
       "createdAt": "2026-06-24T13:56:56.797Z",
-      "updatedAt": "2026-07-27T14:14:28.499Z",
+      "updatedAt": "2026-07-28T13:02:56.957Z",
       "kind": "todo",
       "recur": null
     },
@@ -19919,7 +19919,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-28T13:02:52.743Z",
+    "todos": "2026-07-28T13:03:01.582Z",
     "notes": "2026-07-28T07:31:25.116Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19939,6 +19939,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T10:03:54.222Z"
   },
-  "rev": 650,
-  "savedAt": "2026-07-28T13:02:52.749Z"
+  "rev": 651,
+  "savedAt": "2026-07-28T13:03:01.588Z"
 }
