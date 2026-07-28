@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-28T13:01:20.644Z",
+  "pushedAt": "2026-07-28T13:01:34.152Z",
   "todosCount": 244,
   "todos": [
     {
@@ -5377,12 +5377,15 @@
       "outlookLinkedName": "PERSEVERANZA - SMM 2026",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-07-27",
+      "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-28T08:09:55.0810786Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-07-28T13:01:29.812Z"
     },
     {
       "category": "Nave",
@@ -19905,7 +19908,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-28T13:01:17.041Z",
+    "todos": "2026-07-28T13:01:34.084Z",
     "notes": "2026-07-28T07:31:25.116Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19925,6 +19928,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T10:03:54.222Z"
   },
-  "rev": 645,
-  "savedAt": "2026-07-28T13:01:20.644Z"
+  "rev": 646,
+  "savedAt": "2026-07-28T13:01:34.152Z"
 }
