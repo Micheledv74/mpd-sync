@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-28T13:12:54.253Z",
+  "pushedAt": "2026-07-28T13:13:16.792Z",
   "todosCount": 244,
   "todos": [
     {
@@ -5017,12 +5017,12 @@
       "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-24T13:09:28.3485228Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-28T13:13:13.201Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-27T14:22:09.103Z"
+      "updatedAt": "2026-07-28T13:13:13.201Z"
     },
     {
       "category": "Nave",
@@ -5042,12 +5042,12 @@
       "dueDate": "2026-08-07",
       "note": "",
       "createdAt": "2026-07-24T13:07:38.3997341Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-28T13:13:11.913Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-28T12:40:13.002Z"
+      "updatedAt": "2026-07-28T13:13:11.913Z"
     },
     {
       "category": "Nave",
@@ -18656,6 +18656,20 @@
       "completedAt": "2026-07-28T13:12:50.227Z",
       "todoId": "outlook_AAJXWl8wAAA=",
       "title": "M/B VEGA UNO - Revisione e collaudo estintori"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJXWl8tAAA=",
+      "listId": "",
+      "completedAt": "2026-07-28T13:13:11.915Z",
+      "todoId": "outlook_AAJXWl8tAAA=",
+      "title": "M/B VEGA UNO - Revisione e collaudo estintori"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJXWl8uAAA=",
+      "listId": "",
+      "completedAt": "2026-07-28T13:13:13.202Z",
+      "todoId": "outlook_AAJXWl8uAAA=",
+      "title": "M/B VEGA UNO - Revisione e collaudo estintori"
     }
   ],
   "manualOrders": {
@@ -19928,7 +19942,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-28T13:12:54.247Z",
+    "todos": "2026-07-28T13:13:16.787Z",
     "notes": "2026-07-28T07:31:25.116Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19937,7 +19951,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-07-28T13:12:23.061Z",
-    "outlookCompletionQueue": "2026-07-28T13:12:54.247Z",
+    "outlookCompletionQueue": "2026-07-28T13:13:16.787Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-27T15:24:58.296Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -19948,6 +19962,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T10:03:54.222Z"
   },
-  "rev": 658,
-  "savedAt": "2026-07-28T13:12:54.254Z"
+  "rev": 659,
+  "savedAt": "2026-07-28T13:13:16.792Z"
 }
