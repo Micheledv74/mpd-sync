@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-28T06:51:49.076Z",
+  "pushedAt": "2026-07-28T07:31:25.121Z",
   "todosCount": 235,
   "todos": [
     {
@@ -5222,7 +5222,8 @@
     "peppino::hatch covers cleats": "Pronta x PO",
     "peppino::spa req charging & discharging panel": "Pronta x PO",
     "peppino::spa req transportable pump unit top urgent": "Pronta x PO",
-    "med toscana::urgently original headset/accessory for icom icf61 fireman": "PO Rejected"
+    "med toscana::urgently original headset/accessory for icom icf61 fireman": "PO Rejected",
+    "med liguria::paint": "Inviare scheda tecnica SIGMADUR ONE"
   },
   "snoozed": {
     "todo:td_1780846490055_byv9f": "2026-06-22",
@@ -19627,7 +19628,7 @@
   },
   "collMeta": {
     "todos": "2026-07-27T14:42:05.193Z",
-    "notes": "2026-07-27T15:24:26.863Z",
+    "notes": "2026-07-28T07:31:25.116Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
     "completionsHistory": "2026-07-22T18:57:31.789Z",
@@ -19646,6 +19647,6 @@
     "repliesDismissed": "2026-07-24T13:25:07.619Z",
     "shipments": "2026-07-24T07:31:36.800Z"
   },
-  "rev": 584,
-  "savedAt": "2026-07-28T06:51:49.076Z"
+  "rev": 585,
+  "savedAt": "2026-07-28T07:31:25.121Z"
 }
