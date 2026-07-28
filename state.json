@@ -1,20 +1,20 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-28T10:12:13.031Z",
-  "todosCount": 238,
+  "pushedAt": "2026-07-28T11:08:44.694Z",
+  "todosCount": 243,
   "todos": [
     {
-      "id": "td_1785226811705_e0xaz",
       "category": "Ufficio",
       "priority": "media",
-      "vessel": "",
-      "action": "Inviare email",
       "reference": "Rispondere a Manuel Bellemo - Omega Chioggia — R: M/B VEGA UNO - Revisione e collaudo estintori",
       "tags": [
         "email",
         "omegachioggia.it"
       ],
+      "id": "td_1785226811705_e0xaz",
+      "vessel": "",
+      "action": "Inviare email",
       "dueDate": "2026-07-28",
       "note": "Buongiorno Siamo a inoltrare ns offerta per la forniture degli estintori nuovi Per impianto fisso co2 per formulare un’offerta neccessitiamo di ricevere il precedente certificato Pagamento all’ordine In attesa di leggervi A disposizione",
       "recur": null,
@@ -25,16 +25,16 @@
       "createdAt": "2026-07-28T08:20:11.705Z"
     },
     {
-      "id": "td_1785226186712_9p0l6",
       "category": "Ufficio",
       "priority": "media",
-      "vessel": "",
-      "action": "Inviare email",
       "reference": "Rispondere a No Reply LOREKA — Some of your installations demand your attention",
       "tags": [
         "email",
         "accelleron-industries.com"
       ],
+      "id": "td_1785226186712_9p0l6",
+      "vessel": "",
+      "action": "Inviare email",
       "dueDate": "2026-08-03",
       "note": "Tekomar XPERT for fleet 2026-07-28 You have received a new notification about your installations and engines Readings Uploaded Readings for the following 1 installations were newly uploaded MED TOSCANA (3/4 engines with new readings) 9490741 E",
       "recur": null,
@@ -4895,7 +4895,7 @@
       "createdAt": "2026-07-23T13:02:25.9187539Z",
       "done": true,
       "doneAt": "2026-07-24T10:13:28.088Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-07-24T10:13:28.088Z"
@@ -5213,7 +5213,7 @@
       "createdAt": "2026-07-27T13:09:01.8749119Z",
       "done": true,
       "doneAt": "2026-07-28T08:20:28.712Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "updatedAt": "2026-07-28T08:20:28.712Z"
     },
     {
@@ -5242,20 +5242,20 @@
       "updatedAt": "2026-07-28T08:33:46.490Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "I: MV PEPPINO - Fall Arrestor Certificate",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJY7qC5AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC5AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJY7pMjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: I: MV PEPPINO - Fall Arrestor Certificate",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "I: MV PEPPINO - Fall Arrestor Certificate",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-07-29",
       "note": "",
       "createdAt": "2026-07-28T05:53:39.9638436Z",
@@ -5263,6 +5263,117 @@
       "doneAt": "2026-07-28T09:04:11.840Z",
       "outlookStatus": "notStarted",
       "updatedAt": "2026-07-28T09:04:11.840Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED TOSCANA PR64 HQRQ-00127 MDT-SHPR-00064 RK MARINE SERVICE",
+      "tags": [
+        "outlook",
+        "fornitore:RK"
+      ],
+      "id": "outlook_AAJY7qC6AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC6AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60dAABYWF9qc37UTpbqyo%2B4NVKtAADqwEnVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Re: M/V MED TOSCANA PR64 HQRQ-00127 MDT-SHPR-00064 RK MARINE SERVICE",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "dueDate": "2026-07-27",
+      "note": "",
+      "createdAt": "2026-07-28T07:25:13.7538058Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJY7qC_AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC_AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7rtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/V MED TOSCANA - Confirmation of Quantity Received – Adjustment Screws for Windlass/Band Brake",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "M/V MED TOSCANA - Confirmation of Quantity Received – Adjustment Screws for Windlass/Band Brake",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-27",
+      "note": "",
+      "createdAt": "2026-07-28T11:05:20.0012318Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJY7qC9AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC9AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7rsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/V PEPPINO - Confirmation of Quantity Received – Adjustment Screws for Windlass/Band Brake",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO - Confirmation of Quantity Received – Adjustment Screws for Windlass/Band Brake",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-27",
+      "note": "",
+      "createdAt": "2026-07-28T11:05:18.494833Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJY7qC8AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC8AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60WAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B6ddAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: URGENT - M/V Peppino: Windlass Spares PO Cross-Shipment - Check & Advise",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "URGENT - M/V Peppino: Windlass Spares PO Cross-Shipment - Check & Advise",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-27",
+      "note": "",
+      "createdAt": "2026-07-28T10:11:39.8924254Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJY7qC7AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC7AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJY7pMyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "PERSEVERANZA - SMM 2026",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "PERSEVERANZA - SMM 2026",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-27",
+      "note": "",
+      "createdAt": "2026-07-28T08:09:55.0810786Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -19741,7 +19852,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-28T09:04:15.743Z",
+    "todos": "2026-07-28T11:08:39.425Z",
     "notes": "2026-07-28T07:31:25.116Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19761,6 +19872,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T10:03:54.222Z"
   },
-  "rev": 614,
-  "savedAt": "2026-07-28T10:12:13.031Z"
+  "rev": 615,
+  "savedAt": "2026-07-28T11:08:44.695Z"
 }
