@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_ex1cq6qu8y",
-  "pushedAt": "2026-07-29T08:53:46.143Z",
-  "todosCount": 244,
+  "pushedAt": "2026-07-29T08:53:50.573Z",
+  "todosCount": 248,
   "todos": [
     {
       "category": "Ufficio",
@@ -5413,6 +5413,94 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-07-28T13:02:30.276Z"
+    },
+    {
+      "id": "outlook_AAJY7qDDAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDDAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7r0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "vegauno",
+      "action": "Altro",
+      "reference": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-27",
+      "note": "",
+      "createdAt": "2026-07-28T15:14:35.7044825Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJY7qDCAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDCAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7rzAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "vegauno",
+      "action": "Altro",
+      "reference": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-27",
+      "note": "",
+      "createdAt": "2026-07-28T15:12:42.7301081Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJY7qDBAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDBAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7ryAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "vegauno",
+      "action": "Altro",
+      "reference": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-27",
+      "note": "",
+      "createdAt": "2026-07-28T14:48:39.0951017Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJY7qDAAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDAAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7rxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "vegauno",
+      "action": "Altro",
+      "reference": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-27",
+      "note": "",
+      "createdAt": "2026-07-28T14:48:38.0485338Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -5440,7 +5528,8 @@
     "peppino::spa req charging & discharging panel": "Pronta x PO",
     "peppino::spa req transportable pump unit top urgent": "Pronta x PO",
     "med toscana::urgently original headset/accessory for icom icf61 fireman": "PO Rejected",
-    "med liguria::paint": "Inviare scheda tecnica SIGMADUR ONE"
+    "med liguria::paint": "Inviare scheda tecnica SIGMADUR ONE",
+    "med toscana::hanla level c/h water ingress system sensor": "Ritardo"
   },
   "snoozed": {
     "todo:td_1780846490055_byv9f": "2026-06-22",
@@ -18681,60 +18770,65 @@
   "deliveries": {
     "peppino::spa req aux boiler mission oc": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::liferaft exchange": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "port": "",
+      "date": "",
+      "frozenFromVoyage": true
     },
     "med toscana::cfr publication 2026mdt292026": {
       "mode": "manual",
-      "port": "Kandla",
-      "date": "2026-08-24",
-      "frozenFromVoyage": true
+      "port": "Houston",
+      "date": "2026-07-10"
     },
     "med toscana::temperature dry bulb for coal celsium up to +70": {
       "mode": "manual",
       "port": "Houston",
-      "date": "2026-07-08"
+      "date": "2026-07-10"
     },
     "med toscana::portable gas detector & bump test kit with botle og gases": {
       "mode": "manual",
       "port": "Houston",
-      "date": "2026-07-08"
+      "date": "2026-07-10"
     },
     "med toscana::bilge separetor": {
       "mode": "manual",
-      "port": "Kandla",
-      "date": "2026-08-24",
-      "frozenFromVoyage": true
+      "port": "Houston",
+      "date": "2026-07-10"
     },
     "peppino::messanger line for mooring rope": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::lubrication oil": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "port": "",
+      "date": "",
+      "frozenFromVoyage": true
     },
     "peppino::spa req aux engine doosanman diesel 5l23/30hx720rpm": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "port": "",
+      "date": "",
+      "frozenFromVoyage": true
     },
     "peppino::spa req rescue boat electric source switch": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "port": "",
+      "date": "",
+      "frozenFromVoyage": true
     },
     "peppino::doosan man diesel 5l23/30h x 720rpm auxilliary generator": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "med toscana::underwater inspection barranquilla": {
       "mode": "manual",
@@ -18744,23 +18838,24 @@
     "med toscana::urgently original headset/accessory/ garniture for icom icf61 fireman": {
       "mode": "manual",
       "port": "Houston",
-      "date": "2026-07-08"
+      "date": "2026-07-10"
     },
     "med toscana::gulf marine lubricant": {
       "mode": "manual",
-      "port": "Kandla",
-      "date": "2026-08-24",
-      "frozenFromVoyage": true
+      "port": "Houston",
+      "date": "2026-07-10"
     },
     "peppino::electrical store for maintenance urgent": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::acetylene and oxygen": {
       "mode": "manual",
-      "port": "Sinagapore",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::engine store urgent": {
       "mode": "manual",
@@ -18769,28 +18864,33 @@
     },
     "peppino::deck maintenance urgent": {
       "mode": "manual",
-      "port": "Dongguan",
-      "date": "2026-07-10"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::safety symbols and equipment": {
       "mode": "manual",
-      "port": "DOngguan",
-      "date": "2026-07-10"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::spa req air conditioning plant usdn40h": {
       "mode": "manual",
-      "port": "Dongguan",
-      "date": "2026-07-10"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::straight nozzle 1000 bar denjet high pressure water blaster": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::rotating nozzle 1000 bar denjet high pressure water blaster": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::spa req sewage treatment plant blower": {
       "mode": "manual",
@@ -18799,8 +18899,9 @@
     },
     "peppino::epirb hru": {
       "mode": "manual",
-      "port": "Dongguan",
-      "date": "2026-07-10"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::fresh water generator model sl 6000": {
       "mode": "manual",
@@ -18809,58 +18910,69 @@
     },
     "peppino::spa req macgregor jib top mounting spare parts": {
       "mode": "manual",
-      "port": "Dongguan",
-      "date": "2026-07-10"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::portable gangway ladder": {
       "mode": "manual",
-      "port": "Dongguan",
-      "date": "2026-07-10"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::span gas composition bottles for gas detectors": {
       "mode": "manual",
-      "port": "Dongguan",
-      "date": "2026-07-10"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::deck maintenance": {
       "mode": "manual",
-      "port": "Dongguan",
-      "date": "2026-07-10"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::security equipment": {
       "mode": "manual",
-      "port": "Dongguan",
-      "date": "2026-07-10"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::spa req ship combined oil test kit": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::paint urgent": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::store grinder angle electric singapore ugrent": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::safety equipment": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::paint": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::deck/engine/electrical/safety store for deck maintenance urgent": {
       "mode": "manual",
-      "port": "Singapore",
-      "date": "2026-07-17"
+      "date": "2026-07-17",
+      "port": "SINGAPORE",
+      "frozenFromVoyage": true
     },
     "peppino::spa req air conditioner": {
       "mode": "manual",
@@ -18916,6 +19028,34 @@
       "mode": "manual",
       "port": "Singapore",
       "date": "2026-07-17"
+    },
+    "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": {
+      "mode": "manual",
+      "port": "Port Luis, Mauritius",
+      "date": "2026-08-16"
+    },
+    "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": {
+      "mode": "manual",
+      "port": "Port Luis, Mauritius",
+      "date": "2026-08-16",
+      "frozenFromVoyage": true
+    },
+    "med toscana::ships crane spare parts": {
+      "mode": "manual",
+      "port": "Port Luis, Mauritius",
+      "date": "2026-08-16"
+    },
+    "med toscana::cargo crane claim spare part": {
+      "mode": "manual",
+      "port": "Port Luis, Mauritius",
+      "date": "2026-08-16",
+      "frozenFromVoyage": true
+    },
+    "med liguria::unitor": {
+      "mode": "manual",
+      "port": "SINGAPORE",
+      "date": "2026-08-11",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -19822,6 +19962,6 @@
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z"
   },
-  "rev": 672,
-  "savedAt": "2026-07-29T08:53:46.143Z"
+  "rev": 673,
+  "savedAt": "2026-07-29T08:53:50.573Z"
 }
