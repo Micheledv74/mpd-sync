@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
-  "deviceId": "dev_jcjbq8zhzw",
-  "pushedAt": "2026-07-28T17:35:14.064Z",
+  "deviceId": "dev_ex1cq6qu8y",
+  "pushedAt": "2026-07-29T08:53:46.143Z",
   "todosCount": 244,
   "todos": [
     {
@@ -19797,111 +19797,6 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOleg5MsekHPj54XO5xl_LE=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOq-ygg5yElivF0q__1iYU0="
   ],
-  "shipments": {
-    "med toscana::bwts suction pump mn 40125": [
-      {
-        "id": "shmrwn5bhlsor",
-        "route": "supplier-hub",
-        "carrier": "DHL Express",
-        "hub": "",
-        "number": "3821669040",
-        "status": "delivered",
-        "pickup": "2026-07-22",
-        "eta": "2026-07-22",
-        "events": [
-          {
-            "ts": "2026-07-23T12:27:00+02:00",
-            "place": "GENOVA - ITALY",
-            "text": "Delivered",
-            "code": "delivered"
-          },
-          {
-            "ts": "2026-07-23T10:03:00+02:00",
-            "place": "GENOA - ITALY",
-            "text": "Shipment is out with courier for delivery",
-            "code": "transit"
-          },
-          {
-            "ts": "2026-07-23T08:23:00+02:00",
-            "place": "GENOA - ITALY",
-            "text": "Arrived at DHL Delivery Facility GENOA - ITALY",
-            "code": "transit"
-          },
-          {
-            "ts": "2026-07-23T03:56:00+02:00",
-            "place": "BOLOGNA - ITALY",
-            "text": "Shipment has departed from a DHL facility BOLOGNA - ITALY",
-            "code": "transit"
-          },
-          {
-            "ts": "2026-07-23T03:56:00+02:00",
-            "place": "BOLOGNA - ITALY",
-            "text": "Processed at BOLOGNA - ITALY",
-            "code": "transit"
-          },
-          {
-            "ts": "2026-07-22T06:14:00+02:00",
-            "place": "BOLOGNA - ITALY",
-            "text": "Shipment is on hold",
-            "code": "transit"
-          },
-          {
-            "ts": "2026-07-22T06:14:00+02:00",
-            "place": "BOLOGNA - ITALY",
-            "text": "Arrived at DHL Sort Facility BOLOGNA - ITALY",
-            "code": "transit"
-          },
-          {
-            "ts": "2026-07-21T19:39:00+02:00",
-            "place": "NAPLES - ITALY",
-            "text": "Shipment has departed from a DHL facility NAPLES - ITALY",
-            "code": "transit"
-          },
-          {
-            "ts": "2026-07-21T19:39:00+02:00",
-            "place": "NAPLES - ITALY",
-            "text": "Processed at NAPLES - ITALY",
-            "code": "transit"
-          },
-          {
-            "ts": "2026-07-21T15:55:00+02:00",
-            "place": "NAPLES - ITALY",
-            "text": "Shipment picked up",
-            "code": "transit"
-          }
-        ],
-        "updatedAt": "2026-07-24T07:31:33.105Z"
-      }
-    ],
-    "peppino::windlass/band brake": [
-      {
-        "id": "shms4hngbf0i7",
-        "route": "supplier-hub",
-        "carrier": "Altro",
-        "hub": "",
-        "number": "7130919810",
-        "status": "pending",
-        "pickup": "2026-07-28",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-07-28T10:03:47.931Z"
-      }
-    ],
-    "peppino::beck_order": [
-      {
-        "id": "shms4sw1tgu6w",
-        "route": "supplier-hub",
-        "carrier": "DHL Express",
-        "hub": "",
-        "number": "7102014555",
-        "status": "pending",
-        "pickup": "2026-07-28",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-07-28T15:18:24.820Z"
-      }
-    ]
-  },
   "sourceDevice": {
     "id": "dev_a1lys50jni",
     "name": "PC Windows",
@@ -19925,10 +19820,8 @@
     "agencyProfiles": "2026-07-22T18:57:31.789Z",
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
-    "repliesDismissed": "2026-07-28T08:20:16.880Z",
-    "pinnedActions": "",
-    "shipments": "2026-07-28T15:18:30.245Z"
+    "repliesDismissed": "2026-07-28T08:20:16.880Z"
   },
-  "rev": 671,
-  "savedAt": "2026-07-28T17:35:14.065Z"
+  "rev": 672,
+  "savedAt": "2026-07-29T08:53:46.143Z"
 }
