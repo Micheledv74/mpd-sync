@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
-  "deviceId": "dev_ex1cq6qu8y",
-  "pushedAt": "2026-07-29T08:53:50.573Z",
-  "todosCount": 248,
+  "deviceId": "dev_jcjbq8zhzw",
+  "pushedAt": "2026-07-30T11:04:51.434Z",
+  "todosCount": 260,
   "todos": [
     {
       "category": "Ufficio",
@@ -4774,7 +4774,7 @@
       "createdAt": "2026-07-22T13:10:51.1208354Z",
       "done": true,
       "doneAt": "2026-07-23T08:37:17.092Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-07-23T08:37:17.092Z"
@@ -4799,7 +4799,7 @@
       "createdAt": "2026-07-22T11:04:06.1719738Z",
       "done": true,
       "doneAt": "2026-07-22T15:19:17.148Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "updatedAt": "2026-07-22T15:19:17.148Z"
     },
     {
@@ -5415,6 +5415,272 @@
       "updatedAt": "2026-07-28T13:02:30.276Z"
     },
     {
+      "id": "outlook_AAJbE0COAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJbE0COAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJbEn7mAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "vegauno",
+      "action": "Altro",
+      "reference": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-31",
+      "note": "",
+      "createdAt": "2026-07-30T10:44:45.4627148Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJbE0CNAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJbE0CNAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJal%2BwFAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "pagamenti norrbotten",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "pagamenti norrbotten",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-31",
+      "note": "",
+      "createdAt": "2026-07-30T08:11:17.6677722Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJbE0CMAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJbE0CMAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJbEn7fAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "YOUR PO: NA - OUR CO: I 10127897 - VESSEL: PEPPINO",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "YOUR PO: NA - OUR CO: I 10127897 - VESSEL: PEPPINO",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-31",
+      "note": "",
+      "createdAt": "2026-07-30T08:11:17.0214147Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJbE0CLAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJbE0CLAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJbEn7gAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "YOUR PO: NA - OUR CO: I 10128152 - VESSEL: ΡΕΡΡΙΝΟ",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "YOUR PO: NA - OUR CO: I 10128152 - VESSEL: ΡΕΡΡΙΝΟ",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-31",
+      "note": "",
+      "createdAt": "2026-07-30T08:11:16.7044335Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJal9REAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9REAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJalz1JAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Re: INFOSHIP - Quotazione implementazione",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "INFOSHIP - Quotazione implementazione",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-31",
+      "note": "",
+      "createdAt": "2026-07-29T12:27:50.4651769Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJal9RDAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RDAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJalz1EAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "EVERSUPPLY S.R.L. - Nuovo sito online",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "EVERSUPPLY S.R.L. - Nuovo sito online",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-31",
+      "note": "",
+      "createdAt": "2026-07-29T10:03:28.220341Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJal9RCAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RCAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJamAYfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: Med Toscana  / ETA",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "Med Toscana  / ETA",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-31",
+      "note": "",
+      "createdAt": "2026-07-29T08:39:43.0104813Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJal9RBAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RBAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60eAABYWF9qc37UTpbqyo%2B4NVKtAAHdVZ1GAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: M/V MED TOSCANA  PR67  HQPO-00084  MDT-SHPR-00067  Dongjin Intec Co., Ltd. (FB26183651)",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "M/V MED TOSCANA  PR67  HQPO-00084  MDT-SHPR-00067  Dongjin Intec Co., Ltd. (FB26183651)",
+      "tags": [
+        "outlook",
+        "fornitore:DONGJIN"
+      ],
+      "dueDate": "2026-07-31",
+      "note": "",
+      "createdAt": "2026-07-29T08:39:24.2639299Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJal9RAAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RAAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJalz1BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: 26A0081 Pompe Garbarino SpA : M/V PEPPINO - SPA Req. FWG Ejector pump NEW",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "26A0081 Pompe Garbarino SpA : M/V PEPPINO - SPA Req. FWG Ejector pump NEW",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-31",
+      "note": "",
+      "createdAt": "2026-07-29T08:36:07.7444853Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJal9Q-AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9Q-AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJalz1AAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: M/V MED LIGURIA / Xiamen Call -Request for Shipping Instructions",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "M/V MED LIGURIA / Xiamen Call -Request for Shipping Instructions",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-31",
+      "note": "",
+      "createdAt": "2026-07-29T08:25:17.1363227Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJal9Q_AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9Q_AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJal%2Bv%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: M/V NORRBOTTEN - Request for Order and Invoice Status Summary",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "M/V NORRBOTTEN - Request for Order and Invoice Status Summary",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-07-30",
+      "note": "",
+      "createdAt": "2026-07-29T07:17:56.1446684Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJal9Q9AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9Q9AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60bAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B5mRAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Re: M/V MED LIGURIA  PR46  HQRQ-00120  MLG-SHPR-00046  YH MARINE TRADE CO.,LTD",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "M/V MED LIGURIA  PR46  HQRQ-00120  MLG-SHPR-00046  YH MARINE TRADE CO.,LTD",
+      "tags": [
+        "outlook",
+        "fornitore:YH"
+      ],
+      "dueDate": "2026-07-30",
+      "note": "",
+      "createdAt": "2026-07-29T06:27:48.6347118Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
       "id": "outlook_AAJY7qDDAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDDAAA=",
       "outlookListId": "",
@@ -5528,8 +5794,7 @@
     "peppino::spa req charging & discharging panel": "Pronta x PO",
     "peppino::spa req transportable pump unit top urgent": "Pronta x PO",
     "med toscana::urgently original headset/accessory for icom icf61 fireman": "PO Rejected",
-    "med liguria::paint": "Inviare scheda tecnica SIGMADUR ONE",
-    "med toscana::hanla level c/h water ingress system sensor": "Ritardo"
+    "med liguria::paint": "Inviare scheda tecnica SIGMADUR ONE"
   },
   "snoozed": {
     "todo:td_1780846490055_byv9f": "2026-06-22",
@@ -18770,65 +19035,60 @@
   "deliveries": {
     "peppino::spa req aux boiler mission oc": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::liferaft exchange": {
       "mode": "manual",
-      "port": "",
-      "date": "",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "med toscana::cfr publication 2026mdt292026": {
       "mode": "manual",
-      "port": "Houston",
-      "date": "2026-07-10"
+      "port": "Kandla",
+      "date": "2026-08-24",
+      "frozenFromVoyage": true
     },
     "med toscana::temperature dry bulb for coal celsium up to +70": {
       "mode": "manual",
       "port": "Houston",
-      "date": "2026-07-10"
+      "date": "2026-07-08"
     },
     "med toscana::portable gas detector & bump test kit with botle og gases": {
       "mode": "manual",
       "port": "Houston",
-      "date": "2026-07-10"
+      "date": "2026-07-08"
     },
     "med toscana::bilge separetor": {
       "mode": "manual",
-      "port": "Houston",
-      "date": "2026-07-10"
+      "port": "Kandla",
+      "date": "2026-08-24",
+      "frozenFromVoyage": true
     },
     "peppino::messanger line for mooring rope": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::lubrication oil": {
       "mode": "manual",
-      "port": "",
-      "date": "",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::spa req aux engine doosanman diesel 5l23/30hx720rpm": {
       "mode": "manual",
-      "port": "",
-      "date": "",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::spa req rescue boat electric source switch": {
       "mode": "manual",
-      "port": "",
-      "date": "",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::doosan man diesel 5l23/30h x 720rpm auxilliary generator": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "med toscana::underwater inspection barranquilla": {
       "mode": "manual",
@@ -18838,24 +19098,23 @@
     "med toscana::urgently original headset/accessory/ garniture for icom icf61 fireman": {
       "mode": "manual",
       "port": "Houston",
-      "date": "2026-07-10"
+      "date": "2026-07-08"
     },
     "med toscana::gulf marine lubricant": {
       "mode": "manual",
-      "port": "Houston",
-      "date": "2026-07-10"
+      "port": "Kandla",
+      "date": "2026-08-24",
+      "frozenFromVoyage": true
     },
     "peppino::electrical store for maintenance urgent": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::acetylene and oxygen": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Sinagapore",
+      "date": "2026-07-17"
     },
     "peppino::engine store urgent": {
       "mode": "manual",
@@ -18864,33 +19123,28 @@
     },
     "peppino::deck maintenance urgent": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Dongguan",
+      "date": "2026-07-10"
     },
     "peppino::safety symbols and equipment": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "DOngguan",
+      "date": "2026-07-10"
     },
     "peppino::spa req air conditioning plant usdn40h": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Dongguan",
+      "date": "2026-07-10"
     },
     "peppino::straight nozzle 1000 bar denjet high pressure water blaster": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::rotating nozzle 1000 bar denjet high pressure water blaster": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::spa req sewage treatment plant blower": {
       "mode": "manual",
@@ -18899,9 +19153,8 @@
     },
     "peppino::epirb hru": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Dongguan",
+      "date": "2026-07-10"
     },
     "peppino::fresh water generator model sl 6000": {
       "mode": "manual",
@@ -18910,69 +19163,58 @@
     },
     "peppino::spa req macgregor jib top mounting spare parts": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Dongguan",
+      "date": "2026-07-10"
     },
     "peppino::portable gangway ladder": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Dongguan",
+      "date": "2026-07-10"
     },
     "peppino::span gas composition bottles for gas detectors": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Dongguan",
+      "date": "2026-07-10"
     },
     "peppino::deck maintenance": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Dongguan",
+      "date": "2026-07-10"
     },
     "peppino::security equipment": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Dongguan",
+      "date": "2026-07-10"
     },
     "peppino::spa req ship combined oil test kit": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::paint urgent": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::store grinder angle electric singapore ugrent": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::safety equipment": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::paint": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::deck/engine/electrical/safety store for deck maintenance urgent": {
       "mode": "manual",
-      "date": "2026-07-17",
-      "port": "SINGAPORE",
-      "frozenFromVoyage": true
+      "port": "Singapore",
+      "date": "2026-07-17"
     },
     "peppino::spa req air conditioner": {
       "mode": "manual",
@@ -19028,34 +19270,6 @@
       "mode": "manual",
       "port": "Singapore",
       "date": "2026-07-17"
-    },
-    "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": {
-      "mode": "manual",
-      "port": "Port Luis, Mauritius",
-      "date": "2026-08-16"
-    },
-    "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": {
-      "mode": "manual",
-      "port": "Port Luis, Mauritius",
-      "date": "2026-08-16",
-      "frozenFromVoyage": true
-    },
-    "med toscana::ships crane spare parts": {
-      "mode": "manual",
-      "port": "Port Luis, Mauritius",
-      "date": "2026-08-16"
-    },
-    "med toscana::cargo crane claim spare part": {
-      "mode": "manual",
-      "port": "Port Luis, Mauritius",
-      "date": "2026-08-16",
-      "frozenFromVoyage": true
-    },
-    "med liguria::unitor": {
-      "mode": "manual",
-      "port": "SINGAPORE",
-      "date": "2026-08-11",
-      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -19937,13 +20151,118 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOleg5MsekHPj54XO5xl_LE=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOq-ygg5yElivF0q__1iYU0="
   ],
+  "shipments": {
+    "med toscana::bwts suction pump mn 40125": [
+      {
+        "id": "shmrwn5bhlsor",
+        "route": "supplier-hub",
+        "carrier": "DHL Express",
+        "hub": "",
+        "number": "3821669040",
+        "status": "delivered",
+        "pickup": "2026-07-22",
+        "eta": "2026-07-22",
+        "events": [
+          {
+            "ts": "2026-07-23T12:27:00+02:00",
+            "place": "GENOVA - ITALY",
+            "text": "Delivered",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-07-23T10:03:00+02:00",
+            "place": "GENOA - ITALY",
+            "text": "Shipment is out with courier for delivery",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-23T08:23:00+02:00",
+            "place": "GENOA - ITALY",
+            "text": "Arrived at DHL Delivery Facility GENOA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-23T03:56:00+02:00",
+            "place": "BOLOGNA - ITALY",
+            "text": "Shipment has departed from a DHL facility BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-23T03:56:00+02:00",
+            "place": "BOLOGNA - ITALY",
+            "text": "Processed at BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-22T06:14:00+02:00",
+            "place": "BOLOGNA - ITALY",
+            "text": "Shipment is on hold",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-22T06:14:00+02:00",
+            "place": "BOLOGNA - ITALY",
+            "text": "Arrived at DHL Sort Facility BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-21T19:39:00+02:00",
+            "place": "NAPLES - ITALY",
+            "text": "Shipment has departed from a DHL facility NAPLES - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-21T19:39:00+02:00",
+            "place": "NAPLES - ITALY",
+            "text": "Processed at NAPLES - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-21T15:55:00+02:00",
+            "place": "NAPLES - ITALY",
+            "text": "Shipment picked up",
+            "code": "transit"
+          }
+        ],
+        "updatedAt": "2026-07-24T07:31:33.105Z"
+      }
+    ],
+    "peppino::windlass/band brake": [
+      {
+        "id": "shms4hngbf0i7",
+        "route": "supplier-hub",
+        "carrier": "Altro",
+        "hub": "",
+        "number": "7130919810",
+        "status": "pending",
+        "pickup": "2026-07-28",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-07-28T10:03:47.931Z"
+      }
+    ],
+    "peppino::beck_order": [
+      {
+        "id": "shms4sw1tgu6w",
+        "route": "supplier-hub",
+        "carrier": "DHL Express",
+        "hub": "",
+        "number": "7102014555",
+        "status": "pending",
+        "pickup": "2026-07-28",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-07-28T15:18:24.820Z"
+      }
+    ]
+  },
   "sourceDevice": {
     "id": "dev_a1lys50jni",
     "name": "PC Windows",
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-28T13:13:26.209Z",
+    "todos": "2026-07-30T11:04:32.835Z",
     "notes": "2026-07-28T07:31:25.116Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -19960,8 +20279,10 @@
     "agencyProfiles": "2026-07-22T18:57:31.789Z",
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
-    "repliesDismissed": "2026-07-28T08:20:16.880Z"
+    "repliesDismissed": "2026-07-28T08:20:16.880Z",
+    "pinnedActions": "",
+    "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 673,
-  "savedAt": "2026-07-29T08:53:50.573Z"
+  "rev": 674,
+  "savedAt": "2026-07-30T11:04:51.434Z"
 }
