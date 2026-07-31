@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-31T13:08:48.907Z",
+  "pushedAt": "2026-07-31T13:09:30.877Z",
   "todosCount": 266,
   "todos": [
     {
@@ -5410,12 +5410,12 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-28T11:53:38.314558Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-07-31T13:09:26.876Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-28T13:02:30.276Z"
+      "updatedAt": "2026-07-31T13:09:26.876Z"
     },
     {
       "category": "Nave",
@@ -19239,6 +19239,13 @@
       "completedAt": "2026-07-31T13:08:19.388Z",
       "todoId": "outlook_AAJY7qC4AAA=",
       "title": "M/V NORBOTTEN - Gas Detector"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC-AAA=",
+      "listId": "",
+      "completedAt": "2026-07-31T13:09:26.878Z",
+      "todoId": "outlook_AAJY7qC-AAA=",
+      "title": "M/V MED TOSCANA  PR68  HQPO-00083  MDT-SHPR-00068  YH MARINE TRADE CO.,LTD"
     }
   ],
   "manualOrders": {
@@ -20526,7 +20533,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-31T13:08:45.029Z",
+    "todos": "2026-07-31T13:09:30.869Z",
     "notes": "2026-07-31T12:31:47.369Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -20535,7 +20542,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-07-28T15:21:07.791Z",
-    "outlookCompletionQueue": "2026-07-31T13:08:21.524Z",
+    "outlookCompletionQueue": "2026-07-31T13:09:30.869Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-31T13:01:15.397Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -20546,6 +20553,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 697,
-  "savedAt": "2026-07-31T13:08:48.908Z"
+  "rev": 698,
+  "savedAt": "2026-07-31T13:09:30.877Z"
 }
