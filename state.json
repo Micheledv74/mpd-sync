@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-31T13:17:38.414Z",
+  "pushedAt": "2026-07-31T13:18:00.505Z",
   "todosCount": 266,
   "todos": [
     {
@@ -5627,9 +5627,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:36:07.7444853Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-07-31T13:17:56.593Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-07-31T13:17:56.593Z"
     },
     {
       "category": "Nave",
@@ -19282,6 +19283,13 @@
       "completedAt": "2026-07-31T13:10:35.990Z",
       "todoId": "outlook_AAJbE0CLAAA=",
       "title": "YOUR PO: NA - OUR CO: I 10128152 - VESSEL: ΡΕΡΡΙΝΟ"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RAAAA=",
+      "listId": "",
+      "completedAt": "2026-07-31T13:17:56.594Z",
+      "todoId": "outlook_AAJal9RAAAA=",
+      "title": "26A0081 Pompe Garbarino SpA : M/V PEPPINO - SPA Req. FWG Ejector pump NEW"
     }
   ],
   "manualOrders": {
@@ -20569,7 +20577,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-31T13:17:35.641Z",
+    "todos": "2026-07-31T13:18:00.499Z",
     "notes": "2026-07-31T12:31:47.369Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -20578,7 +20586,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-07-28T15:21:07.791Z",
-    "outlookCompletionQueue": "2026-07-31T13:10:39.409Z",
+    "outlookCompletionQueue": "2026-07-31T13:18:00.499Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-31T13:01:15.397Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -20589,6 +20597,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 710,
-  "savedAt": "2026-07-31T13:17:38.415Z"
+  "rev": 711,
+  "savedAt": "2026-07-31T13:18:00.505Z"
 }
