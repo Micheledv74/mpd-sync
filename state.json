@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-31T06:54:35.012Z",
-  "todosCount": 260,
+  "pushedAt": "2026-07-31T06:54:38.896Z",
+  "todosCount": 262,
   "todos": [
     {
       "category": "Ufficio",
@@ -5764,6 +5764,50 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T14:48:38.0485338Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJcA3CzAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3CzAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJbExINAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips ",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips ",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-01",
+      "note": "",
+      "createdAt": "2026-07-31T05:58:47.0027175Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJcA3CyAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3CyAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJbEn7tAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "collaudo  lifejacket",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "collaudo  lifejacket",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-01",
+      "note": "",
+      "createdAt": "2026-07-31T05:52:09.963837Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -20334,6 +20378,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 675,
-  "savedAt": "2026-07-31T06:54:35.012Z"
+  "rev": 676,
+  "savedAt": "2026-07-31T06:54:38.896Z"
 }
