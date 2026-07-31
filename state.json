@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-31T13:06:43.928Z",
+  "pushedAt": "2026-07-31T13:06:52.588Z",
   "todosCount": 266,
   "todos": [
     {
@@ -5882,9 +5882,10 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-31T10:37:05.6630365Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-07-31T13:06:48.634Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-07-31T13:06:48.634Z"
     },
     {
       "id": "outlook_AAJcA3C0AAA=",
@@ -19223,6 +19224,13 @@
       "completedAt": "2026-07-31T13:06:40.290Z",
       "todoId": "outlook_AAJal9Q9AAA=",
       "title": "M/V MED LIGURIA  PR46  HQRQ-00120  MLG-SHPR-00046  YH MARINE TRADE CO.,LTD"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C1AAA=",
+      "listId": "",
+      "completedAt": "2026-07-31T13:06:48.635Z",
+      "todoId": "outlook_AAJcA3C1AAA=",
+      "title": "NORRBOTTEN - Chains for bottom doors"
     }
   ],
   "manualOrders": {
@@ -20510,7 +20518,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-31T13:06:43.915Z",
+    "todos": "2026-07-31T13:06:52.582Z",
     "notes": "2026-07-31T12:31:47.369Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -20519,7 +20527,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-07-28T15:21:07.791Z",
-    "outlookCompletionQueue": "2026-07-31T13:06:43.915Z",
+    "outlookCompletionQueue": "2026-07-31T13:06:52.582Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-31T13:01:15.397Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -20530,6 +20538,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 689,
-  "savedAt": "2026-07-31T13:06:43.928Z"
+  "rev": 690,
+  "savedAt": "2026-07-31T13:06:52.589Z"
 }
