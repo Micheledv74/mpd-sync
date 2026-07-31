@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-31T13:10:26.794Z",
+  "pushedAt": "2026-07-31T13:10:39.417Z",
   "todosCount": 266,
   "todos": [
     {
@@ -5503,9 +5503,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-30T08:11:16.7044335Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-07-31T13:10:35.988Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-07-31T13:10:35.988Z"
     },
     {
       "category": "Altro",
@@ -19262,6 +19263,13 @@
       "completedAt": "2026-07-31T13:10:23.885Z",
       "todoId": "outlook_AAJbE0CMAAA=",
       "title": "YOUR PO: NA - OUR CO: I 10127897 - VESSEL: PEPPINO"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJbE0CLAAA=",
+      "listId": "",
+      "completedAt": "2026-07-31T13:10:35.990Z",
+      "todoId": "outlook_AAJbE0CLAAA=",
+      "title": "YOUR PO: NA - OUR CO: I 10128152 - VESSEL: ΡΕΡΡΙΝΟ"
     }
   ],
   "manualOrders": {
@@ -20549,7 +20557,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-31T13:10:26.787Z",
+    "todos": "2026-07-31T13:10:39.409Z",
     "notes": "2026-07-31T12:31:47.369Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -20558,7 +20566,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-07-28T15:21:07.791Z",
-    "outlookCompletionQueue": "2026-07-31T13:10:26.787Z",
+    "outlookCompletionQueue": "2026-07-31T13:10:39.409Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-31T13:01:15.397Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -20569,6 +20577,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 702,
-  "savedAt": "2026-07-31T13:10:26.795Z"
+  "rev": 703,
+  "savedAt": "2026-07-31T13:10:39.417Z"
 }
