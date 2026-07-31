@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-07-31T13:06:26.397Z",
+  "pushedAt": "2026-07-31T13:06:43.928Z",
   "todosCount": 266,
   "todos": [
     {
@@ -5679,9 +5679,10 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-29T06:27:48.6347118Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-07-31T13:06:40.289Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-07-31T13:06:40.289Z"
     },
     {
       "category": "Nave",
@@ -19215,6 +19216,13 @@
       "completedAt": "2026-07-31T13:06:22.952Z",
       "todoId": "outlook_AAJal9Q_AAA=",
       "title": "M/V NORRBOTTEN - Request for Order and Invoice Status Summary"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9Q9AAA=",
+      "listId": "",
+      "completedAt": "2026-07-31T13:06:40.290Z",
+      "todoId": "outlook_AAJal9Q9AAA=",
+      "title": "M/V MED LIGURIA  PR46  HQRQ-00120  MLG-SHPR-00046  YH MARINE TRADE CO.,LTD"
     }
   ],
   "manualOrders": {
@@ -20502,7 +20510,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-07-31T13:06:17.857Z",
+    "todos": "2026-07-31T13:06:43.915Z",
     "notes": "2026-07-31T12:31:47.369Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -20511,7 +20519,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-07-28T15:21:07.791Z",
-    "outlookCompletionQueue": "2026-07-31T13:06:17.857Z",
+    "outlookCompletionQueue": "2026-07-31T13:06:43.915Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-31T13:01:15.397Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -20522,6 +20530,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 688,
-  "savedAt": "2026-07-31T13:06:26.397Z"
+  "rev": 689,
+  "savedAt": "2026-07-31T13:06:43.928Z"
 }
