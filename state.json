@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_sretp6a5rn",
-  "pushedAt": "2026-08-01T18:07:00.857Z",
-  "todosCount": 268,
+  "pushedAt": "2026-08-01T18:07:06.617Z",
+  "todosCount": 269,
   "todos": [
     {
       "category": "Nave",
@@ -4718,7 +4718,7 @@
       "createdAt": "2026-07-22T13:10:51.1208354Z",
       "done": true,
       "doneAt": "2026-07-23T08:37:17.092Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-07-23T08:37:17.092Z"
@@ -4743,7 +4743,7 @@
       "createdAt": "2026-07-22T11:04:06.1719738Z",
       "done": true,
       "doneAt": "2026-07-22T15:19:17.148Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "updatedAt": "2026-07-22T15:19:17.148Z"
     },
     {
@@ -5968,6 +5968,28 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T13:02:11.7752179Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJcA3C6AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C6AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJcA0uhAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "vegauno",
+      "action": "Altro",
+      "reference": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-02",
+      "note": "",
+      "createdAt": "2026-07-31T15:51:39.5126035Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -20650,6 +20672,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 718,
-  "savedAt": "2026-08-01T18:07:00.858Z"
+  "rev": 719,
+  "savedAt": "2026-08-01T18:07:06.617Z"
 }
