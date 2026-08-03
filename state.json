@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-03T09:12:59.154Z",
+  "pushedAt": "2026-08-03T10:12:49.976Z",
   "todosCount": 275,
   "todos": [
     {
@@ -6081,9 +6081,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-01T18:04:55.2258214Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-03T10:12:46.023Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-03T10:12:46.023Z"
     },
     {
       "id": "outlook_AAJcqtBBAAA=",
@@ -19501,6 +19502,13 @@
       "completedAt": "2026-07-31T13:18:13.908Z",
       "todoId": "outlook_AAJal9Q-AAA=",
       "title": "M/V MED LIGURIA / Xiamen Call -Request for Shipping Instructions"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcqtBCAAA=",
+      "listId": "",
+      "completedAt": "2026-08-03T10:12:46.025Z",
+      "todoId": "outlook_AAJcqtBCAAA=",
+      "title": "M/V MED LIGURIA  PR64  HQRQ-00137  MLG-SHPR-00064  YH MARINE TRADE CO.,LTD"
     }
   ],
   "manualOrders": {
@@ -20788,7 +20796,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-03T09:12:59.067Z",
+    "todos": "2026-08-03T10:12:49.970Z",
     "notes": "2026-07-31T12:31:47.369Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -20797,7 +20805,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-03T07:46:31.527Z",
-    "outlookCompletionQueue": "2026-07-31T13:18:17.401Z",
+    "outlookCompletionQueue": "2026-08-03T10:12:49.970Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-31T13:01:15.397Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -20808,6 +20816,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 737,
-  "savedAt": "2026-08-03T09:12:59.154Z"
+  "rev": 738,
+  "savedAt": "2026-08-03T10:12:49.976Z"
 }
