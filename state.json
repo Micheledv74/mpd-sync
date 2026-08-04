@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-04T12:58:11.590Z",
+  "pushedAt": "2026-08-04T12:58:16.726Z",
   "todosCount": 281,
   "todos": [
     {
@@ -5995,9 +5995,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T15:51:39.5126035Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-04T12:58:13.085Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-04T12:58:13.085Z"
     },
     {
       "category": "Nave",
@@ -19694,6 +19695,13 @@
       "completedAt": "2026-08-04T12:58:07.615Z",
       "todoId": "outlook_AAJcA3C4AAA=",
       "title": "M/V MED TOSCANA  PR68  HQPO-00083  MDT-SHPR-00068  YH MARINE TRADE CO.,LTD"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C6AAA=",
+      "listId": "",
+      "completedAt": "2026-08-04T12:58:13.087Z",
+      "todoId": "outlook_AAJcA3C6AAA=",
+      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
     }
   ],
   "manualOrders": {
@@ -21001,6 +21009,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 760,
-  "savedAt": "2026-08-04T12:58:11.590Z"
+  "rev": 761,
+  "savedAt": "2026-08-04T12:58:16.727Z"
 }
