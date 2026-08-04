@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-04T10:58:31.340Z",
+  "pushedAt": "2026-08-04T12:53:08.999Z",
   "todosCount": 280,
   "todos": [
     {
@@ -6265,7 +6265,7 @@
     "med toscana::bilge separetor": "arrivo @Houston 03/07/2026",
     "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": "Standby @Roger",
     "med toscana::ships crane spare parts": "Standby @Roger",
-    "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": "Standby @Roger - not ready yet",
+    "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": "Standby @Roger -",
     "med liguria::bwms balclor spare parts": "????????????",
     "med toscana::rki bump kit with gas botle 45 gases 1set": "Non fornito in America /Houston\nVedere altrove ->viaggio",
     "peppino::hatch covers cleats": "Pronta x PO",
@@ -20912,7 +20912,7 @@
   },
   "collMeta": {
     "todos": "2026-08-04T10:58:28.053Z",
-    "notes": "2026-07-31T12:31:47.369Z",
+    "notes": "2026-08-04T12:53:08.993Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
     "completionsHistory": "2026-07-22T18:57:31.789Z",
@@ -20931,6 +20931,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 748,
-  "savedAt": "2026-08-04T10:58:31.341Z"
+  "rev": 749,
+  "savedAt": "2026-08-04T12:53:08.999Z"
 }
