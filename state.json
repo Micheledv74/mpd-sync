@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-04T12:59:45.982Z",
+  "pushedAt": "2026-08-04T13:00:00.674Z",
   "todosCount": 281,
   "todos": [
     {
@@ -6213,9 +6213,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T09:49:07.737028Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-04T12:59:56.673Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-04T12:59:56.673Z"
     },
     {
       "category": "Nave",
@@ -19719,6 +19720,13 @@
       "completedAt": "2026-08-04T12:59:41.179Z",
       "todoId": "outlook_AAJcqtBAAAA=",
       "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjx-AAA=",
+      "listId": "",
+      "completedAt": "2026-08-04T12:59:56.676Z",
+      "todoId": "outlook_AAJeFjx-AAA=",
+      "title": "M/V MED TOSCANA - Port Luis Call -Request for Shipping Instructions"
     }
   ],
   "manualOrders": {
@@ -21006,7 +21014,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-04T12:59:41.582Z",
+    "todos": "2026-08-04T13:00:00.668Z",
     "notes": "2026-08-04T12:53:08.993Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21015,7 +21023,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-04T12:54:25.256Z",
-    "outlookCompletionQueue": "2026-08-04T12:59:41.582Z",
+    "outlookCompletionQueue": "2026-08-04T13:00:00.668Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-31T13:01:15.397Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -21026,6 +21034,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 766,
-  "savedAt": "2026-08-04T12:59:45.983Z"
+  "rev": 767,
+  "savedAt": "2026-08-04T13:00:00.674Z"
 }
