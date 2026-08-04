@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-04T12:56:27.180Z",
+  "pushedAt": "2026-08-04T12:56:44.359Z",
   "todosCount": 281,
   "todos": [
     {
@@ -5948,9 +5948,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T13:02:12.8229823Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-04T12:56:41.026Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-04T12:56:41.026Z"
     },
     {
       "category": "Nave",
@@ -19678,6 +19679,13 @@
       "completedAt": "2026-08-04T12:56:04.715Z",
       "todoId": "outlook_AAJcA3C3AAA=",
       "title": "NORRBOTTEN - Chains for bottom doors"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C5AAA=",
+      "listId": "",
+      "completedAt": "2026-08-04T12:56:41.028Z",
+      "todoId": "outlook_AAJcA3C5AAA=",
+      "title": "M/V MED TOSCANA - Port Luis Call -Request for Shipping Instructions"
     }
   ],
   "manualOrders": {
@@ -20965,7 +20973,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-04T12:56:27.174Z",
+    "todos": "2026-08-04T12:56:44.350Z",
     "notes": "2026-08-04T12:53:08.993Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -20974,7 +20982,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-04T12:54:25.256Z",
-    "outlookCompletionQueue": "2026-08-04T12:56:08.726Z",
+    "outlookCompletionQueue": "2026-08-04T12:56:44.350Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-31T13:01:15.397Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -20985,6 +20993,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 758,
-  "savedAt": "2026-08-04T12:56:27.180Z"
+  "rev": 759,
+  "savedAt": "2026-08-04T12:56:44.359Z"
 }
