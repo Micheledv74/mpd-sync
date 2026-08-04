@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-04T13:02:28.960Z",
+  "pushedAt": "2026-08-04T13:02:45.624Z",
   "todosCount": 281,
   "todos": [
     {
@@ -766,10 +766,13 @@
       "id": "td_1781594085068_88hrw",
       "vessel": "peppino",
       "action": "Controllare",
-      "dueDate": "2026-08-03",
+      "dueDate": "2026-08-05",
       "note": "Controllare ordine e spedizione",
       "done": false,
-      "createdAt": "2026-06-16T07:14:45.068Z"
+      "createdAt": "2026-06-16T07:14:45.068Z",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-08-04T13:02:41.502Z"
     },
     {
       "category": "Nave",
@@ -21037,7 +21040,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-04T13:02:28.954Z",
+    "todos": "2026-08-04T13:02:45.618Z",
     "notes": "2026-08-04T12:53:08.993Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21057,6 +21060,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 780,
-  "savedAt": "2026-08-04T13:02:28.960Z"
+  "rev": 781,
+  "savedAt": "2026-08-04T13:02:45.624Z"
 }
