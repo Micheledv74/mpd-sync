@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-05T08:02:58.463Z",
+  "pushedAt": "2026-08-05T08:03:20.606Z",
   "todosCount": 284,
   "todos": [
     {
@@ -6385,7 +6385,7 @@
     "med toscana::cargo crane claim spare part": "Roger->PORT LUIS",
     "med liguria::battery module": "@standby YH MARINE",
     "med toscana::bilge separetor": "arrivo @Houston 03/07/2026",
-    "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": "Standby @Roger",
+    "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": "Roger->PORT LUIS",
     "med toscana::ships crane spare parts": "Roger -> PORT LUIS",
     "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": "Roger -> PORT LUIS",
     "med liguria::bwms balclor spare parts": "????????????",
@@ -21138,7 +21138,7 @@
   },
   "collMeta": {
     "todos": "2026-08-05T07:06:55.771Z",
-    "notes": "2026-08-05T08:02:55.219Z",
+    "notes": "2026-08-05T08:03:20.600Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
     "completionsHistory": "2026-07-22T18:57:31.789Z",
@@ -21157,6 +21157,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 804,
-  "savedAt": "2026-08-05T08:02:58.463Z"
+  "rev": 805,
+  "savedAt": "2026-08-05T08:03:20.606Z"
 }
