@@ -1,9 +1,29 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-05T15:21:37.320Z",
-  "todosCount": 290,
+  "pushedAt": "2026-08-05T15:21:50.949Z",
+  "todosCount": 291,
   "todos": [
+    {
+      "id": "td_1785943306218_aylkq",
+      "category": "Ufficio",
+      "priority": "media",
+      "vessel": "",
+      "action": "Inviare email",
+      "reference": "Rispondere a Pasquale Esposito — R: M/V MED LIGURIA - Ballast Water Treatment System",
+      "tags": [
+        "email",
+        "sssdam.com"
+      ],
+      "dueDate": "2026-08-06",
+      "note": "Chiedi chiarimenti a roger per il buffer Pasquale Esposito Tanker Section Superintendent Ships Surveys and Service Direct Phone :+390815423367 Mobile Phone: +393316797418 E-mail: pesposito@sssdam.com Da: Purchasing SSSDAm <purchasing@sssdam.com",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJcqmf4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: M/V MED LIGURIA - Ballast Water Treatment System",
+      "done": false,
+      "createdAt": "2026-08-05T15:21:46.218Z"
+    },
     {
       "id": "td_1785943217361_9p16r",
       "category": "Ufficio",
@@ -21250,7 +21270,8 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQANaxDJXT0UqRhQfmyzgjZeM=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAP3l2rUHWV9PiUbQXexw1UE=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAGtfgyIUkLik4rE2ppoRq4=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHI3hGnEDd1BouU71XUPfSk="
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHI3hGnEDd1BouU71XUPfSk=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAO-WfOe9KkBbuSWTNqo78xc="
   ],
   "shipments": {
     "med toscana::bwts suction pump mn 40125": [
@@ -21363,7 +21384,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-05T15:20:21.854Z",
+    "todos": "2026-08-05T15:21:50.943Z",
     "notes": "2026-08-05T13:17:34.457Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21380,9 +21401,9 @@
     "agencyProfiles": "2026-07-22T18:57:31.789Z",
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
-    "repliesDismissed": "2026-08-05T15:21:33.880Z",
+    "repliesDismissed": "2026-08-05T15:21:50.943Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 871,
-  "savedAt": "2026-08-05T15:21:37.320Z"
+  "rev": 872,
+  "savedAt": "2026-08-05T15:21:50.950Z"
 }
