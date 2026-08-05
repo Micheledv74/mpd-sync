@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-05T07:59:37.216Z",
+  "pushedAt": "2026-08-05T08:00:52.565Z",
   "todosCount": 284,
   "todos": [
     {
@@ -6396,7 +6396,8 @@
     "med toscana::urgently original headset/accessory for icom icf61 fireman": "PO Rejected",
     "med liguria::paint": "Inviare scheda tecnica SIGMADUR ONE",
     "med toscana::ht cooling electro pneumatic regulator": "Roger ->PORT LUIS",
-    "med toscana::navigation light control panel": "-> PORT LUIS"
+    "med toscana::navigation light control panel": "-> PORT LUIS",
+    "med toscana::diesel oil pump imo pump ace 025 l3 nvbp 1year service kit": "TML ->PORT LUIS"
   },
   "snoozed": {
     "todo:td_1780846490055_byv9f": "2026-06-22",
@@ -21134,7 +21135,7 @@
   },
   "collMeta": {
     "todos": "2026-08-05T07:06:55.771Z",
-    "notes": "2026-08-05T07:59:37.207Z",
+    "notes": "2026-08-05T08:00:52.556Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
     "completionsHistory": "2026-07-22T18:57:31.789Z",
@@ -21153,6 +21154,6 @@
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-07-28T15:18:30.245Z"
   },
-  "rev": 797,
-  "savedAt": "2026-08-05T07:59:37.217Z"
+  "rev": 798,
+  "savedAt": "2026-08-05T08:00:52.565Z"
 }
