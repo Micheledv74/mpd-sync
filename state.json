@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-06T07:23:38.598Z",
+  "pushedAt": "2026-08-06T07:24:16.615Z",
   "todosCount": 295,
   "todos": [
     {
@@ -21539,6 +21539,20 @@
         "events": [],
         "updatedAt": "2026-08-06T06:55:33.630Z"
       }
+    ],
+    "med liguria::medicine": [
+      {
+        "id": "shmsh6wv7erhm",
+        "route": "supplier-hub",
+        "carrier": "Altro",
+        "hub": "",
+        "number": "SP661221090",
+        "status": "pending",
+        "pickup": "2026-08-06",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-08-06T07:24:11.642Z"
+      }
     ]
   },
   "sourceDevice": {
@@ -21565,8 +21579,8 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-05T15:28:44.116Z",
-    "shipments": "2026-08-06T06:55:38.016Z"
+    "shipments": "2026-08-06T07:24:16.607Z"
   },
-  "rev": 912,
-  "savedAt": "2026-08-06T07:23:38.598Z"
+  "rev": 913,
+  "savedAt": "2026-08-06T07:24:16.615Z"
 }
