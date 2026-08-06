@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-06T08:45:09.417Z",
+  "pushedAt": "2026-08-06T09:12:55.775Z",
   "todosCount": 296,
   "todos": [
     {
@@ -21600,6 +21600,20 @@
         ],
         "updatedAt": "2026-08-06T07:30:25.065Z"
       }
+    ],
+    "med liguria::automatic fire detection and alarm system nippon hakuyo electronics ltd critical spare parts": [
+      {
+        "id": "shmshasl52fz6",
+        "route": "supplier-hub",
+        "carrier": "Altro",
+        "hub": "",
+        "number": "131-26268653",
+        "status": "pending",
+        "pickup": "2026-08-06",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-08-06T09:12:50.439Z"
+      }
     ]
   },
   "sourceDevice": {
@@ -21626,8 +21640,8 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-05T15:28:44.116Z",
-    "shipments": "2026-08-06T07:30:28.701Z"
+    "shipments": "2026-08-06T09:12:55.768Z"
   },
-  "rev": 935,
-  "savedAt": "2026-08-06T08:45:09.417Z"
+  "rev": 936,
+  "savedAt": "2026-08-06T09:12:55.775Z"
 }
