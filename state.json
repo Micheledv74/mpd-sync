@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-06T07:36:38.401Z",
+  "pushedAt": "2026-08-06T07:37:20.795Z",
   "todosCount": 295,
   "todos": [
     {
@@ -18774,8 +18774,8 @@
         }
       },
       "notes": "",
-      "updatedAt": "2026-08-05T12:17:12.717Z",
-      "fromNoon": "2026-08-05"
+      "updatedAt": "2026-08-06T07:37:16.805Z",
+      "fromNoon": "2026-08-06"
     },
     "medtoscana": {
       "status": "at_sea",
@@ -21594,7 +21594,7 @@
     "supplierTimezones": "2026-07-22T18:57:31.789Z",
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
-    "voyages": "2026-08-05T12:17:16.601Z",
+    "voyages": "2026-08-06T07:37:19.957Z",
     "outlookCompletionQueue": "2026-08-05T12:21:40.723Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-07-31T13:01:15.397Z",
@@ -21606,6 +21606,6 @@
     "repliesDismissed": "2026-08-05T15:28:44.116Z",
     "shipments": "2026-08-06T07:30:28.701Z"
   },
-  "rev": 923,
-  "savedAt": "2026-08-06T07:36:38.401Z"
+  "rev": 924,
+  "savedAt": "2026-08-06T07:37:20.795Z"
 }
