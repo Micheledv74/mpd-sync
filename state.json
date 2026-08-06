@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-06T06:53:20.300Z",
+  "pushedAt": "2026-08-06T06:54:30.254Z",
   "todosCount": 293,
   "todos": [
     {
@@ -21465,6 +21465,20 @@
         "events": [],
         "updatedAt": "2026-08-06T06:53:14.926Z"
       }
+    ],
+    "med toscana::fuel circulation pump of me ace038 n3 ntbp complete": [
+      {
+        "id": "shmsh5ukz410a",
+        "route": "hub-port",
+        "carrier": "Altro",
+        "hub": "",
+        "number": "020-92985476",
+        "status": "pending",
+        "pickup": "2026-08-06",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-08-06T06:54:25.456Z"
+      }
     ]
   },
   "sourceDevice": {
@@ -21491,8 +21505,8 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-05T15:28:44.116Z",
-    "shipments": "2026-08-06T06:53:20.293Z"
+    "shipments": "2026-08-06T06:54:28.943Z"
   },
-  "rev": 909,
-  "savedAt": "2026-08-06T06:53:20.300Z"
+  "rev": 910,
+  "savedAt": "2026-08-06T06:54:30.255Z"
 }
