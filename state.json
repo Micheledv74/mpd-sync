@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-07T12:05:35.314Z",
+  "pushedAt": "2026-08-07T12:05:54.693Z",
   "todosCount": 302,
   "todos": [
     {
@@ -21787,32 +21787,6 @@
         "updatedAt": "2026-08-06T06:54:25.456Z"
       }
     ],
-    "med toscana::diesel oil pump imo pump ace 025 l3 nvbp 1year service kit": [
-      {
-        "id": "shmsh5w1kuz43",
-        "route": "hub-port",
-        "carrier": "Altro",
-        "hub": "",
-        "number": "235-05734805",
-        "status": "pending",
-        "pickup": "2026-08-06",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-08-06T06:55:33.630Z"
-      },
-      {
-        "id": "shmsiwegyq7v1",
-        "route": "supplier-port",
-        "carrier": "Altro",
-        "hub": "",
-        "number": "235-05734805",
-        "status": "pending",
-        "pickup": "2026-08-07",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-08-07T12:05:29.570Z"
-      }
-    ],
     "med liguria::medicine": [
       {
         "id": "shmsh6wv7erhm",
@@ -21943,8 +21917,8 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-05T15:28:44.116Z",
-    "shipments": "2026-08-07T12:05:35.304Z"
+    "shipments": "2026-08-07T12:05:51.860Z"
   },
-  "rev": 1029,
-  "savedAt": "2026-08-07T12:05:35.314Z"
+  "rev": 1030,
+  "savedAt": "2026-08-07T12:05:54.693Z"
 }
