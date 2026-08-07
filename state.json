@@ -1,9 +1,24 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-07T12:35:48.590Z",
-  "todosCount": 295,
+  "pushedAt": "2026-08-07T12:49:08.736Z",
+  "todosCount": 296,
   "todos": [
+    {
+      "id": "td_1786106945120_161a6",
+      "category": "Nave",
+      "priority": "alta",
+      "vessel": "medtoscana",
+      "action": "Inviare email",
+      "reference": "Tefin",
+      "tags": [],
+      "dueDate": "2026-08-10",
+      "note": "Pre-allarme per revisione/certificati nave RADIO",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-08-07T12:49:05.120Z"
+    },
     {
       "category": "Ufficio",
       "priority": "media",
@@ -21687,7 +21702,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-07T12:33:37.432Z",
+    "todos": "2026-08-07T12:49:08.729Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21707,6 +21722,6 @@
     "repliesDismissed": "2026-08-05T15:28:44.116Z",
     "shipments": "2026-08-07T12:12:53.402Z"
   },
-  "rev": 1048,
-  "savedAt": "2026-08-07T12:35:48.590Z"
+  "rev": 1049,
+  "savedAt": "2026-08-07T12:49:08.736Z"
 }
