@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-07T12:50:23.555Z",
+  "pushedAt": "2026-08-07T12:50:34.375Z",
   "todosCount": 297,
   "todos": [
     {
@@ -6358,9 +6358,10 @@
       "dueDate": "2026-08-08",
       "note": "",
       "createdAt": "2026-07-31T15:51:39.5126035Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:31.322Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:31.322Z"
     },
     {
       "category": "Nave",
@@ -19916,13 +19917,6 @@
       "title": "M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips "
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C6AAA=",
-      "listId": "",
-      "completedAt": "2026-08-04T12:58:13.087Z",
-      "todoId": "outlook_AAJcA3C6AAA=",
-      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjyBAAA=",
       "listId": "",
       "completedAt": "2026-08-05T07:06:22.937Z",
@@ -20256,6 +20250,13 @@
       "listId": "",
       "completedAt": "2026-08-07T12:50:16.886Z",
       "todoId": "outlook_AAJY7qDDAAA=",
+      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C6AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:31.325Z",
+      "todoId": "outlook_AAJcA3C6AAA=",
       "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
     }
   ],
@@ -21806,7 +21807,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-07T12:50:23.549Z",
+    "todos": "2026-08-07T12:50:34.363Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21815,7 +21816,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-07T07:55:56.058Z",
-    "outlookCompletionQueue": "2026-08-07T12:50:23.549Z",
+    "outlookCompletionQueue": "2026-08-07T12:50:34.363Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-07T08:36:44.112Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -21826,6 +21827,6 @@
     "repliesDismissed": "2026-08-05T15:28:44.116Z",
     "shipments": "2026-08-07T12:12:53.402Z"
   },
-  "rev": 1051,
-  "savedAt": "2026-08-07T12:50:23.555Z"
+  "rev": 1052,
+  "savedAt": "2026-08-07T12:50:34.375Z"
 }
