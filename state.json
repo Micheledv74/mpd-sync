@@ -1,9 +1,27 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-07T12:49:51.808Z",
-  "todosCount": 296,
+  "pushedAt": "2026-08-07T12:50:23.555Z",
+  "todosCount": 297,
   "todos": [
+    {
+      "id": "td_1786107019940_0nloy",
+      "category": "Nave",
+      "priority": "alta",
+      "vessel": "peppino",
+      "action": "Controllare",
+      "reference": "Certificati",
+      "tags": [],
+      "dueDate": "2026-08-14",
+      "note": "",
+      "recur": {
+        "type": "days",
+        "interval": 15
+      },
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-08-07T12:50:19.940Z"
+    },
     {
       "id": "td_1786106945120_161a6",
       "category": "Nave",
@@ -58,8 +76,10 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJY7pMiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Some of your installations demand your attention",
-      "done": false,
-      "createdAt": "2026-07-28T08:09:46.713Z"
+      "done": true,
+      "createdAt": "2026-07-28T08:09:46.713Z",
+      "doneAt": "2026-08-07T12:49:59.345Z",
+      "updatedAt": "2026-08-07T12:49:59.345Z"
     },
     {
       "category": "Nave",
@@ -73,8 +93,10 @@
       "note": "Dead Line per Hub TML 06/08/2026",
       "recur": null,
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-24T07:18:53.341Z"
+      "done": true,
+      "createdAt": "2026-07-24T07:18:53.341Z",
+      "doneAt": "2026-08-07T12:50:19.386Z",
+      "updatedAt": "2026-08-07T12:50:19.387Z"
     },
     {
       "category": "Nave",
@@ -130,8 +152,10 @@
         "interval": 15
       },
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-23T09:20:22.198Z"
+      "done": true,
+      "createdAt": "2026-07-23T09:20:22.198Z",
+      "doneAt": "2026-08-07T12:50:19.939Z",
+      "updatedAt": "2026-08-07T12:50:19.939Z"
     },
     {
       "category": "Ufficio",
@@ -145,9 +169,10 @@
       "note": "Spektra Fuel e Due date",
       "recur": null,
       "kind": "todo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-07-23T07:10:28.895Z",
-      "updatedAt": "2026-07-27T14:23:12.872Z"
+      "updatedAt": "2026-08-07T12:50:18.307Z",
+      "doneAt": "2026-08-07T12:50:18.307Z"
     },
     {
       "category": "Nave",
@@ -207,9 +232,10 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0gejAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: M/V MED TOSCANA - High-pressure Pump",
-      "done": false,
+      "done": true,
       "createdAt": "2026-07-22T15:19:51.488Z",
-      "updatedAt": "2026-07-28T13:02:49.261Z"
+      "updatedAt": "2026-08-07T12:50:12.715Z",
+      "doneAt": "2026-08-07T12:50:12.715Z"
     },
     {
       "category": "Ufficio",
@@ -467,10 +493,11 @@
       "dueDate": "2026-08-01",
       "note": "Model. HRS280 2.80 mt.\n3 persone, 550 kg.\n7.5 KW 10 hp",
       "recur": null,
-      "done": false,
+      "done": true,
       "createdAt": "2026-07-02T18:42:50.752Z",
-      "updatedAt": "2026-07-27T14:14:34.291Z",
-      "kind": "todo"
+      "updatedAt": "2026-08-07T12:50:09.202Z",
+      "kind": "todo",
+      "doneAt": "2026-08-07T12:50:09.202Z"
     },
     {
       "category": "Nave",
@@ -661,11 +688,12 @@
       "action": "Altro",
       "dueDate": "2026-07-31",
       "note": "Chiedere a Pasquale\n@merce pronta x invio indirizzo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-06-24T13:56:56.797Z",
-      "updatedAt": "2026-07-28T13:02:56.957Z",
+      "updatedAt": "2026-08-07T12:50:11.275Z",
       "kind": "todo",
-      "recur": null
+      "recur": null,
+      "doneAt": "2026-08-07T12:50:11.275Z"
     },
     {
       "category": "Nave",
@@ -3747,12 +3775,12 @@
       "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-10T07:25:12.9439366Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-07T12:50:09.034Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-27T14:21:39.022Z"
+      "updatedAt": "2026-08-07T12:50:09.035Z"
     },
     {
       "category": "Nave",
@@ -4034,12 +4062,12 @@
       "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-14T21:55:00.3659043Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-07T12:50:08.874Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-27T14:21:44.597Z"
+      "updatedAt": "2026-08-07T12:50:08.874Z"
     },
     {
       "category": "Nave",
@@ -4593,12 +4621,12 @@
       "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-21T08:31:21.4395477Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-07T12:50:08.716Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-27T14:15:32.661Z"
+      "updatedAt": "2026-08-07T12:50:08.716Z"
     },
     {
       "category": "Nave",
@@ -4987,9 +5015,10 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-23T15:28:54.1594549Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:13.850Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:13.850Z"
     },
     {
       "category": "Nave",
@@ -5256,12 +5285,12 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-27T14:14:11.4610112Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-07T12:50:11.114Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-28T08:33:46.490Z"
+      "updatedAt": "2026-08-07T12:50:11.114Z"
     },
     {
       "category": "Altro",
@@ -5328,12 +5357,12 @@
       "dueDate": "2026-07-28",
       "note": "",
       "createdAt": "2026-07-28T11:05:20.0012318Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-07T12:50:14.026Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-28T12:59:11.251Z"
+      "updatedAt": "2026-08-07T12:50:14.026Z"
     },
     {
       "category": "Nave",
@@ -5398,12 +5427,12 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-28T08:09:55.0810786Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-07T12:50:10.963Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-28T13:01:29.812Z"
+      "updatedAt": "2026-08-07T12:50:10.963Z"
     },
     {
       "category": "Nave",
@@ -5424,12 +5453,12 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-28T11:53:38.314558Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-07T12:50:10.794Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-28T13:02:30.276Z"
+      "updatedAt": "2026-08-07T12:50:10.794Z"
     },
     {
       "category": "Nave",
@@ -5471,9 +5500,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-30T08:11:17.6677722Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:10.635Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:10.635Z"
     },
     {
       "category": "Altro",
@@ -5493,9 +5523,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-30T08:11:17.0214147Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:10.467Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:10.467Z"
     },
     {
       "category": "Altro",
@@ -5515,9 +5546,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-30T08:11:16.7044335Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:10.299Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:10.299Z"
     },
     {
       "category": "Altro",
@@ -5537,9 +5569,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T12:27:50.4651769Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:10.138Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:10.138Z"
     },
     {
       "category": "Altro",
@@ -5559,9 +5592,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T10:03:28.220341Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:09.986Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:09.986Z"
     },
     {
       "category": "Nave",
@@ -5581,9 +5615,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:39:43.0104813Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:09.835Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:09.835Z"
     },
     {
       "category": "Nave",
@@ -5604,9 +5639,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:39:24.2639299Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:09.667Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:09.668Z"
     },
     {
       "category": "Nave",
@@ -5626,9 +5662,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:36:07.7444853Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:09.506Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:09.506Z"
     },
     {
       "category": "Nave",
@@ -5648,9 +5685,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:25:17.1363227Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:09.355Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:09.355Z"
     },
     {
       "category": "Nave",
@@ -5670,9 +5708,10 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-29T07:17:56.1446684Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:13.691Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:13.691Z"
     },
     {
       "category": "Nave",
@@ -5693,9 +5732,10 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-29T06:27:48.6347118Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:13.491Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:13.491Z"
     },
     {
       "category": "Nave",
@@ -5715,9 +5755,10 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T15:14:35.7044825Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:16.883Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:16.883Z"
     },
     {
       "category": "Nave",
@@ -5737,9 +5778,10 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T15:12:42.7301081Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:15.979Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:15.979Z"
     },
     {
       "category": "Nave",
@@ -5759,9 +5801,10 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T14:48:39.0951017Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:14.875Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:14.875Z"
     },
     {
       "category": "Nave",
@@ -5781,9 +5824,10 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T14:48:38.0485338Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:14.195Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:14.195Z"
     },
     {
       "category": "Nave",
@@ -5803,9 +5847,10 @@
       "dueDate": "2026-08-06",
       "note": "",
       "createdAt": "2026-08-07T07:38:41.9985208Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:49:54.946Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:49:54.946Z"
     },
     {
       "category": "Nave",
@@ -5848,9 +5893,10 @@
       "dueDate": "2026-08-06",
       "note": "",
       "createdAt": "2026-08-06T14:24:24.5519428Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:49:54.714Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:49:54.715Z"
     },
     {
       "category": "Nave",
@@ -5870,9 +5916,10 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-06T08:14:13.7233933Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:49:55.729Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:49:55.729Z"
     },
     {
       "category": "Nave",
@@ -5893,9 +5940,10 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-06T07:08:29.7339891Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:49:55.569Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:49:55.569Z"
     },
     {
       "category": "Nave",
@@ -5916,9 +5964,10 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-06T07:07:11.9249856Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:49:55.425Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:49:55.425Z"
     },
     {
       "category": "Altro",
@@ -5938,9 +5987,10 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-05T14:11:22.8368215Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:49:55.257Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:49:55.257Z"
     },
     {
       "category": "Nave",
@@ -5961,9 +6011,10 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-05T12:23:32.0681381Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:49:55.089Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:49:55.089Z"
     },
     {
       "category": "Altro",
@@ -5983,9 +6034,10 @@
       "dueDate": "2026-08-04",
       "note": "",
       "createdAt": "2026-08-04T14:03:48.8236826Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:49:56.025Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:49:56.025Z"
     },
     {
       "category": "Nave",
@@ -6006,9 +6058,10 @@
       "dueDate": "2026-08-04",
       "note": "",
       "createdAt": "2026-08-04T13:00:30.8313076Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:49:55.882Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:49:55.882Z"
     },
     {
       "category": "Nave",
@@ -6073,9 +6126,10 @@
       "dueDate": "2026-08-03",
       "note": "",
       "createdAt": "2026-08-04T07:05:54.1799026Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:49:56.338Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:49:56.338Z"
     },
     {
       "category": "Nave",
@@ -6095,9 +6149,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T09:49:07.737028Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:08.554Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:08.554Z"
     },
     {
       "category": "Nave",
@@ -6118,9 +6173,10 @@
       "dueDate": "2026-08-03",
       "note": "",
       "createdAt": "2026-08-03T08:35:36.8833225Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:49:56.178Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:49:56.178Z"
     },
     {
       "category": "Nave",
@@ -6141,9 +6197,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T07:35:28.0343713Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:08.395Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:08.395Z"
     },
     {
       "category": "Nave",
@@ -6186,9 +6243,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T07:33:31.310013Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:08.219Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:08.219Z"
     },
     {
       "category": "Altro",
@@ -6208,9 +6266,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T07:27:09.8637097Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:07.721Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:07.721Z"
     },
     {
       "category": "Nave",
@@ -6276,9 +6335,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-01T18:01:35.0683171Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:07.561Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:07.561Z"
     },
     {
       "category": "Nave",
@@ -6320,9 +6380,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T13:02:12.8229823Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:07.369Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:07.369Z"
     },
     {
       "category": "Nave",
@@ -6343,9 +6404,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T13:02:11.7752179Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:06.785Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:06.785Z"
     },
     {
       "category": "Nave",
@@ -6365,9 +6427,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T11:05:07.1921396Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:03.834Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:03.834Z"
     },
     {
       "category": "Nave",
@@ -6387,9 +6450,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T10:37:35.6538016Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:02.154Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:02.154Z"
     },
     {
       "category": "Nave",
@@ -6409,9 +6473,10 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-31T10:37:05.6630365Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:13.114Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:13.115Z"
     },
     {
       "category": "Nave",
@@ -6431,9 +6496,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T09:58:59.0257064Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:50:00.609Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:50:00.609Z"
     },
     {
       "category": "Nave",
@@ -6545,9 +6611,10 @@
       "dueDate": "2026-08-06",
       "note": "",
       "createdAt": "2026-08-07T10:52:51.217955Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-07T12:49:54.193Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-07T12:49:54.193Z"
     },
     {
       "category": "Nave",
@@ -19835,137 +19902,11 @@
       "title": "M/B VEGA UNO - Revisione e collaudo estintori"
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDDAAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:05:33.268Z",
-      "todoId": "outlook_AAJY7qDDAAA=",
-      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDCAAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:05:34.012Z",
-      "todoId": "outlook_AAJY7qDCAAA=",
-      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDBAAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:05:34.667Z",
-      "todoId": "outlook_AAJY7qDBAAA=",
-      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDAAAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:05:35.306Z",
-      "todoId": "outlook_AAJY7qDAAAA=",
-      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC_AAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:05:45.971Z",
-      "todoId": "outlook_AAJY7qC_AAA=",
-      "title": "M/V MED TOSCANA - Confirmation of Quantity Received – Adjustment Screws for Windlass/Band Brake"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oT1AAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:06:13.884Z",
-      "todoId": "outlook_AAJV0oT1AAA=",
-      "title": "Norrbotten – Technician Attendance and Access Formalities at Yalova Shipyard - CAMBIO NOME E SOPRALLUOGO PER RETROFIT IMPIANTO TIMONE "
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9Q_AAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:06:22.952Z",
-      "todoId": "outlook_AAJal9Q_AAA=",
-      "title": "M/V NORRBOTTEN - Request for Order and Invoice Status Summary"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9Q9AAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:06:40.290Z",
-      "todoId": "outlook_AAJal9Q9AAA=",
-      "title": "M/V MED LIGURIA  PR46  HQRQ-00120  MLG-SHPR-00046  YH MARINE TRADE CO.,LTD"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C1AAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:06:48.635Z",
-      "todoId": "outlook_AAJcA3C1AAA=",
-      "title": "NORRBOTTEN - Chains for bottom doors"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC4AAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:08:19.388Z",
-      "todoId": "outlook_AAJY7qC4AAA=",
-      "title": "M/V NORBOTTEN - Gas Detector"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC-AAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:09:26.878Z",
-      "todoId": "outlook_AAJY7qC-AAA=",
-      "title": "M/V MED TOSCANA  PR68  HQPO-00083  MDT-SHPR-00068  YH MARINE TRADE CO.,LTD"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJbE0CNAAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:09:37.237Z",
-      "todoId": "outlook_AAJbE0CNAAA=",
-      "title": "pagamenti norrbotten"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJbE0CMAAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:10:23.885Z",
-      "todoId": "outlook_AAJbE0CMAAA=",
-      "title": "YOUR PO: NA - OUR CO: I 10127897 - VESSEL: PEPPINO"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJbE0CLAAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:10:35.990Z",
-      "todoId": "outlook_AAJbE0CLAAA=",
-      "title": "YOUR PO: NA - OUR CO: I 10128152 - VESSEL: ΡΕΡΡΙΝΟ"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RAAAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:17:56.594Z",
-      "todoId": "outlook_AAJal9RAAAA=",
-      "title": "26A0081 Pompe Garbarino SpA : M/V PEPPINO - SPA Req. FWG Ejector pump NEW"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9Q-AAA=",
-      "listId": "",
-      "completedAt": "2026-07-31T13:18:13.908Z",
-      "todoId": "outlook_AAJal9Q-AAA=",
-      "title": "M/V MED LIGURIA / Xiamen Call -Request for Shipping Instructions"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcqtBCAAA=",
       "listId": "",
       "completedAt": "2026-08-03T10:12:46.025Z",
       "todoId": "outlook_AAJcqtBCAAA=",
       "title": "M/V MED LIGURIA  PR64  HQRQ-00137  MLG-SHPR-00064  YH MARINE TRADE CO.,LTD"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJVJVBAAAA=",
-      "listId": "",
-      "completedAt": "2026-08-04T12:55:37.814Z",
-      "todoId": "outlook_AAJVJVBAAAA=",
-      "title": "Sales quote Q26-009874"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJIqr3ZAAA=",
-      "listId": "",
-      "completedAt": "2026-08-04T12:55:43.263Z",
-      "todoId": "outlook_AAJIqr3ZAAA=",
-      "title": "NORRBOTTEN FREEFALL & RESCUE BOAT"
     },
     {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3CzAAA=",
@@ -19975,59 +19916,10 @@
       "title": "M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips "
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C3AAA=",
-      "listId": "",
-      "completedAt": "2026-08-04T12:56:04.715Z",
-      "todoId": "outlook_AAJcA3C3AAA=",
-      "title": "NORRBOTTEN - Chains for bottom doors"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C5AAA=",
-      "listId": "",
-      "completedAt": "2026-08-04T12:56:41.028Z",
-      "todoId": "outlook_AAJcA3C5AAA=",
-      "title": "M/V MED TOSCANA - Port Luis Call -Request for Shipping Instructions"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C4AAA=",
-      "listId": "",
-      "completedAt": "2026-08-04T12:58:07.615Z",
-      "todoId": "outlook_AAJcA3C4AAA=",
-      "title": "M/V MED TOSCANA  PR68  HQPO-00083  MDT-SHPR-00068  YH MARINE TRADE CO.,LTD"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C6AAA=",
       "listId": "",
       "completedAt": "2026-08-04T12:58:13.087Z",
       "todoId": "outlook_AAJcA3C6AAA=",
-      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcqtBAAAA=",
-      "listId": "",
-      "completedAt": "2026-08-04T12:59:41.179Z",
-      "todoId": "outlook_AAJcqtBAAAA=",
-      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjx-AAA=",
-      "listId": "",
-      "completedAt": "2026-08-04T12:59:56.676Z",
-      "todoId": "outlook_AAJeFjx-AAA=",
-      "title": "M/V MED TOSCANA - Port Luis Call -Request for Shipping Instructions"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RDAAA=",
-      "listId": "",
-      "completedAt": "2026-08-04T13:01:31.364Z",
-      "todoId": "outlook_AAJal9RDAAA=",
-      "title": "EVERSUPPLY S.R.L. - Nuovo sito online"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C0AAA=",
-      "listId": "",
-      "completedAt": "2026-08-04T13:01:49.259Z",
-      "todoId": "outlook_AAJcA3C0AAA=",
       "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
     },
     {
@@ -20038,76 +19930,6 @@
       "title": "I: M/V MED TOSCANA  PR75  HQRQ-00157  MDT-SHPR-00075  YH MARINE TRADE CO.,LTD"
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjyDAAA=",
-      "listId": "",
-      "completedAt": "2026-08-05T07:06:52.160Z",
-      "todoId": "outlook_AAJeFjyDAAA=",
-      "title": "I: M/V MED TOSCANA  PR68  HQPO-00083  MDT-SHPR-00068  YH MARINE TRADE CO.,LTD"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjyEAAA=",
-      "listId": "",
-      "completedAt": "2026-08-05T07:06:55.175Z",
-      "todoId": "outlook_AAJeFjyEAAA=",
-      "title": "requests on board"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJQkfHMAAA=",
-      "listId": "",
-      "completedAt": "2026-08-05T08:07:00.775Z",
-      "todoId": "outlook_AAJQkfHMAAA=",
-      "title": "Med Toscana /  Requisition"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RCAAA=",
-      "listId": "",
-      "completedAt": "2026-08-05T08:23:04.488Z",
-      "todoId": "outlook_AAJal9RCAAA=",
-      "title": "Med Toscana  / ETA"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RBAAA=",
-      "listId": "",
-      "completedAt": "2026-08-05T08:24:02.384Z",
-      "todoId": "outlook_AAJal9RBAAA=",
-      "title": "M/V MED TOSCANA  PR67  HQPO-00084  MDT-SHPR-00067  Dongjin Intec Co., Ltd. (FB26183651)"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjx9AAA=",
-      "listId": "",
-      "completedAt": "2026-08-05T08:24:21.143Z",
-      "todoId": "outlook_AAJeFjx9AAA=",
-      "title": "M/V MED TOSCANA  PR67  HQPO-00084  MDT-SHPR-00067  Dongjin Intec Co., Ltd. / FB26183651"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjx6AAA=",
-      "listId": "",
-      "completedAt": "2026-08-05T08:48:05.320Z",
-      "todoId": "outlook_AAJeFjx6AAA=",
-      "title": "MV PEPPINO - Planned Maintenance Status and Work Priorities"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C2AAA=",
-      "listId": "",
-      "completedAt": "2026-08-05T12:18:15.361Z",
-      "todoId": "outlook_AAJcA3C2AAA=",
-      "title": "MYTHMAR-26.5895 / 26.5896 / 26.5897 / 26.5898 / 26.5899 / 26.5900 / MV NORRBOTTEN"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjx_AAA=",
-      "listId": "",
-      "completedAt": "2026-08-05T12:21:28.166Z",
-      "todoId": "outlook_AAJeFjx_AAA=",
-      "title": "M/V PEPPINO  PR115  HQRQ-00203  PEP-SHPR-00115  Mistral Suisse Sagl - ENQUIRY TE22463"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjyAAAA=",
-      "listId": "",
-      "completedAt": "2026-08-05T12:21:37.373Z",
-      "todoId": "outlook_AAJeFjyAAAA=",
-      "title": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAI-VJPKAAA=",
       "listId": "",
       "completedAt": "2026-08-07T10:03:25.277Z",
@@ -20115,46 +19937,326 @@
       "title": "M/V MED LIGURIA  PR36  HQRQ-00078  MLG-SHPR-00036  YH MARINE TRADE CO.,LTD"
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJf_BMxAAA=",
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJf_BM3AAA=",
       "listId": "",
-      "completedAt": "2026-08-07T10:05:17.627Z",
-      "todoId": "outlook_AAJf_BMxAAA=",
-      "title": " M/V PEPPINO  PR112  HQRQ-00218  PEP-SHPR-00112  Alfa Laval SpA, Marine &amp; Diesel, Service"
+      "completedAt": "2026-08-07T12:49:54.194Z",
+      "todoId": "outlook_AAJf_BM3AAA=",
+      "title": "M/V PEPPINO  PR117  HQRQ-00208  PEP-SHPR-00117  Zephyr Trading srl // SALES ORDER SO26-004179"
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJf_BMwAAA=",
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJf_BMzAAA=",
       "listId": "",
-      "completedAt": "2026-08-07T11:00:38.280Z",
-      "todoId": "outlook_AAJf_BMwAAA=",
-      "title": "M/V PEPPINO  PR105  HQPO-00140  PEP-SHPR-00105  YH MARINE TRADE CO.,LTD"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjx7AAA=",
-      "listId": "",
-      "completedAt": "2026-08-07T11:14:40.125Z",
-      "todoId": "outlook_AAJeFjx7AAA=",
-      "title": "MV PEPPINO - Requisition 2026-PEP-SHPR-00116 – Marine Cargo Lights"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJfDTKSAAA=",
-      "listId": "",
-      "completedAt": "2026-08-07T11:14:52.349Z",
-      "todoId": "outlook_AAJfDTKSAAA=",
+      "completedAt": "2026-08-07T12:49:54.717Z",
+      "todoId": "outlook_AAJf_BMzAAA=",
       "title": "M/V PEPPINO  PR115  HQRQ-00203  PEP-SHPR-00115  Mistral Suisse Sagl - ENQUIRY TE22463"
     },
     {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJf_BM1AAA=",
       "listId": "",
-      "completedAt": "2026-08-07T11:15:33.801Z",
+      "completedAt": "2026-08-07T12:49:54.947Z",
       "todoId": "outlook_AAJf_BM1AAA=",
       "title": "M/V MED TOSCANA - Port Luis Call -Request for Shipping Instructions"
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJf_BMzAAA=",
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJfDTKSAAA=",
       "listId": "",
-      "completedAt": "2026-08-07T11:15:49.191Z",
-      "todoId": "outlook_AAJf_BMzAAA=",
+      "completedAt": "2026-08-07T12:49:55.090Z",
+      "todoId": "outlook_AAJfDTKSAAA=",
       "title": "M/V PEPPINO  PR115  HQRQ-00203  PEP-SHPR-00115  Mistral Suisse Sagl - ENQUIRY TE22463"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJfDTKTAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:49:55.258Z",
+      "todoId": "outlook_AAJfDTKTAAA=",
+      "title": "M/V NORBOTTEN - Gas Detector"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJf_BMwAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:49:55.426Z",
+      "todoId": "outlook_AAJf_BMwAAA=",
+      "title": "M/V PEPPINO  PR105  HQPO-00140  PEP-SHPR-00105  YH MARINE TRADE CO.,LTD"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJf_BMxAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:49:55.570Z",
+      "todoId": "outlook_AAJf_BMxAAA=",
+      "title": " M/V PEPPINO  PR112  HQRQ-00218  PEP-SHPR-00112  Alfa Laval SpA, Marine &amp; Diesel, Service"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJf_BMyAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:49:55.731Z",
+      "todoId": "outlook_AAJf_BMyAAA=",
+      "title": "M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips "
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjyDAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:49:55.883Z",
+      "todoId": "outlook_AAJeFjyDAAA=",
+      "title": "I: M/V MED TOSCANA  PR68  HQPO-00083  MDT-SHPR-00068  YH MARINE TRADE CO.,LTD"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjyEAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:49:56.026Z",
+      "todoId": "outlook_AAJeFjyEAAA=",
+      "title": "requests on board"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjx_AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:49:56.179Z",
+      "todoId": "outlook_AAJeFjx_AAA=",
+      "title": "M/V PEPPINO  PR115  HQRQ-00203  PEP-SHPR-00115  Mistral Suisse Sagl - ENQUIRY TE22463"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjyAAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:49:56.339Z",
+      "todoId": "outlook_AAJeFjyAAAA=",
+      "title": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C0AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:00.610Z",
+      "todoId": "outlook_AAJcA3C0AAA=",
+      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C2AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:02.155Z",
+      "todoId": "outlook_AAJcA3C2AAA=",
+      "title": "MYTHMAR-26.5895 / 26.5896 / 26.5897 / 26.5898 / 26.5899 / 26.5900 / MV NORRBOTTEN"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C3AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:03.836Z",
+      "todoId": "outlook_AAJcA3C3AAA=",
+      "title": "NORRBOTTEN - Chains for bottom doors"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C4AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:06.786Z",
+      "todoId": "outlook_AAJcA3C4AAA=",
+      "title": "M/V MED TOSCANA  PR68  HQPO-00083  MDT-SHPR-00068  YH MARINE TRADE CO.,LTD"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C5AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:07.370Z",
+      "todoId": "outlook_AAJcA3C5AAA=",
+      "title": "M/V MED TOSCANA - Port Luis Call -Request for Shipping Instructions"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcqtBAAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:07.563Z",
+      "todoId": "outlook_AAJcqtBAAAA=",
+      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjx6AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:07.723Z",
+      "todoId": "outlook_AAJeFjx6AAA=",
+      "title": "MV PEPPINO - Planned Maintenance Status and Work Priorities"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjx7AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:08.220Z",
+      "todoId": "outlook_AAJeFjx7AAA=",
+      "title": "MV PEPPINO - Requisition 2026-PEP-SHPR-00116 – Marine Cargo Lights"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjx9AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:08.396Z",
+      "todoId": "outlook_AAJeFjx9AAA=",
+      "title": "M/V MED TOSCANA  PR67  HQPO-00084  MDT-SHPR-00067  Dongjin Intec Co., Ltd. / FB26183651"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjx-AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:08.555Z",
+      "todoId": "outlook_AAJeFjx-AAA=",
+      "title": "M/V MED TOSCANA - Port Luis Call -Request for Shipping Instructions"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJVJVBAAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:08.717Z",
+      "todoId": "outlook_AAJVJVBAAAA=",
+      "title": "Sales quote Q26-009874"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJQkfHMAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:08.875Z",
+      "todoId": "outlook_AAJQkfHMAAA=",
+      "title": "Med Toscana /  Requisition"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJIqr3ZAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:09.036Z",
+      "todoId": "outlook_AAJIqr3ZAAA=",
+      "title": "NORRBOTTEN FREEFALL & RESCUE BOAT"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9Q-AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:09.356Z",
+      "todoId": "outlook_AAJal9Q-AAA=",
+      "title": "M/V MED LIGURIA / Xiamen Call -Request for Shipping Instructions"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RAAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:09.507Z",
+      "todoId": "outlook_AAJal9RAAAA=",
+      "title": "26A0081 Pompe Garbarino SpA : M/V PEPPINO - SPA Req. FWG Ejector pump NEW"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RBAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:09.669Z",
+      "todoId": "outlook_AAJal9RBAAA=",
+      "title": "M/V MED TOSCANA  PR67  HQPO-00084  MDT-SHPR-00067  Dongjin Intec Co., Ltd. (FB26183651)"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RCAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:09.836Z",
+      "todoId": "outlook_AAJal9RCAAA=",
+      "title": "Med Toscana  / ETA"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RDAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:09.988Z",
+      "todoId": "outlook_AAJal9RDAAA=",
+      "title": "EVERSUPPLY S.R.L. - Nuovo sito online"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9REAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:10.139Z",
+      "todoId": "outlook_AAJal9REAAA=",
+      "title": "INFOSHIP - Quotazione implementazione"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJbE0CLAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:10.301Z",
+      "todoId": "outlook_AAJbE0CLAAA=",
+      "title": "YOUR PO: NA - OUR CO: I 10128152 - VESSEL: ΡΕΡΡΙΝΟ"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJbE0CMAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:10.468Z",
+      "todoId": "outlook_AAJbE0CMAAA=",
+      "title": "YOUR PO: NA - OUR CO: I 10127897 - VESSEL: PEPPINO"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJbE0CNAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:10.636Z",
+      "todoId": "outlook_AAJbE0CNAAA=",
+      "title": "pagamenti norrbotten"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC-AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:10.795Z",
+      "todoId": "outlook_AAJY7qC-AAA=",
+      "title": "M/V MED TOSCANA  PR68  HQPO-00083  MDT-SHPR-00068  YH MARINE TRADE CO.,LTD"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC7AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:10.964Z",
+      "todoId": "outlook_AAJY7qC7AAA=",
+      "title": "PERSEVERANZA - SMM 2026"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC4AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:11.115Z",
+      "todoId": "outlook_AAJY7qC4AAA=",
+      "title": "M/V NORBOTTEN - Gas Detector"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C1AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:13.116Z",
+      "todoId": "outlook_AAJcA3C1AAA=",
+      "title": "NORRBOTTEN - Chains for bottom doors"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9Q9AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:13.493Z",
+      "todoId": "outlook_AAJal9Q9AAA=",
+      "title": "M/V MED LIGURIA  PR46  HQRQ-00120  MLG-SHPR-00046  YH MARINE TRADE CO.,LTD"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9Q_AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:13.692Z",
+      "todoId": "outlook_AAJal9Q_AAA=",
+      "title": "M/V NORRBOTTEN - Request for Order and Invoice Status Summary"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJV0oT1AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:13.852Z",
+      "todoId": "outlook_AAJV0oT1AAA=",
+      "title": "Norrbotten – Technician Attendance and Access Formalities at Yalova Shipyard - CAMBIO NOME E SOPRALLUOGO PER RETROFIT IMPIANTO TIMONE "
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qC_AAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:14.027Z",
+      "todoId": "outlook_AAJY7qC_AAA=",
+      "title": "M/V MED TOSCANA - Confirmation of Quantity Received – Adjustment Screws for Windlass/Band Brake"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDAAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:14.196Z",
+      "todoId": "outlook_AAJY7qDAAAA=",
+      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDBAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:14.876Z",
+      "todoId": "outlook_AAJY7qDBAAA=",
+      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDCAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:15.980Z",
+      "todoId": "outlook_AAJY7qDCAAA=",
+      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDDAAA=",
+      "listId": "",
+      "completedAt": "2026-08-07T12:50:16.886Z",
+      "todoId": "outlook_AAJY7qDDAAA=",
+      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
     }
   ],
   "manualOrders": {
@@ -21704,7 +21806,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-07T12:49:51.802Z",
+    "todos": "2026-08-07T12:50:23.549Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21713,7 +21815,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-07T07:55:56.058Z",
-    "outlookCompletionQueue": "2026-08-07T11:15:49.220Z",
+    "outlookCompletionQueue": "2026-08-07T12:50:23.549Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-07T08:36:44.112Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -21724,6 +21826,6 @@
     "repliesDismissed": "2026-08-05T15:28:44.116Z",
     "shipments": "2026-08-07T12:12:53.402Z"
   },
-  "rev": 1050,
-  "savedAt": "2026-08-07T12:49:51.808Z"
+  "rev": 1051,
+  "savedAt": "2026-08-07T12:50:23.555Z"
 }
