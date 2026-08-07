@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-07T08:19:30.841Z",
+  "pushedAt": "2026-08-07T08:19:43.111Z",
   "todosCount": 299,
   "todos": [
     {
@@ -20529,6 +20529,12 @@
       "port": "SINGAPORE",
       "date": "2026-08-11",
       "frozenFromVoyage": true
+    },
+    "med toscana::fuel circulation pump of me ace038 n3 ntbp complete": {
+      "mode": "manual",
+      "port": "Port Louis",
+      "date": "2026-08-18",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -21700,7 +21706,7 @@
     "voyages": "2026-08-07T07:55:56.058Z",
     "outlookCompletionQueue": "2026-08-05T12:21:40.723Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
-    "deliveries": "2026-07-31T13:01:15.397Z",
+    "deliveries": "2026-08-07T08:19:43.103Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
     "supplierProfiles": "2026-08-03T07:59:17.064Z",
     "agencyProfiles": "2026-07-22T18:57:31.789Z",
@@ -21709,6 +21715,6 @@
     "repliesDismissed": "2026-08-05T15:28:44.116Z",
     "shipments": "2026-08-06T09:12:55.768Z"
   },
-  "rev": 952,
-  "savedAt": "2026-08-07T08:19:30.841Z"
+  "rev": 953,
+  "savedAt": "2026-08-07T08:19:43.111Z"
 }
