@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-07T08:22:05.952Z",
+  "pushedAt": "2026-08-07T08:22:19.489Z",
   "todosCount": 299,
   "todos": [
     {
@@ -20503,8 +20503,8 @@
     },
     "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": {
       "mode": "manual",
-      "port": "PORT LOUIS",
-      "date": "2026-08-17",
+      "port": "Port Louis",
+      "date": "2026-08-18",
       "frozenFromVoyage": true
     },
     "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": {
@@ -21725,7 +21725,7 @@
     "voyages": "2026-08-07T07:55:56.058Z",
     "outlookCompletionQueue": "2026-08-05T12:21:40.723Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
-    "deliveries": "2026-08-07T08:22:05.945Z",
+    "deliveries": "2026-08-07T08:22:18.565Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
     "supplierProfiles": "2026-08-03T07:59:17.064Z",
     "agencyProfiles": "2026-07-22T18:57:31.789Z",
@@ -21734,6 +21734,6 @@
     "repliesDismissed": "2026-08-05T15:28:44.116Z",
     "shipments": "2026-08-06T09:12:55.768Z"
   },
-  "rev": 960,
-  "savedAt": "2026-08-07T08:22:05.952Z"
+  "rev": 961,
+  "savedAt": "2026-08-07T08:22:19.489Z"
 }
