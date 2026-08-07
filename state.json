@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-07T12:08:38.648Z",
+  "pushedAt": "2026-08-07T12:12:53.413Z",
   "todosCount": 302,
   "todos": [
     {
@@ -21843,11 +21843,18 @@
         "carrier": "DHL Express",
         "hub": "",
         "number": "1996345455",
-        "status": "pending",
+        "status": "in_transit",
         "pickup": "2026-08-07",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-08-07T08:53:00.928Z"
+        "eta": "2026-08-11",
+        "events": [
+          {
+            "ts": "2026-08-07T13:13:00+02:00",
+            "place": "GENOA - ITALY",
+            "text": "Shipment picked up",
+            "code": "transit"
+          }
+        ],
+        "updatedAt": "2026-08-07T12:12:49.694Z"
       }
     ],
     "med liguria::automatic fire detection and alarm system nippon hakuyo electronics ltd critical spare parts": [
@@ -21931,8 +21938,8 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-05T15:28:44.116Z",
-    "shipments": "2026-08-07T12:08:37.210Z"
+    "shipments": "2026-08-07T12:12:53.402Z"
   },
-  "rev": 1035,
-  "savedAt": "2026-08-07T12:08:38.648Z"
+  "rev": 1036,
+  "savedAt": "2026-08-07T12:12:53.414Z"
 }
