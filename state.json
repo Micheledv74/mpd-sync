@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-07T09:18:47.038Z",
+  "pushedAt": "2026-08-07T09:19:06.642Z",
   "todosCount": 299,
   "todos": [
     {
@@ -21624,20 +21624,6 @@
         "updatedAt": "2026-07-28T15:18:24.820Z"
       }
     ],
-    "med liguria::mitsuiman b&w 6s50mcc 9480kw engine no 6192 2011 mitsui engineering & shipbuilding coltd": [
-      {
-        "id": "shmsh5t2jydcp",
-        "route": "hub-port",
-        "carrier": "Altro",
-        "hub": "",
-        "number": "988-14442750",
-        "status": "pending",
-        "pickup": "2026-08-06",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-08-06T06:53:14.926Z"
-      }
-    ],
     "med toscana::fuel circulation pump of me ace038 n3 ntbp complete": [
       {
         "id": "shmsh5ukz410a",
@@ -21768,8 +21754,8 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-05T15:28:44.116Z",
-    "shipments": "2026-08-07T08:53:05.827Z"
+    "shipments": "2026-08-07T09:19:03.960Z"
   },
-  "rev": 967,
-  "savedAt": "2026-08-07T09:18:47.038Z"
+  "rev": 968,
+  "savedAt": "2026-08-07T09:19:06.642Z"
 }
