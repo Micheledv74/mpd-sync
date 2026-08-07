@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-07T13:49:26.030Z",
+  "pushedAt": "2026-08-07T15:17:47.226Z",
   "todosCount": 297,
   "todos": [
     {
-      "id": "td_1786107019940_0nloy",
       "category": "Nave",
       "priority": "alta",
-      "vessel": "peppino",
-      "action": "Controllare",
       "reference": "Certificati",
       "tags": [],
+      "id": "td_1786107019940_0nloy",
+      "vessel": "peppino",
+      "action": "Controllare",
       "dueDate": "2026-08-14",
       "note": "",
       "recur": {
@@ -23,13 +23,13 @@
       "createdAt": "2026-08-07T12:50:19.940Z"
     },
     {
-      "id": "td_1786106945120_161a6",
       "category": "Nave",
       "priority": "alta",
-      "vessel": "medtoscana",
-      "action": "Inviare email",
       "reference": "Tefin",
       "tags": [],
+      "id": "td_1786106945120_161a6",
+      "vessel": "medtoscana",
+      "action": "Inviare email",
       "dueDate": "2026-08-10",
       "note": "Pre-allarme per revisione/certificati nave RADIO",
       "recur": null,
@@ -21826,7 +21826,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-07T12:51:13.527Z",
+    "todos": "2026-08-07T15:17:43.922Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21846,6 +21846,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-07T12:12:53.402Z"
   },
-  "rev": 1060,
-  "savedAt": "2026-08-07T13:49:26.030Z"
+  "rev": 1061,
+  "savedAt": "2026-08-07T15:17:47.226Z"
 }
