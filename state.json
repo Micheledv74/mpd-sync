@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-07T08:51:45.111Z",
+  "pushedAt": "2026-08-07T08:53:05.836Z",
   "todosCount": 299,
   "todos": [
     {
@@ -21673,10 +21673,22 @@
         "carrier": "Altro",
         "hub": "",
         "number": "SP661221090",
-        "status": "in_transit",
+        "status": "delivered",
         "pickup": "2026-08-06",
         "eta": "",
         "events": [
+          {
+            "ts": "2026-08-06T11:14:00+02:00",
+            "place": "Genova",
+            "text": "Consegnata., Bo**** Gi******",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-08-06T08:46:00+02:00",
+            "place": "Genova",
+            "text": "Consegna prevista nel corso della giornata odierna.",
+            "code": "transit"
+          },
           {
             "ts": "2026-08-06T08:39:00+02:00",
             "place": "Genova",
@@ -21702,7 +21714,19 @@
             "code": "info"
           }
         ],
-        "updatedAt": "2026-08-06T07:30:25.065Z"
+        "updatedAt": "2026-08-07T08:53:01.830Z"
+      },
+      {
+        "id": "shmsipixz4kyr",
+        "route": "hub-port",
+        "carrier": "DHL Express",
+        "hub": "",
+        "number": "1996345455",
+        "status": "pending",
+        "pickup": "2026-08-07",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-08-07T08:53:00.928Z"
       }
     ],
     "med liguria::automatic fire detection and alarm system nippon hakuyo electronics ltd critical spare parts": [
@@ -21744,8 +21768,8 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-05T15:28:44.116Z",
-    "shipments": "2026-08-06T09:12:55.768Z"
+    "shipments": "2026-08-07T08:53:05.827Z"
   },
-  "rev": 964,
-  "savedAt": "2026-08-07T08:51:45.111Z"
+  "rev": 965,
+  "savedAt": "2026-08-07T08:53:05.836Z"
 }
