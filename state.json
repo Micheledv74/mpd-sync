@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-08T09:38:12.668Z",
+  "pushedAt": "2026-08-08T09:47:44.474Z",
   "todosCount": 300,
   "todos": [
     {
@@ -6686,21 +6686,21 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED LIGURIA  PR56  HQPO-00054  MLG-SHPR-00056  Wilhelmsen Ships Service    [ ref:!00D200tPh.!500Px0feNG4:ref ]",
+      "tags": [
+        "outlook",
+        "fornitore:WILHELMSEN"
+      ],
       "id": "outlook_AAJhLfVKAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJhLfVKAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4l%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: M/V MED LIGURIA  PR56  HQPO-00054  MLG-SHPR-00056  Wilhelmsen Ships Service    [ ref:!00D200tPh.!500Px0feNG4:ref ]",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "M/V MED LIGURIA  PR56  HQPO-00054  MLG-SHPR-00056  Wilhelmsen Ships Service    [ ref:!00D200tPh.!500Px0feNG4:ref ]",
-      "tags": [
-        "outlook",
-        "fornitore:WILHELMSEN"
-      ],
       "dueDate": "2026-08-08",
       "note": "",
       "createdAt": "2026-08-08T07:40:32.1080614Z",
@@ -21953,7 +21953,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-08T07:45:02.712Z",
+    "todos": "2026-08-08T09:47:38.747Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21973,6 +21973,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-08T07:46:24.180Z"
   },
-  "rev": 1103,
-  "savedAt": "2026-08-08T09:38:12.668Z"
+  "rev": 1104,
+  "savedAt": "2026-08-08T09:47:44.474Z"
 }
