@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-08T07:46:24.187Z",
+  "pushedAt": "2026-08-08T07:46:39.091Z",
   "todosCount": 300,
   "todos": [
     {
@@ -20680,6 +20680,12 @@
       "port": "SINGAPORE",
       "date": "2026-08-12",
       "frozenFromVoyage": true
+    },
+    "med liguria::medicine": {
+      "mode": "manual",
+      "port": "SINGAPORE",
+      "date": "2026-08-12",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -21958,7 +21964,7 @@
     "voyages": "2026-08-07T13:48:00.184Z",
     "outlookCompletionQueue": "2026-08-07T12:50:48.045Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
-    "deliveries": "2026-08-08T07:45:39.314Z",
+    "deliveries": "2026-08-08T07:46:39.084Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
     "supplierProfiles": "2026-08-03T07:59:17.064Z",
     "agencyProfiles": "2026-08-07T18:27:36.980Z",
@@ -21967,6 +21973,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-08T07:46:24.180Z"
   },
-  "rev": 1090,
-  "savedAt": "2026-08-08T07:46:24.187Z"
+  "rev": 1091,
+  "savedAt": "2026-08-08T07:46:39.091Z"
 }
