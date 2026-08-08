@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-08T07:45:56.047Z",
+  "pushedAt": "2026-08-08T07:46:24.187Z",
   "todosCount": 300,
   "todos": [
     {
@@ -21833,13 +21833,55 @@
         "eta": "2026-08-11",
         "events": [
           {
+            "ts": "2026-08-08T02:12:00+02:00",
+            "place": "LEIPZIG - GERMANY",
+            "text": "Processed at LEIPZIG - GERMANY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-08T00:25:00+02:00",
+            "place": "LEIPZIG - GERMANY",
+            "text": "Arrived at DHL Sort Facility LEIPZIG - GERMANY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T22:32:00+02:00",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Shipment has departed from a DHL facility MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T20:29:00+02:00",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Processed at MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T20:05:00+02:00",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Arrived at DHL Sort Facility MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T17:59:00+02:00",
+            "place": "GENOA - ITALY",
+            "text": "Shipment has departed from a DHL facility GENOA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T17:59:00+02:00",
+            "place": "GENOA - ITALY",
+            "text": "Processed at GENOA - ITALY",
+            "code": "transit"
+          },
+          {
             "ts": "2026-08-07T13:13:00+02:00",
             "place": "GENOA - ITALY",
             "text": "Shipment picked up",
             "code": "transit"
           }
         ],
-        "updatedAt": "2026-08-07T12:12:49.694Z"
+        "updatedAt": "2026-08-08T07:46:20.657Z"
       }
     ],
     "med liguria::automatic fire detection and alarm system nippon hakuyo electronics ltd critical spare parts": [
@@ -21923,8 +21965,8 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
-    "shipments": "2026-08-07T12:12:53.402Z"
+    "shipments": "2026-08-08T07:46:24.180Z"
   },
-  "rev": 1089,
-  "savedAt": "2026-08-08T07:45:56.048Z"
+  "rev": 1090,
+  "savedAt": "2026-08-08T07:46:24.187Z"
 }
