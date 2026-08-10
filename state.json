@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T08:42:43.490Z",
+  "pushedAt": "2026-08-10T08:42:52.596Z",
   "todosCount": 297,
   "todos": [
     {
@@ -130,13 +130,13 @@
       "id": "td_1784790628895_crk53",
       "vessel": "",
       "action": "Verificare",
-      "dueDate": "2026-08-01",
+      "dueDate": "2026-08-24",
       "note": "Spektra Fuel e Due date",
       "recur": null,
       "kind": "todo",
       "done": false,
       "createdAt": "2026-07-23T07:10:28.895Z",
-      "updatedAt": "2026-07-27T14:23:12.872Z"
+      "updatedAt": "2026-08-10T08:42:48.967Z"
     },
     {
       "category": "Nave",
@@ -21999,7 +21999,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T08:42:43.483Z",
+    "todos": "2026-08-10T08:42:52.589Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22019,6 +22019,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1187,
-  "savedAt": "2026-08-10T08:42:43.490Z"
+  "rev": 1188,
+  "savedAt": "2026-08-10T08:42:52.596Z"
 }
