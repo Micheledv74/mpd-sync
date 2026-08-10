@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T07:58:59.796Z",
+  "pushedAt": "2026-08-10T08:00:36.159Z",
   "todosCount": 298,
   "todos": [
     {
@@ -58,8 +58,10 @@
       "note": "Dead Line per Hub TML 06/08/2026",
       "recur": null,
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-24T07:18:53.341Z"
+      "done": true,
+      "createdAt": "2026-07-24T07:18:53.341Z",
+      "doneAt": "2026-08-10T08:00:32.654Z",
+      "updatedAt": "2026-08-10T08:00:32.654Z"
     },
     {
       "category": "Nave",
@@ -21929,7 +21931,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T07:01:50.533Z",
+    "todos": "2026-08-10T08:00:36.152Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21949,6 +21951,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1129,
-  "savedAt": "2026-08-10T07:58:59.796Z"
+  "rev": 1130,
+  "savedAt": "2026-08-10T08:00:36.159Z"
 }
