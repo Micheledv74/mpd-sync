@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T08:38:32.927Z",
+  "pushedAt": "2026-08-10T08:38:40.612Z",
   "todosCount": 297,
   "todos": [
     {
@@ -6441,9 +6441,10 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-31T10:37:05.6630365Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T08:38:36.677Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T08:38:36.677Z"
     },
     {
       "category": "Nave",
@@ -20013,13 +20014,6 @@
       "title": "PERSEVERANZA - SMM 2026"
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C1AAA=",
-      "listId": "",
-      "completedAt": "2026-08-07T12:50:13.116Z",
-      "todoId": "outlook_AAJcA3C1AAA=",
-      "title": "NORRBOTTEN - Chains for bottom doors"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9Q9AAA=",
       "listId": "",
       "completedAt": "2026-08-07T12:50:13.493Z",
@@ -20312,6 +20306,13 @@
       "completedAt": "2026-08-10T08:38:02.439Z",
       "todoId": "outlook_AAJY7qC4AAA=",
       "title": "M/V NORBOTTEN - Gas Detector"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C1AAA=",
+      "listId": "",
+      "completedAt": "2026-08-10T08:38:36.680Z",
+      "todoId": "outlook_AAJcA3C1AAA=",
+      "title": "NORRBOTTEN - Chains for bottom doors"
     }
   ],
   "manualOrders": {
@@ -21991,7 +21992,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T08:38:27.771Z",
+    "todos": "2026-08-10T08:38:36.905Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22000,7 +22001,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-10T07:58:59.789Z",
-    "outlookCompletionQueue": "2026-08-10T08:38:06.420Z",
+    "outlookCompletionQueue": "2026-08-10T08:38:36.905Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-08T07:46:39.084Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -22011,6 +22012,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1181,
-  "savedAt": "2026-08-10T08:38:32.928Z"
+  "rev": 1182,
+  "savedAt": "2026-08-10T08:38:40.612Z"
 }
