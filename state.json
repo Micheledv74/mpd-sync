@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T08:42:58.408Z",
+  "pushedAt": "2026-08-10T09:12:48.479Z",
   "todosCount": 298,
   "todos": [
     {
@@ -4143,12 +4143,12 @@
       "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-07-16T07:12:48.0879626Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-10T09:12:44.674Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-17T07:12:53.548Z"
+      "updatedAt": "2026-08-10T09:12:44.674Z"
     },
     {
       "category": "Nave",
@@ -20340,6 +20340,13 @@
       "completedAt": "2026-08-10T08:42:39.666Z",
       "todoId": "outlook_AAJY7qDDAAA=",
       "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJSHyN3AAA=",
+      "listId": "",
+      "completedAt": "2026-08-10T09:12:44.677Z",
+      "todoId": "outlook_AAJSHyN3AAA=",
+      "title": "I: M/V MED TOSCANA PO63 HQPO-00063 MDT-HQPO-00063 YH MARINE TRADE CO.,LTD"
     }
   ],
   "manualOrders": {
@@ -22019,7 +22026,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T08:42:52.589Z",
+    "todos": "2026-08-10T09:12:48.470Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22028,7 +22035,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-10T07:58:59.789Z",
-    "outlookCompletionQueue": "2026-08-10T08:42:43.483Z",
+    "outlookCompletionQueue": "2026-08-10T09:12:48.470Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-08T07:46:39.084Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -22039,6 +22046,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1189,
-  "savedAt": "2026-08-10T08:42:58.409Z"
+  "rev": 1190,
+  "savedAt": "2026-08-10T09:12:48.480Z"
 }
