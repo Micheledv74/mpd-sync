@@ -1,9 +1,27 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T08:42:52.596Z",
-  "todosCount": 297,
+  "pushedAt": "2026-08-10T08:42:58.408Z",
+  "todosCount": 298,
   "todos": [
+    {
+      "id": "td_1786351374569_bk73x",
+      "category": "Nave",
+      "priority": "alta",
+      "vessel": "peppino",
+      "action": "Controllare",
+      "reference": "Certificati",
+      "tags": [],
+      "dueDate": "2026-08-14",
+      "note": "",
+      "recur": {
+        "type": "days",
+        "interval": 15
+      },
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-08-10T08:42:54.569Z"
+    },
     {
       "category": "Ufficio",
       "priority": "media",
@@ -119,8 +137,10 @@
         "interval": 15
       },
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-23T09:20:22.198Z"
+      "done": true,
+      "createdAt": "2026-07-23T09:20:22.198Z",
+      "doneAt": "2026-08-10T08:42:54.567Z",
+      "updatedAt": "2026-08-10T08:42:54.567Z"
     },
     {
       "category": "Ufficio",
@@ -22019,6 +22039,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1188,
-  "savedAt": "2026-08-10T08:42:52.596Z"
+  "rev": 1189,
+  "savedAt": "2026-08-10T08:42:58.409Z"
 }
