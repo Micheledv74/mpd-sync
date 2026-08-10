@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T22:25:05.471Z",
+  "pushedAt": "2026-08-10T22:26:30.580Z",
   "todosCount": 304,
   "todos": [
     {
@@ -779,10 +779,13 @@
       "id": "td_1781594085068_88hrw",
       "vessel": "peppino",
       "action": "Controllare",
-      "dueDate": "2026-08-03",
+      "dueDate": "2026-08-15",
       "note": "Controllare ordine e spedizione",
       "done": false,
-      "createdAt": "2026-06-16T07:14:45.068Z"
+      "createdAt": "2026-06-16T07:14:45.068Z",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-08-10T22:26:25.021Z"
     },
     {
       "category": "Nave",
@@ -6612,9 +6615,10 @@
       "dueDate": "2026-08-08",
       "note": "",
       "createdAt": "2026-08-08T07:40:32.1080614Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:30.530Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:30.530Z"
     },
     {
       "category": "Nave",
@@ -6634,9 +6638,10 @@
       "dueDate": "2026-08-09",
       "note": "",
       "createdAt": "2026-08-07T15:13:59.2727456Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:26.749Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:26.749Z"
     },
     {
       "category": "Nave",
@@ -20116,20 +20121,6 @@
       "title": "M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips "
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJf_BM8AAA=",
-      "listId": "",
-      "completedAt": "2026-08-10T08:10:47.150Z",
-      "todoId": "outlook_AAJf_BM8AAA=",
-      "title": "<EXT>M/V MED LIGURIA  PR68  HQPO-00071  MLG-SHPR-00068  PPG PROTECTIVE &amp; MARINE COATINS | OR  5305927742"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJhLfVKAAA=",
-      "listId": "",
-      "completedAt": "2026-08-10T08:16:15.352Z",
-      "todoId": "outlook_AAJhLfVKAAA=",
-      "title": "M/V MED LIGURIA  PR56  HQPO-00054  MLG-SHPR-00056  Wilhelmsen Ships Service    [ ref:!00D200tPh.!500Px0feNG4:ref ]"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C6AAA=",
       "listId": "",
       "completedAt": "2026-08-10T08:16:42.359Z",
@@ -20415,6 +20406,20 @@
       "completedAt": "2026-08-10T09:12:44.677Z",
       "todoId": "outlook_AAJSHyN3AAA=",
       "title": "I: M/V MED TOSCANA PO63 HQPO-00063 MDT-HQPO-00063 YH MARINE TRADE CO.,LTD"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJf_BM8AAA=",
+      "listId": "",
+      "completedAt": "2026-08-10T22:26:26.750Z",
+      "todoId": "outlook_AAJf_BM8AAA=",
+      "title": "<EXT>M/V MED LIGURIA  PR68  HQPO-00071  MLG-SHPR-00068  PPG PROTECTIVE &amp; MARINE COATINS | OR  5305927742"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJhLfVKAAA=",
+      "listId": "",
+      "completedAt": "2026-08-10T22:26:30.532Z",
+      "todoId": "outlook_AAJhLfVKAAA=",
+      "title": "M/V MED LIGURIA  PR56  HQPO-00054  MLG-SHPR-00056  Wilhelmsen Ships Service    [ ref:!00D200tPh.!500Px0feNG4:ref ]"
     }
   ],
   "manualOrders": {
@@ -22096,7 +22101,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T22:19:16.899Z",
+    "todos": "2026-08-10T22:26:30.574Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22105,7 +22110,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-10T14:49:20.808Z",
-    "outlookCompletionQueue": "2026-08-10T09:12:48.470Z",
+    "outlookCompletionQueue": "2026-08-10T22:26:30.574Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-08T07:46:39.084Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -22116,6 +22121,6 @@
     "repliesDismissed": "2026-08-10T22:19:16.899Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1321,
-  "savedAt": "2026-08-10T22:25:05.471Z"
+  "rev": 1322,
+  "savedAt": "2026-08-10T22:26:30.580Z"
 }
