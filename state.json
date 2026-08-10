@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T08:22:06.233Z",
+  "pushedAt": "2026-08-10T08:22:22.059Z",
   "todosCount": 297,
   "todos": [
     {
@@ -5981,9 +5981,10 @@
       "dueDate": "2026-08-04",
       "note": "",
       "createdAt": "2026-08-04T14:03:48.8236826Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T08:22:18.831Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T08:22:18.831Z"
     },
     {
       "category": "Nave",
@@ -19935,13 +19936,6 @@
       "title": "M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips "
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjyEAAA=",
-      "listId": "",
-      "completedAt": "2026-08-07T12:49:56.026Z",
-      "todoId": "outlook_AAJeFjyEAAA=",
-      "title": "requests on board"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjx_AAA=",
       "listId": "",
       "completedAt": "2026-08-07T12:49:56.179Z",
@@ -20276,6 +20270,13 @@
       "completedAt": "2026-08-10T08:21:58.776Z",
       "todoId": "outlook_AAJeFjyDAAA=",
       "title": "I: M/V MED TOSCANA  PR68  HQPO-00083  MDT-SHPR-00068  YH MARINE TRADE CO.,LTD"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJeFjyEAAA=",
+      "listId": "",
+      "completedAt": "2026-08-10T08:22:18.835Z",
+      "todoId": "outlook_AAJeFjyEAAA=",
+      "title": "requests on board"
     }
   ],
   "manualOrders": {
@@ -21955,7 +21956,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T08:22:02.376Z",
+    "todos": "2026-08-10T08:22:22.048Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21964,7 +21965,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-10T07:58:59.789Z",
-    "outlookCompletionQueue": "2026-08-10T08:22:02.376Z",
+    "outlookCompletionQueue": "2026-08-10T08:22:22.048Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-08T07:46:39.084Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -21975,6 +21976,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1147,
-  "savedAt": "2026-08-10T08:22:06.234Z"
+  "rev": 1148,
+  "savedAt": "2026-08-10T08:22:22.059Z"
 }
