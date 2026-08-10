@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T08:16:35.384Z",
+  "pushedAt": "2026-08-10T08:16:46.121Z",
   "todosCount": 297,
   "todos": [
     {
@@ -6285,9 +6285,10 @@
       "dueDate": "2026-08-08",
       "note": "",
       "createdAt": "2026-07-31T15:51:39.5126035Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T08:16:42.357Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T08:16:42.357Z"
     },
     {
       "category": "Nave",
@@ -20222,13 +20223,6 @@
       "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C6AAA=",
-      "listId": "",
-      "completedAt": "2026-08-07T12:50:31.325Z",
-      "todoId": "outlook_AAJcA3C6AAA=",
-      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3CzAAA=",
       "listId": "",
       "completedAt": "2026-08-07T12:50:44.405Z",
@@ -20248,6 +20242,13 @@
       "completedAt": "2026-08-10T08:16:15.352Z",
       "todoId": "outlook_AAJhLfVKAAA=",
       "title": "M/V MED LIGURIA  PR56  HQPO-00054  MLG-SHPR-00056  Wilhelmsen Ships Service    [ ref:!00D200tPh.!500Px0feNG4:ref ]"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3C6AAA=",
+      "listId": "",
+      "completedAt": "2026-08-10T08:16:42.359Z",
+      "todoId": "outlook_AAJcA3C6AAA=",
+      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
     }
   ],
   "manualOrders": {
@@ -21927,7 +21928,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T08:16:32.571Z",
+    "todos": "2026-08-10T08:16:46.115Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21936,7 +21937,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-10T07:58:59.789Z",
-    "outlookCompletionQueue": "2026-08-10T08:16:18.934Z",
+    "outlookCompletionQueue": "2026-08-10T08:16:46.115Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-08T07:46:39.084Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -21947,6 +21948,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1135,
-  "savedAt": "2026-08-10T08:16:35.384Z"
+  "rev": 1136,
+  "savedAt": "2026-08-10T08:16:46.122Z"
 }
