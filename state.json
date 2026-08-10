@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T07:22:01.663Z",
+  "pushedAt": "2026-08-10T07:22:55.900Z",
   "todosCount": 298,
   "todos": [
     {
@@ -21859,6 +21859,20 @@
         "events": [],
         "updatedAt": "2026-08-07T12:08:33.359Z"
       }
+    ],
+    "med toscana::ht cooling electro pneumatic regulator": [
+      {
+        "id": "shmsmwmk8cwgo",
+        "route": "supplier-port",
+        "carrier": "Altro",
+        "hub": "",
+        "number": "176-65337333",
+        "status": "pending",
+        "pickup": "2026-08-10",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-08-10T07:22:51.756Z"
+      }
     ]
   },
   "sourceDevice": {
@@ -21885,8 +21899,8 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
-    "shipments": "2026-08-08T07:46:24.180Z"
+    "shipments": "2026-08-10T07:22:55.893Z"
   },
-  "rev": 1121,
-  "savedAt": "2026-08-10T07:22:01.663Z"
+  "rev": 1122,
+  "savedAt": "2026-08-10T07:22:55.900Z"
 }
