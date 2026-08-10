@@ -1,42 +1,9 @@
 {
   "schemaVersion": "1.3",
-  "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T14:49:24.183Z",
-  "todosCount": 302,
+  "deviceId": "dev_jcjbq8zhzw",
+  "pushedAt": "2026-08-10T15:26:40.909Z",
+  "todosCount": 301,
   "todos": [
-    {
-      "id": "td_1786372386223_54i8i",
-      "category": "Nave",
-      "priority": "alta",
-      "vessel": "norrbotten",
-      "action": "Inviare email",
-      "reference": "",
-      "tags": [],
-      "dueDate": "2026-08-11",
-      "note": "Comunicare attesa per spedire.\nCylinder head x Norrbotten di CBH Carl Baguhn pronti per la spedizione da Hamburg",
-      "recur": null,
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-08-10T14:33:06.223Z"
-    },
-    {
-      "id": "td_1786351374569_bk73x",
-      "category": "Nave",
-      "priority": "alta",
-      "vessel": "peppino",
-      "action": "Controllare",
-      "reference": "Certificati",
-      "tags": [],
-      "dueDate": "2026-08-14",
-      "note": "",
-      "recur": {
-        "type": "days",
-        "interval": 15
-      },
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-08-10T08:42:54.569Z"
-    },
     {
       "category": "Ufficio",
       "priority": "media",
@@ -76,10 +43,8 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJY7pMiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Some of your installations demand your attention",
-      "done": true,
-      "createdAt": "2026-07-28T08:09:46.713Z",
-      "doneAt": "2026-08-10T08:23:47.351Z",
-      "updatedAt": "2026-08-10T08:23:47.351Z"
+      "done": false,
+      "createdAt": "2026-07-28T08:09:46.713Z"
     },
     {
       "category": "Nave",
@@ -93,10 +58,8 @@
       "note": "Dead Line per Hub TML 06/08/2026",
       "recur": null,
       "kind": "todo",
-      "done": true,
-      "createdAt": "2026-07-24T07:18:53.341Z",
-      "doneAt": "2026-08-10T08:00:32.654Z",
-      "updatedAt": "2026-08-10T08:00:32.654Z"
+      "done": false,
+      "createdAt": "2026-07-24T07:18:53.341Z"
     },
     {
       "category": "Nave",
@@ -152,10 +115,8 @@
         "interval": 15
       },
       "kind": "todo",
-      "done": true,
-      "createdAt": "2026-07-23T09:20:22.198Z",
-      "doneAt": "2026-08-10T08:42:54.567Z",
-      "updatedAt": "2026-08-10T08:42:54.567Z"
+      "done": false,
+      "createdAt": "2026-07-23T09:20:22.198Z"
     },
     {
       "category": "Ufficio",
@@ -165,13 +126,13 @@
       "id": "td_1784790628895_crk53",
       "vessel": "",
       "action": "Verificare",
-      "dueDate": "2026-08-24",
+      "dueDate": "2026-08-01",
       "note": "Spektra Fuel e Due date",
       "recur": null,
       "kind": "todo",
       "done": false,
       "createdAt": "2026-07-23T07:10:28.895Z",
-      "updatedAt": "2026-08-10T08:42:48.967Z"
+      "updatedAt": "2026-07-27T14:23:12.872Z"
     },
     {
       "category": "Nave",
@@ -225,7 +186,7 @@
       "id": "td_1784733591488_38aiy",
       "vessel": "",
       "action": "Controllare",
-      "dueDate": "2026-08-17",
+      "dueDate": "2026-07-31",
       "note": "Respected, Michele del vecchio & Pasquale Esposito Greetings from RK MARINE SERVICE INDIA Dear Sir We can offer Danfoss PAH 80 High Pressure Tap Water Pump 180B0041 Technical Data Brand: Danfoss Type: PAH 80 Code No: 180B0041 Flow [gpm] [Max]: 3",
       "recur": null,
       "kind": "todo",
@@ -233,7 +194,7 @@
       "outlookLinkedName": "Re: M/V MED TOSCANA - High-pressure Pump",
       "done": false,
       "createdAt": "2026-07-22T15:19:51.488Z",
-      "updatedAt": "2026-08-10T08:38:24.797Z"
+      "updatedAt": "2026-07-28T13:02:49.261Z"
     },
     {
       "category": "Ufficio",
@@ -488,12 +449,12 @@
       "id": "td_1783017770752_kv8ku",
       "vessel": "vegauno",
       "action": "Documentare",
-      "dueDate": "2026-08-17",
+      "dueDate": "2026-08-01",
       "note": "Model. HRS280 2.80 mt.\n3 persone, 550 kg.\n7.5 KW 10 hp",
       "recur": null,
       "done": false,
       "createdAt": "2026-07-02T18:42:50.752Z",
-      "updatedAt": "2026-08-10T08:30:50.371Z",
+      "updatedAt": "2026-07-27T14:14:34.291Z",
       "kind": "todo"
     },
     {
@@ -685,12 +646,11 @@
       "action": "Altro",
       "dueDate": "2026-07-31",
       "note": "Chiedere a Pasquale\n@merce pronta x invio indirizzo",
-      "done": true,
+      "done": false,
       "createdAt": "2026-06-24T13:56:56.797Z",
-      "updatedAt": "2026-08-10T08:38:09.461Z",
+      "updatedAt": "2026-07-28T13:02:56.957Z",
       "kind": "todo",
-      "recur": null,
-      "doneAt": "2026-08-10T08:38:09.461Z"
+      "recur": null
     },
     {
       "category": "Nave",
@@ -783,10 +743,8 @@
       "action": "Controllare",
       "dueDate": "2026-08-03",
       "note": "Controllare ordine e spedizione",
-      "done": true,
-      "createdAt": "2026-06-16T07:14:45.068Z",
-      "doneAt": "2026-08-10T08:00:47.661Z",
-      "updatedAt": "2026-08-10T08:00:47.661Z"
+      "done": false,
+      "createdAt": "2026-06-16T07:14:45.068Z"
     },
     {
       "category": "Nave",
@@ -3772,12 +3730,12 @@
       "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-10T07:25:12.9439366Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:30:40.090Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-10T08:30:40.090Z"
+      "updatedAt": "2026-07-27T14:21:39.022Z"
     },
     {
       "category": "Nave",
@@ -4056,7 +4014,7 @@
       "outlookLinkedName": "Med Toscana /  Requisition ",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-08-11",
+      "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-14T21:55:00.3659043Z",
       "done": false,
@@ -4064,7 +4022,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-10T08:30:37.282Z"
+      "updatedAt": "2026-07-27T14:21:44.597Z"
     },
     {
       "category": "Nave",
@@ -4158,12 +4116,12 @@
       "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-07-16T07:12:48.0879626Z",
-      "done": true,
-      "doneAt": "2026-08-10T09:12:44.674Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-10T09:12:44.674Z"
+      "updatedAt": "2026-07-17T07:12:53.548Z"
     },
     {
       "category": "Nave",
@@ -4618,12 +4576,12 @@
       "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-21T08:31:21.4395477Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:30:21.490Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-10T08:30:21.490Z"
+      "updatedAt": "2026-07-27T14:15:32.661Z"
     },
     {
       "category": "Nave",
@@ -5012,10 +4970,9 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-23T15:28:54.1594549Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:42:19.639Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:42:19.639Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5035,12 +4992,12 @@
       "dueDate": "2026-08-07",
       "note": "",
       "createdAt": "2026-07-24T13:13:21.1043062Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:16:51.068Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-10T08:16:51.068Z"
+      "updatedAt": "2026-07-28T13:13:22.602Z"
     },
     {
       "category": "Nave",
@@ -5282,12 +5239,12 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-27T14:14:11.4610112Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:38:02.437Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-10T08:38:02.437Z"
+      "updatedAt": "2026-07-28T08:33:46.490Z"
     },
     {
       "category": "Altro",
@@ -5354,12 +5311,12 @@
       "dueDate": "2026-07-28",
       "note": "",
       "createdAt": "2026-07-28T11:05:20.0012318Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:42:33.279Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-10T08:42:33.279Z"
+      "updatedAt": "2026-07-28T12:59:11.251Z"
     },
     {
       "category": "Nave",
@@ -5421,7 +5378,7 @@
       "outlookLinkedName": "PERSEVERANZA - SMM 2026",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-08-17",
+      "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-28T08:09:55.0810786Z",
       "done": false,
@@ -5429,7 +5386,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-10T08:37:45.237Z"
+      "updatedAt": "2026-07-28T13:01:29.812Z"
     },
     {
       "category": "Nave",
@@ -5450,12 +5407,12 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-28T11:53:38.314558Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:37:31.677Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-10T08:37:31.677Z"
+      "updatedAt": "2026-07-28T13:02:30.276Z"
     },
     {
       "category": "Nave",
@@ -5497,10 +5454,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-30T08:11:17.6677722Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:37:11.316Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:37:11.316Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -5520,10 +5476,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-30T08:11:17.0214147Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:37:03.724Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:37:03.724Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -5543,10 +5498,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-30T08:11:16.7044335Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:37:01.205Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:37:01.205Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -5563,15 +5517,12 @@
       "outlookLinkedName": "Re: INFOSHIP - Quotazione implementazione",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-08-18",
+      "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T12:27:50.4651769Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-10T08:34:42.612Z"
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -5591,10 +5542,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T10:03:28.220341Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:34:26.196Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:34:26.196Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5614,10 +5564,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:39:43.0104813Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:34:05.435Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:34:05.435Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5638,10 +5587,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:39:24.2639299Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:33:46.860Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:33:46.860Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5661,10 +5609,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:36:07.7444853Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:33:24.387Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:33:24.387Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5684,10 +5631,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:25:17.1363227Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:32:58.709Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:32:58.709Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5707,10 +5653,9 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-29T07:17:56.1446684Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:41:03.862Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:41:03.862Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5731,10 +5676,9 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-29T06:27:48.6347118Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:40:53.711Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:40:53.711Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5754,10 +5698,9 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T15:14:35.7044825Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:42:39.664Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:42:39.664Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5777,10 +5720,9 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T15:12:42.7301081Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:42:38.439Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:42:38.439Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5800,10 +5742,9 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T14:48:39.0951017Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:42:37.695Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:42:37.695Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5823,10 +5764,9 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T14:48:38.0485338Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:42:36.783Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:42:36.783Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5846,10 +5786,9 @@
       "dueDate": "2026-08-06",
       "note": "",
       "createdAt": "2026-08-07T07:38:41.9985208Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:18:04.005Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:18:04.005Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5892,15 +5831,14 @@
       "dueDate": "2026-08-06",
       "note": "",
       "createdAt": "2026-08-06T14:24:24.5519428Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:17:37.134Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:17:37.134Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips",
+      "reference": "M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips ",
       "tags": [
         "outlook"
       ],
@@ -5911,16 +5849,13 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJf98XSAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips ",
       "vessel": "norrbotten",
-      "action": "Verificare",
-      "dueDate": "2026-12-28",
+      "action": "Altro",
+      "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-06T08:14:13.7233933Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-10T08:21:46.943Z"
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5941,10 +5876,9 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-06T07:08:29.7339891Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:19:09.853Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:19:09.853Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5965,10 +5899,9 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-06T07:07:11.9249856Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:18:56.335Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:18:56.336Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -5985,15 +5918,12 @@
       "outlookLinkedName": "R: M/V NORBOTTEN - Gas Detector",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-08-17",
+      "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-05T14:11:22.8368215Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-10T08:18:27.702Z"
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6014,10 +5944,9 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-05T12:23:32.0681381Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:18:12.533Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:18:12.533Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -6037,10 +5966,9 @@
       "dueDate": "2026-08-04",
       "note": "",
       "createdAt": "2026-08-04T14:03:48.8236826Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:22:18.831Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:22:18.831Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6061,10 +5989,9 @@
       "dueDate": "2026-08-04",
       "note": "",
       "createdAt": "2026-08-04T13:00:30.8313076Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:21:58.774Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:21:58.774Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6126,15 +6053,12 @@
       "outlookLinkedName": "Re: M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-08-17",
+      "dueDate": "2026-08-03",
       "note": "",
       "createdAt": "2026-08-04T07:05:54.1799026Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-10T08:23:32.703Z"
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6154,10 +6078,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T09:49:07.737028Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:30:02.281Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:30:02.281Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6178,10 +6101,9 @@
       "dueDate": "2026-08-03",
       "note": "",
       "createdAt": "2026-08-03T08:35:36.8833225Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:22:37.711Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:22:37.711Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6202,10 +6124,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T07:35:28.0343713Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:29:07.826Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:29:07.826Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6245,15 +6166,12 @@
       "outlookLinkedName": "MV PEPPINO - Requisition 2026-PEP-SHPR-00116 – Marine Cargo Lights",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-08-17",
+      "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T07:33:31.310013Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-10T08:27:32.257Z"
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -6270,15 +6188,12 @@
       "outlookLinkedName": "R: MV PEPPINO - Planned Maintenance Status and Work Priorities",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-08-11",
+      "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T07:27:09.8637097Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-10T08:24:59.104Z"
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6344,10 +6259,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-01T18:01:35.0683171Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:24:42.352Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:24:42.352Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6367,10 +6281,9 @@
       "dueDate": "2026-08-08",
       "note": "",
       "createdAt": "2026-07-31T15:51:39.5126035Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:16:42.357Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:16:42.357Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6390,10 +6303,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T13:02:12.8229823Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:24:39.064Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:24:39.064Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6414,10 +6326,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T13:02:11.7752179Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:24:23.527Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:24:23.527Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6437,10 +6348,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T11:05:07.1921396Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:24:06.591Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:24:06.591Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6460,10 +6370,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T10:37:35.6538016Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:23:51.791Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:23:51.791Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6483,10 +6392,9 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-31T10:37:05.6630365Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:38:36.677Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:38:36.677Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6506,10 +6414,31 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T09:58:59.0257064Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:23:50.167Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:23:50.167Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips ",
+      "tags": [
+        "outlook"
+      ],
+      "id": "outlook_AAJcA3CzAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3CzAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJbExINAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips ",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "dueDate": "2026-08-08",
+      "note": "",
+      "createdAt": "2026-07-31T05:58:47.0027175Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6596,15 +6525,12 @@
       "outlookLinkedName": "R: M/V PEPPINO  PR117  HQRQ-00208  PEP-SHPR-00117  Zephyr Trading srl // SALES ORDER SO26-004179",
       "vessel": "peppino",
       "action": "Altro",
-      "dueDate": "2026-08-10",
+      "dueDate": "2026-08-06",
       "note": "",
       "createdAt": "2026-08-07T10:52:51.217955Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-10T08:34:21.700Z"
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6648,10 +6574,9 @@
       "dueDate": "2026-08-08",
       "note": "",
       "createdAt": "2026-08-08T07:40:32.1080614Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:16:15.349Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:16:15.349Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6671,10 +6596,9 @@
       "dueDate": "2026-08-09",
       "note": "",
       "createdAt": "2026-08-07T15:13:59.2727456Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:10:47.146Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:10:47.147Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6694,51 +6618,28 @@
       "dueDate": "2026-08-07",
       "note": "",
       "createdAt": "2026-08-07T14:15:16.8331696Z",
-      "done": true,
-      "doneAt": "2026-08-10T08:16:47.836Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T08:16:47.836Z"
-    },
-    {
-      "id": "outlook_AAJcA3CzAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJcA3CzAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJbExINAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "I: M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips ",
-      "category": "Nave",
-      "priority": "media",
-      "vessel": "norrbotten",
-      "action": "Altro",
-      "reference": "M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips ",
-      "tags": [
-        "outlook"
-      ],
-      "dueDate": "2026-08-11",
-      "note": "",
-      "createdAt": "2026-07-31T05:58:47.0027175Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
     },
     {
-      "id": "outlook_AAJhtWg0AAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJhtWg0AAA=",
+      "id": "outlook_AAJhtWg2AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJhtWg2AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJhs6qlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "AW: Shipment of order-nos. CBH 43940+43941",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJhs6qkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "MV Peppino @ Takoradi + Tema ",
       "category": "Altro",
       "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "Shipment of order-nos. CBH 43940+43941",
+      "reference": "MV Peppino @ Takoradi + Tema ",
       "tags": [
         "outlook"
       ],
       "dueDate": "2026-08-10",
       "note": "",
-      "createdAt": "2026-08-10T10:51:29.358664Z",
+      "createdAt": "2026-08-10T14:14:30.437594Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -6762,6 +6663,28 @@
       "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-08-10T12:33:57.2474713Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJhtWg0AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJhtWg0AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJhs6qlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "AW: Shipment of order-nos. CBH 43940+43941",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "Shipment of order-nos. CBH 43940+43941",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-10",
+      "note": "",
+      "createdAt": "2026-08-10T10:51:29.358664Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -21394,6 +21317,83 @@
     }
   },
   "repliesDismissed": [
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAMLuC9ttx0QlpLlUn45H8Vg=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALgUZyr-eEYsi9Ia5R0A9Do=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAM8sB3R3m0livWU-kW15nxg=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAMGK6QRsLkK9k3ySZqBUY8o=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHaglDtghjZNipcyIEi3bOM=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAGxznYnSWUlenaucP4Kb-ek=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAG4wSb9ns55Fi5a08C-LnIo=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAIVwZVASDWVPuebVNnqsdX8=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAGfB97It4JIqiCupyfXEBI=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAASA9gPOJ1tNlD6lSRJ4n9s=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAI_h8gpJSWFKh8NxNjrPbc8=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAII9QwT9rO1JsRmwa1ZMzR8=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFu3oz2sM4hPpZDt9RA0ypg=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADl-ZmFAcAlLuzhWUtDHwS0=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAN2XZvApoUv4lXpNG16e9Bw=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAIabWfJyrklGmJuWJroJ7jM=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACAwntSj6CJEri9wtJYp5co=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOw-7Nu63UszlcibXEY9VfA=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOKHZGgiiE9Dga95XsuSgKE=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOQY-yaeNkZDlFmluiN_8mM=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAEDsAC7sNt9BhEHAKF-yWdU=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAzwMbAouEtujRIHETaKNoU=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQABna5o7jGEtDtvkHZumWR-U=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADszORAmBLpCkjJkR99IJes=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALVlPIV_8kLDkEaMToWPeHA=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHkm47weahRLoxC3bTuJWyc=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAN_5p1msRiREh1p5E9qdmY8=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAD7GOnXy83tGkjW59VqtazE=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHmiQbkp49FEthTpxyjzQnQ=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADZmUBUWpl9HhlyXi1qpNuc=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFx31yKcIhFEmncQGJquG5c=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAB6i97fgnrpClG8s_SxyRgE=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJCmh4_Jb0pNp1ASSSlEr3U=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAL1kjaa8ekvZiM5XDyVDB7k=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACNaW1pvaHFJjTAfEs2x71E=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACswpVhszvpIlN9lK9JvMZs=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQANk4_14biUZUohAf5dBlx1w=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAENZ8r8eVJOtnFIdF-bhH8=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHxfWt9-R_pDnh6fU2GjtIE=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAC_-LJs3_TxHnad1UutIUuI=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAMv_5i8okJ1ErO-8q3SFnus=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAMaI-cjX--1Oi6WdqrF90Hc=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAB7hzK2g-rNErtDvry0TR5U=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACtDmLsbk8hGnYUP44zpXCs=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOgt2aDua_hHsYkCVK41ajU=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACNIRXXcJkcmheOyOwV_Hqk=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADc632zJ9jZHtW5TpByS4Qg=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALBYPvyxyuBChEWN5xtAfYA=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFtFs5rxdNy2sRlO3Q4WO44=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFR9W11_QkQer1oeUSsKflI=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJjjhGPRZUSBl_MY_CaCQ9w=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADz52fcDhNRHkPprAval5Do=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAEt3J3h_HWNHkmdDhUnnd4g=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAK5mknFehAlNmKD1sAqEkhI=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAF_rdsH33AhPjKBpjxi3HuM=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACM8JcHP6k-vhc1-l7QA7pc=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAMC_RwZDz-NMhnE-siX42ks=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAGwz4htDmESyvu42LUXlFLg=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAEQL6g6N5WJNlHbyEvZUTuM=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAF1Dv4OaFuVKly4lVK77Ulw=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALVm1ZNjF-5OuA0XwGxaP28=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAKQoWn_B9_4oGGVk5VT8yWw=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALU_6IJox-lKj-BuGuu8y6U=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQANeGOXmbUE1DkdIfXxOF1tM=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADzQVJx8Y-BEn8-pFBvY15g=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQABOLfUGEyUvkgyftw_Sd3DI=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAIZ9kM82NkOVsfGvfp0Q6V8=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAIBbrzWgri1LnYVRfApCL7o=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFGwt37-G7RJtfvd-t2y_yM=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACDRfoCc7shClOU6Is-25fM=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAM7XhIPIs0s0pV6_mLe9Y24=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAEPWXwcDBWJEuVPI3hSoUNo=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHCjKiThc1VPmjSyTyWlcxY=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAEUOeXvcgNZClEjeFY1NMU4=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOK0kyWJKOpMuUSZChxwnMI=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOlyzNOs6ORFs6dRI_DhEVg=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFcR9Q6ht2dDqVEycyvkW4k=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJoEO6C3X2pPluID-cNRd7A=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAH7VNOAoDAxOgNujGH5ZfY8=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOMJ1n0-0TlLn1jNNbisY3Y=",
@@ -21422,7 +21422,6 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQABId1e2uVEv5jeei-HXMgGI=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJvKjpCI0p5AlTcvCyMOsTA=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAPe3UATnSBxAmIrdfsYpkyA=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALgUZyr-eEYsi9Ia5R0A9Do=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJdLBIQ2y04YmhmS3h66f7c=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAGSpOryUfU0Lkxb6mj3N2EY=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAKw2plFBsJJEpqcm1t8axB4=",
@@ -21444,7 +21443,6 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHwiDNvYvZFJkp45wRhvCrQ=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACWSL0C9zYdIvmn56RFG__8=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALi1KG0Co0Apq6oIN9KyFBY=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAM8sB3R3m0livWU-kW15nxg=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJ3HEsH3ROpLqvJkgL7V2CY=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQANrizu3tUUY6isqxDlt1hDo=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAG7FwtGAMYlCvEucpjKo6W8=",
@@ -21499,7 +21497,6 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAMWsvgWQ6iROszse5Zd4hjE=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQABMIesFJnrNKgjGAFGYDQGU=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQANdBdEsKrWdIm1E7T0QDBD8=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFtFs5rxdNy2sRlO3Q4WO44=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQANTS7qXcEGxBjPbKaX9l3Uc=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAH7VAkzy8bxLpKjcuoGOlic=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACXRy9DJRahBtqgxxb5ZJig=",
@@ -21523,8 +21520,6 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADOFti0JOY9BsbbYhiLT1rY=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAF-mdzIsuQVKnnCbUcuksKI=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACsAxq4xAN5Hr8SYuFX2Uo0=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAEPWXwcDBWJEuVPI3hSoUNo=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALVlPIV_8kLDkEaMToWPeHA=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADMV6V_500G-sxGJJytpL1w=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADmqD4VXhVZDnCTzoj5aKcY=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOzD8hPvZ9hLqiZIqU9btUE=",
@@ -21532,74 +21527,12 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAuRi9JtNSNChOaKwfeiFWo=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAUwnOsqjZZEpVNlUSRRGG8=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFUS6-n0703QuzXsDuAlIXI=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHxfWt9-R_pDnh6fU2GjtIE=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAMaI-cjX--1Oi6WdqrF90Hc=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOK0kyWJKOpMuUSZChxwnMI=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAMGK6QRsLkK9k3ySZqBUY8o=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAGxznYnSWUlenaucP4Kb-ek=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHaglDtghjZNipcyIEi3bOM=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAE5XhY2S0uhBpJZbnxzppEg=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAGNJZOTBbfxGrfadvBo-6a8=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFMkgwks_exPrpaqLhRzgsM=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQABVflfiDMr5Br5F9h5kmWRM=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJZm4-PZw00BiZW5oPMqQF0=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADYrAxKofUBLqD7fps-OIVw=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQANk4_14biUZUohAf5dBlx1w=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAENZ8r8eVJOtnFIdF-bhH8=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAEQL6g6N5WJNlHbyEvZUTuM=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAB7hzK2g-rNErtDvry0TR5U=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAEt3J3h_HWNHkmdDhUnnd4g=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAK5mknFehAlNmKD1sAqEkhI=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADc632zJ9jZHtW5TpByS4Qg=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAIVwZVASDWVPuebVNnqsdX8=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAGfB97It4JIqiCupyfXEBI=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAF_rdsH33AhPjKBpjxi3HuM=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACM8JcHP6k-vhc1-l7QA7pc=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAMC_RwZDz-NMhnE-siX42ks=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAGwz4htDmESyvu42LUXlFLg=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALBYPvyxyuBChEWN5xtAfYA=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAG4wSb9ns55Fi5a08C-LnIo=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFR9W11_QkQer1oeUSsKflI=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJjjhGPRZUSBl_MY_CaCQ9w=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADz52fcDhNRHkPprAval5Do=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACtDmLsbk8hGnYUP44zpXCs=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAASA9gPOJ1tNlD6lSRJ4n9s=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAM7XhIPIs0s0pV6_mLe9Y24=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOlyzNOs6ORFs6dRI_DhEVg=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAEUOeXvcgNZClEjeFY1NMU4=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHCjKiThc1VPmjSyTyWlcxY=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAzwMbAouEtujRIHETaKNoU=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAI_h8gpJSWFKh8NxNjrPbc8=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACDRfoCc7shClOU6Is-25fM=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFu3oz2sM4hPpZDt9RA0ypg=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADl-ZmFAcAlLuzhWUtDHwS0=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAN2XZvApoUv4lXpNG16e9Bw=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAIabWfJyrklGmJuWJroJ7jM=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACAwntSj6CJEri9wtJYp5co=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOw-7Nu63UszlcibXEY9VfA=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOKHZGgiiE9Dga95XsuSgKE=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOQY-yaeNkZDlFmluiN_8mM=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJCmh4_Jb0pNp1ASSSlEr3U=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFx31yKcIhFEmncQGJquG5c=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAB6i97fgnrpClG8s_SxyRgE=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHkm47weahRLoxC3bTuJWyc=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAN_5p1msRiREh1p5E9qdmY8=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADszORAmBLpCkjJkR99IJes=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQABna5o7jGEtDtvkHZumWR-U=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAMLuC9ttx0QlpLlUn45H8Vg=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALVm1ZNjF-5OuA0XwGxaP28=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAL1kjaa8ekvZiM5XDyVDB7k=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACNaW1pvaHFJjTAfEs2x71E=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACswpVhszvpIlN9lK9JvMZs=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACNIRXXcJkcmheOyOwV_Hqk=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQANeGOXmbUE1DkdIfXxOF1tM=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADzQVJx8Y-BEn8-pFBvY15g=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQABOLfUGEyUvkgyftw_Sd3DI=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAIZ9kM82NkOVsfGvfp0Q6V8=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAIBbrzWgri1LnYVRfApCL7o=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAKQoWn_B9_4oGGVk5VT8yWw=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAF1Dv4OaFuVKly4lVK77Ulw=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFcR9Q6ht2dDqVEycyvkW4k=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJG9bEgMD4JOrDeSe9jfXOk=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALJYXEMNmFFPpfLtcDDeGsg=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAIl8Vl3p-0JarX33i5cHnzg=",
@@ -21619,16 +21552,6 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACHpriNpMyhLjurlx65Efas=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALNjAjY80kyJt_24fxRtOyg=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQABKnBJIlVH5DkRaNAlRB2yw=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAII9QwT9rO1JsRmwa1ZMzR8=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAEDsAC7sNt9BhEHAKF-yWdU=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAD7GOnXy83tGkjW59VqtazE=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHmiQbkp49FEthTpxyjzQnQ=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADZmUBUWpl9HhlyXi1qpNuc=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAC_-LJs3_TxHnad1UutIUuI=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAMv_5i8okJ1ErO-8q3SFnus=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOgt2aDua_hHsYkCVK41ajU=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALU_6IJox-lKj-BuGuu8y6U=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFGwt37-G7RJtfvd-t2y_yM=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAIgo4TuZPtRFjLrerjs7ilE=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAIaKFp8R8GVHlmy3NJIByEg=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAH_H3h-9Bs1CjGrsONT2Tqc=",
@@ -22111,7 +22034,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T14:33:10.190Z",
+    "todos": "2026-08-10T15:26:37.988Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22129,8 +22052,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
+    "pinnedActions": "",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1307,
-  "savedAt": "2026-08-10T14:49:24.183Z"
+  "rev": 1308,
+  "savedAt": "2026-08-10T15:26:40.910Z"
 }
