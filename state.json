@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T08:34:25.333Z",
+  "pushedAt": "2026-08-10T08:34:30.051Z",
   "todosCount": 297,
   "todos": [
     {
@@ -5548,9 +5548,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T10:03:28.220341Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T08:34:26.196Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T08:34:26.196Z"
     },
     {
       "category": "Nave",
@@ -19991,13 +19992,6 @@
       "title": "Med Toscana /  Requisition"
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RDAAA=",
-      "listId": "",
-      "completedAt": "2026-08-07T12:50:09.988Z",
-      "todoId": "outlook_AAJal9RDAAA=",
-      "title": "EVERSUPPLY S.R.L. - Nuovo sito online"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9REAAA=",
       "listId": "",
       "completedAt": "2026-08-07T12:50:10.139Z",
@@ -20304,6 +20298,13 @@
       "completedAt": "2026-08-10T08:34:05.438Z",
       "todoId": "outlook_AAJal9RCAAA=",
       "title": "Med Toscana  / ETA"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RDAAA=",
+      "listId": "",
+      "completedAt": "2026-08-10T08:34:26.197Z",
+      "todoId": "outlook_AAJal9RDAAA=",
+      "title": "EVERSUPPLY S.R.L. - Nuovo sito online"
     }
   ],
   "manualOrders": {
@@ -22003,6 +22004,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1170,
-  "savedAt": "2026-08-10T08:34:25.333Z"
+  "rev": 1171,
+  "savedAt": "2026-08-10T08:34:30.051Z"
 }
