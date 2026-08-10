@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T08:19:13.010Z",
+  "pushedAt": "2026-08-10T08:21:50.733Z",
   "todosCount": 297,
   "todos": [
     {
@@ -5844,7 +5844,7 @@
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips ",
+      "reference": "M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips",
       "tags": [
         "outlook"
       ],
@@ -5855,13 +5855,16 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJf98XSAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: M/v NORRBOTTEN tbr ATLAS, IMO no. 9191931 - CPP lips ",
       "vessel": "norrbotten",
-      "action": "Altro",
-      "dueDate": "2026-08-05",
+      "action": "Verificare",
+      "dueDate": "2026-12-28",
       "note": "",
       "createdAt": "2026-08-06T08:14:13.7233933Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-08-10T08:21:46.943Z"
     },
     {
       "category": "Nave",
@@ -21951,7 +21954,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T08:19:12.997Z",
+    "todos": "2026-08-10T08:21:50.719Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21971,6 +21974,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1144,
-  "savedAt": "2026-08-10T08:19:13.010Z"
+  "rev": 1145,
+  "savedAt": "2026-08-10T08:21:50.733Z"
 }
