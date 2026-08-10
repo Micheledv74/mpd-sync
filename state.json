@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T07:50:32.672Z",
+  "pushedAt": "2026-08-10T07:58:26.458Z",
   "todosCount": 298,
   "todos": [
     {
@@ -18784,7 +18784,7 @@
         "to": "SINGAPORE",
         "etd": "",
         "etb": "",
-        "eta": "2026-08-12T21:00",
+        "eta": "2026-08-13T04:00",
         "agency": {
           "name": "JOHNASIA SINGAPORE",
           "contacts": "Lucas Lau\nMob : +65 9735 3362\nAs agents only\n\nJOHNASIA SHIPPING (S) PTE. LTD.\n11 Irving Place, Tai Seng Point # 07-03 Singapore (369551)\nTel : +65 6223 5922 | Fax : +65 6223 5923\nEmail : singapore@johnasia.com | Web : www.johnasia.com"
@@ -18802,8 +18802,8 @@
         }
       },
       "notes": "",
-      "updatedAt": "2026-08-07T07:55:52.160Z",
-      "fromNoon": "2026-08-07"
+      "updatedAt": "2026-08-10T07:58:22.493Z",
+      "fromNoon": "2026-08-10"
     },
     "medtoscana": {
       "status": "at_sea",
@@ -21937,7 +21937,7 @@
     "supplierTimezones": "2026-07-22T18:57:31.789Z",
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
-    "voyages": "2026-08-07T13:48:00.184Z",
+    "voyages": "2026-08-10T07:58:26.450Z",
     "outlookCompletionQueue": "2026-08-07T12:50:48.045Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-08T07:46:39.084Z",
@@ -21949,6 +21949,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1126,
-  "savedAt": "2026-08-10T07:50:32.672Z"
+  "rev": 1127,
+  "savedAt": "2026-08-10T07:58:26.458Z"
 }
