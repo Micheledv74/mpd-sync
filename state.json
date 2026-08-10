@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T08:34:30.051Z",
+  "pushedAt": "2026-08-10T08:34:46.596Z",
   "todosCount": 297,
   "todos": [
     {
@@ -5523,12 +5523,15 @@
       "outlookLinkedName": "Re: INFOSHIP - Quotazione implementazione",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-07-31",
+      "dueDate": "2026-08-18",
       "note": "",
       "createdAt": "2026-07-29T12:27:50.4651769Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-08-10T08:34:42.612Z"
     },
     {
       "category": "Altro",
@@ -21984,7 +21987,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T08:34:25.327Z",
+    "todos": "2026-08-10T08:34:46.590Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22004,6 +22007,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1171,
-  "savedAt": "2026-08-10T08:34:30.051Z"
+  "rev": 1172,
+  "savedAt": "2026-08-10T08:34:46.596Z"
 }
