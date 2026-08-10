@@ -1,9 +1,24 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T14:05:03.966Z",
-  "todosCount": 301,
+  "pushedAt": "2026-08-10T14:33:10.199Z",
+  "todosCount": 302,
   "todos": [
+    {
+      "id": "td_1786372386223_54i8i",
+      "category": "Nave",
+      "priority": "alta",
+      "vessel": "norrbotten",
+      "action": "Inviare email",
+      "reference": "",
+      "tags": [],
+      "dueDate": "2026-08-11",
+      "note": "Comunicare attesa per spedire.\nCylinder head x Norrbotten di CBH Carl Baguhn pronti per la spedizione da Hamburg",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-08-10T14:33:06.223Z"
+    },
     {
       "id": "td_1786351374569_bk73x",
       "category": "Nave",
@@ -22093,7 +22108,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T14:05:03.959Z",
+    "todos": "2026-08-10T14:33:10.190Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22113,6 +22128,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1304,
-  "savedAt": "2026-08-10T14:05:03.966Z"
+  "rev": 1305,
+  "savedAt": "2026-08-10T14:33:10.199Z"
 }
