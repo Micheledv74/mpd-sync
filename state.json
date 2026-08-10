@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T08:38:06.428Z",
+  "pushedAt": "2026-08-10T08:38:12.691Z",
   "todosCount": 297,
   "todos": [
     {
@@ -650,11 +650,12 @@
       "action": "Altro",
       "dueDate": "2026-07-31",
       "note": "Chiedere a Pasquale\n@merce pronta x invio indirizzo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-06-24T13:56:56.797Z",
-      "updatedAt": "2026-07-28T13:02:56.957Z",
+      "updatedAt": "2026-08-10T08:38:09.461Z",
       "kind": "todo",
-      "recur": null
+      "recur": null,
+      "doneAt": "2026-08-10T08:38:09.461Z"
     },
     {
       "category": "Nave",
@@ -21990,7 +21991,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T08:38:06.420Z",
+    "todos": "2026-08-10T08:38:12.681Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22010,6 +22011,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1178,
-  "savedAt": "2026-08-10T08:38:06.429Z"
+  "rev": 1179,
+  "savedAt": "2026-08-10T08:38:12.691Z"
 }
