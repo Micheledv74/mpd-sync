@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T15:25:16.166Z",
+  "pushedAt": "2026-08-10T21:57:39.996Z",
   "todosCount": 301,
   "todos": [
     {
@@ -6623,20 +6623,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "MV Peppino @ Takoradi + Tema ",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJhtWg2AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJhtWg2AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJhs6qkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "MV Peppino @ Takoradi + Tema ",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "MV Peppino @ Takoradi + Tema ",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-08-10T14:14:30.437594Z",
@@ -6645,21 +6645,21 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO  PR115  HQRQ-00203  PEP-SHPR-00115  Mistral Suisse Sagl - ENQUIRY TE22463",
+      "tags": [
+        "outlook",
+        "fornitore:MISTRAL"
+      ],
       "id": "outlook_AAJhtWg1AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJhtWg1AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B7tMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: M/V PEPPINO  PR115  HQRQ-00203  PEP-SHPR-00115  Mistral Suisse Sagl - ENQUIRY TE22463",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "M/V PEPPINO  PR115  HQRQ-00203  PEP-SHPR-00115  Mistral Suisse Sagl - ENQUIRY TE22463",
-      "tags": [
-        "outlook",
-        "fornitore:MISTRAL"
-      ],
       "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-08-10T12:33:57.2474713Z",
@@ -6668,20 +6668,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "Shipment of order-nos. CBH 43940+43941",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJhtWg0AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJhtWg0AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJhs6qlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "AW: Shipment of order-nos. CBH 43940+43941",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "Shipment of order-nos. CBH 43940+43941",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-08-10T10:51:29.358664Z",
@@ -22034,7 +22034,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T15:26:37.988Z",
+    "todos": "2026-08-10T21:57:37.055Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22054,6 +22054,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1309,
-  "savedAt": "2026-08-10T15:25:16.166Z"
+  "rev": 1310,
+  "savedAt": "2026-08-10T21:57:39.997Z"
 }
