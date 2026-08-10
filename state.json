@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T08:33:49.701Z",
+  "pushedAt": "2026-08-10T08:34:09.654Z",
   "todosCount": 297,
   "todos": [
     {
@@ -5570,9 +5570,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:39:43.0104813Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T08:34:05.435Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T08:34:05.435Z"
     },
     {
       "category": "Nave",
@@ -19987,13 +19988,6 @@
       "title": "Med Toscana /  Requisition"
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RCAAA=",
-      "listId": "",
-      "completedAt": "2026-08-07T12:50:09.836Z",
-      "todoId": "outlook_AAJal9RCAAA=",
-      "title": "Med Toscana  / ETA"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RDAAA=",
       "listId": "",
       "completedAt": "2026-08-07T12:50:09.988Z",
@@ -20300,6 +20294,13 @@
       "completedAt": "2026-08-10T08:33:46.862Z",
       "todoId": "outlook_AAJal9RBAAA=",
       "title": "M/V MED TOSCANA  PR67  HQPO-00084  MDT-SHPR-00067  Dongjin Intec Co., Ltd. (FB26183651)"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RCAAA=",
+      "listId": "",
+      "completedAt": "2026-08-10T08:34:05.438Z",
+      "todoId": "outlook_AAJal9RCAAA=",
+      "title": "Med Toscana  / ETA"
     }
   ],
   "manualOrders": {
@@ -21979,7 +21980,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T08:33:49.690Z",
+    "todos": "2026-08-10T08:34:09.648Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21988,7 +21989,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-10T07:58:59.789Z",
-    "outlookCompletionQueue": "2026-08-10T08:33:49.690Z",
+    "outlookCompletionQueue": "2026-08-10T08:34:09.648Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-08T07:46:39.084Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -21999,6 +22000,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1167,
-  "savedAt": "2026-08-10T08:33:49.701Z"
+  "rev": 1168,
+  "savedAt": "2026-08-10T08:34:09.654Z"
 }
