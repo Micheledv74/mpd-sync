@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T08:38:12.691Z",
+  "pushedAt": "2026-08-10T08:38:28.505Z",
   "todosCount": 297,
   "todos": [
     {
@@ -190,7 +190,7 @@
       "id": "td_1784733591488_38aiy",
       "vessel": "",
       "action": "Controllare",
-      "dueDate": "2026-07-31",
+      "dueDate": "2026-08-17",
       "note": "Respected, Michele del vecchio & Pasquale Esposito Greetings from RK MARINE SERVICE INDIA Dear Sir We can offer Danfoss PAH 80 High Pressure Tap Water Pump 180B0041 Technical Data Brand: Danfoss Type: PAH 80 Code No: 180B0041 Flow [gpm] [Max]: 3",
       "recur": null,
       "kind": "todo",
@@ -198,7 +198,7 @@
       "outlookLinkedName": "Re: M/V MED TOSCANA - High-pressure Pump",
       "done": false,
       "createdAt": "2026-07-22T15:19:51.488Z",
-      "updatedAt": "2026-07-28T13:02:49.261Z"
+      "updatedAt": "2026-08-10T08:38:24.797Z"
     },
     {
       "category": "Ufficio",
@@ -21991,7 +21991,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T08:38:12.681Z",
+    "todos": "2026-08-10T08:38:27.771Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22011,6 +22011,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1179,
-  "savedAt": "2026-08-10T08:38:12.691Z"
+  "rev": 1180,
+  "savedAt": "2026-08-10T08:38:28.505Z"
 }
