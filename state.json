@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-10T08:33:01.971Z",
+  "pushedAt": "2026-08-10T08:33:27.358Z",
   "todosCount": 297,
   "todos": [
     {
@@ -5615,9 +5615,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:36:07.7444853Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T08:33:24.387Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T08:33:24.387Z"
     },
     {
       "category": "Nave",
@@ -19985,13 +19986,6 @@
       "title": "Med Toscana /  Requisition"
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RAAAA=",
-      "listId": "",
-      "completedAt": "2026-08-07T12:50:09.507Z",
-      "todoId": "outlook_AAJal9RAAAA=",
-      "title": "26A0081 Pompe Garbarino SpA : M/V PEPPINO - SPA Req. FWG Ejector pump NEW"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RBAAA=",
       "listId": "",
       "completedAt": "2026-08-07T12:50:09.669Z",
@@ -20298,6 +20292,13 @@
       "completedAt": "2026-08-10T08:32:58.711Z",
       "todoId": "outlook_AAJal9Q-AAA=",
       "title": "M/V MED LIGURIA / Xiamen Call -Request for Shipping Instructions"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJal9RAAAA=",
+      "listId": "",
+      "completedAt": "2026-08-10T08:33:24.391Z",
+      "todoId": "outlook_AAJal9RAAAA=",
+      "title": "26A0081 Pompe Garbarino SpA : M/V PEPPINO - SPA Req. FWG Ejector pump NEW"
     }
   ],
   "manualOrders": {
@@ -21977,7 +21978,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-10T08:33:01.958Z",
+    "todos": "2026-08-10T08:33:27.348Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -21986,7 +21987,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-10T07:58:59.789Z",
-    "outlookCompletionQueue": "2026-08-10T08:33:01.958Z",
+    "outlookCompletionQueue": "2026-08-10T08:33:27.348Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-08T07:46:39.084Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -21997,6 +21998,6 @@
     "repliesDismissed": "2026-08-07T13:46:47.404Z",
     "shipments": "2026-08-10T07:50:31.601Z"
   },
-  "rev": 1165,
-  "savedAt": "2026-08-10T08:33:01.972Z"
+  "rev": 1166,
+  "savedAt": "2026-08-10T08:33:27.358Z"
 }
