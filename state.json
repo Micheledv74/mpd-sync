@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-11T09:46:47.674Z",
+  "pushedAt": "2026-08-11T09:55:48.171Z",
   "todosCount": 308,
   "todos": [
     {
@@ -6852,20 +6852,20 @@
       "updatedAt": "2026-08-11T08:07:19.167Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "Shipment of order-nos. CBH 43940+43941",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJjTooDAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooDAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJjTfvcAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "AW: Shipment of order-nos. CBH 43940+43941",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "Shipment of order-nos. CBH 43940+43941",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-20",
       "note": "",
       "createdAt": "2026-08-11T07:56:45.999496Z",
@@ -6874,20 +6874,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "MV PEPPINO - Planned Maintenance Status and Work Priorities",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJjTooEAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooEAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJjTfveAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: MV PEPPINO - Planned Maintenance Status and Work Priorities",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "MV PEPPINO - Planned Maintenance Status and Work Priorities",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-08-11T08:14:15.1495043Z",
@@ -22302,7 +22302,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-11T09:46:47.668Z",
+    "todos": "2026-08-11T09:55:45.137Z",
     "notes": "2026-08-07T11:14:35.892Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22322,6 +22322,6 @@
     "repliesDismissed": "2026-08-11T07:47:26.947Z",
     "shipments": "2026-08-11T09:37:18.601Z"
   },
-  "rev": 1359,
-  "savedAt": "2026-08-11T09:46:47.674Z"
+  "rev": 1360,
+  "savedAt": "2026-08-11T09:55:48.171Z"
 }
