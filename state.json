@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-11T08:07:31.662Z",
+  "pushedAt": "2026-08-11T08:11:24.313Z",
   "todosCount": 306,
   "todos": [
     {
@@ -22045,10 +22045,28 @@
         "carrier": "DHL Express",
         "hub": "",
         "number": "1996345455",
-        "status": "in_transit",
+        "status": "delivered",
         "pickup": "2026-08-07",
         "eta": "2026-08-11",
         "events": [
+          {
+            "ts": "2026-08-11T10:14:00+08:00",
+            "place": "SINGAPORE - SINGAPORE",
+            "text": "Delivered",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-08-11T10:14:00+08:00",
+            "place": "SINGAPORE - SINGAPORE",
+            "text": "Payment is received and recorded for shipment related fees",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-11T09:45:00+08:00",
+            "place": "SINGAPORE - SINGAPORE",
+            "text": "Shipment is out with courier for delivery",
+            "code": "transit"
+          },
           {
             "ts": "2026-08-09T09:28:00+08:00",
             "place": "SINGAPORE - SINGAPORE",
@@ -22146,7 +22164,7 @@
             "code": "transit"
           }
         ],
-        "updatedAt": "2026-08-10T07:50:28.967Z"
+        "updatedAt": "2026-08-11T08:11:20.397Z"
       }
     ],
     "med liguria::automatic fire detection and alarm system nippon hakuyo electronics ltd critical spare parts": [
@@ -22244,8 +22262,8 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-11T07:47:26.947Z",
-    "shipments": "2026-08-10T07:50:31.601Z"
+    "shipments": "2026-08-11T08:11:24.306Z"
   },
-  "rev": 1346,
-  "savedAt": "2026-08-11T08:07:31.662Z"
+  "rev": 1347,
+  "savedAt": "2026-08-11T08:11:24.314Z"
 }
