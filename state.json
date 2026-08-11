@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_ex1cq6qu8y",
-  "pushedAt": "2026-08-11T17:06:51.647Z",
-  "todosCount": 305,
+  "pushedAt": "2026-08-11T17:07:05.267Z",
+  "todosCount": 311,
   "todos": [
     {
       "category": "Ufficio",
@@ -43,8 +43,10 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJY7pMiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Some of your installations demand your attention",
-      "done": false,
-      "createdAt": "2026-07-28T08:09:46.713Z"
+      "done": true,
+      "createdAt": "2026-07-28T08:09:46.713Z",
+      "doneAt": "2026-08-10T22:26:37.166Z",
+      "updatedAt": "2026-08-10T22:26:37.166Z"
     },
     {
       "category": "Nave",
@@ -58,8 +60,10 @@
       "note": "Dead Line per Hub TML 06/08/2026",
       "recur": null,
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-24T07:18:53.341Z"
+      "done": true,
+      "createdAt": "2026-07-24T07:18:53.341Z",
+      "doneAt": "2026-08-11T08:07:08.377Z",
+      "updatedAt": "2026-08-11T08:07:08.377Z"
     },
     {
       "category": "Nave",
@@ -115,8 +119,10 @@
         "interval": 15
       },
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-23T09:20:22.198Z"
+      "done": true,
+      "createdAt": "2026-07-23T09:20:22.198Z",
+      "doneAt": "2026-08-11T08:07:08.863Z",
+      "updatedAt": "2026-08-11T08:07:08.863Z"
     },
     {
       "category": "Ufficio",
@@ -130,9 +136,10 @@
       "note": "Spektra Fuel e Due date",
       "recur": null,
       "kind": "todo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-07-23T07:10:28.895Z",
-      "updatedAt": "2026-07-27T14:23:12.872Z"
+      "updatedAt": "2026-08-11T08:07:07.534Z",
+      "doneAt": "2026-08-11T08:07:07.534Z"
     },
     {
       "category": "Nave",
@@ -192,9 +199,10 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0gejAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: M/V MED TOSCANA - High-pressure Pump",
-      "done": false,
+      "done": true,
       "createdAt": "2026-07-22T15:19:51.488Z",
-      "updatedAt": "2026-07-28T13:02:49.261Z"
+      "updatedAt": "2026-08-11T08:07:02.567Z",
+      "doneAt": "2026-08-11T08:07:02.567Z"
     },
     {
       "category": "Ufficio",
@@ -452,10 +460,11 @@
       "dueDate": "2026-08-01",
       "note": "Model. HRS280 2.80 mt.\n3 persone, 550 kg.\n7.5 KW 10 hp",
       "recur": null,
-      "done": false,
+      "done": true,
       "createdAt": "2026-07-02T18:42:50.752Z",
-      "updatedAt": "2026-07-27T14:14:34.291Z",
-      "kind": "todo"
+      "updatedAt": "2026-08-11T08:07:00.231Z",
+      "kind": "todo",
+      "doneAt": "2026-08-11T08:07:00.231Z"
     },
     {
       "category": "Nave",
@@ -646,11 +655,12 @@
       "action": "Altro",
       "dueDate": "2026-07-31",
       "note": "Chiedere a Pasquale\n@merce pronta x invio indirizzo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-06-24T13:56:56.797Z",
-      "updatedAt": "2026-07-28T13:02:56.957Z",
+      "updatedAt": "2026-08-11T08:07:02.398Z",
       "kind": "todo",
-      "recur": null
+      "recur": null,
+      "doneAt": "2026-08-11T08:07:02.398Z"
     },
     {
       "category": "Nave",
@@ -741,10 +751,13 @@
       "id": "td_1781594085068_88hrw",
       "vessel": "peppino",
       "action": "Controllare",
-      "dueDate": "2026-08-03",
+      "dueDate": "2026-08-15",
       "note": "Controllare ordine e spedizione",
       "done": false,
-      "createdAt": "2026-06-16T07:14:45.068Z"
+      "createdAt": "2026-06-16T07:14:45.068Z",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-08-10T22:26:25.021Z"
     },
     {
       "category": "Nave",
@@ -3730,12 +3743,12 @@
       "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-10T07:25:12.9439366Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-11T08:07:00.062Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-27T14:21:39.022Z"
+      "updatedAt": "2026-08-11T08:07:00.062Z"
     },
     {
       "category": "Nave",
@@ -4017,12 +4030,12 @@
       "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-14T21:55:00.3659043Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-11T08:06:59.903Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-27T14:21:44.597Z"
+      "updatedAt": "2026-08-11T08:06:59.903Z"
     },
     {
       "category": "Nave",
@@ -4116,12 +4129,12 @@
       "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-07-16T07:12:48.0879626Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-11T08:06:58.047Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-17T07:12:53.548Z"
+      "updatedAt": "2026-08-11T08:06:58.047Z"
     },
     {
       "category": "Nave",
@@ -4576,12 +4589,12 @@
       "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-21T08:31:21.4395477Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-11T08:06:59.743Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-27T14:15:32.661Z"
+      "updatedAt": "2026-08-11T08:06:59.743Z"
     },
     {
       "category": "Nave",
@@ -4970,9 +4983,10 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-23T15:28:54.1594549Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:03.255Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:03.255Z"
     },
     {
       "category": "Nave",
@@ -4992,12 +5006,12 @@
       "dueDate": "2026-08-07",
       "note": "",
       "createdAt": "2026-07-24T13:13:21.1043062Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-10T22:26:31.750Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-28T13:13:22.602Z"
+      "updatedAt": "2026-08-10T22:26:31.750Z"
     },
     {
       "category": "Nave",
@@ -5239,12 +5253,12 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-27T14:14:11.4610112Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-11T08:07:02.230Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-28T08:33:46.490Z"
+      "updatedAt": "2026-08-11T08:07:02.230Z"
     },
     {
       "category": "Altro",
@@ -5311,12 +5325,12 @@
       "dueDate": "2026-07-28",
       "note": "",
       "createdAt": "2026-07-28T11:05:20.0012318Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-11T08:07:03.431Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-28T12:59:11.251Z"
+      "updatedAt": "2026-08-11T08:07:03.431Z"
     },
     {
       "category": "Nave",
@@ -5381,12 +5395,12 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-28T08:09:55.0810786Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-11T08:07:02.070Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-28T13:01:29.812Z"
+      "updatedAt": "2026-08-11T08:07:02.071Z"
     },
     {
       "category": "Nave",
@@ -5407,12 +5421,12 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-28T11:53:38.314558Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-11T08:07:01.894Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-07-28T13:02:30.276Z"
+      "updatedAt": "2026-08-11T08:07:01.894Z"
     },
     {
       "category": "Nave",
@@ -5454,9 +5468,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-30T08:11:17.6677722Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:01.711Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:01.711Z"
     },
     {
       "category": "Altro",
@@ -5476,9 +5491,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-30T08:11:17.0214147Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:01.543Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:01.543Z"
     },
     {
       "category": "Altro",
@@ -5498,9 +5514,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-30T08:11:16.7044335Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:01.393Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:01.393Z"
     },
     {
       "category": "Altro",
@@ -5520,9 +5537,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T12:27:50.4651769Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:01.208Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:01.208Z"
     },
     {
       "category": "Altro",
@@ -5542,9 +5560,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T10:03:28.220341Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:01.038Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:01.038Z"
     },
     {
       "category": "Nave",
@@ -5564,9 +5583,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:39:43.0104813Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:00.878Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:00.878Z"
     },
     {
       "category": "Nave",
@@ -5587,9 +5607,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:39:24.2639299Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:00.718Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:00.718Z"
     },
     {
       "category": "Nave",
@@ -5609,9 +5630,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:36:07.7444853Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:00.567Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:00.567Z"
     },
     {
       "category": "Nave",
@@ -5631,9 +5653,10 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:25:17.1363227Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:00.392Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:00.392Z"
     },
     {
       "category": "Nave",
@@ -5653,9 +5676,10 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-29T07:17:56.1446684Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:03.094Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:03.094Z"
     },
     {
       "category": "Nave",
@@ -5676,9 +5700,10 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-29T06:27:48.6347118Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:02.918Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:02.918Z"
     },
     {
       "category": "Nave",
@@ -5698,9 +5723,10 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T15:14:35.7044825Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:04.110Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:04.110Z"
     },
     {
       "category": "Nave",
@@ -5720,9 +5746,10 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T15:12:42.7301081Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:03.934Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:03.934Z"
     },
     {
       "category": "Nave",
@@ -5742,9 +5769,10 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T14:48:39.0951017Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:03.766Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:03.766Z"
     },
     {
       "category": "Nave",
@@ -5764,9 +5792,10 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T14:48:38.0485338Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:03.607Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:03.607Z"
     },
     {
       "category": "Nave",
@@ -5786,9 +5815,10 @@
       "dueDate": "2026-08-06",
       "note": "",
       "createdAt": "2026-08-07T07:38:41.9985208Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:32.396Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:32.396Z"
     },
     {
       "category": "Nave",
@@ -5831,9 +5861,10 @@
       "dueDate": "2026-08-06",
       "note": "",
       "createdAt": "2026-08-06T14:24:24.5519428Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:32.124Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:32.124Z"
     },
     {
       "category": "Nave",
@@ -5853,9 +5884,10 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-06T08:14:13.7233933Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:33.199Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:33.199Z"
     },
     {
       "category": "Nave",
@@ -5876,9 +5908,10 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-06T07:08:29.7339891Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:33.069Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:33.069Z"
     },
     {
       "category": "Nave",
@@ -5899,9 +5932,10 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-06T07:07:11.9249856Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:32.861Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:32.861Z"
     },
     {
       "category": "Altro",
@@ -5921,9 +5955,10 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-05T14:11:22.8368215Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:32.677Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:32.677Z"
     },
     {
       "category": "Nave",
@@ -5944,9 +5979,10 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-05T12:23:32.0681381Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:32.477Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:32.477Z"
     },
     {
       "category": "Altro",
@@ -5966,9 +6002,10 @@
       "dueDate": "2026-08-04",
       "note": "",
       "createdAt": "2026-08-04T14:03:48.8236826Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:33.531Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:33.531Z"
     },
     {
       "category": "Nave",
@@ -5989,9 +6026,10 @@
       "dueDate": "2026-08-04",
       "note": "",
       "createdAt": "2026-08-04T13:00:30.8313076Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:33.422Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:33.422Z"
     },
     {
       "category": "Nave",
@@ -6056,9 +6094,10 @@
       "dueDate": "2026-08-03",
       "note": "",
       "createdAt": "2026-08-04T07:05:54.1799026Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:33.939Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:33.939Z"
     },
     {
       "category": "Nave",
@@ -6078,9 +6117,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T09:49:07.737028Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:06:59.583Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:06:59.583Z"
     },
     {
       "category": "Nave",
@@ -6101,9 +6141,10 @@
       "dueDate": "2026-08-03",
       "note": "",
       "createdAt": "2026-08-03T08:35:36.8833225Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:33.756Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:33.756Z"
     },
     {
       "category": "Nave",
@@ -6124,9 +6165,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T07:35:28.0343713Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:06:59.407Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:06:59.407Z"
     },
     {
       "category": "Nave",
@@ -6169,9 +6211,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T07:33:31.310013Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:06:59.247Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:06:59.247Z"
     },
     {
       "category": "Altro",
@@ -6191,9 +6234,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T07:27:09.8637097Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:06:59.094Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:06:59.094Z"
     },
     {
       "category": "Nave",
@@ -6259,9 +6303,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-01T18:01:35.0683171Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:06:58.934Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:06:58.934Z"
     },
     {
       "category": "Nave",
@@ -6281,9 +6326,10 @@
       "dueDate": "2026-08-08",
       "note": "",
       "createdAt": "2026-07-31T15:51:39.5126035Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:31.335Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:31.335Z"
     },
     {
       "category": "Nave",
@@ -6303,9 +6349,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T13:02:12.8229823Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:06:58.766Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:06:58.767Z"
     },
     {
       "category": "Nave",
@@ -6326,9 +6373,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T13:02:11.7752179Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:06:58.598Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:06:58.598Z"
     },
     {
       "category": "Nave",
@@ -6348,9 +6396,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T11:05:07.1921396Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:06:58.439Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:06:58.439Z"
     },
     {
       "category": "Nave",
@@ -6370,9 +6419,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T10:37:35.6538016Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:06:58.255Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:06:58.255Z"
     },
     {
       "category": "Nave",
@@ -6392,9 +6442,10 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-31T10:37:05.6630365Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:07:02.744Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:02.745Z"
     },
     {
       "category": "Nave",
@@ -6414,9 +6465,10 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T09:58:59.0257064Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:37.482Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:37.482Z"
     },
     {
       "category": "Nave",
@@ -6436,9 +6488,10 @@
       "dueDate": "2026-08-08",
       "note": "",
       "createdAt": "2026-07-31T05:58:47.0027175Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:30.994Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:30.994Z"
     },
     {
       "category": "Nave",
@@ -6528,9 +6581,10 @@
       "dueDate": "2026-08-06",
       "note": "",
       "createdAt": "2026-08-07T10:52:51.217955Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:31.949Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:31.949Z"
     },
     {
       "category": "Nave",
@@ -6574,9 +6628,10 @@
       "dueDate": "2026-08-08",
       "note": "",
       "createdAt": "2026-08-08T07:40:32.1080614Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:30.530Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:30.530Z"
     },
     {
       "category": "Nave",
@@ -6596,9 +6651,10 @@
       "dueDate": "2026-08-09",
       "note": "",
       "createdAt": "2026-08-07T15:13:59.2727456Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:26.749Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:26.749Z"
     },
     {
       "category": "Nave",
@@ -6618,9 +6674,10 @@
       "dueDate": "2026-08-07",
       "note": "",
       "createdAt": "2026-08-07T14:15:16.8331696Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-10T22:26:31.517Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-10T22:26:31.517Z"
     },
     {
       "category": "Altro",
@@ -6663,9 +6720,10 @@
       "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-08-10T12:33:57.2474713Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:06:57.609Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:06:57.609Z"
     },
     {
       "category": "Altro",
@@ -6685,9 +6743,10 @@
       "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-08-10T10:51:29.358664Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-11T08:06:46.198Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:06:46.199Z"
     },
     {
       "id": "outlook_AAJjTooFAAA=",
@@ -6704,12 +6763,15 @@
       "tags": [
         "outlook"
       ],
-      "dueDate": "2026-08-11",
+      "dueDate": "2026-08-12",
       "note": "",
       "createdAt": "2026-08-11T13:59:21.9281114Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-08-11T14:45:07.285Z"
     },
     {
       "id": "outlook_AAJjTooEAAA=",
@@ -6726,12 +6788,15 @@
       "tags": [
         "outlook"
       ],
-      "dueDate": "2026-08-10",
+      "dueDate": "2026-08-12",
       "note": "",
       "createdAt": "2026-08-11T08:14:15.1495043Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-08-11T14:52:26.215Z"
     },
     {
       "id": "outlook_AAJjTooDAAA=",
@@ -6770,12 +6835,133 @@
       "tags": [
         "outlook"
       ],
-      "dueDate": "2026-08-12",
+      "dueDate": "2026-08-11",
       "note": "",
       "createdAt": "2026-08-10T15:41:36.0481752Z",
+      "done": true,
+      "doneAt": "2026-08-11T08:07:19.167Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-11T08:07:19.167Z"
+    },
+    {
+      "category": "Ufficio",
+      "priority": "alta",
+      "reference": "Rispondere a YH MARINE TRADE — 回复：（无主题）",
+      "tags": [
+        "email",
+        "yhmarine.com.cn"
+      ],
+      "id": "td_1786450547410_bs8p6",
+      "vessel": "",
+      "action": "Verificare",
+      "dueDate": "2026-08-12",
+      "note": "Dear Sir Good day Well noted the msg and pls check: issued to Red Coral Bulkers Ltd.: Invoice No. YHPE26041401, Purchase Order No. 2026-PEP-HQPO-00089 amounting to USD 1996.20 , this is right. So it means that an extra blance for $310 was remain,",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJf94kuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "回复：（无主题）",
       "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "createdAt": "2026-08-11T12:15:47.410Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "Rispondere a Samet Postacı — RE: pdf No 42",
+      "tags": [
+        "email",
+        "sekercilergroup.com"
+      ],
+      "id": "td_1786445094648_mxtmz",
+      "vessel": "norrbotten",
+      "action": "Inviare email",
+      "dueDate": "2026-08-11",
+      "note": "Dear Sirs, Please see our enclosed offer. Best Regards, Samet POSTACI Satış Sorumlusu / Sales Executive Evliya Çelebi Mah. Uyum Sok. No:3 Tuzla / İSTANBUL 0216 447 51 51 0501 810 82 01 samet.postaci@sekercilergroup.com https",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJjTfvfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: pdf No 42",
+      "done": false,
+      "createdAt": "2026-08-11T10:44:54.648Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "alta",
+      "reference": "Certificati",
+      "tags": [],
+      "id": "td_1786435628865_mbij4",
+      "vessel": "peppino",
+      "action": "Controllare",
+      "dueDate": "2026-08-14",
+      "note": "",
+      "recur": {
+        "type": "days",
+        "interval": 15
+      },
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-08-11T08:07:08.865Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "alta",
+      "reference": "Rispondere a LG MARINE SERVICES — 回复: M/V MED LIGURIA - Xiamen - update on 10 Aug",
+      "tags": [
+        "email",
+        "lgmarineservices.com"
+      ],
+      "id": "td_1786401782147_7hq4u",
+      "vessel": "medliguria",
+      "action": "Inviare email",
+      "dueDate": "2026-08-10",
+      "note": "Dear Umberto, Good day. Many thanks for your email below. Yes, new grabs are prepared and delivery procedure will be arranged accordingly. Kindly request crew to disembark all grabs accessaries included all remote controlllers, battery etcs together w",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJhs6q8AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "回复: M/V MED LIGURIA - Xiamen - update on 10 Aug",
+      "done": true,
+      "createdAt": "2026-08-10T22:43:02.147Z",
+      "doneAt": "2026-08-11T08:07:06.479Z",
+      "updatedAt": "2026-08-11T08:07:06.479Z"
+    },
+    {
+      "category": "Email",
+      "priority": "media",
+      "reference": "Re: R: M/V MED LIGURIA - Shipment at Singapore",
+      "tags": [],
+      "id": "td_1786400127854_8yz4c",
+      "vessel": "",
+      "action": "Rispondere a Purchasing SSSDAm — M/V MED LIGURIA - Shipment at Singapore",
+      "dueDate": "2026-08-12",
+      "note": "Scadenza rilevata nell'email.",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJf94klAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Re: R: M/V MED LIGURIA - Shipment at Singapore",
+      "done": true,
+      "createdAt": "2026-08-10T22:15:27.854Z",
+      "updatedAt": "2026-08-10T22:19:12.905Z"
+    },
+    {
+      "category": "Ufficio",
+      "priority": "alta",
+      "reference": "Rispondere a T. Coriglie (CBH) — WG: Shipment of order-nos. CBH 43940+43941",
+      "tags": [
+        "email",
+        "carlbaguhn.de"
+      ],
+      "id": "td_1786399855364_i3heh",
+      "vessel": "",
+      "action": "Inviare email",
+      "dueDate": "2026-08-10",
+      "note": "Dear Michele, We just received the freight costs from our forwarder: From Hamburg to Airport Istanbul: EUR 2400.00 Kindly ask you if we should prepare the shipment. Thanks in advance, Mit freundlichen Grüßen / With best regards Tanja Cor",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJhs6qxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "WG: Shipment of order-nos. CBH 43940+43941",
+      "done": true,
+      "createdAt": "2026-08-10T22:10:55.364Z",
+      "doneAt": "2026-08-11T08:07:04.278Z",
+      "updatedAt": "2026-08-11T08:07:04.278Z"
     }
   ],
   "notes": {
@@ -22205,7 +22391,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-11T15:41:11.195Z",
+    "todos": "2026-08-11T17:06:53.211Z",
     "notes": "2026-08-11T13:30:47.277Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22225,6 +22411,6 @@
     "repliesDismissed": "2026-08-11T12:17:05.154Z",
     "shipments": "2026-08-11T14:37:43.464Z"
   },
-  "rev": 1480,
-  "savedAt": "2026-08-11T17:06:51.647Z"
+  "rev": 1481,
+  "savedAt": "2026-08-11T17:07:05.267Z"
 }
