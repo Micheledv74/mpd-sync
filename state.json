@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-12T14:06:36.979Z",
+  "pushedAt": "2026-08-12T14:06:41.637Z",
   "todosCount": 312,
   "todos": [
     {
@@ -22191,7 +22191,8 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOTdoIQWfqBNmTXqVzAYWxE=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAL_YUKWz3UKrgCUcMh_uIRg=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOXQwt_UwUfsriq4ox_Ta6Q=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJXnK_XdJSRKsGt3_oW6058="
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJXnK_XdJSRKsGt3_oW6058=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACjMpoDYDi9Ero-LbTaZruw="
   ],
   "shipments": {
     "med toscana::bwts suction pump mn 40125": [
@@ -22613,6 +22614,6 @@
     "shipments": "2026-08-12T08:09:15.367Z",
     "certExtras": "2026-08-12T11:38:42.625Z"
   },
-  "rev": 1541,
-  "savedAt": "2026-08-12T14:06:36.979Z"
+  "rev": 1542,
+  "savedAt": "2026-08-12T14:06:41.637Z"
 }
