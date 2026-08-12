@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-12T11:35:39.521Z",
+  "pushedAt": "2026-08-12T11:37:36.336Z",
   "todosCount": 312,
   "todos": [
     {
@@ -18995,14 +18995,23 @@
         "needsService": true,
         "plan": {
           "type": "service",
-          "status": "none",
+          "status": "requested",
           "date": "",
           "port": "",
           "supplier": ""
         },
         "supEmailOverride": "",
         "masterEmailOverride": "medtoscana@shipsemail.it",
-        "updatedAt": "2026-08-12T11:32:18.700Z"
+        "updatedAt": "2026-08-12T11:37:35.303Z",
+        "reports": [
+          {
+            "ts": "2026-08-12T11:37:35.302Z",
+            "which": "supplier",
+            "to": "(nessun destinatario)",
+            "lang": "it",
+            "subject": "Richiesta preventivo e disponibilità — service — MED TOSCANA @ (porto da definire)"
+          }
+        ]
       },
       "n:15|RECORD OF INITIAL RADIO SURVEY": {
         "expiry": "2026-09-14",
@@ -22583,8 +22592,8 @@
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T11:08:17.846Z",
     "shipments": "2026-08-12T08:09:15.367Z",
-    "certExtras": "2026-08-12T11:35:39.514Z"
+    "certExtras": "2026-08-12T11:37:36.324Z"
   },
-  "rev": 1532,
-  "savedAt": "2026-08-12T11:35:39.522Z"
+  "rev": 1533,
+  "savedAt": "2026-08-12T11:37:36.336Z"
 }
