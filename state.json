@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-12T11:38:42.655Z",
+  "pushedAt": "2026-08-12T14:04:31.064Z",
   "todosCount": 312,
   "todos": [
     {
@@ -6791,12 +6791,12 @@
       "dueDate": "2026-08-12",
       "note": "",
       "createdAt": "2026-08-11T08:14:15.1495043Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-12T14:04:27.273Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-11T14:52:26.215Z"
+      "updatedAt": "2026-08-12T14:04:27.273Z"
     },
     {
       "category": "Altro",
@@ -20840,6 +20840,13 @@
       "completedAt": "2026-08-12T11:04:59.223Z",
       "todoId": "outlook_AAJjTooFAAA=",
       "title": "M/V MED TOSCANA - Port Luis Call -Request for Shipping Instructions"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooEAAA=",
+      "listId": "",
+      "completedAt": "2026-08-12T14:04:27.278Z",
+      "todoId": "outlook_AAJjTooEAAA=",
+      "title": "MV PEPPINO - Planned Maintenance Status and Work Priorities"
     }
   ],
   "manualOrders": {
@@ -22580,7 +22587,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-12T11:08:05.908Z",
+    "todos": "2026-08-12T14:04:31.057Z",
     "notes": "2026-08-11T13:30:47.277Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22589,7 +22596,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-12T07:42:52.425Z",
-    "outlookCompletionQueue": "2026-08-12T11:05:02.379Z",
+    "outlookCompletionQueue": "2026-08-12T14:04:31.057Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-12T08:22:54.353Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -22601,6 +22608,6 @@
     "shipments": "2026-08-12T08:09:15.367Z",
     "certExtras": "2026-08-12T11:38:42.625Z"
   },
-  "rev": 1534,
-  "savedAt": "2026-08-12T11:38:42.656Z"
+  "rev": 1535,
+  "savedAt": "2026-08-12T14:04:31.064Z"
 }
