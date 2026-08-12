@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-12T11:32:22.632Z",
+  "pushedAt": "2026-08-12T11:32:47.566Z",
   "todosCount": 312,
   "todos": [
     {
@@ -19003,6 +19003,22 @@
         "supEmailOverride": "",
         "masterEmailOverride": "medtoscana@shipsemail.it",
         "updatedAt": "2026-08-12T11:32:18.700Z"
+      },
+      "n:15|RECORD OF INITIAL RADIO SURVEY": {
+        "expiry": "2026-09-14",
+        "place": "",
+        "supplier": "",
+        "needsService": true,
+        "plan": {
+          "type": "service",
+          "status": "none",
+          "date": "",
+          "port": "",
+          "supplier": ""
+        },
+        "supEmailOverride": "",
+        "masterEmailOverride": "medtoscana@shipsemail.it",
+        "updatedAt": "2026-08-12T11:32:43.611Z"
       }
     }
   },
@@ -22471,8 +22487,8 @@
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T11:08:17.846Z",
     "shipments": "2026-08-12T08:09:15.367Z",
-    "certExtras": "2026-08-12T11:32:22.625Z"
+    "certExtras": "2026-08-12T11:32:47.560Z"
   },
-  "rev": 1524,
-  "savedAt": "2026-08-12T11:32:22.632Z"
+  "rev": 1525,
+  "savedAt": "2026-08-12T11:32:47.566Z"
 }
