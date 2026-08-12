@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-12T11:33:40.039Z",
+  "pushedAt": "2026-08-12T11:33:57.488Z",
   "todosCount": 312,
   "todos": [
     {
@@ -19035,6 +19035,38 @@
         "supEmailOverride": "",
         "masterEmailOverride": "medtoscana@shipsemail.it",
         "updatedAt": "2026-08-12T11:33:32.724Z"
+      },
+      "n:15 C|EPIRB TEST REPORT": {
+        "expiry": "2026-09-14",
+        "place": "Yeosu-ri",
+        "supplier": "",
+        "needsService": true,
+        "plan": {
+          "type": "service",
+          "status": "none",
+          "date": "",
+          "port": "",
+          "supplier": ""
+        },
+        "supEmailOverride": "",
+        "masterEmailOverride": "medtoscana@shipsemail.it",
+        "updatedAt": "2026-08-12T11:33:53.884Z"
+      },
+      "n:15 F|A.I.S.  Annual TEST REPORT": {
+        "expiry": "2026-09-14",
+        "place": "Yeosu-ri",
+        "supplier": "",
+        "needsService": true,
+        "plan": {
+          "type": "service",
+          "status": "none",
+          "date": "",
+          "port": "",
+          "supplier": ""
+        },
+        "supEmailOverride": "",
+        "masterEmailOverride": "medtoscana@shipsemail.it",
+        "updatedAt": "2026-08-12T11:33:57.196Z"
       }
     }
   },
@@ -22503,8 +22535,8 @@
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T11:08:17.846Z",
     "shipments": "2026-08-12T08:09:15.367Z",
-    "certExtras": "2026-08-12T11:33:36.554Z"
+    "certExtras": "2026-08-12T11:33:57.481Z"
   },
-  "rev": 1527,
-  "savedAt": "2026-08-12T11:33:40.039Z"
+  "rev": 1528,
+  "savedAt": "2026-08-12T11:33:57.488Z"
 }
