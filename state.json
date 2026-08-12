@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-12T20:16:20.588Z",
+  "pushedAt": "2026-08-12T20:18:14.840Z",
   "todosCount": 318,
   "todos": [
     {
@@ -23005,11 +23005,109 @@
         "carrier": "Lufthansa Cargo",
         "hub": "",
         "number": "020-06066992",
-        "status": "pending",
+        "status": "in_transit",
         "pickup": "2026-08-12",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-08-12T15:01:26.224Z"
+        "eta": "2026-08-17",
+        "events": [
+          {
+            "ts": "2026-08-17T10:40",
+            "place": "--",
+            "text": "DLV · ACC(Accra) (2)",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-08-17T10:40",
+            "place": "--",
+            "text": "NFD · ACC(Accra) (2)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-16T21:34",
+            "place": "SN277",
+            "text": "RCF · ACC(Accra) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-16T16:40",
+            "place": "SN277",
+            "text": "ARR · ACC(Accra) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-16T11:50",
+            "place": "SN277",
+            "text": "DEP · BRU(Brussels) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-16T11:26",
+            "place": "SN277",
+            "text": "MAN · BRU(Brussels) (2)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-16T03:59",
+            "place": "LH7686",
+            "text": "RCF · BRU(Brussels) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-15T23:59",
+            "place": "LH7686",
+            "text": "ARR · BRU(Brussels) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-15T16:30",
+            "place": "LH7686",
+            "text": "DEP · FRA(Frankfurt) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-15T15:24",
+            "place": "LH7686",
+            "text": "MAN · FRA(Frankfurt) (2)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-15T11:00",
+            "place": "LH7003",
+            "text": "RCF · FRA(Frankfurt) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-15T08:30",
+            "place": "LH7003",
+            "text": "ARR · FRA(Frankfurt) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-14T23:30",
+            "place": "LH7003",
+            "text": "DEP · HAM(Hamburg) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-14T23:00",
+            "place": "LH7003",
+            "text": "MAN · HAM(Hamburg) (2)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-14T21:24",
+            "place": "--",
+            "text": "RCS · HAM(Hamburg) (2)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-11T12:54",
+            "place": "--",
+            "text": "BKD · HAM(Hamburg) (2)",
+            "code": "info"
+          }
+        ],
+        "updatedAt": "2026-08-12T20:18:10.933Z",
+        "source": "17track-manual"
       }
     ],
     "med toscana::hanla level c/h water ingress system sensor": [
@@ -23125,9 +23223,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T14:07:27.440Z",
-    "shipments": "2026-08-12T20:16:20.581Z",
+    "shipments": "2026-08-12T20:18:14.834Z",
     "certExtras": "2026-08-12T11:38:42.625Z"
   },
-  "rev": 1568,
-  "savedAt": "2026-08-12T20:16:20.588Z"
+  "rev": 1569,
+  "savedAt": "2026-08-12T20:18:14.840Z"
 }
