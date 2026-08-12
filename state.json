@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-12T20:37:58.453Z",
+  "pushedAt": "2026-08-12T20:38:14.110Z",
   "todosCount": 318,
   "todos": [
     {
@@ -22478,11 +22478,73 @@
         "carrier": "DHL Express",
         "hub": "",
         "number": "7102014555",
-        "status": "pending",
+        "status": "delivered",
         "pickup": "2026-07-28",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-07-28T15:18:24.820Z"
+        "eta": "2026-07-29",
+        "events": [
+          {
+            "ts": "2026-07-29T14:08",
+            "place": "NAPLES - ITALY",
+            "text": "Delivered",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-07-29T11:50",
+            "place": "CASANDRINO - ITALY",
+            "text": "Shipment is out with courier for delivery",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-29T09:17",
+            "place": "CASANDRINO - ITALY",
+            "text": "Processed at CASANDRINO - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-29T09:09",
+            "place": "CASANDRINO - ITALY",
+            "text": "Arrived at DHL Delivery Facility CASANDRINO - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-29T01:39",
+            "place": "BOLOGNA - ITALY",
+            "text": "Shipment has departed from a DHL facility BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-29T00:52",
+            "place": "BOLOGNA - ITALY",
+            "text": "Processed at BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-28T23:54",
+            "place": "BOLOGNA - ITALY",
+            "text": "Arrived at DHL Sort Facility BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-28T20:03",
+            "place": "GENOA - ITALY",
+            "text": "Shipment has departed from a DHL facility GENOA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-28T20:03",
+            "place": "GENOA - ITALY",
+            "text": "Processed at GENOA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-28T16:23",
+            "place": "GENOA - ITALY",
+            "text": "Shipment picked up",
+            "code": "transit"
+          }
+        ],
+        "updatedAt": "2026-08-12T20:38:10.352Z",
+        "source": "17track-manual"
       }
     ],
     "med toscana::fuel circulation pump of me ace038 n3 ntbp complete": [
@@ -23223,9 +23285,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T14:07:27.440Z",
-    "shipments": "2026-08-12T20:21:51.802Z",
+    "shipments": "2026-08-12T20:38:14.104Z",
     "certExtras": "2026-08-12T11:38:42.625Z"
   },
-  "rev": 1572,
-  "savedAt": "2026-08-12T20:37:58.453Z"
+  "rev": 1573,
+  "savedAt": "2026-08-12T20:38:14.110Z"
 }
