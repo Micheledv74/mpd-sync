@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-11T17:06:21.935Z",
+  "pushedAt": "2026-08-12T07:04:27.963Z",
   "todosCount": 311,
   "todos": [
     {
@@ -6749,20 +6749,20 @@
       "updatedAt": "2026-08-11T08:06:46.199Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED TOSCANA - Port Luis Call -Request for Shipping Instructions",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJjTooFAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooFAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9VYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: M/V MED TOSCANA - Port Luis Call -Request for Shipping Instructions",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "M/V MED TOSCANA - Port Luis Call -Request for Shipping Instructions",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-12",
       "note": "",
       "createdAt": "2026-08-11T13:59:21.9281114Z",
@@ -6774,20 +6774,20 @@
       "updatedAt": "2026-08-11T14:45:07.285Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "MV PEPPINO - Planned Maintenance Status and Work Priorities",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJjTooEAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooEAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJjTfveAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: MV PEPPINO - Planned Maintenance Status and Work Priorities",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "MV PEPPINO - Planned Maintenance Status and Work Priorities",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-12",
       "note": "",
       "createdAt": "2026-08-11T08:14:15.1495043Z",
@@ -6799,20 +6799,20 @@
       "updatedAt": "2026-08-11T14:52:26.215Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "Shipment of order-nos. CBH 43940+43941",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJjTooDAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooDAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJjTfvcAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "AW: Shipment of order-nos. CBH 43940+43941",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "Shipment of order-nos. CBH 43940+43941",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-20",
       "note": "",
       "createdAt": "2026-08-11T07:56:45.999496Z",
@@ -6821,20 +6821,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "[EXTERNAL] MV Peppino @ Takoradi + Tema ",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJhtWg3AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJhtWg3AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJhs6q4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: [EXTERNAL] MV Peppino @ Takoradi + Tema ",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "[EXTERNAL] MV Peppino @ Takoradi + Tema ",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-11",
       "note": "",
       "createdAt": "2026-08-10T15:41:36.0481752Z",
@@ -22392,7 +22392,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-11T17:06:53.211Z",
+    "todos": "2026-08-12T07:04:24.896Z",
     "notes": "2026-08-11T13:30:47.277Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -22412,6 +22412,6 @@
     "repliesDismissed": "2026-08-11T12:17:05.154Z",
     "shipments": "2026-08-11T14:37:43.464Z"
   },
-  "rev": 1482,
-  "savedAt": "2026-08-11T17:06:21.936Z"
+  "rev": 1483,
+  "savedAt": "2026-08-12T07:04:27.963Z"
 }
