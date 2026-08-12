@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-12T20:41:46.943Z",
+  "pushedAt": "2026-08-12T20:42:24.248Z",
   "todosCount": 318,
   "todos": [
     {
@@ -23495,6 +23495,20 @@
         "updatedAt": "2026-08-12T20:41:16.116Z",
         "source": "17track-manual"
       }
+    ],
+    "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": [
+      {
+        "id": "shmsqk2cubiot",
+        "route": "supplier-port",
+        "carrier": "Altro",
+        "hub": "",
+        "number": "176-65337333",
+        "status": "pending",
+        "pickup": "2026-08-12",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-08-12T20:42:18.371Z"
+      }
     ]
   },
   "sourceDevice": {
@@ -23521,9 +23535,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T14:07:27.440Z",
-    "shipments": "2026-08-12T20:41:19.693Z",
+    "shipments": "2026-08-12T20:42:24.239Z",
     "certExtras": "2026-08-12T11:38:42.625Z"
   },
-  "rev": 1579,
-  "savedAt": "2026-08-12T20:41:46.943Z"
+  "rev": 1580,
+  "savedAt": "2026-08-12T20:42:24.248Z"
 }
