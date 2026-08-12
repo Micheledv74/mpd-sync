@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-12T14:40:32.989Z",
+  "pushedAt": "2026-08-12T15:01:32.036Z",
   "todosCount": 313,
   "todos": [
     {
@@ -22596,11 +22596,78 @@
         "carrier": "DHL Express",
         "hub": "EX SPAIN",
         "number": "6692422122",
-        "status": "pending",
+        "status": "in_transit",
         "pickup": "2026-08-11",
+        "eta": "2026-08-17",
+        "events": [
+          {
+            "ts": "2026-08-12T14:56:00+01:00",
+            "place": "LAGOS - NIGERIA",
+            "text": "Processed at LAGOS - NIGERIA",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-12T12:37:00+01:00",
+            "place": "LAGOS - NIGERIA",
+            "text": "Arrived at DHL Sort Facility LAGOS - NIGERIA",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-12T06:53:00+02:00",
+            "place": "BRUSSELS - BELGIUM",
+            "text": "Shipment has departed from a DHL facility BRUSSELS - BELGIUM",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-12T02:02:00+02:00",
+            "place": "BRUSSELS - BELGIUM",
+            "text": "Processed at BRUSSELS - BELGIUM",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-12T01:22:00+02:00",
+            "place": "BRUSSELS - BELGIUM",
+            "text": "Arrived at DHL Sort Facility BRUSSELS - BELGIUM",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-11T23:26:00+02:00",
+            "place": "VITORIA - SPAIN",
+            "text": "Shipment has departed from a DHL facility VITORIA - SPAIN",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-11T21:23:00+02:00",
+            "place": "VITORIA - SPAIN",
+            "text": "Processed at VITORIA - SPAIN",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-11T20:53:00+02:00",
+            "place": "VITORIA - SPAIN",
+            "text": "Arrived at DHL Sort Facility VITORIA - SPAIN",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-11T13:55:00+02:00",
+            "place": "VITORIA - SPAIN",
+            "text": "Shipment picked up",
+            "code": "transit"
+          }
+        ],
+        "updatedAt": "2026-08-12T15:01:28.411Z"
+      },
+      {
+        "id": "shmsq7vzv435y",
+        "route": "supplier-port",
+        "carrier": "Lufthansa Cargo",
+        "hub": "",
+        "number": "020-06066992",
+        "status": "pending",
+        "pickup": "2026-08-12",
         "eta": "",
         "events": [],
-        "updatedAt": "2026-08-11T10:29:45.320Z"
+        "updatedAt": "2026-08-12T15:01:26.224Z"
       }
     ],
     "med toscana::hanla level c/h water ingress system sensor": [
@@ -22642,9 +22709,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T14:07:27.440Z",
-    "shipments": "2026-08-12T08:09:15.367Z",
+    "shipments": "2026-08-12T15:01:32.025Z",
     "certExtras": "2026-08-12T11:38:42.625Z"
   },
-  "rev": 1550,
-  "savedAt": "2026-08-12T14:40:32.989Z"
+  "rev": 1551,
+  "savedAt": "2026-08-12T15:01:32.036Z"
 }
