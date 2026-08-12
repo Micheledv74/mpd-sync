@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-12T20:42:48.430Z",
+  "pushedAt": "2026-08-12T20:43:24.505Z",
   "todosCount": 318,
   "todos": [
     {
@@ -23613,6 +23613,20 @@
         "updatedAt": "2026-08-12T20:42:40.105Z",
         "source": "17track-manual"
       }
+    ],
+    "med toscana::ships crane spare parts": [
+      {
+        "id": "shmsqk3p4u01z",
+        "route": "supplier-port",
+        "carrier": "Altro",
+        "hub": "",
+        "number": "176-65337333",
+        "status": "pending",
+        "pickup": "2026-08-12",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-08-12T20:43:20.958Z"
+      }
     ]
   },
   "sourceDevice": {
@@ -23639,9 +23653,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T14:07:27.440Z",
-    "shipments": "2026-08-12T20:42:44.417Z",
+    "shipments": "2026-08-12T20:43:24.495Z",
     "certExtras": "2026-08-12T11:38:42.625Z"
   },
-  "rev": 1581,
-  "savedAt": "2026-08-12T20:42:48.431Z"
+  "rev": 1582,
+  "savedAt": "2026-08-12T20:43:24.505Z"
 }
