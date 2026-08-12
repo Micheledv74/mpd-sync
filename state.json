@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-12T11:34:20.125Z",
+  "pushedAt": "2026-08-12T11:35:39.521Z",
   "todosCount": 312,
   "todos": [
     {
@@ -19099,6 +19099,22 @@
         "supEmailOverride": "",
         "masterEmailOverride": "medtoscana@shipsemail.it",
         "updatedAt": "2026-08-12T11:34:16.020Z"
+      },
+      "c:MEDDB00000FR": {
+        "expiry": "2026-08-26",
+        "place": "GOTHENBURG",
+        "supplier": "",
+        "needsService": true,
+        "plan": {
+          "type": "service",
+          "status": "none",
+          "date": "",
+          "port": "",
+          "supplier": ""
+        },
+        "supEmailOverride": "",
+        "masterEmailOverride": "medtoscana@shipsemail.it",
+        "updatedAt": "2026-08-12T11:35:35.727Z"
       }
     }
   },
@@ -22567,8 +22583,8 @@
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T11:08:17.846Z",
     "shipments": "2026-08-12T08:09:15.367Z",
-    "certExtras": "2026-08-12T11:34:20.118Z"
+    "certExtras": "2026-08-12T11:35:39.514Z"
   },
-  "rev": 1531,
-  "savedAt": "2026-08-12T11:34:20.126Z"
+  "rev": 1532,
+  "savedAt": "2026-08-12T11:35:39.522Z"
 }
