@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-12T20:14:48.674Z",
+  "pushedAt": "2026-08-12T20:15:29.900Z",
   "todosCount": 318,
   "todos": [
     {
@@ -22945,11 +22945,85 @@
         "carrier": "Altro",
         "hub": "",
         "number": "020-92985476",
-        "status": "pending",
+        "status": "out_for_delivery",
         "pickup": "2026-08-11",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-08-11T14:37:37.856Z"
+        "eta": "2026-08-11",
+        "events": [
+          {
+            "ts": "2026-08-11T09:00",
+            "place": "--",
+            "text": "DLV · MRU(Plaine Magnien) (2)",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-08-10T14:49",
+            "place": "--",
+            "text": "NFD · MRU(Plaine Magnien) (2)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-10T14:04",
+            "place": "4Y156",
+            "text": "RCF · MRU(Plaine Magnien) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-10T13:25",
+            "place": "4Y156",
+            "text": "ARR · MRU(Plaine Magnien) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-10T06:28",
+            "place": "--",
+            "text": "BKD · ICN(Seoul) (2)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-09T21:48",
+            "place": "4Y156",
+            "text": "DEP · FRA(Frankfurt) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-09T20:34",
+            "place": "4Y156",
+            "text": "MAN · FRA(Frankfurt) (2)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-07T23:53",
+            "place": "LH713",
+            "text": "RCF · FRA(Frankfurt) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T17:49",
+            "place": "LH713",
+            "text": "ARR · FRA(Frankfurt) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T12:19",
+            "place": "LH713",
+            "text": "DEP · ICN(Seoul) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T08:59",
+            "place": "LH713",
+            "text": "MAN · ICN(Seoul) (2)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-06T10:49",
+            "place": "--",
+            "text": "RCS · ICN(Seoul) (2)",
+            "code": "info"
+          }
+        ],
+        "updatedAt": "2026-08-12T20:15:26.177Z",
+        "source": "17track-manual"
       }
     ]
   },
@@ -22977,9 +23051,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T14:07:27.440Z",
-    "shipments": "2026-08-12T20:14:48.668Z",
+    "shipments": "2026-08-12T20:15:29.216Z",
     "certExtras": "2026-08-12T11:38:42.625Z"
   },
-  "rev": 1566,
-  "savedAt": "2026-08-12T20:14:48.674Z"
+  "rev": 1567,
+  "savedAt": "2026-08-12T20:15:29.900Z"
 }
