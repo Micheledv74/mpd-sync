@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-13T12:49:22.701Z",
+  "pushedAt": "2026-08-13T12:49:35.194Z",
   "todosCount": 320,
   "todos": [
     {
@@ -19264,7 +19264,7 @@
       "n:15 C|EPIRB TEST REPORT": {
         "expiry": "2026-09-14",
         "place": "Yeosu-ri",
-        "supplier": "",
+        "supplier": "TEFIN SCRL",
         "needsService": true,
         "plan": {
           "type": "service",
@@ -19275,7 +19275,7 @@
         },
         "supEmailOverride": "",
         "masterEmailOverride": "medtoscana@shipsemail.it",
-        "updatedAt": "2026-08-12T11:33:53.884Z"
+        "updatedAt": "2026-08-13T12:49:31.098Z"
       },
       "n:15 F|A.I.S.  Annual TEST REPORT": {
         "expiry": "2026-09-14",
@@ -24098,8 +24098,8 @@
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T14:07:27.440Z",
     "shipments": "2026-08-13T12:33:29.234Z",
-    "certExtras": "2026-08-13T12:49:22.694Z"
+    "certExtras": "2026-08-13T12:49:35.188Z"
   },
-  "rev": 1657,
-  "savedAt": "2026-08-13T12:49:22.701Z"
+  "rev": 1658,
+  "savedAt": "2026-08-13T12:49:35.194Z"
 }
