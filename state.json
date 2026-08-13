@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-13T06:54:51.957Z",
+  "pushedAt": "2026-08-13T06:57:48.867Z",
   "todosCount": 318,
   "todos": [
     {
@@ -23731,6 +23731,20 @@
         "updatedAt": "2026-08-12T20:43:36.069Z",
         "source": "17track-manual"
       }
+    ],
+    "med toscana::navigation light control panel": [
+      {
+        "id": "shmsr61stc3b9",
+        "route": "supplier-port",
+        "carrier": "DHL Express",
+        "hub": "",
+        "number": "70 5764 9104",
+        "status": "pending",
+        "pickup": "2026-08-13",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-08-13T06:57:43.968Z"
+      }
     ]
   },
   "sourceDevice": {
@@ -23757,9 +23771,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T14:07:27.440Z",
-    "shipments": "2026-08-12T20:43:40.150Z",
+    "shipments": "2026-08-13T06:57:47.344Z",
     "certExtras": "2026-08-12T11:38:42.625Z"
   },
-  "rev": 1588,
-  "savedAt": "2026-08-13T06:54:51.958Z"
+  "rev": 1589,
+  "savedAt": "2026-08-13T06:57:48.868Z"
 }
