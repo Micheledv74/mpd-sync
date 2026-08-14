@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-14T06:53:29.548Z",
+  "pushedAt": "2026-08-14T06:55:37.461Z",
   "todosCount": 329,
   "todos": [
     {
@@ -24312,6 +24312,18 @@
         "eta": "2026-08-13",
         "events": [
           {
+            "ts": "2026-08-13T20:50",
+            "place": "EAST CHINA AREA - CHINA",
+            "text": "PEOPLES REPUBLIC, Shipment has departed from a DHL facility EAST CHINA AREA - CHINA, PEOPLES REPUBLIC",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-13T20:44",
+            "place": "EAST CHINA AREA - CHINA",
+            "text": "PEOPLES REPUBLIC, Processed at EAST CHINA AREA - CHINA, PEOPLES REPUBLIC",
+            "code": "transit"
+          },
+          {
             "ts": "2026-08-13T00:31",
             "place": "EAST CHINA AREA - CHINA",
             "text": "PEOPLES REPUBLIC, Shipment is on hold",
@@ -24348,7 +24360,7 @@
             "code": "transit"
           }
         ],
-        "updatedAt": "2026-08-13T06:58:20.641Z",
+        "updatedAt": "2026-08-14T06:55:33.917Z",
         "source": "17track-manual"
       }
     ]
@@ -24377,9 +24389,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T14:07:27.440Z",
-    "shipments": "2026-08-13T12:33:29.234Z",
+    "shipments": "2026-08-14T06:55:37.451Z",
     "certExtras": "2026-08-13T12:50:24.513Z"
   },
-  "rev": 1669,
-  "savedAt": "2026-08-14T06:53:29.548Z"
+  "rev": 1670,
+  "savedAt": "2026-08-14T06:55:37.462Z"
 }
