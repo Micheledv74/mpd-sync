@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-13T15:22:13.032Z",
+  "pushedAt": "2026-08-14T06:53:29.548Z",
   "todosCount": 329,
   "todos": [
     {
@@ -7192,20 +7192,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "NORRBOTTEN  REQ: No 44 BATTERY & No 45 LO AFT WINCH",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJke12KAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12KAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B6GyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "NORRBOTTEN  REQ: No 44 BATTERY & No 45 LO AFT WINCH",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "NORRBOTTEN  REQ: No 44 BATTERY & No 45 LO AFT WINCH",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T12:33:42.4262338Z",
@@ -7214,20 +7214,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO  PR121  HQPO-00144  PEP-SHPR-00121  TE22556",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJke12SAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12SAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9VvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "I: M/V PEPPINO  PR121  HQPO-00144  PEP-SHPR-00121  TE22556",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "M/V PEPPINO  PR121  HQPO-00144  PEP-SHPR-00121  TE22556",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:58:06.4952933Z",
@@ -7236,21 +7236,21 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED LIGURIA  PR1  HQRQ-00151  MLG-HQPR-00001  YH MARINE TRADE CO.,LTD",
+      "tags": [
+        "outlook",
+        "fornitore:YH"
+      ],
       "id": "outlook_AAJke12RAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12RAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60bAABYWF9qc37UTpbqyo%2B4NVKtAAAABHbsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V MED LIGURIA  PR1  HQRQ-00151  MLG-HQPR-00001  YH MARINE TRADE CO.,LTD",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "M/V MED LIGURIA  PR1  HQRQ-00151  MLG-HQPR-00001  YH MARINE TRADE CO.,LTD",
-      "tags": [
-        "outlook",
-        "fornitore:YH"
-      ],
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:54:44.2880796Z",
@@ -7259,20 +7259,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED LIGURIA  PR74  HQRQ-00150  MLG-SHPR-00074  PPG PROTECTIVE &amp; MARINE COATINS",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJke12QAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12QAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60bAABYWF9qc37UTpbqyo%2B4NVKtAAHdVZFYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V MED LIGURIA  PR74  HQRQ-00150  MLG-SHPR-00074  PPG PROTECTIVE &amp; MARINE COATINS",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "M/V MED LIGURIA  PR74  HQRQ-00150  MLG-SHPR-00074  PPG PROTECTIVE &amp; MARINE COATINS",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:54:10.1828479Z",
@@ -7281,20 +7281,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/v MED LIGURIA - Richiesta ITU IV",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJke12PAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12PAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJkeqqQAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/v MED LIGURIA - Richiesta ITU IV",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "M/v MED LIGURIA - Richiesta ITU IV",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:32:29.7703302Z",
@@ -7303,21 +7303,21 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED LIGURIA  PR51  HQPO-00078  MLG-SHPR-00051  FUJI TRADING JAPAN",
+      "tags": [
+        "outlook",
+        "fornitore:FUJI"
+      ],
       "id": "outlook_AAJke12OAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12OAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4mNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V MED LIGURIA  PR51  HQPO-00078  MLG-SHPR-00051  FUJI TRADING JAPAN",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "M/V MED LIGURIA  PR51  HQPO-00078  MLG-SHPR-00051  FUJI TRADING JAPAN",
-      "tags": [
-        "outlook",
-        "fornitore:FUJI"
-      ],
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:29:34.6001092Z",
@@ -7326,21 +7326,21 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED LIGURIA  PR36  HQPO-00076  MLG-SHPR-00036  MAS MARINE SHIPPING SUPPLIES",
+      "tags": [
+        "outlook",
+        "fornitore:MAS"
+      ],
       "id": "outlook_AAJke12NAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12NAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4mMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V MED LIGURIA  PR36  HQPO-00076  MLG-SHPR-00036  MAS MARINE SHIPPING SUPPLIES",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "M/V MED LIGURIA  PR36  HQPO-00076  MLG-SHPR-00036  MAS MARINE SHIPPING SUPPLIES",
-      "tags": [
-        "outlook",
-        "fornitore:MAS"
-      ],
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:29:18.2997025Z",
@@ -7349,20 +7349,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED LIGURIA  PR36  HQPO-00075  MLG-SHPR-00036  G&amp;P TECH CO.",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJke12MAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12MAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAADqwEvAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V MED LIGURIA  PR36  HQPO-00075  MLG-SHPR-00036  G&amp;P TECH CO.",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "M/V MED LIGURIA  PR36  HQPO-00075  MLG-SHPR-00036  G&amp;P TECH CO.",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:29:18.0076488Z",
@@ -7371,21 +7371,21 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO  PR121  HQPO-00144  PEP-SHPR-00121  Mistral Suisse Sagl",
+      "tags": [
+        "outlook",
+        "fornitore:MISTRAL"
+      ],
       "id": "outlook_AAJke12LAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12LAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAAAABHDOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V PEPPINO  PR121  HQPO-00144  PEP-SHPR-00121  Mistral Suisse Sagl",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "M/V PEPPINO  PR121  HQPO-00144  PEP-SHPR-00121  Mistral Suisse Sagl",
-      "tags": [
-        "outlook",
-        "fornitore:MISTRAL"
-      ],
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T13:56:35.5384395Z",
@@ -24359,7 +24359,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-13T15:20:37.546Z",
+    "todos": "2026-08-14T06:53:26.356Z",
     "notes": "2026-08-11T13:30:47.277Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -24380,6 +24380,6 @@
     "shipments": "2026-08-13T12:33:29.234Z",
     "certExtras": "2026-08-13T12:50:24.513Z"
   },
-  "rev": 1668,
-  "savedAt": "2026-08-13T15:22:13.032Z"
+  "rev": 1669,
+  "savedAt": "2026-08-14T06:53:29.548Z"
 }
