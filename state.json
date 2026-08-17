@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-17T12:39:11.018Z",
+  "pushedAt": "2026-08-17T12:39:32.256Z",
   "todosCount": 337,
   "todos": [
     {
@@ -24196,7 +24196,7 @@
         "carrier": "Lufthansa Cargo",
         "hub": "",
         "number": "020-06066992",
-        "status": "in_transit",
+        "status": "out_for_delivery",
         "pickup": "2026-08-12",
         "eta": "2026-08-17",
         "events": [
@@ -24207,97 +24207,103 @@
             "code": "delivered"
           },
           {
-            "ts": "2026-08-17T10:40",
+            "ts": "2026-08-16T20:59",
             "place": "--",
             "text": "NFD · ACC(Accra) (2)",
             "code": "info"
           },
           {
-            "ts": "2026-08-16T21:34",
+            "ts": "2026-08-16T20:59",
             "place": "SN277",
             "text": "RCF · ACC(Accra) (2)",
             "code": "transit"
           },
           {
-            "ts": "2026-08-16T16:40",
+            "ts": "2026-08-16T16:49",
             "place": "SN277",
             "text": "ARR · ACC(Accra) (2)",
             "code": "transit"
           },
           {
-            "ts": "2026-08-16T11:50",
+            "ts": "2026-08-16T12:14",
             "place": "SN277",
             "text": "DEP · BRU(Brussels) (2)",
             "code": "transit"
           },
           {
-            "ts": "2026-08-16T11:26",
+            "ts": "2026-08-16T05:01",
             "place": "SN277",
             "text": "MAN · BRU(Brussels) (2)",
             "code": "info"
           },
           {
-            "ts": "2026-08-16T03:59",
+            "ts": "2026-08-16T02:56",
             "place": "LH7686",
             "text": "RCF · BRU(Brussels) (2)",
             "code": "transit"
           },
           {
-            "ts": "2026-08-15T23:59",
+            "ts": "2026-08-16T00:22",
             "place": "LH7686",
             "text": "ARR · BRU(Brussels) (2)",
             "code": "transit"
           },
           {
-            "ts": "2026-08-15T16:30",
+            "ts": "2026-08-15T17:30",
             "place": "LH7686",
             "text": "DEP · FRA(Frankfurt) (2)",
             "code": "transit"
           },
           {
-            "ts": "2026-08-15T15:24",
+            "ts": "2026-08-15T14:44",
             "place": "LH7686",
             "text": "MAN · FRA(Frankfurt) (2)",
             "code": "info"
           },
           {
-            "ts": "2026-08-15T11:00",
-            "place": "LH7003",
+            "ts": "2026-08-14T23:04",
+            "place": "LH7013",
             "text": "RCF · FRA(Frankfurt) (2)",
             "code": "transit"
           },
           {
-            "ts": "2026-08-15T08:30",
-            "place": "LH7003",
+            "ts": "2026-08-14T17:43",
+            "place": "LH7013",
             "text": "ARR · FRA(Frankfurt) (2)",
             "code": "transit"
           },
           {
-            "ts": "2026-08-14T23:30",
-            "place": "LH7003",
+            "ts": "2026-08-14T09:30",
+            "place": "LH7013",
             "text": "DEP · HAM(Hamburg) (2)",
             "code": "transit"
           },
           {
-            "ts": "2026-08-14T23:00",
-            "place": "LH7003",
+            "ts": "2026-08-14T07:57",
+            "place": "LH7013",
             "text": "MAN · HAM(Hamburg) (2)",
             "code": "info"
           },
           {
-            "ts": "2026-08-14T21:24",
+            "ts": "2026-08-13T22:00",
             "place": "--",
             "text": "RCS · HAM(Hamburg) (2)",
             "code": "info"
           },
           {
-            "ts": "2026-08-11T12:54",
+            "ts": "2026-08-13T21:59",
             "place": "--",
             "text": "BKD · HAM(Hamburg) (2)",
             "code": "info"
+          },
+          {
+            "ts": "2026-08-13T18:44",
+            "place": "--",
+            "text": "FOH · HAM(Hamburg) (2)",
+            "code": "transit"
           }
         ],
-        "updatedAt": "2026-08-13T09:59:22.943Z",
+        "updatedAt": "2026-08-17T12:39:28.135Z",
         "source": "17track-manual"
       }
     ],
@@ -25002,9 +25008,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-17T12:22:07.739Z",
-    "shipments": "2026-08-17T12:39:11.007Z",
+    "shipments": "2026-08-17T12:39:32.245Z",
     "certExtras": "2026-08-17T09:54:15.508Z"
   },
-  "rev": 1771,
-  "savedAt": "2026-08-17T12:39:11.019Z"
+  "rev": 1772,
+  "savedAt": "2026-08-17T12:39:32.256Z"
 }
