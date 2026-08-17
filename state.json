@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-17T15:19:38.281Z",
+  "pushedAt": "2026-08-17T15:20:20.363Z",
   "todosCount": 337,
   "todos": [
     {
-      "id": "td_1786952027567_9pbaz",
       "category": "Nave",
       "priority": "alta",
-      "vessel": "peppino",
-      "action": "Controllare",
       "reference": "Certificati",
       "tags": [],
+      "id": "td_1786952027567_9pbaz",
+      "vessel": "peppino",
+      "action": "Controllare",
       "dueDate": "2026-08-29",
       "note": "",
       "recur": {
@@ -7437,20 +7437,20 @@
       "updatedAt": "2026-08-17T09:13:44.098Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "<ORDCNF> MED LIGURIA 2026-MLG-HQPO-00078 FTC-4189191",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJke12VAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12VAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAADqwEvGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "<ORDCNF> MED LIGURIA 2026-MLG-HQPO-00078 FTC-4189191",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "<ORDCNF> MED LIGURIA 2026-MLG-HQPO-00078 FTC-4189191",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-14",
       "note": "",
       "createdAt": "2026-08-14T13:55:10.1476836Z",
@@ -7460,20 +7460,20 @@
       "updatedAt": "2026-08-17T09:17:30.396Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "Mv Norrbotten change of Vessel Name and Company",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJke12UAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12UAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NrAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B88uAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Mv Norrbotten change of Vessel Name and Company",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "Mv Norrbotten change of Vessel Name and Company",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-14T10:42:54.0248228Z",
@@ -7483,20 +7483,20 @@
       "updatedAt": "2026-08-17T09:13:57.210Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "Shipment of order-nos. CBH 43940+43941",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJke12TAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12TAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJkeqq0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "AW: Shipment of order-nos. CBH 43940+43941",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "Shipment of order-nos. CBH 43940+43941",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-18",
       "note": "",
       "createdAt": "2026-08-14T10:07:59.4451596Z",
@@ -7508,20 +7508,20 @@
       "updatedAt": "2026-08-17T09:17:44.636Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED TOSCANA - Richiesta preventivo e disponibilità service  - BEDI",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJl-vO0AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO0AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WDAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V MED TOSCANA - Richiesta preventivo e disponibilità service  - BEDI",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "M/V MED TOSCANA - Richiesta preventivo e disponibilità service  - BEDI",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-18",
       "note": "",
       "createdAt": "2026-08-17T12:22:12.0661739Z",
@@ -7533,20 +7533,20 @@
       "updatedAt": "2026-08-17T12:37:36.995Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "Richiesta preventivo e disponibilità — 8 interventi — MED TOSCANA",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJl-vOzAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vOzAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2F0bOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Richiesta preventivo e disponibilità — 8 interventi — MED TOSCANA",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "Richiesta preventivo e disponibilità — 8 interventi — MED TOSCANA",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-17",
       "note": "",
       "createdAt": "2026-08-17T12:20:17.9119029Z",
@@ -7555,20 +7555,20 @@
       "outlookStatus": "completed"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification - Bedi",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJl-vOyAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vOyAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9V%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification - Bedi",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification - Bedi",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-18",
       "note": "",
       "createdAt": "2026-08-17T10:16:34.1475834Z",
@@ -7580,21 +7580,21 @@
       "updatedAt": "2026-08-17T12:38:14.588Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED TOSCANA PR85 HQRQ-00139 MDT-SHPR-00085 RK MARINE SERVICE",
+      "tags": [
+        "outlook",
+        "fornitore:RK"
+      ],
       "id": "outlook_AAJl-vOxAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vOxAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9V%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: M/V MED TOSCANA PR85 HQRQ-00139 MDT-SHPR-00085 RK MARINE SERVICE",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "M/V MED TOSCANA PR85 HQRQ-00139 MDT-SHPR-00085 RK MARINE SERVICE",
-      "tags": [
-        "outlook",
-        "fornitore:RK"
-      ],
       "dueDate": "2026-08-18",
       "note": "",
       "createdAt": "2026-08-17T08:04:28.8118022Z",
@@ -25012,7 +25012,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-17T12:38:18.315Z",
+    "todos": "2026-08-17T15:20:14.772Z",
     "notes": "2026-08-11T13:30:47.277Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -25033,6 +25033,6 @@
     "shipments": "2026-08-17T12:40:13.765Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1787,
-  "savedAt": "2026-08-17T15:19:38.281Z"
+  "rev": 1788,
+  "savedAt": "2026-08-17T15:20:20.364Z"
 }
