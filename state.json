@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-17T07:33:54.676Z",
+  "pushedAt": "2026-08-17T07:34:45.897Z",
   "todosCount": 333,
   "todos": [
     {
@@ -6581,9 +6581,10 @@
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-07T11:56:20.5636796Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-17T07:34:43.130Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-17T07:34:43.130Z"
     },
     {
       "category": "Nave",
@@ -21508,6 +21509,13 @@
       "completedAt": "2026-08-13T08:07:01.315Z",
       "todoId": "outlook_AAJjTooIAAA=",
       "title": "M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJf_BM4AAA=",
+      "listId": "",
+      "completedAt": "2026-08-17T07:34:43.133Z",
+      "todoId": "outlook_AAJf_BM4AAA=",
+      "title": "R: M/V PEPPINO  PR105  HQPO-00140  PEP-SHPR-00105  YH MARINE TRADE CO.,LTD"
     }
   ],
   "manualOrders": {
@@ -24599,7 +24607,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-17T07:33:48.190Z",
+    "todos": "2026-08-17T07:34:45.862Z",
     "notes": "2026-08-11T13:30:47.277Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -24608,7 +24616,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-17T07:32:01.556Z",
-    "outlookCompletionQueue": "2026-08-13T08:07:05.036Z",
+    "outlookCompletionQueue": "2026-08-17T07:34:45.862Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-12T08:22:54.353Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -24620,6 +24628,6 @@
     "shipments": "2026-08-17T07:28:43.692Z",
     "certExtras": "2026-08-13T12:50:24.513Z"
   },
-  "rev": 1705,
-  "savedAt": "2026-08-17T07:33:54.676Z"
+  "rev": 1706,
+  "savedAt": "2026-08-17T07:34:45.898Z"
 }
