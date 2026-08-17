@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-17T09:44:24.990Z",
+  "pushedAt": "2026-08-17T09:44:53.439Z",
   "todosCount": 333,
   "todos": [
     {
@@ -19697,7 +19697,7 @@
         },
         "supEmailOverride": "",
         "masterEmailOverride": "medtoscana@shipsemail.it",
-        "updatedAt": "2026-08-13T12:50:23.765Z",
+        "updatedAt": "2026-08-17T09:44:49.770Z",
         "reports": [
           {
             "ts": "2026-08-13T12:50:23.765Z",
@@ -24785,8 +24785,8 @@
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T14:07:27.440Z",
     "shipments": "2026-08-17T07:28:43.692Z",
-    "certExtras": "2026-08-17T09:44:24.981Z"
+    "certExtras": "2026-08-17T09:44:53.433Z"
   },
-  "rev": 1737,
-  "savedAt": "2026-08-17T09:44:24.991Z"
+  "rev": 1738,
+  "savedAt": "2026-08-17T09:44:53.440Z"
 }
