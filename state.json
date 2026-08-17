@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-17T12:38:18.503Z",
+  "pushedAt": "2026-08-17T12:39:11.018Z",
   "todosCount": 337,
   "todos": [
     {
@@ -24040,8 +24040,38 @@
         "number": "6692422122",
         "status": "in_transit",
         "pickup": "2026-08-11",
-        "eta": "2026-08-13",
+        "eta": "2026-08-17",
         "events": [
+          {
+            "ts": "2026-08-17T09:44",
+            "place": "ACCRA - GHANA",
+            "text": "Shipment is on hold",
+            "code": "exception"
+          },
+          {
+            "ts": "2026-08-17T09:44",
+            "place": "ACCRA - GHANA",
+            "text": "Clearance Event",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-14T10:00",
+            "place": "ACCRA - GHANA",
+            "text": "Clearance Event",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-14T10:00",
+            "place": "ACCRA - GHANA",
+            "text": "Shipment is on hold",
+            "code": "exception"
+          },
+          {
+            "ts": "2026-08-13T13:12",
+            "place": "ACCRA - GHANA",
+            "text": "Broker has been notified to arrange clearance",
+            "code": "transit"
+          },
           {
             "ts": "2026-08-13T09:24",
             "place": "ACCRA - GHANA",
@@ -24157,7 +24187,7 @@
             "code": "transit"
           }
         ],
-        "updatedAt": "2026-08-13T09:58:54.184Z",
+        "updatedAt": "2026-08-17T12:39:06.982Z",
         "source": "17track-manual"
       },
       {
@@ -24972,9 +25002,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-17T12:22:07.739Z",
-    "shipments": "2026-08-17T07:28:43.692Z",
+    "shipments": "2026-08-17T12:39:11.007Z",
     "certExtras": "2026-08-17T09:54:15.508Z"
   },
-  "rev": 1770,
-  "savedAt": "2026-08-17T12:38:18.503Z"
+  "rev": 1771,
+  "savedAt": "2026-08-17T12:39:11.019Z"
 }
