@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-17T09:51:31.273Z",
+  "pushedAt": "2026-08-17T09:53:09.615Z",
   "todosCount": 333,
   "todos": [
     {
@@ -19753,9 +19753,9 @@
       },
       "c:106587-V003-010": {
         "expiry": "2030-08-24",
-        "place": "",
+        "place": "Shanghai",
         "supplier": "TEFIN SCRL",
-        "needsService": true,
+        "needsService": false,
         "plan": {
           "type": "service",
           "status": "none",
@@ -19765,7 +19765,7 @@
         },
         "supEmailOverride": "",
         "masterEmailOverride": "medtoscana@shipsemail.it",
-        "updatedAt": "2026-08-17T09:43:05.632Z"
+        "updatedAt": "2026-08-17T09:53:05.237Z"
       },
       "n:15 DD|HRU EPIRB": {
         "expiry": "2027-07-30",
@@ -24785,8 +24785,8 @@
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T14:07:27.440Z",
     "shipments": "2026-08-17T07:28:43.692Z",
-    "certExtras": "2026-08-17T09:51:31.266Z"
+    "certExtras": "2026-08-17T09:53:09.609Z"
   },
-  "rev": 1739,
-  "savedAt": "2026-08-17T09:51:31.273Z"
+  "rev": 1740,
+  "savedAt": "2026-08-17T09:53:09.615Z"
 }
