@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-17T15:21:46.476Z",
+  "pushedAt": "2026-08-17T15:21:54.086Z",
   "todosCount": 337,
   "todos": [
     {
@@ -20226,18 +20226,7 @@
     "vegauno": {
       "status": "in_port",
       "current": {
-        "id": "vms4odbrdbcr4",
-        "from": "Ravenna",
-        "to": "Ravenna",
-        "etd": "2026-08-14T08:00",
-        "etb": "",
-        "eta": "",
-        "agency": {
-          "name": "Ravenna Cargo - and ships assistance",
-          "contacts": "Filippo Bongiovanni\nOperations Manager\nVia Magazzini Anteriori / Trav. Sud 30 - 48122 Ravenna (IT)\nP. +39 0544 590209\nM. +39 338 4008016\nwww.ravennacargo.it\nagency@ravennacargo.it\nflobongiovanni@ravennacargo.it"
-        }
-      },
-      "next": {
+        "etd": "",
         "id": "vms4odwaai18i",
         "from": "Ravenna",
         "to": "Torre Annunziata",
@@ -20245,8 +20234,25 @@
         "eta": "2026-08-18T17:21",
         "agency": null
       },
+      "next": {},
       "notes": "",
-      "updatedAt": "2026-08-17T15:21:41.453Z"
+      "updatedAt": "2026-08-17T15:21:49.100Z",
+      "history": [
+        {
+          "id": "vms4odbrdbcr4",
+          "from": "Ravenna",
+          "to": "Ravenna",
+          "etd": "2026-08-14T08:00",
+          "etb": "",
+          "eta": "",
+          "agency": {
+            "name": "Ravenna Cargo - and ships assistance",
+            "contacts": "Filippo Bongiovanni\nOperations Manager\nVia Magazzini Anteriori / Trav. Sud 30 - 48122 Ravenna (IT)\nP. +39 0544 590209\nM. +39 338 4008016\nwww.ravennacargo.it\nagency@ravennacargo.it\nflobongiovanni@ravennacargo.it"
+          },
+          "closedAt": "2026-08-17T15:21:49.100Z",
+          "deliveredItems": []
+        }
+      ]
     }
   },
   "outlookCompletionQueue": [
@@ -25017,7 +25023,7 @@
     "supplierTimezones": "2026-07-22T18:57:31.789Z",
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
-    "voyages": "2026-08-17T15:21:46.469Z",
+    "voyages": "2026-08-17T15:21:47.277Z",
     "outlookCompletionQueue": "2026-08-17T09:36:57.365Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-12T08:22:54.353Z",
@@ -25030,6 +25036,6 @@
     "shipments": "2026-08-17T12:40:13.765Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1792,
-  "savedAt": "2026-08-17T15:21:46.476Z"
+  "rev": 1793,
+  "savedAt": "2026-08-17T15:21:54.086Z"
 }
