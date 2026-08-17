@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-17T09:16:27.161Z",
+  "pushedAt": "2026-08-17T09:17:32.741Z",
   "todosCount": 333,
   "todos": [
     {
@@ -7454,9 +7454,10 @@
       "dueDate": "2026-08-14",
       "note": "",
       "createdAt": "2026-08-14T13:55:10.1476836Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-17T09:17:30.396Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-17T09:17:30.396Z"
     },
     {
       "id": "outlook_AAJke12UAAA=",
@@ -21609,6 +21610,13 @@
       "completedAt": "2026-08-17T09:16:24.405Z",
       "todoId": "outlook_AAJjTooHAAA=",
       "title": "M/V MED LIGURIA  PR69  HQRQ-00124  MLG-SHPR-00069  YH MARINE TRADE CO.,LTD"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12VAAA=",
+      "listId": "",
+      "completedAt": "2026-08-17T09:17:30.399Z",
+      "todoId": "outlook_AAJke12VAAA=",
+      "title": "<ORDCNF> MED LIGURIA 2026-MLG-HQPO-00078 FTC-4189191"
     }
   ],
   "manualOrders": {
@@ -24700,7 +24708,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-17T09:16:27.146Z",
+    "todos": "2026-08-17T09:17:32.728Z",
     "notes": "2026-08-11T13:30:47.277Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -24709,7 +24717,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-17T07:32:01.556Z",
-    "outlookCompletionQueue": "2026-08-17T09:16:27.146Z",
+    "outlookCompletionQueue": "2026-08-17T09:17:32.728Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-12T08:22:54.353Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -24721,6 +24729,6 @@
     "shipments": "2026-08-17T07:28:43.692Z",
     "certExtras": "2026-08-13T12:50:24.513Z"
   },
-  "rev": 1722,
-  "savedAt": "2026-08-17T09:16:27.161Z"
+  "rev": 1723,
+  "savedAt": "2026-08-17T09:17:32.741Z"
 }
