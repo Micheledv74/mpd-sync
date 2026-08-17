@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-17T07:35:21.246Z",
+  "pushedAt": "2026-08-17T07:35:55.350Z",
   "todosCount": 333,
   "todos": [
     {
@@ -7232,9 +7232,10 @@
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T12:33:42.4262338Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-17T07:35:53.819Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-17T07:35:53.819Z"
     },
     {
       "category": "Nave",
@@ -21532,6 +21533,13 @@
       "completedAt": "2026-08-17T07:35:17.756Z",
       "todoId": "outlook_AAJke12IAAA=",
       "title": "M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12KAAA=",
+      "listId": "",
+      "completedAt": "2026-08-17T07:35:53.821Z",
+      "todoId": "outlook_AAJke12KAAA=",
+      "title": "NORRBOTTEN  REQ: No 44 BATTERY & No 45 LO AFT WINCH"
     }
   ],
   "manualOrders": {
@@ -24623,7 +24631,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-17T07:35:17.817Z",
+    "todos": "2026-08-17T07:35:55.331Z",
     "notes": "2026-08-11T13:30:47.277Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -24632,7 +24640,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-17T07:32:01.556Z",
-    "outlookCompletionQueue": "2026-08-17T07:35:17.817Z",
+    "outlookCompletionQueue": "2026-08-17T07:35:55.331Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-12T08:22:54.353Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -24644,6 +24652,6 @@
     "shipments": "2026-08-17T07:28:43.692Z",
     "certExtras": "2026-08-13T12:50:24.513Z"
   },
-  "rev": 1708,
-  "savedAt": "2026-08-17T07:35:21.246Z"
+  "rev": 1709,
+  "savedAt": "2026-08-17T07:35:55.351Z"
 }
