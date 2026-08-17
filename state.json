@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-17T15:21:25.221Z",
+  "pushedAt": "2026-08-17T15:21:46.476Z",
   "todosCount": 337,
   "todos": [
     {
@@ -20229,7 +20229,7 @@
         "id": "vms4odbrdbcr4",
         "from": "Ravenna",
         "to": "Ravenna",
-        "etd": "2026-08-03T08:00",
+        "etd": "2026-08-14T08:00",
         "etb": "",
         "eta": "",
         "agency": {
@@ -20246,7 +20246,7 @@
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-08-17T15:21:20.260Z"
+      "updatedAt": "2026-08-17T15:21:41.453Z"
     }
   },
   "outlookCompletionQueue": [
@@ -25017,7 +25017,7 @@
     "supplierTimezones": "2026-07-22T18:57:31.789Z",
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
-    "voyages": "2026-08-17T15:21:25.215Z",
+    "voyages": "2026-08-17T15:21:46.469Z",
     "outlookCompletionQueue": "2026-08-17T09:36:57.365Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-12T08:22:54.353Z",
@@ -25030,6 +25030,6 @@
     "shipments": "2026-08-17T12:40:13.765Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1791,
-  "savedAt": "2026-08-17T15:21:25.222Z"
+  "rev": 1792,
+  "savedAt": "2026-08-17T15:21:46.476Z"
 }
