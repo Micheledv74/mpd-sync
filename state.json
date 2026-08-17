@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-17T07:27:36.710Z",
+  "pushedAt": "2026-08-17T07:27:50.163Z",
   "todosCount": 332,
   "todos": [
     {
@@ -23405,30 +23405,60 @@
         "carrier": "DHL Express",
         "hub": "",
         "number": "235-05734805",
-        "status": "in_transit",
+        "status": "out_for_delivery",
         "pickup": "2026-08-07",
-        "eta": "2026-08-06",
+        "eta": "2026-08-14",
         "events": [
           {
-            "ts": "2026-08-06T20:50",
-            "place": "MXP(Milan)",
-            "text": "RCS · Shipment Accepted",
+            "ts": "2026-08-14T15:05",
+            "place": "MRU(Plaine Magnien)",
+            "text": "NFD · Shipment Notified For Delivery",
             "code": "info"
           },
           {
-            "ts": "2026-08-04T15:33",
+            "ts": "2026-08-14T14:39",
+            "place": "MRU(Plaine Magnien)",
+            "text": "RCF · Shipment Received From Flight (TK0176)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-14T02:15",
+            "place": "IST(Istanbul)",
+            "text": "DEP · Shipment Departed (TK0176)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-13T17:40",
             "place": "MXP(Milan)",
             "text": "BKD · Shipment Booked (TK1874)",
             "code": "info"
           },
           {
-            "ts": "2026-08-04T15:33",
+            "ts": "2026-08-13T17:40",
             "place": "IST(Istanbul)",
             "text": "BKD · Shipment Booked (TK0176)",
             "code": "info"
+          },
+          {
+            "ts": "2026-08-13T16:42",
+            "place": "IST(Istanbul)",
+            "text": "RCF · Shipment Received From Flight (TK1874)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-13T10:56",
+            "place": "MXP(Milan)",
+            "text": "DEP · Shipment Departed (TK1874)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-06T20:50",
+            "place": "MXP(Milan)",
+            "text": "RCS · Shipment Accepted",
+            "code": "info"
           }
         ],
-        "updatedAt": "2026-08-12T20:14:44.988Z",
+        "updatedAt": "2026-08-17T07:27:46.358Z",
         "source": "17track-manual"
       }
     ],
@@ -24567,9 +24597,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-12T14:07:27.440Z",
-    "shipments": "2026-08-17T07:27:36.703Z",
+    "shipments": "2026-08-17T07:27:47.889Z",
     "certExtras": "2026-08-13T12:50:24.513Z"
   },
-  "rev": 1697,
-  "savedAt": "2026-08-17T07:27:36.710Z"
+  "rev": 1698,
+  "savedAt": "2026-08-17T07:27:50.163Z"
 }
