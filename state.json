@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-17T08:05:43.611Z",
+  "pushedAt": "2026-08-17T09:13:46.727Z",
   "todosCount": 333,
   "todos": [
     {
@@ -7431,9 +7431,10 @@
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T13:56:35.5384395Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-17T09:13:44.098Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-17T09:13:44.098Z"
     },
     {
       "id": "outlook_AAJke12VAAA=",
@@ -21579,6 +21580,13 @@
       "completedAt": "2026-08-17T08:01:59.998Z",
       "todoId": "outlook_AAJf_BM5AAA=",
       "title": "M/V MED TOSCANA PR85 HQRQ-00139 MDT-SHPR-00085 RK MARINE SERVICE"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12LAAA=",
+      "listId": "",
+      "completedAt": "2026-08-17T09:13:44.101Z",
+      "todoId": "outlook_AAJke12LAAA=",
+      "title": "M/V PEPPINO  PR121  HQPO-00144  PEP-SHPR-00121  Mistral Suisse Sagl"
     }
   ],
   "manualOrders": {
@@ -24670,7 +24678,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-17T08:05:43.601Z",
+    "todos": "2026-08-17T09:13:46.718Z",
     "notes": "2026-08-11T13:30:47.277Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -24679,7 +24687,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-17T07:32:01.556Z",
-    "outlookCompletionQueue": "2026-08-17T08:02:03.830Z",
+    "outlookCompletionQueue": "2026-08-17T09:13:46.718Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-12T08:22:54.353Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -24691,6 +24699,6 @@
     "shipments": "2026-08-17T07:28:43.692Z",
     "certExtras": "2026-08-13T12:50:24.513Z"
   },
-  "rev": 1718,
-  "savedAt": "2026-08-17T08:05:43.611Z"
+  "rev": 1719,
+  "savedAt": "2026-08-17T09:13:46.728Z"
 }
