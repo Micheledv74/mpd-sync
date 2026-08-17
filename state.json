@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-17T12:40:20.042Z",
+  "pushedAt": "2026-08-17T14:39:15.681Z",
   "todosCount": 337,
   "todos": [
     {
@@ -23213,7 +23213,10 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADrAkP0aLTdIkgOOzJTHwQg=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADx6eV0E5EbhqmyjiIOFAYg=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAICZcx2qmlRIrYPq1gRxFhg=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHiFESJMMU5Is8q8EHnSSss="
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHiFESJMMU5Is8q8EHnSSss=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAvQ7OzOb_BDnNsGDNdlNk8=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAPjAPntv741BnMXnoVCd2Qc=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFS0EQs9xE_ark1Ygf4LsA0="
   ],
   "shipments": {
     "med toscana::bwts suction pump mn 40125": [
@@ -25025,10 +25028,10 @@
     "agencyProfiles": "2026-08-07T18:27:36.980Z",
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
-    "repliesDismissed": "2026-08-17T12:22:07.739Z",
+    "repliesDismissed": "2026-08-17T14:39:15.673Z",
     "shipments": "2026-08-17T12:40:13.765Z",
     "certExtras": "2026-08-17T09:54:15.508Z"
   },
-  "rev": 1774,
-  "savedAt": "2026-08-17T12:40:20.042Z"
+  "rev": 1775,
+  "savedAt": "2026-08-17T14:39:15.681Z"
 }
