@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-18T08:23:43.062Z",
+  "pushedAt": "2026-08-18T08:24:17.160Z",
   "todosCount": 342,
   "todos": [
     {
@@ -7399,12 +7399,12 @@
       "dueDate": "2026-08-18",
       "note": "",
       "createdAt": "2026-08-13T14:29:34.6001092Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-18T08:24:14.056Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-17T08:02:23.555Z"
+      "updatedAt": "2026-08-18T08:24:14.056Z"
     },
     {
       "category": "Nave",
@@ -21944,6 +21944,13 @@
       "completedAt": "2026-08-18T08:10:05.347Z",
       "todoId": "outlook_AAJke12QAAA=",
       "title": "M/V MED LIGURIA  PR74  HQRQ-00150  MLG-SHPR-00074  PPG PROTECTIVE &amp; MARINE COATINS"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12OAAA=",
+      "listId": "",
+      "completedAt": "2026-08-18T08:24:14.059Z",
+      "todoId": "outlook_AAJke12OAAA=",
+      "title": "M/V MED LIGURIA  PR51  HQPO-00078  MLG-SHPR-00051  FUJI TRADING JAPAN"
     }
   ],
   "manualOrders": {
@@ -25206,7 +25213,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-18T08:10:08.729Z",
+    "todos": "2026-08-18T08:24:17.148Z",
     "notes": "2026-08-18T08:23:41.632Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -25215,7 +25222,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-17T15:21:47.277Z",
-    "outlookCompletionQueue": "2026-08-18T08:10:08.729Z",
+    "outlookCompletionQueue": "2026-08-18T08:24:17.148Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-12T08:22:54.353Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -25227,6 +25234,6 @@
     "shipments": "2026-08-18T07:30:58.044Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1821,
-  "savedAt": "2026-08-18T08:23:43.062Z"
+  "rev": 1822,
+  "savedAt": "2026-08-18T08:24:17.160Z"
 }
