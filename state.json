@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-18T07:26:16.995Z",
+  "pushedAt": "2026-08-18T07:26:26.622Z",
   "todosCount": 339,
   "todos": [
     {
@@ -24914,7 +24914,7 @@
             "code": "info"
           }
         ],
-        "updatedAt": "2026-08-16T07:09:45.809Z",
+        "updatedAt": "2026-08-18T07:26:22.842Z",
         "source": "17track-manual"
       }
     ],
@@ -25167,9 +25167,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-07-24T14:00:12.995Z",
     "repliesDismissed": "2026-08-17T14:39:15.673Z",
-    "shipments": "2026-08-18T07:26:16.988Z",
+    "shipments": "2026-08-18T07:26:26.614Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1804,
-  "savedAt": "2026-08-18T07:26:16.995Z"
+  "rev": 1805,
+  "savedAt": "2026-08-18T07:26:26.622Z"
 }
