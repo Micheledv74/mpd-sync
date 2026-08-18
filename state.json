@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-18T08:07:35.693Z",
+  "pushedAt": "2026-08-18T08:10:08.742Z",
   "todosCount": 342,
   "todos": [
     {
@@ -7348,12 +7348,12 @@
       "dueDate": "2026-08-18",
       "note": "",
       "createdAt": "2026-08-13T14:54:10.1828479Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-18T08:10:05.344Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-17T07:42:27.408Z"
+      "updatedAt": "2026-08-18T08:10:05.344Z"
     },
     {
       "category": "Nave",
@@ -21936,6 +21936,13 @@
       "completedAt": "2026-08-17T09:36:53.294Z",
       "todoId": "outlook_AAJke12PAAA=",
       "title": "M/v MED LIGURIA - Richiesta ITU IV"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12QAAA=",
+      "listId": "",
+      "completedAt": "2026-08-18T08:10:05.347Z",
+      "todoId": "outlook_AAJke12QAAA=",
+      "title": "M/V MED LIGURIA  PR74  HQRQ-00150  MLG-SHPR-00074  PPG PROTECTIVE &amp; MARINE COATINS"
     }
   ],
   "manualOrders": {
@@ -25198,7 +25205,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-18T08:06:24.343Z",
+    "todos": "2026-08-18T08:10:08.729Z",
     "notes": "2026-08-11T13:30:47.277Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -25207,7 +25214,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-17T15:21:47.277Z",
-    "outlookCompletionQueue": "2026-08-17T09:36:57.365Z",
+    "outlookCompletionQueue": "2026-08-18T08:10:08.729Z",
     "manualOrders": "2026-07-22T18:57:31.789Z",
     "deliveries": "2026-08-12T08:22:54.353Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -25219,6 +25226,6 @@
     "shipments": "2026-08-18T07:30:58.044Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1818,
-  "savedAt": "2026-08-18T08:07:35.693Z"
+  "rev": 1819,
+  "savedAt": "2026-08-18T08:10:08.743Z"
 }
