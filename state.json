@@ -1,9 +1,24 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-18T08:04:59.006Z",
-  "todosCount": 340,
+  "pushedAt": "2026-08-18T08:05:51.483Z",
+  "todosCount": 341,
   "todos": [
+    {
+      "id": "td_1787040347865_85uxi",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Inviare email",
+      "reference": "Loreka",
+      "tags": [],
+      "dueDate": "2026-08-26",
+      "note": "Mandare email per aggiornare Loreka",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-08-18T08:05:47.865Z"
+    },
     {
       "id": "td_1787040295113_fz6wr",
       "category": "Nave",
@@ -25168,7 +25183,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-18T08:04:56.694Z",
+    "todos": "2026-08-18T08:05:51.477Z",
     "notes": "2026-08-11T13:30:47.277Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -25189,6 +25204,6 @@
     "shipments": "2026-08-18T07:30:58.044Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1814,
-  "savedAt": "2026-08-18T08:04:59.006Z"
+  "rev": 1815,
+  "savedAt": "2026-08-18T08:05:51.483Z"
 }
