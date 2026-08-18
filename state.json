@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-18T08:31:40.194Z",
+  "pushedAt": "2026-08-18T08:32:13.170Z",
   "todosCount": 342,
   "todos": [
     {
@@ -7736,7 +7736,7 @@
     "med liguria::group starter panel auxiliary relay omron g2r1s ac24v": "Xiemen",
     "med liguria::group starter panel auxiliary relay omron g2a4l32a ac24v": "Xiemen",
     "med liguria::fire gs pump type 150cdb65": "LT 60 Days (dal 13 Aug)",
-    "med liguria::alpha lubricator system mfg no pu110105": "2026-MLG-HQPO-00075 F"
+    "med liguria::alpha lubricator system mfg no pu110105": "2026-MLG-HQPO-00075 G&P TECH CO.\n2026-MLG-HQPO-00076"
   },
   "snoozed": {
     "todo:td_1780846490055_byv9f": "2026-06-22",
@@ -25215,7 +25215,7 @@
   },
   "collMeta": {
     "todos": "2026-08-18T08:27:52.513Z",
-    "notes": "2026-08-18T08:31:40.187Z",
+    "notes": "2026-08-18T08:32:13.159Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
     "completionsHistory": "2026-07-22T18:57:31.789Z",
@@ -25235,6 +25235,6 @@
     "shipments": "2026-08-18T07:30:58.044Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1827,
-  "savedAt": "2026-08-18T08:31:40.194Z"
+  "rev": 1828,
+  "savedAt": "2026-08-18T08:32:13.170Z"
 }
