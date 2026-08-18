@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-18T07:11:03.497Z",
-  "todosCount": 337,
+  "pushedAt": "2026-08-18T07:23:55.914Z",
+  "todosCount": 338,
   "todos": [
     {
       "category": "Nave",
@@ -7604,6 +7604,28 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-08-17T12:37:29.483Z"
+    },
+    {
+      "id": "outlook_AAJl-vO1AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO1AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FqHtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-17",
+      "note": "",
+      "createdAt": "2026-08-17T13:36:13.4792736Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -25015,7 +25037,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-17T15:20:14.772Z",
+    "todos": "2026-08-18T07:23:55.906Z",
     "notes": "2026-08-11T13:30:47.277Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -25036,6 +25058,6 @@
     "shipments": "2026-08-17T12:40:13.765Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1798,
-  "savedAt": "2026-08-18T07:11:03.498Z"
+  "rev": 1799,
+  "savedAt": "2026-08-18T07:23:55.914Z"
 }
