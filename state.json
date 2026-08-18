@@ -1,9 +1,29 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-18T14:16:02.869Z",
-  "todosCount": 346,
+  "pushedAt": "2026-08-18T14:16:28.650Z",
+  "todosCount": 347,
   "todos": [
+    {
+      "id": "td_1787062584909_7idcb",
+      "category": "Ufficio",
+      "priority": "media",
+      "vessel": "",
+      "action": "Controllare",
+      "reference": "Rispondere a Noreply@ppg.com — PPG Invoice No 5309882846 10075152",
+      "tags": [
+        "email",
+        "ppg.com"
+      ],
+      "dueDate": "2026-08-18",
+      "note": "To SAN COLOMBANO BULK S.R.L, Attached PDF file contains invoices for goods purchased from PPG Coatings Belgium BV/SRL. Please keep these documents for your payment and tax records. All sales are subject to our Conditions of Sale. Should you wish t",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FT%2FlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "PPG Invoice No 5309882846 10075152",
+      "done": false,
+      "createdAt": "2026-08-18T14:16:24.909Z"
+    },
     {
       "id": "td_1787047302566_0hfrz",
       "category": "Nave",
@@ -23451,7 +23471,8 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAEJneX4XoNpKpFM1McIRRv4=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAGxRxBjguNxLqi9fj6W-Vjc=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACoKzVSN8DpNke2PxaMnUdQ=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADJv2vr8VQtGjGVDOD-1PPE="
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQADJv2vr8VQtGjGVDOD-1PPE=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAPrbJ2535v5OlV9o_h2VwNY="
   ],
   "shipments": {
     "med toscana::bwts suction pump mn 40125": [
@@ -25337,7 +25358,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-18T14:15:04.512Z",
+    "todos": "2026-08-18T14:16:28.642Z",
     "notes": "2026-08-18T08:34:11.840Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -25354,10 +25375,10 @@
     "agencyProfiles": "2026-08-07T18:27:36.980Z",
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-08-18T12:41:32.606Z",
-    "repliesDismissed": "2026-08-18T14:15:56.554Z",
+    "repliesDismissed": "2026-08-18T14:16:28.642Z",
     "shipments": "2026-08-18T07:30:58.044Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1867,
-  "savedAt": "2026-08-18T14:16:02.869Z"
+  "rev": 1868,
+  "savedAt": "2026-08-18T14:16:28.650Z"
 }
