@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-18T08:24:17.160Z",
+  "pushedAt": "2026-08-18T08:26:48.521Z",
   "todosCount": 342,
   "todos": [
     {
@@ -7396,7 +7396,7 @@
       "outlookLinkedName": "M/V MED LIGURIA  PR51  HQPO-00078  MLG-SHPR-00051  FUJI TRADING JAPAN",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-08-18",
+      "dueDate": "2026-10-13",
       "note": "",
       "createdAt": "2026-08-13T14:29:34.6001092Z",
       "done": true,
@@ -7404,7 +7404,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-18T08:24:14.056Z"
+      "updatedAt": "2026-08-18T08:26:44.756Z"
     },
     {
       "category": "Nave",
@@ -25213,7 +25213,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-18T08:24:17.148Z",
+    "todos": "2026-08-18T08:26:48.514Z",
     "notes": "2026-08-18T08:23:41.632Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -25234,6 +25234,6 @@
     "shipments": "2026-08-18T07:30:58.044Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1822,
-  "savedAt": "2026-08-18T08:24:17.160Z"
+  "rev": 1823,
+  "savedAt": "2026-08-18T08:26:48.522Z"
 }
