@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-18T10:01:46.405Z",
+  "pushedAt": "2026-08-18T10:02:07.602Z",
   "todosCount": 344,
   "todos": [
     {
@@ -10,14 +10,15 @@
       "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "Fattura",
+      "reference": "Fattura/Pagamento",
       "tags": [],
       "dueDate": "2026-08-18",
       "note": "Pagamento Fattura EVERLLENCE \n\"C:\\Users\\micheled\\Desktop\\Michele\\NORRBOTTEN\\NOR Purchasing\\Invoice\\20260818122728580.pdf\"",
       "recur": null,
       "kind": "todo",
       "done": false,
-      "createdAt": "2026-08-18T10:01:42.566Z"
+      "createdAt": "2026-08-18T10:01:42.566Z",
+      "updatedAt": "2026-08-18T10:02:03.726Z"
     },
     {
       "id": "td_1787040380218_qv9hi",
@@ -25259,7 +25260,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-18T10:01:46.398Z",
+    "todos": "2026-08-18T10:02:07.595Z",
     "notes": "2026-08-18T08:34:11.840Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -25280,6 +25281,6 @@
     "shipments": "2026-08-18T07:30:58.044Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1844,
-  "savedAt": "2026-08-18T10:01:46.405Z"
+  "rev": 1845,
+  "savedAt": "2026-08-18T10:02:07.603Z"
 }
