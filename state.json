@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-18T09:00:16.588Z",
+  "pushedAt": "2026-08-18T09:00:35.156Z",
   "todosCount": 343,
   "todos": [
     {
@@ -7640,7 +7640,7 @@
       "outlookLinkedName": "R: M/V MED TOSCANA PR85 HQRQ-00139 MDT-SHPR-00085 RK MARINE SERVICE",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-08-18",
+      "dueDate": "2026-08-19",
       "note": "",
       "createdAt": "2026-08-17T08:04:28.8118022Z",
       "done": false,
@@ -7648,7 +7648,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-17T12:37:29.483Z"
+      "updatedAt": "2026-08-18T09:00:31.351Z"
     },
     {
       "id": "outlook_AAJl-vO1AAA=",
@@ -25239,7 +25239,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-18T09:00:16.573Z",
+    "todos": "2026-08-18T09:00:35.149Z",
     "notes": "2026-08-18T08:34:11.840Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -25260,6 +25260,6 @@
     "shipments": "2026-08-18T07:30:58.044Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1837,
-  "savedAt": "2026-08-18T09:00:16.589Z"
+  "rev": 1838,
+  "savedAt": "2026-08-18T09:00:35.156Z"
 }
