@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-19T11:06:18.755Z",
+  "pushedAt": "2026-08-19T11:06:40.829Z",
   "todosCount": 353,
   "todos": [
     {
@@ -23882,11 +23882,73 @@
         "carrier": "Altro",
         "hub": "",
         "number": "9233819663",
-        "status": "pending",
+        "status": "in_transit",
         "pickup": "2026-08-19",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-08-19T11:06:07.397Z"
+        "eta": "2026-08-19",
+        "events": [
+          {
+            "ts": "2026-08-19T07:26",
+            "place": "BRUSSELS - BELGIUM",
+            "text": "Shipment has departed from a DHL facility BRUSSELS - BELGIUM",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-19T02:24",
+            "place": "BRUSSELS - BELGIUM",
+            "text": "Processed at BRUSSELS - BELGIUM",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-19T01:55",
+            "place": "BRUSSELS - BELGIUM",
+            "text": "Arrived at DHL Sort Facility BRUSSELS - BELGIUM",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-19T00:14",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Shipment has departed from a DHL facility MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-18T22:23",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Processed at MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-18T22:04",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Arrived at DHL Sort Facility MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-18T20:17",
+            "place": "NAPLES - ITALY",
+            "text": "Shipment has departed from a DHL facility NAPLES - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-18T18:26",
+            "place": "NAPLES - ITALY",
+            "text": "Processed at NAPLES - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-18T17:56",
+            "place": "NAPLES - ITALY",
+            "text": "Arrived at DHL Sort Facility NAPLES - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-18T12:48",
+            "place": "NAPLES - ITALY",
+            "text": "Shipment picked up",
+            "code": "transit"
+          }
+        ],
+        "updatedAt": "2026-08-19T11:06:37.238Z",
+        "source": "17track-manual"
       }
     ],
     "med toscana::fuel circulation pump of me ace038 n3 ntbp complete": [
@@ -25568,9 +25630,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-08-19T08:28:11.329Z",
     "repliesDismissed": "2026-08-18T14:17:16.507Z",
-    "shipments": "2026-08-19T11:06:13.573Z",
+    "shipments": "2026-08-19T11:06:40.820Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 1917,
-  "savedAt": "2026-08-19T11:06:18.755Z"
+  "rev": 1918,
+  "savedAt": "2026-08-19T11:06:40.829Z"
 }
