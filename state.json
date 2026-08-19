@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-19T13:08:25.463Z",
+  "pushedAt": "2026-08-19T13:10:27.145Z",
   "todosCount": 353,
   "todos": [
     {
@@ -22679,6 +22679,12 @@
       "port": "XIAMEN",
       "date": "2026-08-20",
       "frozenFromVoyage": true
+    },
+    "med liguria::mitsuiman b&w 6s50mcc 9480kw engine no 6192 2011 mitsui engineering & shipbuilding coltd": {
+      "mode": "manual",
+      "port": "XIAMEN",
+      "date": "2026-08-20",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -26033,7 +26039,7 @@
     "voyages": "2026-08-19T12:57:35.401Z",
     "outlookCompletionQueue": "2026-08-18T10:02:41.528Z",
     "manualOrders": "2026-08-19T11:12:21.333Z",
-    "deliveries": "2026-08-19T13:08:25.455Z",
+    "deliveries": "2026-08-19T13:10:27.138Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
     "supplierProfiles": "2026-08-03T07:59:17.064Z",
     "agencyProfiles": "2026-08-07T18:27:36.980Z",
@@ -26043,6 +26049,6 @@
     "shipments": "2026-08-19T13:08:18.101Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 1952,
-  "savedAt": "2026-08-19T13:08:25.463Z"
+  "rev": 1953,
+  "savedAt": "2026-08-19T13:10:27.145Z"
 }
