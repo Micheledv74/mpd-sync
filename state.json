@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-19T14:05:10.954Z",
+  "pushedAt": "2026-08-19T14:05:30.417Z",
   "todosCount": 353,
   "todos": [
     {
@@ -22751,6 +22751,12 @@
       "port": "XIAMEN",
       "date": "2026-08-20",
       "frozenFromVoyage": true
+    },
+    "med liguria::air horn a150ess": {
+      "mode": "manual",
+      "port": "XIAMEN",
+      "date": "2026-08-20",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -26181,7 +26187,7 @@
     "voyages": "2026-08-19T12:57:35.401Z",
     "outlookCompletionQueue": "2026-08-18T10:02:41.528Z",
     "manualOrders": "2026-08-19T11:12:21.333Z",
-    "deliveries": "2026-08-19T14:04:51.386Z",
+    "deliveries": "2026-08-19T14:05:30.410Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
     "supplierProfiles": "2026-08-03T07:59:17.064Z",
     "agencyProfiles": "2026-08-07T18:27:36.980Z",
@@ -26191,6 +26197,6 @@
     "shipments": "2026-08-19T13:53:10.265Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 1990,
-  "savedAt": "2026-08-19T14:05:10.954Z"
+  "rev": 1991,
+  "savedAt": "2026-08-19T14:05:30.417Z"
 }
