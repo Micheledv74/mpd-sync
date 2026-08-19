@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-19T11:11:55.465Z",
+  "pushedAt": "2026-08-19T11:12:02.868Z",
   "todosCount": 353,
   "todos": [
     {
@@ -22245,18 +22245,7 @@
   ],
   "manualOrders": {
     "vegauno": [],
-    "norrbotten": [
-      {
-        "id": "mo_1787137911484_mvqf",
-        "docNum": "",
-        "description": "",
-        "supplier": "",
-        "status": "rfq",
-        "date": "",
-        "amount": "",
-        "currency": "EUR"
-      }
-    ]
+    "norrbotten": []
   },
   "deliveries": {
     "peppino::spa req aux boiler mission oc": {
@@ -25649,6 +25638,6 @@
     "shipments": "2026-08-19T11:07:26.845Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 1925,
-  "savedAt": "2026-08-19T11:11:55.465Z"
+  "rev": 1926,
+  "savedAt": "2026-08-19T11:12:02.868Z"
 }
