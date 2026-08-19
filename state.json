@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-19T10:00:03.308Z",
+  "pushedAt": "2026-08-19T11:01:33.037Z",
   "todosCount": 353,
   "todos": [
     {
@@ -20043,7 +20043,7 @@
         },
         "supEmailOverride": "info@tefin.it",
         "masterEmailOverride": "medtoscana@shipsemail.it",
-        "updatedAt": "2026-08-17T14:52:15.697Z",
+        "updatedAt": "2026-08-19T11:01:29.535Z",
         "reports": [
           {
             "ts": "2026-08-17T09:54:14.739Z",
@@ -20061,7 +20061,12 @@
             "subject": "Richiesta preventivo e disponibilità — 8 interventi — MED TOSCANA",
             "batch": 8
           }
-        ]
+        ],
+        "n": "",
+        "name": "",
+        "certNum": "",
+        "category": "Radio/GMDSS",
+        "notes": ""
       },
       "n:15 C|EPIRB TEST REPORT": {
         "expiry": "2026-09-14",
@@ -25532,8 +25537,8 @@
     "itemOverrides": "2026-08-19T08:28:11.329Z",
     "repliesDismissed": "2026-08-18T14:17:16.507Z",
     "shipments": "2026-08-19T07:40:04.387Z",
-    "certExtras": "2026-08-17T14:55:18.328Z"
+    "certExtras": "2026-08-19T11:01:33.028Z"
   },
-  "rev": 1908,
-  "savedAt": "2026-08-19T10:00:03.308Z"
+  "rev": 1909,
+  "savedAt": "2026-08-19T11:01:33.037Z"
 }
