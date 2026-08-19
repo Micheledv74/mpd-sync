@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-19T12:57:38.205Z",
+  "pushedAt": "2026-08-19T12:57:42.922Z",
   "todosCount": 353,
   "todos": [
     {
@@ -20551,9 +20551,9 @@
         "etd": "",
         "id": "vmrywla39ctr4",
         "from": "Port Luis, Mauritius",
-        "to": "Bedi",
+        "to": "BEDI",
         "etb": "",
-        "eta": "2026-08-27T06:01",
+        "eta": "2026-08-29",
         "agency": {
           "name": "ATLANTIC GLOBAL SHIPPING PVT. LTD.",
           "contacts": "401, 4th Floor ANURAG AVENUE,\nLIMDA LANE, OPP. JAWAHAR PAN,\nJAMNAGAR – (GUJARAT)\nPIN CODE- 361001\nPIC: Mr. Dhiraj Maheria - 9619661677\nMr. Shibu: 9978903353\nMr. Ali: 9978903362\nind-bulk@atlanticglobalshipping.com"
@@ -20561,8 +20561,8 @@
       },
       "next": {},
       "notes": "",
-      "updatedAt": "2026-08-19T12:57:34.377Z",
-      "fromNoon": "2026-08-16",
+      "updatedAt": "2026-08-19T12:57:39.105Z",
+      "fromNoon": "2026-08-19",
       "history": [
         {
           "id": "vmrxb1p8xb75t",
@@ -25695,6 +25695,6 @@
     "shipments": "2026-08-19T11:07:26.845Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 1931,
-  "savedAt": "2026-08-19T12:57:38.205Z"
+  "rev": 1932,
+  "savedAt": "2026-08-19T12:57:42.923Z"
 }
