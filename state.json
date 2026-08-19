@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-19T13:07:19.243Z",
+  "pushedAt": "2026-08-19T13:07:33.783Z",
   "todosCount": 353,
   "todos": [
     {
@@ -25882,11 +25882,61 @@
         "carrier": "Altro",
         "hub": "",
         "number": "131-26268653",
-        "status": "pending",
+        "status": "delivered",
         "pickup": "2026-08-19",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-08-19T13:07:12.234Z"
+        "eta": "2026-08-10",
+        "events": [
+          {
+            "ts": "2026-08-10T17:20",
+            "place": "CAN(Guangzhou)",
+            "text": "DLV · DeliveredShipment has been Delivered.",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-08-08T12:25",
+            "place": "CAN(Guangzhou)",
+            "text": "ARR · Arrived (JL087)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-08T09:11",
+            "place": "HND(Tokyo)",
+            "text": "DEP · Departed (JL087)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-08T07:00",
+            "place": "HND(Tokyo)",
+            "text": "ARR · Arrived (JL9827)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T21:37",
+            "place": "KIX(Osaka)",
+            "text": "RCF · Accepted",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T21:00",
+            "place": "KIX(Osaka)",
+            "text": "DEP · Departed (JL9827)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-05T19:13",
+            "place": "KIX(Osaka)",
+            "text": "BKD · Reserved",
+            "code": "info"
+          },
+          {
+            "ts": "",
+            "place": "CAN(Guangzhou)",
+            "text": "RCF · Shipment Availability",
+            "code": "transit"
+          }
+        ],
+        "updatedAt": "2026-08-19T13:07:30.122Z",
+        "source": "17track-manual"
       }
     ]
   },
@@ -25914,9 +25964,9 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-08-19T11:10:50.878Z",
     "repliesDismissed": "2026-08-18T14:17:16.507Z",
-    "shipments": "2026-08-19T13:07:14.695Z",
+    "shipments": "2026-08-19T13:07:33.774Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 1946,
-  "savedAt": "2026-08-19T13:07:19.245Z"
+  "rev": 1947,
+  "savedAt": "2026-08-19T13:07:33.783Z"
 }
