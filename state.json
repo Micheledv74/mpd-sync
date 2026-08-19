@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-19T13:07:33.783Z",
+  "pushedAt": "2026-08-19T13:07:40.291Z",
   "todosCount": 353,
   "todos": [
     {
@@ -22667,6 +22667,12 @@
       "port": "XIAMEN",
       "date": "2026-08-20",
       "frozenFromVoyage": true
+    },
+    "med liguria::manual fire alarm switch": {
+      "mode": "manual",
+      "port": "XIAMEN",
+      "date": "2026-08-20",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -25967,6 +25973,6 @@
     "shipments": "2026-08-19T13:07:33.774Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 1947,
-  "savedAt": "2026-08-19T13:07:33.783Z"
+  "rev": 1948,
+  "savedAt": "2026-08-19T13:07:40.291Z"
 }
