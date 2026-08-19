@@ -1,20 +1,20 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-18T14:43:09.845Z",
+  "pushedAt": "2026-08-19T07:37:21.285Z",
   "todosCount": 347,
   "todos": [
     {
-      "id": "td_1787062584909_7idcb",
       "category": "Ufficio",
       "priority": "media",
-      "vessel": "",
-      "action": "Controllare",
       "reference": "Rispondere a Noreply@ppg.com — PPG Invoice No 5309882846 10075152",
       "tags": [
         "email",
         "ppg.com"
       ],
+      "id": "td_1787062584909_7idcb",
+      "vessel": "",
+      "action": "Controllare",
       "dueDate": "2026-08-24",
       "note": "To SAN COLOMBANO BULK S.R.L, Attached PDF file contains invoices for goods purchased from PPG Coatings Belgium BV/SRL. Please keep these documents for your payment and tax records. All sales are subject to our Conditions of Sale. Should you wish t",
       "recur": null,
@@ -26,13 +26,13 @@
       "updatedAt": "2026-08-18T14:17:42.837Z"
     },
     {
-      "id": "td_1787047302566_0hfrz",
       "category": "Nave",
       "priority": "media",
-      "vessel": "norrbotten",
-      "action": "Altro",
       "reference": "Fattura/Pagamento",
       "tags": [],
+      "id": "td_1787047302566_0hfrz",
+      "vessel": "norrbotten",
+      "action": "Altro",
       "dueDate": "2026-08-31",
       "note": "Pagamento Fattura EVERLLENCE \n\"C:\\Users\\micheled\\Desktop\\Michele\\NORRBOTTEN\\NOR Purchasing\\Invoice\\20260818122728580.pdf\"",
       "recur": null,
@@ -42,13 +42,13 @@
       "updatedAt": "2026-08-18T10:02:14.837Z"
     },
     {
-      "id": "td_1787040380218_qv9hi",
       "category": "Nave",
       "priority": "media",
-      "vessel": "medtoscana",
-      "action": "Inviare email",
       "reference": "Loreka",
       "tags": [],
+      "id": "td_1787040380218_qv9hi",
+      "vessel": "medtoscana",
+      "action": "Inviare email",
       "dueDate": "2026-08-24",
       "note": "Mandare email per aggiornare Loreka",
       "recur": null,
@@ -57,13 +57,13 @@
       "createdAt": "2026-08-18T08:06:20.218Z"
     },
     {
-      "id": "td_1787040347865_85uxi",
       "category": "Nave",
       "priority": "media",
-      "vessel": "peppino",
-      "action": "Inviare email",
       "reference": "Loreka",
       "tags": [],
+      "id": "td_1787040347865_85uxi",
+      "vessel": "peppino",
+      "action": "Inviare email",
       "dueDate": "2026-08-26",
       "note": "Mandare email per aggiornare Loreka",
       "recur": null,
@@ -72,13 +72,13 @@
       "createdAt": "2026-08-18T08:05:47.865Z"
     },
     {
-      "id": "td_1787040295113_fz6wr",
       "category": "Nave",
       "priority": "media",
-      "vessel": "medliguria",
-      "action": "Inviare email",
       "reference": "Loreka",
       "tags": [],
+      "id": "td_1787040295113_fz6wr",
+      "vessel": "medliguria",
+      "action": "Inviare email",
       "dueDate": "2026-08-24",
       "note": "Mandare email per aggiornare Loreka",
       "recur": null,
@@ -7688,20 +7688,20 @@
       "updatedAt": "2026-08-18T09:00:31.351Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJl-vO1AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO1AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FqHtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-18",
       "note": "",
       "createdAt": "2026-08-17T13:36:13.4792736Z",
@@ -7713,20 +7713,20 @@
       "updatedAt": "2026-08-18T10:02:41.166Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "PPG Invoice No 5309882846 10075152",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJl-vO2AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO2AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FT%2FlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "PPG Invoice No 5309882846 10075152",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "PPG Invoice No 5309882846 10075152",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-31",
       "note": "",
       "createdAt": "2026-08-18T07:21:06.6724649Z",
@@ -7738,20 +7738,20 @@
       "updatedAt": "2026-08-18T09:57:40.553Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJl-vO3AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO3AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FT%2F1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "vegauno",
       "action": "Altro",
-      "reference": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-19",
       "note": "",
       "createdAt": "2026-08-18T07:23:53.8248609Z",
@@ -7763,20 +7763,20 @@
       "updatedAt": "2026-08-18T08:57:06.413Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED TOSCANA - Indian ILO Certificate",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJl-vO5AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO5AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FdaOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: M/V MED TOSCANA - Indian ILO Certificate",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "M/V MED TOSCANA - Indian ILO Certificate",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-19",
       "note": "",
       "createdAt": "2026-08-18T12:57:05.2500116Z",
@@ -7788,21 +7788,21 @@
       "updatedAt": "2026-08-18T14:14:46.444Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112  Mistral Suisse Sagl  TE22518",
+      "tags": [
+        "outlook",
+        "fornitore:MISTRAL"
+      ],
       "id": "outlook_AAJl-vO4AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO4AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAAHdVYtdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112  Mistral Suisse Sagl  TE22518",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112  Mistral Suisse Sagl  TE22518",
-      "tags": [
-        "outlook",
-        "fornitore:MISTRAL"
-      ],
       "dueDate": "2026-08-19",
       "note": "",
       "createdAt": "2026-08-18T12:48:19.8289993Z",
@@ -25364,7 +25364,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-18T14:17:46.482Z",
+    "todos": "2026-08-19T07:37:18.418Z",
     "notes": "2026-08-18T08:34:11.840Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -25385,6 +25385,6 @@
     "shipments": "2026-08-18T07:30:58.044Z",
     "certExtras": "2026-08-17T14:55:18.328Z"
   },
-  "rev": 1872,
-  "savedAt": "2026-08-18T14:43:09.846Z"
+  "rev": 1873,
+  "savedAt": "2026-08-19T07:37:21.285Z"
 }
