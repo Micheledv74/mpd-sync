@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-19T12:54:27.068Z",
+  "pushedAt": "2026-08-19T12:54:47.964Z",
   "todosCount": 353,
   "todos": [
     {
@@ -20490,7 +20490,7 @@
         "to": "XIAMEN",
         "etd": "",
         "etb": "",
-        "eta": "2026-08-19T23:00",
+        "eta": "2026-08-20T01:00",
         "agency": {
           "name": "JOHNASIA SHANGHAI",
           "contacts": "Claris Huang\nMob/Wechat:+86 157 1061 8221\nXiamen JA Shipping Agency Limited\nAdd: Room512A,Block B, International Shipping Center, No.91 XiangyuRd, Xiamen, Fujian, P.R.China. Post Code 361006. \nTel: +86 592 6035561\nFax:+86 592 6035560\nE-mail: xiamen@johnasia.com"
@@ -20505,8 +20505,8 @@
         "agency": null
       },
       "notes": "POL: Yangzhou, China - Lianyungang, China - Singapore (intended bunker port)\nPOD: Tanga, Tanzania - Vila do Conde, Brazil",
-      "updatedAt": "2026-08-18T14:02:20.183Z",
-      "fromNoon": "2026-08-18",
+      "updatedAt": "2026-08-19T12:54:44.424Z",
+      "fromNoon": "2026-08-19",
       "history": [
         {
           "id": "vmrozjfha41th",
@@ -25625,7 +25625,7 @@
     "supplierTimezones": "2026-07-22T18:57:31.789Z",
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
-    "voyages": "2026-08-18T14:02:23.687Z",
+    "voyages": "2026-08-19T12:54:47.958Z",
     "outlookCompletionQueue": "2026-08-18T10:02:41.528Z",
     "manualOrders": "2026-08-19T11:12:21.333Z",
     "deliveries": "2026-08-12T08:22:54.353Z",
@@ -25638,6 +25638,6 @@
     "shipments": "2026-08-19T11:07:26.845Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 1929,
-  "savedAt": "2026-08-19T12:54:27.068Z"
+  "rev": 1930,
+  "savedAt": "2026-08-19T12:54:47.965Z"
 }
