@@ -1,109 +1,9 @@
 {
   "schemaVersion": "1.3",
-  "deviceId": "dev_ex1cq6qu8y",
-  "pushedAt": "2026-08-20T06:05:53.750Z",
-  "todosCount": 355,
+  "deviceId": "dev_jcjbq8zhzw",
+  "pushedAt": "2026-08-20T06:08:14.834Z",
+  "todosCount": 343,
   "todos": [
-    {
-      "category": "Ufficio",
-      "priority": "media",
-      "reference": "Rispondere a Noreply@ppg.com — PPG Invoice No 5309882846 10075152",
-      "tags": [
-        "email",
-        "ppg.com"
-      ],
-      "id": "td_1787062584909_7idcb",
-      "vessel": "",
-      "action": "Controllare",
-      "dueDate": "2026-08-24",
-      "note": "To SAN COLOMBANO BULK S.R.L, Attached PDF file contains invoices for goods purchased from PPG Coatings Belgium BV/SRL. Please keep these documents for your payment and tax records. All sales are subject to our Conditions of Sale. Should you wish t",
-      "recur": null,
-      "kind": "todo",
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FT%2FlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "PPG Invoice No 5309882846 10075152",
-      "done": false,
-      "createdAt": "2026-08-18T14:16:24.909Z",
-      "updatedAt": "2026-08-18T14:17:42.837Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "Fattura/Pagamento",
-      "tags": [],
-      "id": "td_1787047302566_0hfrz",
-      "vessel": "norrbotten",
-      "action": "Altro",
-      "dueDate": "2026-08-31",
-      "note": "Pagamento Fattura EVERLLENCE \n\"C:\\Users\\micheled\\Desktop\\Michele\\NORRBOTTEN\\NOR Purchasing\\Invoice\\20260818122728580.pdf\"",
-      "recur": null,
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-08-18T10:01:42.566Z",
-      "updatedAt": "2026-08-18T10:02:14.837Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "Loreka",
-      "tags": [],
-      "id": "td_1787040380218_qv9hi",
-      "vessel": "medtoscana",
-      "action": "Inviare email",
-      "dueDate": "2026-08-24",
-      "note": "Mandare email per aggiornare Loreka",
-      "recur": null,
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-08-18T08:06:20.218Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "Loreka",
-      "tags": [],
-      "id": "td_1787040347865_85uxi",
-      "vessel": "peppino",
-      "action": "Inviare email",
-      "dueDate": "2026-08-26",
-      "note": "Mandare email per aggiornare Loreka",
-      "recur": null,
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-08-18T08:05:47.865Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "Loreka",
-      "tags": [],
-      "id": "td_1787040295113_fz6wr",
-      "vessel": "medliguria",
-      "action": "Inviare email",
-      "dueDate": "2026-08-24",
-      "note": "Mandare email per aggiornare Loreka",
-      "recur": null,
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-08-18T08:04:55.113Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "Certificati",
-      "tags": [],
-      "id": "td_1786952027567_9pbaz",
-      "vessel": "peppino",
-      "action": "Controllare",
-      "dueDate": "2026-08-29",
-      "note": "",
-      "recur": {
-        "type": "days",
-        "interval": 15
-      },
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-08-17T07:33:47.567Z"
-    },
     {
       "category": "Ufficio",
       "priority": "media",
@@ -143,10 +43,8 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJY7pMiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Some of your installations demand your attention",
-      "done": true,
-      "createdAt": "2026-07-28T08:09:46.713Z",
-      "doneAt": "2026-08-10T22:26:37.166Z",
-      "updatedAt": "2026-08-10T22:26:37.166Z"
+      "done": false,
+      "createdAt": "2026-07-28T08:09:46.713Z"
     },
     {
       "category": "Nave",
@@ -160,10 +58,8 @@
       "note": "Dead Line per Hub TML 06/08/2026",
       "recur": null,
       "kind": "todo",
-      "done": true,
-      "createdAt": "2026-07-24T07:18:53.341Z",
-      "doneAt": "2026-08-11T08:07:08.377Z",
-      "updatedAt": "2026-08-11T08:07:08.377Z"
+      "done": false,
+      "createdAt": "2026-07-24T07:18:53.341Z"
     },
     {
       "category": "Nave",
@@ -219,10 +115,8 @@
         "interval": 15
       },
       "kind": "todo",
-      "done": true,
-      "createdAt": "2026-07-23T09:20:22.198Z",
-      "doneAt": "2026-08-11T08:07:08.863Z",
-      "updatedAt": "2026-08-11T08:07:08.863Z"
+      "done": false,
+      "createdAt": "2026-07-23T09:20:22.198Z"
     },
     {
       "category": "Ufficio",
@@ -236,10 +130,9 @@
       "note": "Spektra Fuel e Due date",
       "recur": null,
       "kind": "todo",
-      "done": true,
+      "done": false,
       "createdAt": "2026-07-23T07:10:28.895Z",
-      "updatedAt": "2026-08-11T08:07:07.534Z",
-      "doneAt": "2026-08-11T08:07:07.534Z"
+      "updatedAt": "2026-07-27T14:23:12.872Z"
     },
     {
       "category": "Nave",
@@ -299,10 +192,9 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJV0gejAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: M/V MED TOSCANA - High-pressure Pump",
-      "done": true,
+      "done": false,
       "createdAt": "2026-07-22T15:19:51.488Z",
-      "updatedAt": "2026-08-11T08:07:02.567Z",
-      "doneAt": "2026-08-11T08:07:02.567Z"
+      "updatedAt": "2026-07-28T13:02:49.261Z"
     },
     {
       "category": "Ufficio",
@@ -560,11 +452,10 @@
       "dueDate": "2026-08-01",
       "note": "Model. HRS280 2.80 mt.\n3 persone, 550 kg.\n7.5 KW 10 hp",
       "recur": null,
-      "done": true,
+      "done": false,
       "createdAt": "2026-07-02T18:42:50.752Z",
-      "updatedAt": "2026-08-11T08:07:00.231Z",
-      "kind": "todo",
-      "doneAt": "2026-08-11T08:07:00.231Z"
+      "updatedAt": "2026-07-27T14:14:34.291Z",
+      "kind": "todo"
     },
     {
       "category": "Nave",
@@ -755,12 +646,11 @@
       "action": "Altro",
       "dueDate": "2026-07-31",
       "note": "Chiedere a Pasquale\n@merce pronta x invio indirizzo",
-      "done": true,
+      "done": false,
       "createdAt": "2026-06-24T13:56:56.797Z",
-      "updatedAt": "2026-08-11T08:07:02.398Z",
+      "updatedAt": "2026-07-28T13:02:56.957Z",
       "kind": "todo",
-      "recur": null,
-      "doneAt": "2026-08-11T08:07:02.398Z"
+      "recur": null
     },
     {
       "category": "Nave",
@@ -851,13 +741,10 @@
       "id": "td_1781594085068_88hrw",
       "vessel": "peppino",
       "action": "Controllare",
-      "dueDate": "2026-08-22",
+      "dueDate": "2026-08-03",
       "note": "Controllare ordine e spedizione",
       "done": false,
-      "createdAt": "2026-06-16T07:14:45.068Z",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-17T09:19:10.172Z"
+      "createdAt": "2026-06-16T07:14:45.068Z"
     },
     {
       "category": "Nave",
@@ -3843,12 +3730,12 @@
       "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-10T07:25:12.9439366Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:00.062Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-11T08:07:00.062Z"
+      "updatedAt": "2026-07-27T14:21:39.022Z"
     },
     {
       "category": "Nave",
@@ -4130,12 +4017,12 @@
       "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-14T21:55:00.3659043Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:59.903Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-11T08:06:59.903Z"
+      "updatedAt": "2026-07-27T14:21:44.597Z"
     },
     {
       "category": "Nave",
@@ -4229,12 +4116,12 @@
       "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-07-16T07:12:48.0879626Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:58.047Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-11T08:06:58.047Z"
+      "updatedAt": "2026-07-17T07:12:53.548Z"
     },
     {
       "category": "Nave",
@@ -4689,12 +4576,12 @@
       "dueDate": "2026-08-01",
       "note": "",
       "createdAt": "2026-07-21T08:31:21.4395477Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:59.743Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-11T08:06:59.743Z"
+      "updatedAt": "2026-07-27T14:15:32.661Z"
     },
     {
       "category": "Nave",
@@ -5083,10 +4970,9 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-23T15:28:54.1594549Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:03.255Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:03.255Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5106,12 +4992,12 @@
       "dueDate": "2026-08-07",
       "note": "",
       "createdAt": "2026-07-24T13:13:21.1043062Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:31.750Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-10T22:26:31.750Z"
+      "updatedAt": "2026-07-28T13:13:22.602Z"
     },
     {
       "category": "Nave",
@@ -5353,12 +5239,12 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-27T14:14:11.4610112Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:02.230Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-11T08:07:02.230Z"
+      "updatedAt": "2026-07-28T08:33:46.490Z"
     },
     {
       "category": "Altro",
@@ -5425,12 +5311,12 @@
       "dueDate": "2026-07-28",
       "note": "",
       "createdAt": "2026-07-28T11:05:20.0012318Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:03.431Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-11T08:07:03.431Z"
+      "updatedAt": "2026-07-28T12:59:11.251Z"
     },
     {
       "category": "Nave",
@@ -5495,12 +5381,12 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-28T08:09:55.0810786Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:02.070Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-11T08:07:02.071Z"
+      "updatedAt": "2026-07-28T13:01:29.812Z"
     },
     {
       "category": "Nave",
@@ -5521,12 +5407,12 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-28T11:53:38.314558Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:01.894Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-11T08:07:01.894Z"
+      "updatedAt": "2026-07-28T13:02:30.276Z"
     },
     {
       "category": "Nave",
@@ -5568,10 +5454,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-30T08:11:17.6677722Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:01.711Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:01.711Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -5591,10 +5476,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-30T08:11:17.0214147Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:01.543Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:01.543Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -5614,10 +5498,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-30T08:11:16.7044335Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:01.393Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:01.393Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -5637,10 +5520,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T12:27:50.4651769Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:01.208Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:01.208Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -5660,10 +5542,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T10:03:28.220341Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:01.038Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:01.038Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5683,10 +5564,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:39:43.0104813Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:00.878Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:00.878Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5707,10 +5587,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:39:24.2639299Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:00.718Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:00.718Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5730,10 +5609,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:36:07.7444853Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:00.567Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:00.567Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5753,10 +5631,9 @@
       "dueDate": "2026-07-31",
       "note": "",
       "createdAt": "2026-07-29T08:25:17.1363227Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:00.392Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:00.392Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5776,10 +5653,9 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-29T07:17:56.1446684Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:03.094Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:03.094Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5800,10 +5676,9 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-29T06:27:48.6347118Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:02.918Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:02.918Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5823,10 +5698,9 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T15:14:35.7044825Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:04.110Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:04.110Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5846,10 +5720,9 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T15:12:42.7301081Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:03.934Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:03.934Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5869,10 +5742,9 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T14:48:39.0951017Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:03.766Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:03.766Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5892,10 +5764,9 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T14:48:38.0485338Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:03.607Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:03.607Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5915,10 +5786,9 @@
       "dueDate": "2026-08-06",
       "note": "",
       "createdAt": "2026-08-07T07:38:41.9985208Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:32.396Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:32.396Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5935,15 +5805,12 @@
       "outlookLinkedName": "Re: I: NORRBOTTEN ADDITIONAL CABLE",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-08-14",
+      "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-07T06:56:47.0625632Z",
-      "done": true,
-      "doneAt": "2026-08-17T09:14:11.154Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-17T09:14:11.155Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5964,10 +5831,9 @@
       "dueDate": "2026-08-06",
       "note": "",
       "createdAt": "2026-08-06T14:24:24.5519428Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:32.124Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:32.124Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -5987,10 +5853,9 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-06T08:14:13.7233933Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:33.199Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:33.199Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6011,10 +5876,9 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-06T07:08:29.7339891Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:33.069Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:33.069Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6035,10 +5899,9 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-06T07:07:11.9249856Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:32.861Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:32.861Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -6058,10 +5921,9 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-05T14:11:22.8368215Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:32.677Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:32.677Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6082,10 +5944,9 @@
       "dueDate": "2026-08-05",
       "note": "",
       "createdAt": "2026-08-05T12:23:32.0681381Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:32.477Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:32.477Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -6105,10 +5966,9 @@
       "dueDate": "2026-08-04",
       "note": "",
       "createdAt": "2026-08-04T14:03:48.8236826Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:33.531Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:33.531Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6129,10 +5989,9 @@
       "dueDate": "2026-08-04",
       "note": "",
       "createdAt": "2026-08-04T13:00:30.8313076Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:33.422Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:33.422Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6152,10 +6011,9 @@
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-04T12:20:58.6654796Z",
-      "done": true,
-      "doneAt": "2026-08-13T08:01:22.624Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-13T08:01:22.624Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6198,10 +6056,9 @@
       "dueDate": "2026-08-03",
       "note": "",
       "createdAt": "2026-08-04T07:05:54.1799026Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:33.939Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:33.939Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6221,10 +6078,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T09:49:07.737028Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:59.583Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:06:59.583Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6245,10 +6101,9 @@
       "dueDate": "2026-08-03",
       "note": "",
       "createdAt": "2026-08-03T08:35:36.8833225Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:33.756Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:33.756Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6269,10 +6124,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T07:35:28.0343713Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:59.407Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:06:59.407Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6315,10 +6169,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T07:33:31.310013Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:59.247Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:06:59.247Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -6338,10 +6191,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-03T07:27:09.8637097Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:59.094Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:06:59.094Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6407,10 +6259,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-08-01T18:01:35.0683171Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:58.934Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:06:58.934Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6430,10 +6281,9 @@
       "dueDate": "2026-08-08",
       "note": "",
       "createdAt": "2026-07-31T15:51:39.5126035Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:31.335Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:31.335Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6453,10 +6303,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T13:02:12.8229823Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:58.766Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:06:58.767Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6477,10 +6326,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T13:02:11.7752179Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:58.598Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:06:58.598Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6500,10 +6348,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T11:05:07.1921396Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:58.439Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:06:58.439Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6523,10 +6370,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T10:37:35.6538016Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:58.255Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:06:58.255Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6546,10 +6392,9 @@
       "dueDate": "2026-07-30",
       "note": "",
       "createdAt": "2026-07-31T10:37:05.6630365Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:02.744Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:02.745Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6569,10 +6414,9 @@
       "dueDate": "2026-08-02",
       "note": "",
       "createdAt": "2026-07-31T09:58:59.0257064Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:37.482Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:37.482Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6592,10 +6436,9 @@
       "dueDate": "2026-08-08",
       "note": "",
       "createdAt": "2026-07-31T05:58:47.0027175Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:30.994Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:30.994Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6616,10 +6459,9 @@
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-07T12:18:22.0472635Z",
-      "done": true,
-      "doneAt": "2026-08-13T08:02:35.649Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-13T08:02:35.649Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6640,10 +6482,9 @@
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-07T12:18:06.0655963Z",
-      "done": true,
-      "doneAt": "2026-08-17T08:01:59.995Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-17T08:01:59.995Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6664,10 +6505,9 @@
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-07T11:56:20.5636796Z",
-      "done": true,
-      "doneAt": "2026-08-17T07:34:43.130Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-17T07:34:43.130Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6688,10 +6528,9 @@
       "dueDate": "2026-08-06",
       "note": "",
       "createdAt": "2026-08-07T10:52:51.217955Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:31.949Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:31.949Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6712,10 +6551,9 @@
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-07T10:38:13.8631911Z",
-      "done": true,
-      "doneAt": "2026-08-13T08:05:03.841Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-13T08:05:03.841Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6736,10 +6574,9 @@
       "dueDate": "2026-08-08",
       "note": "",
       "createdAt": "2026-08-08T07:40:32.1080614Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:30.530Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:30.530Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6759,10 +6596,9 @@
       "dueDate": "2026-08-09",
       "note": "",
       "createdAt": "2026-08-07T15:13:59.2727456Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:26.749Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:26.749Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6782,10 +6618,9 @@
       "dueDate": "2026-08-07",
       "note": "",
       "createdAt": "2026-08-07T14:15:16.8331696Z",
-      "done": true,
-      "doneAt": "2026-08-10T22:26:31.517Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-10T22:26:31.517Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -6828,10 +6663,9 @@
       "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-08-10T12:33:57.2474713Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:57.609Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:06:57.609Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -6851,10 +6685,9 @@
       "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-08-10T10:51:29.358664Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:06:46.198Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:06:46.199Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -6871,15 +6704,12 @@
       "outlookLinkedName": "R: M/V MED TOSCANA - Port Luis Call -Request for Shipping Instructions",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-08-12",
+      "dueDate": "2026-08-11",
       "note": "",
       "createdAt": "2026-08-11T13:59:21.9281114Z",
-      "done": true,
-      "doneAt": "2026-08-12T11:04:59.222Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-12T11:04:59.222Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -6896,15 +6726,12 @@
       "outlookLinkedName": "RE: MV PEPPINO - Planned Maintenance Status and Work Priorities",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-08-12",
+      "dueDate": "2026-08-10",
       "note": "",
       "createdAt": "2026-08-11T08:14:15.1495043Z",
-      "done": true,
-      "doneAt": "2026-08-12T14:04:27.273Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-12T14:04:27.273Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
@@ -6943,382 +6770,78 @@
       "outlookLinkedName": "Re: [EXTERNAL] MV Peppino @ Takoradi + Tema ",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-08-11",
+      "dueDate": "2026-08-12",
       "note": "",
       "createdAt": "2026-08-10T15:41:36.0481752Z",
-      "done": true,
-      "doneAt": "2026-08-11T08:07:19.167Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-11T08:07:19.167Z"
-    },
-    {
-      "category": "Ufficio",
-      "priority": "alta",
-      "reference": "Rispondere a YH MARINE TRADE — 回复：（无主题）",
-      "tags": [
-        "email",
-        "yhmarine.com.cn"
-      ],
-      "id": "td_1786450547410_bs8p6",
-      "vessel": "",
-      "action": "Verificare",
-      "dueDate": "2026-08-24",
-      "note": "Dear Sir Good day Well noted the msg and pls check: issued to Red Coral Bulkers Ltd.: Invoice No. YHPE26041401, Purchase Order No. 2026-PEP-HQPO-00089 amounting to USD 1996.20 , this is right. So it means that an extra blance for $310 was remain,",
-      "recur": null,
-      "kind": "todo",
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJf94kuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "回复：（无主题）",
       "done": false,
-      "createdAt": "2026-08-11T12:15:47.410Z",
-      "updatedAt": "2026-08-17T09:19:35.829Z"
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "Rispondere a Samet Postacı — RE: pdf No 42",
-      "tags": [
-        "email",
-        "sekercilergroup.com"
-      ],
-      "id": "td_1786445094648_mxtmz",
-      "vessel": "norrbotten",
-      "action": "Inviare email",
-      "dueDate": "2026-08-12",
-      "note": "Dear Sirs, Please see our enclosed offer. Best Regards, Samet POSTACI Satış Sorumlusu / Sales Executive Evliya Çelebi Mah. Uyum Sok. No:3 Tuzla / İSTANBUL 0216 447 51 51 0501 810 82 01 samet.postaci@sekercilergroup.com https",
-      "recur": null,
-      "kind": "todo",
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJjTfvfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "RE: pdf No 42",
-      "done": true,
-      "createdAt": "2026-08-11T10:44:54.648Z",
-      "updatedAt": "2026-08-12T11:08:02.370Z",
-      "doneAt": "2026-08-12T11:08:02.370Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "Certificati",
-      "tags": [],
-      "id": "td_1786435628865_mbij4",
-      "vessel": "peppino",
-      "action": "Controllare",
-      "dueDate": "2026-08-14",
-      "note": "",
-      "recur": {
-        "type": "days",
-        "interval": 15
-      },
-      "kind": "todo",
-      "done": true,
-      "createdAt": "2026-08-11T08:07:08.865Z",
-      "doneAt": "2026-08-17T07:33:47.561Z",
-      "updatedAt": "2026-08-17T07:33:47.564Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "Rispondere a LG MARINE SERVICES — 回复: M/V MED LIGURIA - Xiamen - update on 10 Aug",
-      "tags": [
-        "email",
-        "lgmarineservices.com"
-      ],
-      "id": "td_1786401782147_7hq4u",
-      "vessel": "medliguria",
-      "action": "Inviare email",
-      "dueDate": "2026-08-10",
-      "note": "Dear Umberto, Good day. Many thanks for your email below. Yes, new grabs are prepared and delivery procedure will be arranged accordingly. Kindly request crew to disembark all grabs accessaries included all remote controlllers, battery etcs together w",
-      "recur": null,
-      "kind": "todo",
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJhs6q8AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "回复: M/V MED LIGURIA - Xiamen - update on 10 Aug",
-      "done": true,
-      "createdAt": "2026-08-10T22:43:02.147Z",
-      "doneAt": "2026-08-11T08:07:06.479Z",
-      "updatedAt": "2026-08-11T08:07:06.479Z"
-    },
-    {
-      "category": "Email",
-      "priority": "media",
-      "reference": "Re: R: M/V MED LIGURIA - Shipment at Singapore",
-      "tags": [],
-      "id": "td_1786400127854_8yz4c",
-      "vessel": "",
-      "action": "Rispondere a Purchasing SSSDAm — M/V MED LIGURIA - Shipment at Singapore",
-      "dueDate": "2026-08-12",
-      "note": "Scadenza rilevata nell'email.",
-      "recur": null,
-      "kind": "todo",
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJf94klAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "Re: R: M/V MED LIGURIA - Shipment at Singapore",
-      "done": true,
-      "createdAt": "2026-08-10T22:15:27.854Z",
-      "updatedAt": "2026-08-10T22:19:12.905Z"
-    },
-    {
-      "category": "Ufficio",
-      "priority": "alta",
-      "reference": "Rispondere a T. Coriglie (CBH) — WG: Shipment of order-nos. CBH 43940+43941",
-      "tags": [
-        "email",
-        "carlbaguhn.de"
-      ],
-      "id": "td_1786399855364_i3heh",
-      "vessel": "",
-      "action": "Inviare email",
-      "dueDate": "2026-08-10",
-      "note": "Dear Michele, We just received the freight costs from our forwarder: From Hamburg to Airport Istanbul: EUR 2400.00 Kindly ask you if we should prepare the shipment. Thanks in advance, Mit freundlichen Grüßen / With best regards Tanja Cor",
-      "recur": null,
-      "kind": "todo",
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJhs6qxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "WG: Shipment of order-nos. CBH 43940+43941",
-      "done": true,
-      "createdAt": "2026-08-10T22:10:55.364Z",
-      "doneAt": "2026-08-11T08:07:04.278Z",
-      "updatedAt": "2026-08-11T08:07:04.278Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "Norrbotten main supply today 12.08",
+      "reference": "<ORDCNF> MED LIGURIA 2026-MLG-HQPO-00078 FTC-4189191",
       "tags": [
         "outlook"
       ],
-      "id": "outlook_AAJjTooGAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooGAAA=",
+      "id": "outlook_AAJke12VAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12VAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJjTiL%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "Norrbotten main supply today 12.08",
-      "vessel": "norrbotten",
-      "action": "Altro",
-      "dueDate": "2026-08-11",
-      "note": "",
-      "createdAt": "2026-08-12T06:54:58.4668162Z",
-      "done": true,
-      "doneAt": "2026-08-12T11:03:53.836Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-12T11:03:53.837Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/V MED LIGURIA  PR69  HQRQ-00124  MLG-SHPR-00069  YH MARINE TRADE CO.,LTD",
-      "tags": [
-        "outlook",
-        "fornitore:YH"
-      ],
-      "id": "outlook_AAJjTooHAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooHAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9VXAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "I: M/V MED LIGURIA  PR69  HQRQ-00124  MLG-SHPR-00069  YH MARINE TRADE CO.,LTD",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAADqwEvGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "<ORDCNF> MED LIGURIA 2026-MLG-HQPO-00078 FTC-4189191",
       "vessel": "medliguria",
       "action": "Altro",
       "dueDate": "2026-08-14",
       "note": "",
-      "createdAt": "2026-08-12T10:48:43.5190968Z",
-      "done": true,
-      "doneAt": "2026-08-17T09:16:24.403Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-17T09:16:24.403Z"
+      "createdAt": "2026-08-14T13:55:10.1476836Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "Mv Norrbotten change of Vessel Name and Company",
+      "tags": [
+        "outlook"
+      ],
+      "id": "outlook_AAJke12UAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12UAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NrAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B88uAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Mv Norrbotten change of Vessel Name and Company",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "dueDate": "2026-08-13",
+      "note": "",
+      "createdAt": "2026-08-14T10:42:54.0248228Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
       "priority": "media",
-      "reference": "MV PEPPINO - Planned Maintenance Status and Work Priorities",
+      "reference": "Shipment of order-nos. CBH 43940+43941",
       "tags": [
         "outlook"
       ],
-      "id": "outlook_AAJjTooLAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooLAAA=",
+      "id": "outlook_AAJke12TAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12TAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9VjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "I: MV PEPPINO - Planned Maintenance Status and Work Priorities",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJkeqq0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "AW: Shipment of order-nos. CBH 43940+43941",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-08-13",
+      "dueDate": "2026-08-14",
       "note": "",
-      "createdAt": "2026-08-12T14:06:39.8916965Z",
-      "done": true,
-      "doneAt": "2026-08-13T08:06:27.501Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-13T08:06:27.501Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "MYTHMAR-26.6267/ MV NORRBOTTEN /ME.",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJjTooKAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooKAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJjTiMAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "Re: MYTHMAR-26.6267/ MV NORRBOTTEN /ME.",
-      "vessel": "norrbotten",
-      "action": "Altro",
-      "dueDate": "2026-08-13",
-      "note": "",
-      "createdAt": "2026-08-12T13:16:37.0058906Z",
-      "done": true,
-      "doneAt": "2026-08-13T08:06:40.909Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-13T08:06:40.909Z"
-    },
-    {
-      "category": "Altro",
-      "priority": "media",
-      "reference": "INFOSHIP - Quotazione implementazione",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJjTooJAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooJAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJjTfwpAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "RE: INFOSHIP - Quotazione implementazione",
-      "vessel": "",
-      "action": "Altro",
-      "dueDate": "2026-08-13",
-      "note": "",
-      "createdAt": "2026-08-12T13:00:51.9495453Z",
-      "done": true,
-      "doneAt": "2026-08-13T08:06:44.922Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-13T08:06:44.922Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE",
-      "tags": [
-        "outlook",
-        "fornitore:RK"
-      ],
-      "id": "outlook_AAJjTooIAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooIAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9ViAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "I: M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE",
-      "vessel": "medtoscana",
-      "action": "Altro",
-      "dueDate": "2026-08-13",
-      "note": "",
-      "createdAt": "2026-08-12T12:56:44.0748479Z",
-      "done": true,
-      "doneAt": "2026-08-13T08:07:01.313Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-13T08:07:01.313Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE",
-      "tags": [
-        "outlook",
-        "fornitore:RK"
-      ],
-      "id": "outlook_AAJkV8OyAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJkV8OyAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60dAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B5OsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "RE: M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE",
-      "vessel": "medtoscana",
-      "action": "Altro",
-      "dueDate": "2026-08-12",
-      "note": "",
-      "createdAt": "2026-08-12T20:03:19.9078099Z",
-      "done": true,
-      "doneAt": "2026-08-13T07:52:07.766Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-13T07:52:07.766Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "TEF064398 Supply cables NORRBOTTEN ",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJke12JAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12JAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9VrAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "I: TEF064398 Supply cables NORRBOTTEN ",
-      "vessel": "norrbotten",
-      "action": "Altro",
-      "dueDate": "2026-08-13",
-      "note": "",
-      "createdAt": "2026-08-13T09:46:52.4125049Z",
-      "done": true,
-      "doneAt": "2026-08-17T07:35:00.729Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-17T07:35:00.730Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE",
-      "tags": [
-        "outlook",
-        "fornitore:RK"
-      ],
-      "id": "outlook_AAJke12IAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12IAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9VoAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "R: M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE",
-      "vessel": "medtoscana",
-      "action": "Altro",
-      "dueDate": "2026-08-13",
-      "note": "",
-      "createdAt": "2026-08-13T07:46:49.4578661Z",
-      "done": true,
-      "doneAt": "2026-08-17T07:35:17.754Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-17T07:35:17.754Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "NORRBOTTEN  REQ: No 44 BATTERY & No 45 LO AFT WINCH",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJke12KAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12KAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B6GyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "NORRBOTTEN  REQ: No 44 BATTERY & No 45 LO AFT WINCH",
-      "vessel": "norrbotten",
-      "action": "Altro",
-      "dueDate": "2026-08-13",
-      "note": "",
-      "createdAt": "2026-08-13T12:33:42.4262338Z",
-      "done": true,
-      "doneAt": "2026-08-17T07:35:53.819Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-17T07:35:53.819Z"
+      "createdAt": "2026-08-14T10:07:59.4451596Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -7338,10 +6861,9 @@
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:58:06.4952933Z",
-      "done": true,
-      "doneAt": "2026-08-17T07:36:26.564Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-17T07:36:26.564Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -7362,10 +6884,9 @@
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:54:44.2880796Z",
-      "done": true,
-      "doneAt": "2026-08-17T07:40:11.541Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-17T07:40:11.541Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -7382,15 +6903,12 @@
       "outlookLinkedName": "M/V MED LIGURIA  PR74  HQRQ-00150  MLG-SHPR-00074  PPG PROTECTIVE &amp; MARINE COATINS",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-08-18",
+      "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:54:10.1828479Z",
-      "done": true,
-      "doneAt": "2026-08-18T08:10:05.344Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-18T08:10:05.344Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -7407,15 +6925,12 @@
       "outlookLinkedName": "M/v MED LIGURIA - Richiesta ITU IV",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-08-17",
+      "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:32:29.7703302Z",
-      "done": true,
-      "doneAt": "2026-08-17T09:36:53.293Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-17T09:36:53.293Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -7433,15 +6948,12 @@
       "outlookLinkedName": "M/V MED LIGURIA  PR51  HQPO-00078  MLG-SHPR-00051  FUJI TRADING JAPAN",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-10-13",
+      "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:29:34.6001092Z",
-      "done": true,
-      "doneAt": "2026-08-18T08:24:14.056Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-18T08:26:44.756Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -7459,15 +6971,12 @@
       "outlookLinkedName": "M/V MED LIGURIA  PR36  HQPO-00076  MLG-SHPR-00036  MAS MARINE SHIPPING SUPPLIES",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-09-14",
+      "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:29:18.2997025Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-18T08:27:48.629Z"
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -7484,15 +6993,12 @@
       "outlookLinkedName": "M/V MED LIGURIA  PR36  HQPO-00075  MLG-SHPR-00036  G&amp;P TECH CO.",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-08-21",
+      "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T14:29:18.0076488Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-18T08:34:28.981Z"
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
@@ -7513,324 +7019,118 @@
       "dueDate": "2026-08-13",
       "note": "",
       "createdAt": "2026-08-13T13:56:35.5384395Z",
-      "done": true,
-      "doneAt": "2026-08-17T09:13:44.098Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-17T09:13:44.098Z"
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "<ORDCNF> MED LIGURIA 2026-MLG-HQPO-00078 FTC-4189191",
+      "reference": "NORRBOTTEN  REQ: No 44 BATTERY & No 45 LO AFT WINCH",
       "tags": [
         "outlook"
       ],
-      "id": "outlook_AAJke12VAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12VAAA=",
+      "id": "outlook_AAJke12KAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12KAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAADqwEvGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "<ORDCNF> MED LIGURIA 2026-MLG-HQPO-00078 FTC-4189191",
-      "vessel": "medliguria",
-      "action": "Altro",
-      "dueDate": "2026-08-14",
-      "note": "",
-      "createdAt": "2026-08-14T13:55:10.1476836Z",
-      "done": true,
-      "doneAt": "2026-08-17T09:17:30.396Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-17T09:17:30.396Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "Mv Norrbotten change of Vessel Name and Company",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJke12UAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12UAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NrAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B88uAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "Mv Norrbotten change of Vessel Name and Company",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B6GyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "NORRBOTTEN  REQ: No 44 BATTERY & No 45 LO AFT WINCH",
       "vessel": "norrbotten",
       "action": "Altro",
       "dueDate": "2026-08-13",
       "note": "",
-      "createdAt": "2026-08-14T10:42:54.0248228Z",
-      "done": true,
-      "doneAt": "2026-08-17T09:13:57.210Z",
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-17T09:13:57.210Z"
-    },
-    {
-      "category": "Altro",
-      "priority": "media",
-      "reference": "Shipment of order-nos. CBH 43940+43941",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJke12TAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12TAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJkeqq0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "AW: Shipment of order-nos. CBH 43940+43941",
-      "vessel": "",
-      "action": "Altro",
-      "dueDate": "2026-08-19",
-      "note": "",
-      "createdAt": "2026-08-14T10:07:59.4451596Z",
+      "createdAt": "2026-08-13T12:33:42.4262338Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-18T08:57:26.900Z"
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "M/V MED TOSCANA - Richiesta preventivo e disponibilità service  - BEDI",
+      "reference": "TEF064398 Supply cables NORRBOTTEN ",
       "tags": [
         "outlook"
       ],
-      "id": "outlook_AAJl-vO0AAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO0AAA=",
+      "id": "outlook_AAJke12JAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12JAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WDAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "M/V MED TOSCANA - Richiesta preventivo e disponibilità service  - BEDI",
-      "vessel": "medtoscana",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9VrAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: TEF064398 Supply cables NORRBOTTEN ",
+      "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-08-19",
+      "dueDate": "2026-08-13",
       "note": "",
-      "createdAt": "2026-08-17T12:22:12.0661739Z",
+      "createdAt": "2026-08-13T09:46:52.4125049Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-18T08:57:48.573Z"
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "Richiesta preventivo e disponibilità — 8 interventi — MED TOSCANA",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJl-vOzAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vOzAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2F0bOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "Richiesta preventivo e disponibilità — 8 interventi — MED TOSCANA",
-      "vessel": "medtoscana",
-      "action": "Altro",
-      "dueDate": "2026-08-17",
-      "note": "",
-      "createdAt": "2026-08-17T12:20:17.9119029Z",
-      "done": true,
-      "doneAt": "2026-08-17T12:22:11.8349517Z",
-      "outlookStatus": "completed"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification - Bedi",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJl-vOyAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vOyAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9V%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification - Bedi",
-      "vessel": "medtoscana",
-      "action": "Altro",
-      "dueDate": "2026-08-19",
-      "note": "",
-      "createdAt": "2026-08-17T10:16:34.1475834Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-18T09:00:13.328Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/V MED TOSCANA PR85 HQRQ-00139 MDT-SHPR-00085 RK MARINE SERVICE",
+      "reference": "M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE",
       "tags": [
         "outlook",
         "fornitore:RK"
       ],
-      "id": "outlook_AAJl-vOxAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vOxAAA=",
+      "id": "outlook_AAJke12IAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJke12IAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9V%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "R: M/V MED TOSCANA PR85 HQRQ-00139 MDT-SHPR-00085 RK MARINE SERVICE",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9VoAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-08-19",
+      "dueDate": "2026-08-13",
       "note": "",
-      "createdAt": "2026-08-17T08:04:28.8118022Z",
+      "createdAt": "2026-08-13T07:46:49.4578661Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-18T09:00:31.351Z"
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN",
+      "reference": "M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE",
       "tags": [
-        "outlook"
+        "outlook",
+        "fornitore:RK"
       ],
-      "id": "outlook_AAJl-vO1AAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO1AAA=",
+      "id": "outlook_AAJkV8OyAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJkV8OyAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FqHtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN",
-      "vessel": "norrbotten",
-      "action": "Altro",
-      "dueDate": "2026-08-18",
-      "note": "",
-      "createdAt": "2026-08-17T13:36:13.4792736Z",
-      "done": true,
-      "doneAt": "2026-08-18T10:02:41.166Z",
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-18T10:02:41.166Z"
-    },
-    {
-      "category": "Altro",
-      "priority": "media",
-      "reference": "PPG Invoice No 5309882846 10075152",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJl-vO2AAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO2AAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FT%2FlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "PPG Invoice No 5309882846 10075152",
-      "vessel": "",
-      "action": "Altro",
-      "dueDate": "2026-08-31",
-      "note": "",
-      "createdAt": "2026-08-18T07:21:06.6724649Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-18T09:57:40.553Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJl-vO3AAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO3AAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FT%2F1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "R: M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
-      "vessel": "vegauno",
-      "action": "Altro",
-      "dueDate": "2026-08-19",
-      "note": "",
-      "createdAt": "2026-08-18T07:23:53.8248609Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-18T08:57:06.413Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/V MED TOSCANA - Indian ILO Certificate",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJl-vO5AAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO5AAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FdaOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "RE: M/V MED TOSCANA - Indian ILO Certificate",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60dAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B5OsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-08-19",
+      "dueDate": "2026-08-12",
       "note": "",
-      "createdAt": "2026-08-18T12:57:05.2500116Z",
+      "createdAt": "2026-08-12T20:03:19.9078099Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-18T14:14:46.444Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112  Mistral Suisse Sagl  TE22518",
-      "tags": [
-        "outlook",
-        "fornitore:MISTRAL"
-      ],
-      "id": "outlook_AAJl-vO4AAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO4AAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAAHdVYtdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112  Mistral Suisse Sagl  TE22518",
-      "vessel": "peppino",
-      "action": "Altro",
-      "dueDate": "2026-08-19",
-      "note": "",
-      "createdAt": "2026-08-18T12:48:19.8289993Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-08-18T14:15:00.508Z"
+      "outlookStatus": "notStarted"
     },
     {
       "category": "Altro",
       "priority": "media",
-      "reference": "riscontro fattura",
+      "reference": "MV PEPPINO - Planned Maintenance Status and Work Priorities",
       "tags": [
         "outlook"
       ],
-      "id": "outlook_AAJl-vO6AAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO6AAA=",
+      "id": "outlook_AAJjTooLAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooLAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FUBEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "riscontro fattura",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9VjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: MV PEPPINO - Planned Maintenance Status and Work Priorities",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-08-20",
+      "dueDate": "2026-08-12",
       "note": "",
-      "createdAt": "2026-08-18T15:39:28.3493386Z",
+      "createdAt": "2026-08-12T14:06:39.8916965Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -7838,111 +7138,43 @@
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN",
+      "reference": "MYTHMAR-26.6267/ MV NORRBOTTEN /ME.",
       "tags": [
         "outlook"
       ],
-      "id": "outlook_AAJoY9kZAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kZAAA=",
+      "id": "outlook_AAJjTooKAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooKAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "I: TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJjTiMAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Re: MYTHMAR-26.6267/ MV NORRBOTTEN /ME.",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-08-19",
+      "dueDate": "2026-08-12",
       "note": "",
-      "createdAt": "2026-08-19T08:14:52.019006Z",
+      "createdAt": "2026-08-12T13:16:37.0058906Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/V NORRBOTTEN - IO063977 RETROFIT SISTEMA TIMONE  NORRBOTTEN 2026-NOR-00050 ",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAJoY9kYAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kYAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WeAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "M/V NORRBOTTEN - IO063977 RETROFIT SISTEMA TIMONE  NORRBOTTEN 2026-NOR-00050 ",
-      "vessel": "norrbotten",
-      "action": "Altro",
-      "dueDate": "2026-08-19",
-      "note": "",
-      "createdAt": "2026-08-19T08:14:45.1606301Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/V NORRBOTTEN - Pagamento per Farmacia Ghigliazza",
-      "tags": [
-        "outlook",
-        "fornitore:FARMACIA"
-      ],
-      "id": "outlook_AAJoY9kXAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kXAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WcAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "M/V NORRBOTTEN - Pagamento per Farmacia Ghigliazza",
-      "vessel": "norrbotten",
-      "action": "Altro",
-      "dueDate": "2026-08-19",
-      "note": "",
-      "createdAt": "2026-08-19T08:14:44.8298951Z",
-      "done": true,
-      "doneAt": "2026-08-19T10:23:30.6867856Z",
-      "outlookStatus": "completed"
-    },
-    {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112  Mistral Suisse Sagl  TE22518",
-      "tags": [
-        "outlook",
-        "fornitore:MISTRAL"
-      ],
-      "id": "outlook_AAJoY9kWAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kWAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "I: M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112  Mistral Suisse Sagl  TE22518",
-      "vessel": "peppino",
-      "action": "Altro",
-      "dueDate": "2026-08-19",
-      "note": "",
-      "createdAt": "2026-08-19T07:59:07.4825965Z",
-      "done": true,
-      "doneAt": "2026-08-19T10:23:31.6678395Z",
-      "outlookStatus": "completed"
     },
     {
       "category": "Altro",
       "priority": "media",
-      "reference": "Tekomar EXPERT | Readings Pending ",
+      "reference": "INFOSHIP - Quotazione implementazione",
       "tags": [
         "outlook"
       ],
-      "id": "outlook_AAJoY9kaAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kaAAA=",
+      "id": "outlook_AAJjTooJAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooJAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJoY%2FFUAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "RE: Tekomar EXPERT | Readings Pending ",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJjTfwpAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: INFOSHIP - Quotazione implementazione",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-08-18",
+      "dueDate": "2026-08-12",
       "note": "",
-      "createdAt": "2026-08-19T08:37:11.497701Z",
+      "createdAt": "2026-08-12T13:00:51.9495453Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -7950,18 +7182,86 @@
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "M/V MED TOSCANA - Indian ILO Certificate",
+      "reference": "M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE",
+      "tags": [
+        "outlook",
+        "fornitore:RK"
+      ],
+      "id": "outlook_AAJjTooIAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooIAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9ViAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: M/V MED TOSCANA PR83 HQRQ-00140 MDT-SHPR-00083 RK MARINE SERVICE",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "dueDate": "2026-08-12",
+      "note": "",
+      "createdAt": "2026-08-12T12:56:44.0748479Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED LIGURIA  PR69  HQRQ-00124  MLG-SHPR-00069  YH MARINE TRADE CO.,LTD",
+      "tags": [
+        "outlook",
+        "fornitore:YH"
+      ],
+      "id": "outlook_AAJjTooHAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooHAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9VXAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: M/V MED LIGURIA  PR69  HQRQ-00124  MLG-SHPR-00069  YH MARINE TRADE CO.,LTD",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "dueDate": "2026-08-12",
+      "note": "",
+      "createdAt": "2026-08-12T10:48:43.5190968Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "Norrbotten main supply today 12.08",
       "tags": [
         "outlook"
       ],
+      "id": "outlook_AAJjTooGAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJjTooGAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJjTiL%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Norrbotten main supply today 12.08",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "dueDate": "2026-08-11",
+      "note": "",
+      "createdAt": "2026-08-12T06:54:58.4668162Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
       "id": "outlook_AAJoY9kcAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kcAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WpAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V MED TOSCANA - Indian ILO Certificate",
+      "category": "Nave",
+      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
+      "reference": "M/V MED TOSCANA - Indian ILO Certificate",
+      "tags": [
+        "outlook"
+      ],
       "dueDate": "2026-08-19",
       "note": "",
       "createdAt": "2026-08-19T15:04:41.585549Z",
@@ -7970,23 +7270,357 @@
       "outlookStatus": "notStarted"
     },
     {
-      "category": "Nave",
-      "priority": "media",
-      "reference": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla",
-      "tags": [
-        "outlook"
-      ],
       "id": "outlook_AAJoY9kbAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kbAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJfDAvpAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla",
+      "category": "Nave",
+      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
+      "reference": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla",
+      "tags": [
+        "outlook"
+      ],
       "dueDate": "2026-08-19",
       "note": "",
       "createdAt": "2026-08-19T14:57:47.2408477Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJoY9kaAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kaAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJoY%2FFUAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: Tekomar EXPERT | Readings Pending ",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "Tekomar EXPERT | Readings Pending ",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-18",
+      "note": "",
+      "createdAt": "2026-08-19T08:37:11.497701Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJoY9kZAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kZAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-19",
+      "note": "",
+      "createdAt": "2026-08-19T08:14:52.019006Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJoY9kYAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kYAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WeAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/V NORRBOTTEN - IO063977 RETROFIT SISTEMA TIMONE  NORRBOTTEN 2026-NOR-00050 ",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "M/V NORRBOTTEN - IO063977 RETROFIT SISTEMA TIMONE  NORRBOTTEN 2026-NOR-00050 ",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-19",
+      "note": "",
+      "createdAt": "2026-08-19T08:14:45.1606301Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJoY9kXAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kXAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WcAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/V NORRBOTTEN - Pagamento per Farmacia Ghigliazza",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "M/V NORRBOTTEN - Pagamento per Farmacia Ghigliazza",
+      "tags": [
+        "outlook",
+        "fornitore:FARMACIA"
+      ],
+      "dueDate": "2026-08-19",
+      "note": "",
+      "createdAt": "2026-08-19T08:14:44.8298951Z",
+      "done": true,
+      "doneAt": "2026-08-19T10:23:30.6867856Z",
+      "outlookStatus": "completed"
+    },
+    {
+      "id": "outlook_AAJoY9kWAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kWAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112  Mistral Suisse Sagl  TE22518",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112  Mistral Suisse Sagl  TE22518",
+      "tags": [
+        "outlook",
+        "fornitore:MISTRAL"
+      ],
+      "dueDate": "2026-08-19",
+      "note": "",
+      "createdAt": "2026-08-19T07:59:07.4825965Z",
+      "done": true,
+      "doneAt": "2026-08-19T10:23:31.6678395Z",
+      "outlookStatus": "completed"
+    },
+    {
+      "id": "outlook_AAJl-vO6AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO6AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FUBEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "riscontro fattura",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "riscontro fattura",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-21",
+      "note": "",
+      "createdAt": "2026-08-18T15:39:28.3493386Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJl-vO5AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO5AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FdaOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: M/V MED TOSCANA - Indian ILO Certificate",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "M/V MED TOSCANA - Indian ILO Certificate",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-18",
+      "note": "",
+      "createdAt": "2026-08-18T12:57:05.2500116Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJl-vO4AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO4AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAAHdVYtdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112  Mistral Suisse Sagl  TE22518",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112  Mistral Suisse Sagl  TE22518",
+      "tags": [
+        "outlook",
+        "fornitore:MISTRAL"
+      ],
+      "dueDate": "2026-08-18",
+      "note": "",
+      "createdAt": "2026-08-18T12:48:19.8289993Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJl-vO3AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO3AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FT%2F1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "vegauno",
+      "action": "Altro",
+      "reference": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-17",
+      "note": "",
+      "createdAt": "2026-08-18T07:23:53.8248609Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJl-vO2AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO2AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FT%2FlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "PPG Invoice No 5309882846 10075152",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "PPG Invoice No 5309882846 10075152",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-18",
+      "note": "",
+      "createdAt": "2026-08-18T07:21:06.6724649Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJl-vO1AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO1AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2FqHtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-17",
+      "note": "",
+      "createdAt": "2026-08-17T13:36:13.4792736Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJl-vO0AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO0AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WDAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/V MED TOSCANA - Richiesta preventivo e disponibilità service  - BEDI",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "M/V MED TOSCANA - Richiesta preventivo e disponibilità service  - BEDI",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-17",
+      "note": "",
+      "createdAt": "2026-08-17T12:22:12.0661739Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJl-vOzAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vOzAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAJl%2F0bOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Richiesta preventivo e disponibilità — 8 interventi — MED TOSCANA",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "Richiesta preventivo e disponibilità — 8 interventi — MED TOSCANA",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-17",
+      "note": "",
+      "createdAt": "2026-08-17T12:20:17.9119029Z",
+      "done": true,
+      "doneAt": "2026-08-17T12:22:11.8349517Z",
+      "outlookStatus": "completed"
+    },
+    {
+      "id": "outlook_AAJl-vOyAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vOyAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9V%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification - Bedi",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification - Bedi",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-17",
+      "note": "",
+      "createdAt": "2026-08-17T10:16:34.1475834Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJl-vOxAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vOxAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9V%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: M/V MED TOSCANA PR85 HQRQ-00139 MDT-SHPR-00085 RK MARINE SERVICE",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "M/V MED TOSCANA PR85 HQRQ-00139 MDT-SHPR-00085 RK MARINE SERVICE",
+      "tags": [
+        "outlook",
+        "fornitore:RK"
+      ],
+      "dueDate": "2026-08-16",
+      "note": "",
+      "createdAt": "2026-08-17T08:04:28.8118022Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -26283,7 +25917,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-20T06:05:52.376Z",
+    "todos": "2026-08-20T06:08:06.438Z",
     "notes": "2026-08-18T08:34:11.840Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -26301,9 +25935,10 @@
     "worldClockCities": "2026-07-22T18:57:31.789Z",
     "itemOverrides": "2026-08-19T14:18:34.131Z",
     "repliesDismissed": "2026-08-18T14:17:16.507Z",
+    "pinnedActions": "",
     "shipments": "2026-08-19T13:53:10.265Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 2025,
-  "savedAt": "2026-08-20T06:05:53.750Z"
+  "rev": 2026,
+  "savedAt": "2026-08-20T06:08:14.834Z"
 }
