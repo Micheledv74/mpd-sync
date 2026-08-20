@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-20T13:56:08.265Z",
+  "pushedAt": "2026-08-20T13:56:21.103Z",
   "todosCount": 348,
   "todos": [
     {
@@ -7460,9 +7460,10 @@
       "dueDate": "2026-08-19",
       "note": "",
       "createdAt": "2026-08-19T08:14:52.019006Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-20T13:56:17.780Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-20T13:56:17.780Z"
     },
     {
       "category": "Nave",
@@ -22258,6 +22259,13 @@
       "completedAt": "2026-08-20T13:56:04.996Z",
       "todoId": "outlook_AAJoY9kbAAA=",
       "title": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kZAAA=",
+      "listId": "",
+      "completedAt": "2026-08-20T13:56:17.782Z",
+      "todoId": "outlook_AAJoY9kZAAA=",
+      "title": "TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN"
     }
   ],
   "manualOrders": {
@@ -26205,7 +26213,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-20T13:56:08.249Z",
+    "todos": "2026-08-20T13:56:21.088Z",
     "notes": "2026-08-18T08:34:11.840Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -26214,7 +26222,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-20T13:25:37.025Z",
-    "outlookCompletionQueue": "2026-08-20T13:56:08.249Z",
+    "outlookCompletionQueue": "2026-08-20T13:56:21.088Z",
     "manualOrders": "2026-08-19T11:12:21.333Z",
     "deliveries": "2026-08-20T08:05:31.054Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -26226,6 +26234,6 @@
     "shipments": "2026-08-19T13:53:10.265Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 2046,
-  "savedAt": "2026-08-20T13:56:08.266Z"
+  "rev": 2047,
+  "savedAt": "2026-08-20T13:56:21.120Z"
 }
