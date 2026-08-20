@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-20T13:56:31.727Z",
+  "pushedAt": "2026-08-20T13:56:36.293Z",
   "todosCount": 348,
   "todos": [
     {
@@ -26242,6 +26242,6 @@
     "shipments": "2026-08-19T13:53:10.265Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 2048,
-  "savedAt": "2026-08-20T13:56:31.727Z"
+  "rev": 2049,
+  "savedAt": "2026-08-20T13:56:36.295Z"
 }
