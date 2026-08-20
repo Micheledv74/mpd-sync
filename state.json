@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-20T13:55:54.877Z",
+  "pushedAt": "2026-08-20T13:56:08.265Z",
   "todosCount": 348,
   "todos": [
     {
@@ -7414,9 +7414,10 @@
       "dueDate": "2026-08-19",
       "note": "",
       "createdAt": "2026-08-19T14:57:47.2408477Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-20T13:56:04.995Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-20T13:56:04.995Z"
     },
     {
       "category": "Altro",
@@ -22250,6 +22251,13 @@
       "completedAt": "2026-08-20T13:55:29.299Z",
       "todoId": "outlook_AAJl-vO4AAA=",
       "title": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112  Mistral Suisse Sagl  TE22518"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJoY9kbAAA=",
+      "listId": "",
+      "completedAt": "2026-08-20T13:56:04.996Z",
+      "todoId": "outlook_AAJoY9kbAAA=",
+      "title": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla"
     }
   ],
   "manualOrders": {
@@ -26197,7 +26205,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-20T13:55:54.861Z",
+    "todos": "2026-08-20T13:56:08.249Z",
     "notes": "2026-08-18T08:34:11.840Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -26206,7 +26214,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-20T13:25:37.025Z",
-    "outlookCompletionQueue": "2026-08-20T13:55:33.324Z",
+    "outlookCompletionQueue": "2026-08-20T13:56:08.249Z",
     "manualOrders": "2026-08-19T11:12:21.333Z",
     "deliveries": "2026-08-20T08:05:31.054Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -26218,6 +26226,6 @@
     "shipments": "2026-08-19T13:53:10.265Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 2045,
-  "savedAt": "2026-08-20T13:55:54.893Z"
+  "rev": 2046,
+  "savedAt": "2026-08-20T13:56:08.266Z"
 }
