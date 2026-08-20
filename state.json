@@ -1,9 +1,47 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-20T10:59:50.750Z",
-  "todosCount": 343,
+  "pushedAt": "2026-08-20T11:00:48.520Z",
+  "todosCount": 345,
   "todos": [
+    {
+      "id": "td_1787223641877_91n23",
+      "category": "Nave",
+      "priority": "alta",
+      "vessel": "peppino",
+      "action": "Controllare",
+      "reference": "Certificati",
+      "tags": [],
+      "dueDate": "2026-08-29",
+      "note": "",
+      "recur": {
+        "type": "days",
+        "interval": 15
+      },
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-08-20T11:00:41.877Z"
+    },
+    {
+      "id": "td_1787223637987_xw42m",
+      "category": "Nave",
+      "priority": "alta",
+      "vessel": "peppino",
+      "action": "Controllare",
+      "reference": "Certificati",
+      "tags": [],
+      "dueDate": "2026-08-14",
+      "note": "",
+      "recur": {
+        "type": "days",
+        "interval": 15
+      },
+      "kind": "todo",
+      "done": true,
+      "createdAt": "2026-08-20T11:00:37.987Z",
+      "doneAt": "2026-08-20T11:00:41.875Z",
+      "updatedAt": "2026-08-20T11:00:41.875Z"
+    },
     {
       "category": "Ufficio",
       "priority": "media",
@@ -58,8 +96,10 @@
       "note": "Dead Line per Hub TML 06/08/2026",
       "recur": null,
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-24T07:18:53.341Z"
+      "done": true,
+      "createdAt": "2026-07-24T07:18:53.341Z",
+      "doneAt": "2026-08-20T11:00:39.089Z",
+      "updatedAt": "2026-08-20T11:00:39.089Z"
     },
     {
       "category": "Nave",
@@ -115,8 +155,10 @@
         "interval": 15
       },
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-23T09:20:22.198Z"
+      "done": true,
+      "createdAt": "2026-07-23T09:20:22.198Z",
+      "doneAt": "2026-08-20T11:00:37.985Z",
+      "updatedAt": "2026-08-20T11:00:37.985Z"
     },
     {
       "category": "Ufficio",
@@ -130,9 +172,10 @@
       "note": "Spektra Fuel e Due date",
       "recur": null,
       "kind": "todo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-07-23T07:10:28.895Z",
-      "updatedAt": "2026-07-27T14:23:12.872Z"
+      "updatedAt": "2026-08-20T11:00:40.481Z",
+      "doneAt": "2026-08-20T11:00:40.481Z"
     },
     {
       "category": "Nave",
@@ -5698,9 +5741,10 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T15:14:35.7044825Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-20T11:00:43.738Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-20T11:00:43.738Z"
     },
     {
       "category": "Nave",
@@ -5720,9 +5764,10 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T15:12:42.7301081Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-20T11:00:44.233Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-20T11:00:44.233Z"
     },
     {
       "category": "Nave",
@@ -5742,9 +5787,10 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T14:48:39.0951017Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-20T11:00:44.545Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-20T11:00:44.545Z"
     },
     {
       "category": "Nave",
@@ -5764,9 +5810,10 @@
       "dueDate": "2026-07-27",
       "note": "",
       "createdAt": "2026-07-28T14:48:38.0485338Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-20T11:00:44.913Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-20T11:00:44.913Z"
     },
     {
       "category": "Nave",
@@ -21754,34 +21801,6 @@
       "title": "M/V MED TOSCANA - Confirmation of Quantity Received – Adjustment Screws for Windlass/Band Brake"
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDAAAA=",
-      "listId": "",
-      "completedAt": "2026-08-11T08:07:03.608Z",
-      "todoId": "outlook_AAJY7qDAAAA=",
-      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDBAAA=",
-      "listId": "",
-      "completedAt": "2026-08-11T08:07:03.768Z",
-      "todoId": "outlook_AAJY7qDBAAA=",
-      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDCAAA=",
-      "listId": "",
-      "completedAt": "2026-08-11T08:07:03.935Z",
-      "todoId": "outlook_AAJY7qDCAAA=",
-      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDDAAA=",
-      "listId": "",
-      "completedAt": "2026-08-11T08:07:04.111Z",
-      "todoId": "outlook_AAJY7qDDAAA=",
-      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJhtWg3AAA=",
       "listId": "",
       "completedAt": "2026-08-11T08:07:19.168Z",
@@ -21976,6 +21995,34 @@
       "completedAt": "2026-08-18T10:02:41.168Z",
       "todoId": "outlook_AAJl-vO1AAA=",
       "title": "TEF063753 Elaborazione ingegneria per installazione N.2 Thrusters e Diesel/alternatore. NORRBOTTEN"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDDAAA=",
+      "listId": "",
+      "completedAt": "2026-08-20T11:00:43.741Z",
+      "todoId": "outlook_AAJY7qDDAAA=",
+      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDCAAA=",
+      "listId": "",
+      "completedAt": "2026-08-20T11:00:44.234Z",
+      "todoId": "outlook_AAJY7qDCAAA=",
+      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDBAAA=",
+      "listId": "",
+      "completedAt": "2026-08-20T11:00:44.547Z",
+      "todoId": "outlook_AAJY7qDBAAA=",
+      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJY7qDAAAA=",
+      "listId": "",
+      "completedAt": "2026-08-20T11:00:44.914Z",
+      "todoId": "outlook_AAJY7qDAAAA=",
+      "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
     }
   ],
   "manualOrders": {
@@ -25923,7 +25970,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-20T07:40:11.998Z",
+    "todos": "2026-08-20T11:00:48.513Z",
     "notes": "2026-08-18T08:34:11.840Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -25932,7 +25979,7 @@
     "supplierLanguages": "2026-07-22T18:57:31.789Z",
     "certificates": "2026-07-23T07:09:00.520Z",
     "voyages": "2026-08-19T12:57:35.401Z",
-    "outlookCompletionQueue": "2026-08-18T10:02:41.528Z",
+    "outlookCompletionQueue": "2026-08-20T11:00:48.513Z",
     "manualOrders": "2026-08-19T11:12:21.333Z",
     "deliveries": "2026-08-20T08:05:31.054Z",
     "vesselPos": "2026-07-22T18:57:31.789Z",
@@ -25944,6 +25991,6 @@
     "shipments": "2026-08-19T13:53:10.265Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 2032,
-  "savedAt": "2026-08-20T10:59:50.750Z"
+  "rev": 2033,
+  "savedAt": "2026-08-20T11:00:48.520Z"
 }
