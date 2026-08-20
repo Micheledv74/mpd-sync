@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-20T13:25:37.033Z",
-  "todosCount": 345,
+  "pushedAt": "2026-08-20T13:25:57.123Z",
+  "todosCount": 348,
   "todos": [
     {
       "id": "td_1787223641877_91n23",
@@ -7322,9 +7322,9 @@
       "dueDate": "2026-08-19",
       "note": "",
       "createdAt": "2026-08-19T15:04:41.585549Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-20T10:38:08.7739505Z",
+      "outlookStatus": "completed"
     },
     {
       "category": "Nave",
@@ -7678,6 +7678,72 @@
       "dueDate": "2026-08-16",
       "note": "",
       "createdAt": "2026-08-17T08:04:28.8118022Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJpTesGAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpTesGAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/V NORRBOTTEN - Saldo fatt. POWERSAN",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "M/V NORRBOTTEN - Saldo fatt. POWERSAN",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-20",
+      "note": "",
+      "createdAt": "2026-08-20T10:52:13.0004107Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJpTesFAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpTesFAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-20",
+      "note": "",
+      "createdAt": "2026-08-20T10:38:08.988084Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJpTesEAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpTesEAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJpTbrWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-20",
+      "note": "",
+      "createdAt": "2026-08-20T07:35:29.7559475Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -25980,7 +26046,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-20T11:01:04.743Z",
+    "todos": "2026-08-20T13:25:57.116Z",
     "notes": "2026-08-18T08:34:11.840Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -26001,6 +26067,6 @@
     "shipments": "2026-08-19T13:53:10.265Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 2036,
-  "savedAt": "2026-08-20T13:25:37.033Z"
+  "rev": 2037,
+  "savedAt": "2026-08-20T13:25:57.124Z"
 }
