@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-21T07:32:34.920Z",
+  "pushedAt": "2026-08-21T07:37:32.522Z",
   "todosCount": 349,
   "todos": [
     {
@@ -7555,9 +7555,10 @@
       "dueDate": "2026-08-21",
       "note": "",
       "createdAt": "2026-08-18T15:39:28.3493386Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-21T07:37:28.723Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-21T07:37:28.723Z"
     },
     {
       "category": "Nave",
@@ -22316,6 +22317,13 @@
       "completedAt": "2026-08-20T13:57:13.471Z",
       "todoId": "outlook_AAJpTesFAAA=",
       "title": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJl-vO6AAA=",
+      "listId": "",
+      "completedAt": "2026-08-21T07:37:28.726Z",
+      "todoId": "outlook_AAJl-vO6AAA=",
+      "title": "riscontro fattura"
     }
   ],
   "manualOrders": {
@@ -26280,7 +26288,7 @@
     "ts": "2026-08-21T07:32:33.905Z"
   },
   "collMeta": {
-    "todos": "2026-08-21T07:32:33.905Z",
+    "todos": "2026-08-21T07:37:32.515Z",
     "notes": "2026-08-21T07:32:33.905Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -26289,7 +26297,7 @@
     "supplierLanguages": "2026-08-21T07:32:33.905Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-08-21T07:32:33.905Z",
-    "outlookCompletionQueue": "2026-08-21T07:32:33.905Z",
+    "outlookCompletionQueue": "2026-08-21T07:37:32.515Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-21T07:32:33.905Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
@@ -26302,6 +26310,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2077,
-  "savedAt": "2026-08-21T07:32:34.921Z"
+  "rev": 2078,
+  "savedAt": "2026-08-21T07:37:32.523Z"
 }
