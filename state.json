@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-21T07:09:42.508Z",
+  "pushedAt": "2026-08-21T07:11:14.139Z",
   "todosCount": 347,
   "todos": [
     {
@@ -7626,20 +7626,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "I: M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJpTesHAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpTesHAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJpTZO4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: I: M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "I: M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-20",
       "note": "",
       "createdAt": "2026-08-20T11:02:33.4287202Z",
@@ -7648,20 +7648,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V NORRBOTTEN - Saldo fatt. POWERSAN",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJpTesGAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpTesGAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V NORRBOTTEN - Saldo fatt. POWERSAN",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "M/V NORRBOTTEN - Saldo fatt. POWERSAN",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-20",
       "note": "",
       "createdAt": "2026-08-20T10:52:13.0004107Z",
@@ -7670,20 +7670,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJpTesFAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpTesFAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9WuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "I: M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-20",
       "note": "",
       "createdAt": "2026-08-20T10:38:08.988084Z",
@@ -7692,20 +7692,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJpTesEAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpTesEAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJpTbrWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-20",
       "note": "",
       "createdAt": "2026-08-20T07:35:29.7559475Z",
@@ -26126,7 +26126,7 @@
     "ts": "2026-07-22T18:57:31.789Z"
   },
   "collMeta": {
-    "todos": "2026-08-20T15:43:24.490Z",
+    "todos": "2026-08-21T07:11:12.806Z",
     "notes": "2026-08-18T08:34:11.840Z",
     "snoozed": "2026-07-22T18:57:31.789Z",
     "archivedActions": "2026-07-22T18:57:31.789Z",
@@ -26147,6 +26147,6 @@
     "shipments": "2026-08-19T13:53:10.265Z",
     "certExtras": "2026-08-19T11:02:27.154Z"
   },
-  "rev": 2072,
-  "savedAt": "2026-08-21T07:09:42.508Z"
+  "rev": 2073,
+  "savedAt": "2026-08-21T07:11:14.139Z"
 }
