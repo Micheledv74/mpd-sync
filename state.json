@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-24T09:43:53.157Z",
+  "pushedAt": "2026-08-24T09:44:05.767Z",
   "todosCount": 358,
   "todos": [
     {
@@ -7822,7 +7822,7 @@
       "outlookLinkedName": "R: TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-08-21",
+      "dueDate": "2026-08-24",
       "note": "",
       "createdAt": "2026-08-20T07:35:29.7559475Z",
       "done": true,
@@ -7830,7 +7830,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-24T09:16:38.775Z"
+      "updatedAt": "2026-08-24T09:44:02.155Z"
     },
     {
       "category": "Nave",
@@ -26567,7 +26567,7 @@
     "ts": "2026-08-21T07:32:33.905Z"
   },
   "collMeta": {
-    "todos": "2026-08-24T09:43:50.747Z",
+    "todos": "2026-08-24T09:44:05.759Z",
     "notes": "2026-08-21T08:28:45.716Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -26589,6 +26589,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2133,
-  "savedAt": "2026-08-24T09:43:53.157Z"
+  "rev": 2134,
+  "savedAt": "2026-08-24T09:44:05.767Z"
 }
