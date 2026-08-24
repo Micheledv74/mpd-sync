@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-24T10:18:38.970Z",
+  "pushedAt": "2026-08-24T10:20:06.665Z",
   "todosCount": 358,
   "todos": [
     {
@@ -20795,17 +20795,24 @@
     "vegauno": {
       "status": "in_port",
       "current": {
-        "etd": "",
         "id": "vms4odwaai18i",
         "from": "Ravenna",
         "to": "Torre Annunziata",
+        "etd": "2026-08-24T12:19",
         "etb": "",
         "eta": "2026-08-18T17:21",
         "agency": null
       },
-      "next": {},
+      "next": {
+        "id": "vmt734cdz8s4x",
+        "from": "Torre Annunziata",
+        "to": "Fiumicino",
+        "etb": "",
+        "eta": "",
+        "agency": null
+      },
       "notes": "",
-      "updatedAt": "2026-08-17T15:21:49.100Z",
+      "updatedAt": "2026-08-24T10:20:02.615Z",
       "history": [
         {
           "id": "vms4odbrdbcr4",
@@ -26701,7 +26708,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-08-24T07:23:15.132Z",
+    "voyages": "2026-08-24T10:20:06.657Z",
     "outlookCompletionQueue": "2026-08-24T09:19:22.173Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-21T07:32:33.905Z",
@@ -26715,6 +26722,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2141,
-  "savedAt": "2026-08-24T10:18:38.970Z"
+  "rev": 2142,
+  "savedAt": "2026-08-24T10:20:06.665Z"
 }
