@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-24T09:18:34.440Z",
+  "pushedAt": "2026-08-24T09:18:59.782Z",
   "todosCount": 358,
   "todos": [
     {
@@ -7967,9 +7967,10 @@
       "dueDate": "2026-08-21",
       "note": "",
       "createdAt": "2026-08-21T07:22:30.0277355Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-24T09:18:56.634Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-24T09:18:56.634Z"
     },
     {
       "category": "Nave",
@@ -22553,6 +22554,13 @@
       "completedAt": "2026-08-24T09:18:30.589Z",
       "todoId": "outlook_AAJpvQ6DAAA=",
       "title": "M/V MED TOSCANA PR75 HQRQ-00152 MDT-SHPR-00076 RK MARINE SERVICE"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpvQ6AAAA=",
+      "listId": "",
+      "completedAt": "2026-08-24T09:18:56.636Z",
+      "todoId": "outlook_AAJpvQ6AAAA=",
+      "title": "M/V MED TOSCANA - Clarification required – Helideck fire extinguisher and foam analysis"
     }
   ],
   "manualOrders": {
@@ -26521,7 +26529,7 @@
     "ts": "2026-08-21T07:32:33.905Z"
   },
   "collMeta": {
-    "todos": "2026-08-24T09:18:34.434Z",
+    "todos": "2026-08-24T09:18:59.769Z",
     "notes": "2026-08-21T08:28:45.716Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -26530,7 +26538,7 @@
     "supplierLanguages": "2026-08-21T07:32:33.905Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-08-24T07:23:15.132Z",
-    "outlookCompletionQueue": "2026-08-24T09:18:34.434Z",
+    "outlookCompletionQueue": "2026-08-24T09:18:59.769Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-21T07:32:33.905Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
@@ -26543,6 +26551,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2111,
-  "savedAt": "2026-08-24T09:18:34.440Z"
+  "rev": 2112,
+  "savedAt": "2026-08-24T09:18:59.783Z"
 }
