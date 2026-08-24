@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-24T10:17:55.565Z",
+  "pushedAt": "2026-08-24T10:18:38.970Z",
   "todosCount": 358,
   "todos": [
     {
@@ -24443,10 +24443,64 @@
         "carrier": "DHL Express",
         "hub": "",
         "number": "9233819663",
-        "status": "in_transit",
+        "status": "delivered",
         "pickup": "2026-08-19",
-        "eta": "2026-08-19",
+        "eta": "2026-08-20",
         "events": [
+          {
+            "ts": "2026-08-20T13:31",
+            "place": "ACCRA - GREATER ACCRA REGION - GHANA",
+            "text": "Delivered",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-08-20T08:58",
+            "place": "ACCRA - GHANA",
+            "text": "Shipment is out with courier for delivery",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-19T22:50",
+            "place": "ACCRA - GHANA",
+            "text": "Arrived at DHL Delivery Facility ACCRA - GHANA",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-19T22:39",
+            "place": "ACCRA - GHANA",
+            "text": "Shipment has departed from a DHL facility ACCRA - GHANA",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-19T22:38",
+            "place": "ACCRA - GHANA",
+            "text": "Processed at ACCRA - GHANA",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-19T21:07",
+            "place": "ACCRA - GHANA",
+            "text": "Arrived at DHL Sort Facility ACCRA - GHANA",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-19T17:22",
+            "place": "LAGOS - NIGERIA",
+            "text": "Shipment has departed from a DHL facility LAGOS - NIGERIA",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-19T16:59",
+            "place": "LAGOS - NIGERIA",
+            "text": "Processed at LAGOS - NIGERIA",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-19T12:52",
+            "place": "LAGOS - NIGERIA",
+            "text": "Arrived at DHL Sort Facility LAGOS - NIGERIA",
+            "code": "transit"
+          },
           {
             "ts": "2026-08-19T07:26",
             "place": "BRUSSELS - BELGIUM",
@@ -24508,7 +24562,7 @@
             "code": "transit"
           }
         ],
-        "updatedAt": "2026-08-19T11:07:23.319Z",
+        "updatedAt": "2026-08-24T10:18:34.989Z",
         "source": "17track-manual"
       }
     ],
@@ -26657,10 +26711,10 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-08-21T07:32:33.905Z",
     "repliesDismissed": "2026-08-24T09:38:44.062Z",
-    "shipments": "2026-08-24T10:17:55.556Z",
+    "shipments": "2026-08-24T10:18:38.961Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2140,
-  "savedAt": "2026-08-24T10:17:55.565Z"
+  "rev": 2141,
+  "savedAt": "2026-08-24T10:18:38.970Z"
 }
