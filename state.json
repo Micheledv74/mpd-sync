@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-24T15:24:51.217Z",
+  "pushedAt": "2026-08-24T15:25:16.986Z",
   "todosCount": 360,
   "todos": [
     {
@@ -20491,10 +20491,10 @@
       "status": "at_sea",
       "current": {
         "id": "vmrx9frz5mb8h",
-        "from": "Port Luis, Mauritius",
-        "to": "Takoradi, Ghana, W.A",
+        "from": "Port Louis, Mauritius",
+        "to": "Takoradi, Ghana",
         "etd": "",
-        "etb": "",
+        "etb": "2026-08-24T00:00",
         "eta": "2026-08-21T12:00",
         "agency": {
           "name": "OMA Ghana",
@@ -20513,8 +20513,8 @@
         }
       },
       "notes": "",
-      "updatedAt": "2026-08-24T10:33:24.515Z",
-      "fromNoon": "2026-08-19",
+      "updatedAt": "2026-08-24T15:25:12.994Z",
+      "fromNoon": "2026-08-22",
       "history": [
         {
           "id": "vmrp3atcsp5z0",
@@ -26913,7 +26913,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-08-24T15:24:51.209Z",
+    "voyages": "2026-08-24T15:25:16.979Z",
     "outlookCompletionQueue": "2026-08-24T09:19:22.173Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-24T10:23:08.166Z",
@@ -26927,6 +26927,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2153,
-  "savedAt": "2026-08-24T15:24:51.218Z"
+  "rev": 2154,
+  "savedAt": "2026-08-24T15:25:16.986Z"
 }
