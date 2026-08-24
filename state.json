@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-24T10:33:32.113Z",
+  "pushedAt": "2026-08-24T13:00:43.656Z",
   "todosCount": 358,
   "todos": [
     {
@@ -20621,18 +20621,7 @@
     "medliguria": {
       "status": "at_sea",
       "current": {
-        "id": "vmrozjfhbk92o",
-        "from": "SINGAPORE",
-        "to": "XIAMEN",
-        "etd": "2026-08-24T12:00",
-        "etb": "",
-        "eta": "2026-08-20T01:00",
-        "agency": {
-          "name": "JOHNASIA SHANGHAI",
-          "contacts": "Claris Huang\nMob/Wechat:+86 157 1061 8221\nXiamen JA Shipping Agency Limited\nAdd: Room512A,Block B, International Shipping Center, No.91 XiangyuRd, Xiamen, Fujian, P.R.China. Post Code 361006. \nTel: +86 592 6035561\nFax:+86 592 6035560\nE-mail: xiamen@johnasia.com"
-        }
-      },
-      "next": {
+        "etd": "",
         "id": "vmsykguduk01a",
         "from": "Xiemen",
         "to": "Yangzhou, China",
@@ -20640,10 +20629,171 @@
         "eta": "",
         "agency": null
       },
+      "next": {},
       "notes": "POL: Yangzhou, China - Lianyungang, China - Singapore (intended bunker port)\nPOD: Tanga, Tanzania - Vila do Conde, Brazil",
-      "updatedAt": "2026-08-24T07:23:11.574Z",
+      "updatedAt": "2026-08-24T13:00:39.342Z",
       "fromNoon": "2026-08-21",
       "history": [
+        {
+          "id": "vmrozjfhbk92o",
+          "from": "SINGAPORE",
+          "to": "XIAMEN",
+          "etd": "2026-08-24T12:00",
+          "etb": "",
+          "eta": "2026-08-20T01:00",
+          "agency": {
+            "name": "JOHNASIA SHANGHAI",
+            "contacts": "Claris Huang\nMob/Wechat:+86 157 1061 8221\nXiamen JA Shipping Agency Limited\nAdd: Room512A,Block B, International Shipping Center, No.91 XiangyuRd, Xiamen, Fujian, P.R.China. Post Code 361006. \nTel: +86 592 6035561\nFax:+86 592 6035560\nE-mail: xiamen@johnasia.com"
+          },
+          "closedAt": "2026-08-24T13:00:39.340Z",
+          "deliveredItems": [
+            {
+              "poNumber": "2026-MLG-HQPO-00077",
+              "description": "ITU LIST IV",
+              "supplier": "CAIM"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00082",
+              "description": "PAINT - MLG",
+              "supplier": "PPG PROTECTIVE & MARINE COATINS"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00080",
+              "description": "Portable gangway ladder - MLG",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00073",
+              "description": "Group Starter Panel, Auxiliary Relay Omron G2A-4L32A, AC24V",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00074",
+              "description": "Group Starter Panel, Auxiliary Relay Omron G2R-1-S, AC24V",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00079",
+              "description": "BALLAST WATER TREATMENT SYSTEM",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00066",
+              "description": "CABIN AND GALLEY",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00067",
+              "description": "PORTABLE LIGTHS FOR CARGO HOLDS",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00068",
+              "description": "Fresh Water Generator WM-20DK, Fresh Water Flow Meter",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00052",
+              "description": "LOGBOOKS",
+              "supplier": "CAIM"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00064",
+              "description": "Air Horn - A150ESS",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00063",
+              "description": "SAFETY",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00059",
+              "description": "ELECTRICAL STORE",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00062",
+              "description": "STATIONARY",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00051",
+              "description": "New Grabs with BV Certificate",
+              "supplier": "LG Marine Services(HK) Co.,Limited"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00060",
+              "description": "DECK STORE-MESSENGER LINE FOR MOORING ROPE",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00050",
+              "description": "Temperature Sensor",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00047",
+              "description": "BRIDGE NAVIGATIONAL WATCH ALARM SYSTEM JCX151",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00058",
+              "description": "DECK STORE",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00057",
+              "description": "CHECK AND CALIBRATION GAS FOR GAS DETECTORS",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00049",
+              "description": "BATTERY MODULE",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00046",
+              "description": "FIXED TEMPERATURE TYPE SPOT FIRE DETECTOR",
+              "supplier": "FUJI TRADING JAPAN"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00044",
+              "description": "MANUAL FIRE ALARM SWITCH",
+              "supplier": "FUJI TRADING JAPAN"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00056",
+              "description": "DECK STORE - SECURITY EQUIPMENT",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00042",
+              "description": "MITSUI-MAN B&W 6S50MC-C 9480kW  ENGINE No 6192 2011 MITSUI ENGINEERING & SHIPBUILDING CO.LTD",
+              "supplier": "Proinelca Korea Co., Ltd."
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00055",
+              "description": "MULTI GYM",
+              "supplier": "YH MARINE TRADE CO.,LTD"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00035",
+              "description": "K8FE Strainer Automatic Backwashing Type (A/E FO 2nd Strainer)",
+              "supplier": "FUJI ELECTRIC Co.; Ltd"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00016",
+              "description": "Automatic Fire Detection and Alarm System (Nippon Hakuyo Electronics. ltd ) ( CRITICAL SPARE PARTS)",
+              "supplier": "FUJI ELECTRIC Co.; Ltd"
+            },
+            {
+              "poNumber": "2026-MLG-HQPO-00023",
+              "description": "AIR HORN ( IBUKI KOGYO Co LTD)",
+              "supplier": "FUJI ELECTRIC Co.; Ltd"
+            }
+          ]
+        },
         {
           "id": "vmrozjfha41th",
           "from": "VITORIA",
@@ -26720,7 +26870,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-08-24T10:33:28.493Z",
+    "voyages": "2026-08-24T13:00:40.258Z",
     "outlookCompletionQueue": "2026-08-24T09:19:22.173Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-24T10:23:08.166Z",
@@ -26734,6 +26884,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2149,
-  "savedAt": "2026-08-24T10:33:32.114Z"
+  "rev": 2150,
+  "savedAt": "2026-08-24T13:00:43.656Z"
 }
