@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-24T10:20:06.665Z",
+  "pushedAt": "2026-08-24T10:22:51.539Z",
   "todosCount": 358,
   "todos": [
     {
@@ -23120,6 +23120,12 @@
       "port": "XIAMEN",
       "date": "2026-08-20",
       "frozenFromVoyage": true
+    },
+    "peppino::main engine cylinder cover": {
+      "mode": "manual",
+      "port": "Takoradi, Ghana, W.A",
+      "date": "2026-08-21",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -26711,7 +26717,7 @@
     "voyages": "2026-08-24T10:20:06.657Z",
     "outlookCompletionQueue": "2026-08-24T09:19:22.173Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
-    "deliveries": "2026-08-21T07:32:33.905Z",
+    "deliveries": "2026-08-24T10:22:51.119Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-08-21T07:32:33.905Z",
@@ -26722,6 +26728,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2142,
-  "savedAt": "2026-08-24T10:20:06.665Z"
+  "rev": 2143,
+  "savedAt": "2026-08-24T10:22:51.539Z"
 }
