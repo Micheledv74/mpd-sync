@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-24T09:19:32.039Z",
+  "pushedAt": "2026-08-24T09:32:27.678Z",
   "todosCount": 358,
   "todos": [
     {
@@ -9945,7 +9945,8 @@
     "HAKEPA SRL": "it",
     "MacGregor Pte Ltd": "en",
     "Global Marine Safety - America": "en",
-    "Wartsila Italia S.p.A.": "en"
+    "Wartsila Italia S.p.A.": "en",
+    "Dongjin Intec Co., Ltd.": "en"
   },
   "pinnedActions": [],
   "certificates": {
@@ -26559,7 +26560,7 @@
     "archivedActions": "2026-08-21T07:32:33.905Z",
     "completionsHistory": "2026-08-21T07:32:33.905Z",
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
-    "supplierLanguages": "2026-08-21T07:32:33.905Z",
+    "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-08-24T07:23:15.132Z",
     "outlookCompletionQueue": "2026-08-24T09:19:22.173Z",
@@ -26575,6 +26576,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2116,
-  "savedAt": "2026-08-24T09:19:32.040Z"
+  "rev": 2117,
+  "savedAt": "2026-08-24T09:32:27.678Z"
 }
