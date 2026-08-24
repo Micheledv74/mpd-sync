@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-24T08:24:13.871Z",
+  "pushedAt": "2026-08-24T08:33:11.359Z",
   "todosCount": 358,
   "todos": [
     {
@@ -7920,9 +7920,10 @@
       "dueDate": "2026-08-20",
       "note": "",
       "createdAt": "2026-08-21T13:01:51.1125378Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-24T08:33:07.749Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-24T08:33:07.750Z"
     },
     {
       "category": "Nave",
@@ -22530,6 +22531,13 @@
       "completedAt": "2026-08-21T07:37:28.726Z",
       "todoId": "outlook_AAJl-vO6AAA=",
       "title": "riscontro fattura"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpvQ6CAAA=",
+      "listId": "",
+      "completedAt": "2026-08-24T08:33:07.754Z",
+      "todoId": "outlook_AAJpvQ6CAAA=",
+      "title": "I: M/V MED TOSCANA PR77 HQRQ-00146 MDT-SHPR-00077 RK MARINE SERVICE"
     }
   ],
   "manualOrders": {
@@ -26498,7 +26506,7 @@
     "ts": "2026-08-21T07:32:33.905Z"
   },
   "collMeta": {
-    "todos": "2026-08-24T08:24:13.860Z",
+    "todos": "2026-08-24T08:33:11.351Z",
     "notes": "2026-08-21T08:28:45.716Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -26507,7 +26515,7 @@
     "supplierLanguages": "2026-08-21T07:32:33.905Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-08-24T07:23:15.132Z",
-    "outlookCompletionQueue": "2026-08-21T07:37:32.515Z",
+    "outlookCompletionQueue": "2026-08-24T08:33:11.351Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-21T07:32:33.905Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
@@ -26520,6 +26528,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2101,
-  "savedAt": "2026-08-24T08:24:13.871Z"
+  "rev": 2102,
+  "savedAt": "2026-08-24T08:33:11.359Z"
 }
