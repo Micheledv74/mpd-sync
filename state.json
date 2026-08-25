@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_ex1cq6qu8y",
-  "pushedAt": "2026-08-25T12:08:43.663Z",
-  "todosCount": 355,
+  "pushedAt": "2026-08-25T12:08:55.801Z",
+  "todosCount": 360,
   "todos": [
     {
       "category": "Ufficio",
@@ -6815,7 +6815,7 @@
       "outlookLinkedName": "AW: Shipment of order-nos. CBH 43940+43941",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-08-21",
+      "dueDate": "2026-08-29",
       "note": "",
       "createdAt": "2026-08-11T07:56:45.999496Z",
       "done": false,
@@ -6823,7 +6823,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-20T13:56:46.308Z"
+      "updatedAt": "2026-08-24T08:33:38.733Z"
     },
     {
       "category": "Altro",
@@ -7433,7 +7433,7 @@
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "M/V NORRBOTTEN - IO063977 RETROFIT SISTEMA TIMONE  NORRBOTTEN 2026-NOR-00050 ",
+      "reference": "M/V NORRBOTTEN - IO063977 RETROFIT SISTEMA TIMONE  NORRBOTTEN 2026-NOR-00050",
       "tags": [
         "outlook"
       ],
@@ -7445,13 +7445,15 @@
       "outlookLinkedName": "M/V NORRBOTTEN - IO063977 RETROFIT SISTEMA TIMONE  NORRBOTTEN 2026-NOR-00050 ",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-08-19",
+      "dueDate": "2026-08-24",
       "note": "",
       "createdAt": "2026-08-19T08:14:45.1606301Z",
-      "done": true,
-      "doneAt": "2026-08-20T13:56:27.954Z",
+      "done": false,
+      "doneAt": null,
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-20T13:56:27.954Z"
+      "updatedAt": "2026-08-24T09:44:27.587Z",
+      "kind": "todo",
+      "recur": null
     },
     {
       "category": "Nave",
@@ -7747,7 +7749,7 @@
       "outlookLinkedName": "Re: I: M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-08-21",
+      "dueDate": "2026-08-25",
       "note": "",
       "createdAt": "2026-08-20T11:02:33.4287202Z",
       "done": false,
@@ -7755,7 +7757,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-20T15:20:50.174Z"
+      "updatedAt": "2026-08-24T09:15:47.517Z"
     },
     {
       "category": "Nave",
@@ -7772,7 +7774,7 @@
       "outlookLinkedName": "M/V NORRBOTTEN - Saldo fatt. POWERSAN",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-08-21",
+      "dueDate": "2026-08-24",
       "note": "",
       "createdAt": "2026-08-20T10:52:13.0004107Z",
       "done": false,
@@ -7780,7 +7782,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-20T13:56:57.764Z"
+      "updatedAt": "2026-08-24T09:16:22.743Z"
     },
     {
       "category": "Nave",
@@ -7820,15 +7822,15 @@
       "outlookLinkedName": "R: TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-08-21",
+      "dueDate": "2026-08-24",
       "note": "",
       "createdAt": "2026-08-20T07:35:29.7559475Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-24T09:16:38.775Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-20T13:57:29.980Z"
+      "updatedAt": "2026-08-24T09:44:02.155Z"
     },
     {
       "category": "Nave",
@@ -7845,12 +7847,15 @@
       "outlookLinkedName": "R: TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-08-20",
+      "dueDate": "2026-08-24",
       "note": "",
       "createdAt": "2026-08-21T13:56:28.2625981Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-08-24T08:24:11.601Z"
     },
     {
       "category": "Nave",
@@ -7894,9 +7899,10 @@
       "dueDate": "2026-08-21",
       "note": "",
       "createdAt": "2026-08-21T13:12:32.0208126Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-24T09:18:30.586Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-24T09:18:30.587Z"
     },
     {
       "category": "Nave",
@@ -7917,9 +7923,10 @@
       "dueDate": "2026-08-20",
       "note": "",
       "createdAt": "2026-08-21T13:01:51.1125378Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-24T08:33:07.749Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-24T08:33:07.750Z"
     },
     {
       "category": "Nave",
@@ -7962,9 +7969,10 @@
       "dueDate": "2026-08-21",
       "note": "",
       "createdAt": "2026-08-21T07:22:30.0277355Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-24T09:18:56.634Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-24T09:18:56.634Z"
     },
     {
       "category": "Nave",
@@ -8003,6 +8011,105 @@
       "createdAt": "2026-08-20T11:00:37.987Z",
       "doneAt": "2026-08-20T11:00:41.875Z",
       "updatedAt": "2026-08-20T11:00:41.875Z"
+    },
+    {
+      "id": "td_1787579181985_b7zi8",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Consegna",
+      "reference": "ALPHA LUBRICATOR SYSTEM, MFG No. PU1101…",
+      "tags": [],
+      "dueDate": "2026-08-28",
+      "note": "SUNJIN ENTECH Co.,Ltd.",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-08-24T13:46:21.985Z"
+    },
+    {
+      "id": "td_1787579179794_s6mfy",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Consegna",
+      "reference": "FIRE GS PUMP TYPE 150-CDB6-5",
+      "tags": [],
+      "dueDate": "2026-08-28",
+      "note": "FUJI TRADING JAPAN",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-08-24T13:46:19.794Z"
+    },
+    {
+      "id": "outlook_AAJrQzFdAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJrQzFdAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJrQvaqAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/V MED LIGURIA - Xiamen - update on 23 Aug",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "M/V MED LIGURIA - Xiamen - update on 23 Aug",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-23",
+      "note": "",
+      "createdAt": "2026-08-23T08:56:22.5603222Z",
+      "done": true,
+      "doneAt": "2026-08-24T09:19:05.418Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-24T09:19:05.418Z"
+    },
+    {
+      "id": "outlook_AAJrQzFcAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJrQzFcAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJqV30HAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: M/V MED LIGURIA - Delivery on board at XIAMEN",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "M/V MED LIGURIA - Delivery on board at XIAMEN",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-23",
+      "note": "",
+      "createdAt": "2026-08-23T08:11:42.9740168Z",
+      "done": true,
+      "doneAt": "2026-08-24T09:19:18.186Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-24T09:19:18.187Z"
+    },
+    {
+      "id": "outlook_AAJrQzFbAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJrQzFbAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJqV30GAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/V MED LIGURIA - Info ship Problem",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "M/V MED LIGURIA - Info ship Problem",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-23",
+      "note": "",
+      "createdAt": "2026-08-23T08:11:26.1722191Z",
+      "done": true,
+      "doneAt": "2026-08-24T09:19:27.938Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-24T09:19:27.938Z"
     }
   ],
   "notes": {
@@ -20385,10 +20492,10 @@
       "status": "at_sea",
       "current": {
         "id": "vmrx9frz5mb8h",
-        "from": "Port Louis, Mauritius",
-        "to": "Takoradi, Ghana",
+        "from": "Port Luis, Mauritius",
+        "to": "Takoradi, Ghana, W.A",
         "etd": "",
-        "etb": "2026-08-24T00:00",
+        "etb": "",
         "eta": "2026-08-21T12:00",
         "agency": {
           "name": "OMA Ghana",
@@ -20407,8 +20514,8 @@
         }
       },
       "notes": "",
-      "updatedAt": "2026-08-24T15:25:12.994Z",
-      "fromNoon": "2026-08-22",
+      "updatedAt": "2026-08-24T10:33:24.515Z",
+      "fromNoon": "2026-08-19",
       "history": [
         {
           "id": "vmrp3atcsp5z0",
@@ -20784,8 +20891,8 @@
       },
       "next": {},
       "notes": "",
-      "updatedAt": "2026-08-24T15:24:47.289Z",
-      "fromNoon": "2026-08-23",
+      "updatedAt": "2026-08-19T12:57:39.105Z",
+      "fromNoon": "2026-08-19",
       "history": [
         {
           "id": "vmrxb1p8xb75t",
@@ -26802,7 +26909,7 @@
     "ts": "2026-08-21T07:32:33.905Z"
   },
   "collMeta": {
-    "todos": "2026-08-25T12:08:40.403Z",
+    "todos": "2026-08-25T12:08:55.781Z",
     "notes": "2026-08-25T11:53:44.508Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -26810,7 +26917,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-08-24T15:25:16.979Z",
+    "voyages": "2026-08-25T12:08:55.781Z",
     "outlookCompletionQueue": "2026-08-24T09:19:22.173Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-24T10:23:08.166Z",
@@ -26823,6 +26930,6 @@
     "shipments": "2026-08-24T10:18:38.961Z",
     "certExtras": "2026-08-21T07:32:33.905Z"
   },
-  "rev": 2166,
-  "savedAt": "2026-08-25T12:08:43.665Z"
+  "rev": 2167,
+  "savedAt": "2026-08-25T12:08:55.801Z"
 }
