@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-25T14:35:32.742Z",
+  "pushedAt": "2026-08-25T14:35:37.393Z",
   "todosCount": 368,
   "todos": [
     {
@@ -8230,9 +8230,10 @@
       "dueDate": "2026-08-24",
       "note": "",
       "createdAt": "2026-08-24T14:38:23.3916824Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-25T14:35:33.485Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-25T14:35:33.485Z"
     },
     {
       "id": "outlook_AAJrQzFgAAA=",
@@ -23002,6 +23003,13 @@
       "completedAt": "2026-08-25T14:35:28.918Z",
       "todoId": "outlook_AAJrQzFfAAA=",
       "title": "Norrbotten on Board Requests"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJrQzFhAAA=",
+      "listId": "",
+      "completedAt": "2026-08-25T14:35:33.487Z",
+      "todoId": "outlook_AAJrQzFhAAA=",
+      "title": "M/V MED TOSCANA PO90 HQPO-00090 MDT-HQPO-00090 RK MARINE SERVICE"
     }
   ],
   "manualOrders": {
@@ -27147,6 +27155,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2187,
-  "savedAt": "2026-08-25T14:35:32.742Z"
+  "rev": 2188,
+  "savedAt": "2026-08-25T14:35:37.394Z"
 }
