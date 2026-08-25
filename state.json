@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-25T14:35:56.198Z",
+  "pushedAt": "2026-08-25T14:36:06.320Z",
   "todosCount": 368,
   "todos": [
     {
@@ -7750,12 +7750,12 @@
       "dueDate": "2026-08-21",
       "note": "",
       "createdAt": "2026-08-20T11:02:33.4287202Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-25T14:35:59.117Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-20T15:20:50.174Z"
+      "updatedAt": "2026-08-25T14:35:59.117Z"
     },
     {
       "category": "Nave",
@@ -7823,12 +7823,12 @@
       "dueDate": "2026-08-21",
       "note": "",
       "createdAt": "2026-08-20T07:35:29.7559475Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-25T14:35:57.925Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-20T13:57:29.980Z"
+      "updatedAt": "2026-08-25T14:35:57.925Z"
     },
     {
       "category": "Nave",
@@ -7848,9 +7848,10 @@
       "dueDate": "2026-08-20",
       "note": "",
       "createdAt": "2026-08-21T13:56:28.2625981Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-25T14:36:02.532Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-25T14:36:02.533Z"
     },
     {
       "category": "Nave",
@@ -7918,9 +7919,10 @@
       "dueDate": "2026-08-20",
       "note": "",
       "createdAt": "2026-08-21T13:01:51.1125378Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-25T14:36:02.085Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-25T14:36:02.085Z"
     },
     {
       "category": "Nave",
@@ -8192,9 +8194,10 @@
       "dueDate": "2026-08-24",
       "note": "",
       "createdAt": "2026-08-24T18:41:47.3134485Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-25T14:36:01.509Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-25T14:36:01.509Z"
     },
     {
       "id": "outlook_AAJrQzFiAAA=",
@@ -22944,20 +22947,6 @@
       "title": "riscontro fattura"
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpvQ6CAAA=",
-      "listId": "",
-      "completedAt": "2026-08-24T08:33:07.754Z",
-      "todoId": "outlook_AAJpvQ6CAAA=",
-      "title": "I: M/V MED TOSCANA PR77 HQRQ-00146 MDT-SHPR-00077 RK MARINE SERVICE"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpTesEAAA=",
-      "listId": "",
-      "completedAt": "2026-08-24T09:16:38.777Z",
-      "todoId": "outlook_AAJpTesEAAA=",
-      "title": "TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpvQ6AAAA=",
       "listId": "",
       "completedAt": "2026-08-24T09:18:56.636Z",
@@ -23033,6 +23022,41 @@
       "completedAt": "2026-08-25T14:35:55.367Z",
       "todoId": "outlook_AAJpvQ6DAAA=",
       "title": "M/V MED TOSCANA PR75 HQRQ-00152 MDT-SHPR-00076 RK MARINE SERVICE"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpTesEAAA=",
+      "listId": "",
+      "completedAt": "2026-08-25T14:35:57.926Z",
+      "todoId": "outlook_AAJpTesEAAA=",
+      "title": "TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpTesHAAA=",
+      "listId": "",
+      "completedAt": "2026-08-25T14:35:59.119Z",
+      "todoId": "outlook_AAJpTesHAAA=",
+      "title": "I: M/V MED TOSCANA - Annual Safety Equipment Surveys / Certification – Kandla"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJrQzFjAAA=",
+      "listId": "",
+      "completedAt": "2026-08-25T14:36:01.510Z",
+      "todoId": "outlook_AAJrQzFjAAA=",
+      "title": "I: M/V MED TOSCANA  PR75  HQRQ-00157  MDT-SHPR-00075  YH MARINE TRADE CO.,LTD"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpvQ6CAAA=",
+      "listId": "",
+      "completedAt": "2026-08-25T14:36:02.087Z",
+      "todoId": "outlook_AAJpvQ6CAAA=",
+      "title": "I: M/V MED TOSCANA PR77 HQRQ-00146 MDT-SHPR-00077 RK MARINE SERVICE"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJpvQ6FAAA=",
+      "listId": "",
+      "completedAt": "2026-08-25T14:36:02.534Z",
+      "todoId": "outlook_AAJpvQ6FAAA=",
+      "title": "TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN"
     }
   ],
   "manualOrders": {
@@ -27156,7 +27180,7 @@
     "ts": "2026-08-21T07:32:33.905Z"
   },
   "collMeta": {
-    "todos": "2026-08-25T14:35:56.190Z",
+    "todos": "2026-08-25T14:36:06.313Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27165,7 +27189,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-08-25T13:39:04.705Z",
-    "outlookCompletionQueue": "2026-08-25T14:35:56.190Z",
+    "outlookCompletionQueue": "2026-08-25T14:36:06.313Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-24T10:23:08.166Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
@@ -27178,6 +27202,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2191,
-  "savedAt": "2026-08-25T14:35:56.199Z"
+  "rev": 2192,
+  "savedAt": "2026-08-25T14:36:06.320Z"
 }
