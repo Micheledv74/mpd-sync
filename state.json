@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-25T08:45:53.819Z",
+  "pushedAt": "2026-08-25T08:45:59.317Z",
   "todosCount": 360,
   "todos": [
     {
@@ -7475,13 +7475,13 @@
       "outlookLinkedName": "M/V NORRBOTTEN - IO063977 RETROFIT SISTEMA TIMONE  NORRBOTTEN 2026-NOR-00050 ",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-08-24",
+      "dueDate": "2026-08-25",
       "note": "",
       "createdAt": "2026-08-19T08:14:45.1606301Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-24T09:44:27.587Z",
+      "updatedAt": "2026-08-25T08:45:55.624Z",
       "kind": "todo",
       "recur": null
     },
@@ -26927,6 +26927,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2158,
-  "savedAt": "2026-08-25T08:45:53.819Z"
+  "rev": 2159,
+  "savedAt": "2026-08-25T08:45:59.317Z"
 }
