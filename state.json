@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-25T14:35:23.414Z",
+  "pushedAt": "2026-08-25T14:35:32.742Z",
   "todosCount": 368,
   "todos": [
     {
@@ -8252,9 +8252,10 @@
       "dueDate": "2026-08-24",
       "note": "",
       "createdAt": "2026-08-24T09:22:26.9540217Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-25T14:35:27.419Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-25T14:35:27.419Z"
     },
     {
       "id": "outlook_AAJrQzFfAAA=",
@@ -8274,9 +8275,10 @@
       "dueDate": "2026-08-24",
       "note": "",
       "createdAt": "2026-08-24T07:56:37.9416188Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-25T14:35:28.916Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-25T14:35:28.916Z"
     },
     {
       "id": "outlook_AAJrQzFeAAA=",
@@ -22986,6 +22988,20 @@
       "completedAt": "2026-08-25T14:35:15.902Z",
       "todoId": "outlook_AAJrQzFdAAA=",
       "title": "M/V MED LIGURIA - Xiamen - update on 23 Aug"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJrQzFgAAA=",
+      "listId": "",
+      "completedAt": "2026-08-25T14:35:27.422Z",
+      "todoId": "outlook_AAJrQzFgAAA=",
+      "title": "M/V MED LIGURIA - Info ship Problem"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJrQzFfAAA=",
+      "listId": "",
+      "completedAt": "2026-08-25T14:35:28.918Z",
+      "todoId": "outlook_AAJrQzFfAAA=",
+      "title": "Norrbotten on Board Requests"
     }
   ],
   "manualOrders": {
@@ -27109,7 +27125,7 @@
     "ts": "2026-08-21T07:32:33.905Z"
   },
   "collMeta": {
-    "todos": "2026-08-25T14:35:19.899Z",
+    "todos": "2026-08-25T14:35:32.735Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27118,7 +27134,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-08-25T13:39:04.705Z",
-    "outlookCompletionQueue": "2026-08-25T14:35:19.899Z",
+    "outlookCompletionQueue": "2026-08-25T14:35:32.735Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-24T10:23:08.166Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
@@ -27131,6 +27147,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2186,
-  "savedAt": "2026-08-25T14:35:23.414Z"
+  "rev": 2187,
+  "savedAt": "2026-08-25T14:35:32.742Z"
 }
