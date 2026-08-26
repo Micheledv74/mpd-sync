@@ -1,9 +1,24 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-26T07:19:51.792Z",
-  "todosCount": 375,
+  "pushedAt": "2026-08-26T12:57:54.565Z",
+  "todosCount": 376,
   "todos": [
+    {
+      "id": "td_1787749070867_nx41d",
+      "category": "Infoship",
+      "priority": "alta",
+      "vessel": "",
+      "action": "Telefonare",
+      "reference": "",
+      "tags": [],
+      "dueDate": "2026-08-27",
+      "note": "Provare se dopo un PO CANCELLED si può ripartire da REQ",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-08-26T12:57:50.867Z"
+    },
     {
       "category": "Nave",
       "priority": "alta",
@@ -27358,7 +27373,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-26T07:19:51.783Z",
+    "todos": "2026-08-26T12:57:54.550Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27380,6 +27395,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2233,
-  "savedAt": "2026-08-26T07:19:51.792Z"
+  "rev": 2234,
+  "savedAt": "2026-08-26T12:57:54.565Z"
 }
