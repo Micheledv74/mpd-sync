@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-26T14:40:26.459Z",
+  "pushedAt": "2026-08-26T14:40:34.951Z",
   "todosCount": 377,
   "todos": [
     {
@@ -8449,7 +8449,7 @@
       "outlookLinkedName": "R: M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi",
       "vessel": "vegauno",
       "action": "Altro",
-      "dueDate": "2026-08-26",
+      "dueDate": "2026-08-27",
       "note": "",
       "createdAt": "2026-08-25T13:26:36.4942133Z",
       "done": false,
@@ -8457,7 +8457,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-25T14:36:30.629Z"
+      "updatedAt": "2026-08-26T14:40:30.848Z"
     },
     {
       "category": "Altro",
@@ -27415,7 +27415,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-26T14:40:23.029Z",
+    "todos": "2026-08-26T14:40:34.939Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27437,6 +27437,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2246,
-  "savedAt": "2026-08-26T14:40:26.459Z"
+  "rev": 2247,
+  "savedAt": "2026-08-26T14:40:34.951Z"
 }
