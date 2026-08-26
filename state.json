@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-26T14:40:54.994Z",
+  "pushedAt": "2026-08-26T14:41:01.791Z",
   "todosCount": 377,
   "todos": [
     {
@@ -863,13 +863,13 @@
       "id": "td_1781594085068_88hrw",
       "vessel": "peppino",
       "action": "Controllare",
-      "dueDate": "2026-08-26",
+      "dueDate": "2026-08-31",
       "note": "Controllare ordine e spedizione",
       "done": false,
       "createdAt": "2026-06-16T07:14:45.068Z",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-25T14:36:15.645Z"
+      "updatedAt": "2026-08-26T14:40:57.858Z"
     },
     {
       "category": "Nave",
@@ -27429,7 +27429,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-26T14:40:34.939Z",
+    "todos": "2026-08-26T14:41:01.777Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27451,6 +27451,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2250,
-  "savedAt": "2026-08-26T14:40:54.994Z"
+  "rev": 2251,
+  "savedAt": "2026-08-26T14:41:01.792Z"
 }
