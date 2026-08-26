@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-26T15:26:43.996Z",
+  "pushedAt": "2026-08-26T15:27:22.121Z",
   "todosCount": 380,
   "todos": [
     {
@@ -20958,7 +20958,7 @@
         "id": "vmrx9frz5mb8h",
         "from": "Port Louis, Mauritius",
         "to": "Takoradi, Ghana",
-        "etd": "",
+        "etd": "2026-08-28T00:00",
         "etb": "2026-08-24T12:00",
         "eta": "2026-08-21T12:00",
         "agency": {
@@ -20978,8 +20978,8 @@
         }
       },
       "notes": "",
-      "updatedAt": "2026-08-25T13:39:01.084Z",
-      "fromNoon": "2026-08-24",
+      "updatedAt": "2026-08-26T15:27:18.166Z",
+      "fromNoon": "2026-08-25",
       "history": [
         {
           "id": "vmrp3atcsp5z0",
@@ -27507,7 +27507,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-08-26T14:00:02.978Z",
+    "voyages": "2026-08-26T15:27:22.113Z",
     "outlookCompletionQueue": "2026-08-26T14:40:23.029Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-24T10:23:08.166Z",
@@ -27521,6 +27521,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2264,
-  "savedAt": "2026-08-26T15:26:43.997Z"
+  "rev": 2265,
+  "savedAt": "2026-08-26T15:27:22.122Z"
 }
