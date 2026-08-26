@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-26T15:24:37.910Z",
-  "todosCount": 377,
+  "pushedAt": "2026-08-26T15:24:42.892Z",
+  "todosCount": 379,
   "todos": [
     {
       "id": "td_1787754883628_0096v",
@@ -8508,6 +8508,51 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-08-26T14:40:51.144Z"
+    },
+    {
+      "id": "outlook_AAJtPtKaAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJtPtKaAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4mTAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Re: M/V MED LIGURIA  PR1  HQPO-00080  MLG-HQPR-00001  YH MARINE TRADE CO.,LTD",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "M/V MED LIGURIA  PR1  HQPO-00080  MLG-HQPR-00001  YH MARINE TRADE CO.,LTD",
+      "tags": [
+        "outlook",
+        "fornitore:YH"
+      ],
+      "dueDate": "2026-08-25",
+      "note": "",
+      "createdAt": "2026-08-26T15:20:48.933432Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJtPtKZAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJtPtKZAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9X6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: I: [E2608-877 MEC] RE: R: M/B VEGA UNO - RFQ - DOOSAN 4V158TI (S/N EKZKC801879) - Exhaust Manifolds & Gaskets",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "vegauno",
+      "action": "Altro",
+      "reference": "I: [E2608-877 MEC] RE: R: M/B VEGA UNO - RFQ - DOOSAN 4V158TI (S/N EKZKC801879) - Exhaust Manifolds & Gaskets",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-26",
+      "note": "",
+      "createdAt": "2026-08-26T12:34:53.3280863Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -27452,6 +27497,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2256,
-  "savedAt": "2026-08-26T15:24:37.910Z"
+  "rev": 2257,
+  "savedAt": "2026-08-26T15:24:42.892Z"
 }
