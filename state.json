@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-26T14:39:39.984Z",
+  "pushedAt": "2026-08-26T14:39:57.636Z",
   "todosCount": 377,
   "todos": [
     {
@@ -8208,7 +8208,7 @@
       "outlookLinkedName": "RE: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: Order Confirmation / PO 2026-MDT-HQPO-00057 / VESSEL MED TOSCANA / SO 2386541.",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-08-26",
+      "dueDate": "2026-08-27",
       "note": "",
       "createdAt": "2026-08-25T06:56:42.5610879Z",
       "done": false,
@@ -8216,7 +8216,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-25T14:36:07.517Z"
+      "updatedAt": "2026-08-26T14:39:53.662Z"
     },
     {
       "category": "Altro",
@@ -27397,7 +27397,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-26T14:39:37.862Z",
+    "todos": "2026-08-26T14:39:57.626Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27419,6 +27419,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2241,
-  "savedAt": "2026-08-26T14:39:39.985Z"
+  "rev": 2242,
+  "savedAt": "2026-08-26T14:39:57.636Z"
 }
