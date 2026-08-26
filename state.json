@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-26T14:40:39.245Z",
+  "pushedAt": "2026-08-26T14:40:46.382Z",
   "todosCount": 377,
   "todos": [
     {
@@ -8477,12 +8477,12 @@
       "dueDate": "2026-08-26",
       "note": "",
       "createdAt": "2026-08-25T13:26:35.2808041Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-08-26T14:40:41.472Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-25T14:36:44.757Z"
+      "updatedAt": "2026-08-26T14:40:41.472Z"
     },
     {
       "category": "Altro",
@@ -23272,6 +23272,13 @@
       "completedAt": "2026-08-26T14:40:22.890Z",
       "todoId": "outlook_AAJrQzFeAAA=",
       "title": "Annual Fee PO Request"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJsiHRCAAA=",
+      "listId": "",
+      "completedAt": "2026-08-26T14:40:41.475Z",
+      "todoId": "outlook_AAJsiHRCAAA=",
+      "title": "WSS - SAN COLOMBANO BULK S.R.L-8100302241 - SOA as of 04.08.2026"
     }
   ],
   "manualOrders": {
@@ -27437,6 +27444,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2248,
-  "savedAt": "2026-08-26T14:40:39.246Z"
+  "rev": 2249,
+  "savedAt": "2026-08-26T14:40:46.382Z"
 }
