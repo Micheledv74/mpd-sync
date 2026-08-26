@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-26T14:34:53.443Z",
+  "pushedAt": "2026-08-26T14:39:23.910Z",
   "todosCount": 377,
   "todos": [
     {
@@ -90,9 +90,10 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJrQvbbAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: mv Med Toscana- Card for WI-FI Crew-WIFI Users Management",
-      "done": false,
+      "done": true,
       "createdAt": "2026-08-25T14:41:19.465Z",
-      "updatedAt": "2026-08-25T15:18:43.851Z"
+      "updatedAt": "2026-08-26T14:39:19.718Z",
+      "doneAt": "2026-08-26T14:39:19.717Z"
     },
     {
       "category": "Nave",
@@ -27396,7 +27397,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-26T14:34:47.429Z",
+    "todos": "2026-08-26T14:39:23.902Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27418,6 +27419,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2237,
-  "savedAt": "2026-08-26T14:34:53.444Z"
+  "rev": 2238,
+  "savedAt": "2026-08-26T14:39:23.910Z"
 }
