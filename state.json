@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-26T14:39:57.636Z",
+  "pushedAt": "2026-08-26T14:40:04.873Z",
   "todosCount": 377,
   "todos": [
     {
@@ -8221,7 +8221,7 @@
     {
       "category": "Altro",
       "priority": "media",
-      "reference": "CLOUD ",
+      "reference": "CLOUD",
       "tags": [
         "outlook"
       ],
@@ -8233,12 +8233,15 @@
       "outlookLinkedName": "I: CLOUD ",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-08-26",
+      "dueDate": "2026-08-27",
       "note": "",
       "createdAt": "2026-08-25T06:33:04.3908849Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-08-26T14:40:00.688Z"
     },
     {
       "category": "Nave",
@@ -27397,7 +27400,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-26T14:39:57.626Z",
+    "todos": "2026-08-26T14:40:04.863Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27419,6 +27422,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2242,
-  "savedAt": "2026-08-26T14:39:57.636Z"
+  "rev": 2243,
+  "savedAt": "2026-08-26T14:40:04.873Z"
 }
