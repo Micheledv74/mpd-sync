@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-26T14:41:06.082Z",
+  "pushedAt": "2026-08-26T15:07:59.866Z",
   "todosCount": 377,
   "todos": [
     {
@@ -63,7 +63,7 @@
       "id": "td_1787668920706_0po5x",
       "vessel": "norrbotten",
       "action": "Inviare email",
-      "dueDate": "2026-08-26",
+      "dueDate": "2026-08-27",
       "note": "Ivo buon pomeriggio, adesso mi organizzo e ti giro quanto richiesto. A presto michele del vecchio purchasing dept. Ships Surveys & Service srl dir. ph. +39 081 5423351 mobile ph. +39 340 8040689 email: purchasing@sssdam.com email: mdelvecc",
       "recur": null,
       "kind": "todo",
@@ -71,7 +71,7 @@
       "outlookLinkedName": "richiesta info e/o conteggi",
       "done": false,
       "createdAt": "2026-08-25T14:42:00.706Z",
-      "updatedAt": "2026-08-25T15:18:38.313Z"
+      "updatedAt": "2026-08-26T15:07:56.493Z"
     },
     {
       "category": "Nave",
@@ -27429,7 +27429,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-26T14:41:01.777Z",
+    "todos": "2026-08-26T15:07:59.851Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27451,6 +27451,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2252,
-  "savedAt": "2026-08-26T14:41:06.083Z"
+  "rev": 2253,
+  "savedAt": "2026-08-26T15:07:59.867Z"
 }
