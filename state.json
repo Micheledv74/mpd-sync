@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-27T13:39:36.143Z",
+  "pushedAt": "2026-08-27T14:53:50.568Z",
   "todosCount": 381,
   "todos": [
     {
@@ -38,8 +38,10 @@
       "note": "2026-PEP-HQRQ-00205 \nSPA Req. FWG Ejector pump NEW - TOP Urgent",
       "recur": null,
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-08-26T14:34:43.628Z"
+      "done": true,
+      "createdAt": "2026-08-26T14:34:43.628Z",
+      "doneAt": "2026-08-27T14:53:47.885Z",
+      "updatedAt": "2026-08-27T14:53:47.887Z"
     },
     {
       "category": "Infoship",
@@ -27535,7 +27537,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-27T13:39:36.136Z",
+    "todos": "2026-08-27T14:53:50.550Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27557,6 +27559,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2278,
-  "savedAt": "2026-08-27T13:39:36.143Z"
+  "rev": 2279,
+  "savedAt": "2026-08-27T14:53:50.569Z"
 }
