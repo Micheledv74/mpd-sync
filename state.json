@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-27T07:15:02.463Z",
-  "todosCount": 380,
+  "pushedAt": "2026-08-27T07:15:08.138Z",
+  "todosCount": 381,
   "todos": [
     {
       "category": "Nave",
@@ -8570,6 +8570,28 @@
       "dueDate": "2026-08-26",
       "note": "",
       "createdAt": "2026-08-26T12:34:53.3280863Z",
+      "done": true,
+      "doneAt": "2026-08-27T07:11:56.1604644Z",
+      "outlookStatus": "completed"
+    },
+    {
+      "id": "outlook_AAJt4ZYHAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJt4ZYHAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9X2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": " M/V MED TOSCANA - RI 106587 - ETA BEDI, India 29 August next, Annual Surveys",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": " M/V MED TOSCANA - RI 106587 - ETA BEDI, India 29 August next, Annual Surveys",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-27",
+      "note": "",
+      "createdAt": "2026-08-27T07:11:41.5103853Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -27521,6 +27543,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2268,
-  "savedAt": "2026-08-27T07:15:02.464Z"
+  "rev": 2269,
+  "savedAt": "2026-08-27T07:15:08.138Z"
 }
