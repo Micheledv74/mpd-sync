@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-27T09:38:53.506Z",
+  "pushedAt": "2026-08-27T13:39:17.065Z",
   "todosCount": 381,
   "todos": [
     {
@@ -8548,9 +8548,10 @@
       "dueDate": "2026-08-25",
       "note": "",
       "createdAt": "2026-08-26T15:20:48.933432Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-27T13:39:12.941Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-27T13:39:12.943Z"
     },
     {
       "category": "Nave",
@@ -23373,6 +23374,13 @@
       "completedAt": "2026-08-26T14:40:51.147Z",
       "todoId": "outlook_AAJsiHRBAAA=",
       "title": "Annual Fee PO Request"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJtPtKaAAA=",
+      "listId": "",
+      "completedAt": "2026-08-27T13:39:12.947Z",
+      "todoId": "outlook_AAJtPtKaAAA=",
+      "title": "M/V MED LIGURIA  PR1  HQPO-00080  MLG-HQPR-00001  YH MARINE TRADE CO.,LTD"
     }
   ],
   "manualOrders": {
@@ -27525,7 +27533,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-27T07:14:59.864Z",
+    "todos": "2026-08-27T13:39:17.058Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27534,7 +27542,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-08-27T07:16:49.053Z",
-    "outlookCompletionQueue": "2026-08-26T14:40:23.029Z",
+    "outlookCompletionQueue": "2026-08-27T13:39:17.058Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-24T10:23:08.166Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
@@ -27547,6 +27555,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2275,
-  "savedAt": "2026-08-27T09:38:53.507Z"
+  "rev": 2276,
+  "savedAt": "2026-08-27T13:39:17.065Z"
 }
