@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-27T15:24:15.780Z",
+  "pushedAt": "2026-08-27T15:28:48.960Z",
   "todosCount": 385,
   "todos": [
     {
@@ -8583,20 +8583,20 @@
       "outlookStatus": "completed"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": " M/V MED TOSCANA - RI 106587 - ETA BEDI, India 29 August next, Annual Surveys",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJt4ZYHAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJt4ZYHAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9X2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": " M/V MED TOSCANA - RI 106587 - ETA BEDI, India 29 August next, Annual Surveys",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": " M/V MED TOSCANA - RI 106587 - ETA BEDI, India 29 August next, Annual Surveys",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-27",
       "note": "",
       "createdAt": "2026-08-27T07:11:41.5103853Z",
@@ -8606,20 +8606,20 @@
       "updatedAt": "2026-08-27T15:00:54.371Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJt4ZYLAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJt4ZYLAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9YVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-27",
       "note": "",
       "createdAt": "2026-08-27T13:26:29.3932555Z",
@@ -8628,20 +8628,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": " M/V MED TOSCANA - RI 106587 - ETA BEDI, India 29 August next, Annual Surveys",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJt4ZYKAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJt4ZYKAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJt4SnHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R:  M/V MED TOSCANA - RI 106587 - ETA BEDI, India 29 August next, Annual Surveys",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": " M/V MED TOSCANA - RI 106587 - ETA BEDI, India 29 August next, Annual Surveys",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-26",
       "note": "",
       "createdAt": "2026-08-27T12:46:57.0737703Z",
@@ -8650,20 +8650,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "INVOICES FOR MV NORRBOTTEN AUGUST 2026",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJt4ZYJAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJt4ZYJAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJt4YBCAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "INVOICES FOR MV NORRBOTTEN AUGUST 2026",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "INVOICES FOR MV NORRBOTTEN AUGUST 2026",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-26",
       "note": "",
       "createdAt": "2026-08-27T09:54:24.4865613Z",
@@ -8672,20 +8672,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "TEF064507  Supply cables pt 2  NORRBOTTEN ",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJt4ZYIAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJt4ZYIAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9YNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: TEF064507  Supply cables pt 2  NORRBOTTEN ",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "TEF064507  Supply cables pt 2  NORRBOTTEN ",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-08-27",
       "note": "",
       "createdAt": "2026-08-27T09:38:17.2439914Z",
@@ -27651,7 +27651,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-27T15:16:39.773Z",
+    "todos": "2026-08-27T15:28:46.199Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27673,6 +27673,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2297,
-  "savedAt": "2026-08-27T15:24:15.780Z"
+  "rev": 2298,
+  "savedAt": "2026-08-27T15:28:48.960Z"
 }
