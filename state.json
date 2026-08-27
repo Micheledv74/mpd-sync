@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-27T09:38:40.721Z",
+  "pushedAt": "2026-08-27T09:38:50.016Z",
   "todosCount": 381,
   "todos": [
     {
@@ -24544,7 +24544,8 @@
       "origin": "China"
     },
     "med toscana::medicine": {
-      "origin": "La spezia"
+      "origin": "La Spezia",
+      "transportMode": "Hub Genova"
     }
   },
   "repliesDismissed": [
@@ -27540,12 +27541,12 @@
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-08-25T15:19:57.977Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
-    "itemOverrides": "2026-08-27T09:38:40.712Z",
+    "itemOverrides": "2026-08-27T09:38:50.009Z",
     "repliesDismissed": "2026-08-26T15:26:21.802Z",
     "shipments": "2026-08-24T10:18:38.961Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2273,
-  "savedAt": "2026-08-27T09:38:40.721Z"
+  "rev": 2274,
+  "savedAt": "2026-08-27T09:38:50.016Z"
 }
