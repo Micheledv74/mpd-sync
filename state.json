@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-28T14:12:49.195Z",
+  "pushedAt": "2026-08-28T14:13:58.760Z",
   "todosCount": 388,
   "todos": [
     {
@@ -24139,6 +24139,12 @@
       "port": "BEDI",
       "date": "2026-08-29",
       "frozenFromVoyage": true
+    },
+    "med toscana::battery for uhf icom icf26": {
+      "mode": "manual",
+      "port": "BEDI",
+      "date": "2026-08-29",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -27766,7 +27772,7 @@
     "voyages": "2026-08-28T12:53:41.198Z",
     "outlookCompletionQueue": "2026-08-28T12:57:56.469Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
-    "deliveries": "2026-08-28T14:12:49.187Z",
+    "deliveries": "2026-08-28T14:13:56.943Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-08-25T15:19:57.977Z",
@@ -27777,6 +27783,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2337,
-  "savedAt": "2026-08-28T14:12:49.195Z"
+  "rev": 2338,
+  "savedAt": "2026-08-28T14:13:58.760Z"
 }
