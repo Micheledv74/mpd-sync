@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-28T14:18:38.987Z",
-  "todosCount": 388,
+  "pushedAt": "2026-08-28T14:23:03.072Z",
+  "todosCount": 390,
   "todos": [
     {
       "category": "Nave",
@@ -8760,6 +8760,50 @@
       "dueDate": "2026-08-27",
       "note": "",
       "createdAt": "2026-08-28T09:11:53.2615495Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJt4ZYPAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJt4ZYPAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJt4YBVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "AW: Mv NORRBOTTEN - IMO 9191931,Bow Thruster Jastram BU 2889 Ref.00012515",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "Mv NORRBOTTEN - IMO 9191931,Bow Thruster Jastram BU 2889 Ref.00012515",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-28",
+      "note": "",
+      "createdAt": "2026-08-28T10:26:42.6928959Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJt4ZYOAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJt4ZYOAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9YgAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: Mv Norrbotten change of Vessel Name and Company",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "Mv Norrbotten change of Vessel Name and Company",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-08-28",
+      "note": "",
+      "createdAt": "2026-08-28T09:38:50.457893Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -27827,7 +27871,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-28T12:57:56.469Z",
+    "todos": "2026-08-28T14:23:03.063Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27849,6 +27893,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2342,
-  "savedAt": "2026-08-28T14:18:38.988Z"
+  "rev": 2343,
+  "savedAt": "2026-08-28T14:23:03.073Z"
 }
