@@ -1,9 +1,27 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-28T07:25:35.430Z",
-  "todosCount": 382,
+  "pushedAt": "2026-08-28T07:25:44.768Z",
+  "todosCount": 383,
   "todos": [
+    {
+      "id": "td_1787901941031_b1hjh",
+      "category": "Nave",
+      "priority": "alta",
+      "vessel": "peppino",
+      "action": "Controllare",
+      "reference": "Certificati",
+      "tags": [],
+      "dueDate": "2026-09-13",
+      "note": "",
+      "recur": {
+        "type": "days",
+        "interval": 15
+      },
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-08-28T07:25:41.031Z"
+    },
     {
       "category": "Nave",
       "priority": "alta",
@@ -8066,8 +8084,10 @@
         "interval": 15
       },
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-08-20T11:00:41.877Z"
+      "done": true,
+      "createdAt": "2026-08-20T11:00:41.877Z",
+      "doneAt": "2026-08-28T07:25:41.028Z",
+      "updatedAt": "2026-08-28T07:25:41.029Z"
     },
     {
       "category": "Nave",
@@ -27585,7 +27605,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-28T06:17:56.294Z",
+    "todos": "2026-08-28T07:25:44.760Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -27607,6 +27627,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2301,
-  "savedAt": "2026-08-28T07:25:35.430Z"
+  "rev": 2302,
+  "savedAt": "2026-08-28T07:25:44.768Z"
 }
