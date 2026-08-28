@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-28T14:16:16.088Z",
+  "pushedAt": "2026-08-28T14:17:11.238Z",
   "todosCount": 388,
   "todos": [
     {
@@ -24175,6 +24175,18 @@
       "port": "BEDI",
       "date": "2026-08-29",
       "frozenFromVoyage": true
+    },
+    "med toscana::hatch cover clits/spare parts": {
+      "mode": "manual",
+      "port": "BEDI",
+      "date": "2026-08-29",
+      "frozenFromVoyage": true
+    },
+    "med toscana::chemicals": {
+      "mode": "manual",
+      "port": "BEDI",
+      "date": "2026-08-29",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -27802,7 +27814,7 @@
     "voyages": "2026-08-28T12:53:41.198Z",
     "outlookCompletionQueue": "2026-08-28T12:57:56.469Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
-    "deliveries": "2026-08-28T14:16:16.077Z",
+    "deliveries": "2026-08-28T14:16:55.963Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-08-25T15:19:57.977Z",
@@ -27813,6 +27825,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2340,
-  "savedAt": "2026-08-28T14:16:16.089Z"
+  "rev": 2341,
+  "savedAt": "2026-08-28T14:17:11.238Z"
 }
