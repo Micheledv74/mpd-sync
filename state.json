@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-31T09:31:42.527Z",
+  "pushedAt": "2026-08-31T09:33:58.742Z",
   "todosCount": 396,
   "todos": [
     {
@@ -8866,9 +8866,10 @@
       "note": "Provare se dopo un PO CANCELLED si può ripartire da REQ",
       "recur": null,
       "kind": "todo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-08-26T12:57:50.867Z",
-      "updatedAt": "2026-08-27T14:54:37.534Z"
+      "updatedAt": "2026-08-31T09:33:55.349Z",
+      "doneAt": "2026-08-31T09:33:55.349Z"
     },
     {
       "id": "outlook_AAJvuFNYAAA=",
@@ -28014,7 +28015,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-31T08:01:47.039Z",
+    "todos": "2026-08-31T09:33:58.742Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28036,6 +28037,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2351,
-  "savedAt": "2026-08-31T09:31:42.527Z"
+  "rev": 2352,
+  "savedAt": "2026-08-31T09:33:58.743Z"
 }
