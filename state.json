@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-31T10:07:26.037Z",
+  "pushedAt": "2026-08-31T10:07:50.523Z",
   "todosCount": 397,
   "todos": [
     {
@@ -21351,18 +21351,7 @@
     "peppino": {
       "status": "at_sea",
       "current": {
-        "id": "vmrx9frz5mb8h",
-        "from": "Port Louis, Mauritius",
-        "to": "Takoradi, Ghana",
-        "etd": "2026-08-27T18:00",
-        "etb": "2026-08-24T12:00",
-        "eta": "2026-08-21T12:00",
-        "agency": {
-          "name": "OMA Ghana",
-          "contacts": "Leticia Aikins │ Ship Agency\nOMA Ghana | 3rd Floor, GPHA Credit Union Building Behind Bank of Ghana, Takoradi, Ghana\nTel: +233 312 027758 |Mob: +233 (0)50 154 5033\nEmail: leticia.aikins@omagroup.com\nSkype: leticia.aikins@omagroup.com\nWebsite: www.omagroup.com"
-        }
-      },
-      "next": {
+        "etd": "",
         "id": "vmsn3dmql4gg2",
         "from": "Takoradi, Ghana",
         "to": "Tema, Ghana",
@@ -21373,10 +21362,36 @@
           "contacts": "Leticia Aikins │ Ship Agency\nOMA Ghana | 3rd Floor, GPHA Credit Union Building Behind Bank of Ghana, Takoradi, Ghana\nTel: +233 312 027758 |Mob: +233 (0)50 154 5033\nEmail: leticia.aikins@omagroup.com\nSkype: leticia.aikins@omagroup.com\nWebsite: www.omagroup.com"
         }
       },
+      "next": {},
       "notes": "",
-      "updatedAt": "2026-08-28T12:51:38.487Z",
+      "updatedAt": "2026-08-31T10:07:47.085Z",
       "fromNoon": "2026-08-26",
       "history": [
+        {
+          "id": "vmrx9frz5mb8h",
+          "from": "Port Louis, Mauritius",
+          "to": "Takoradi, Ghana",
+          "etd": "2026-08-27T18:00",
+          "etb": "2026-08-24T12:00",
+          "eta": "2026-08-21T12:00",
+          "agency": {
+            "name": "OMA Ghana",
+            "contacts": "Leticia Aikins │ Ship Agency\nOMA Ghana | 3rd Floor, GPHA Credit Union Building Behind Bank of Ghana, Takoradi, Ghana\nTel: +233 312 027758 |Mob: +233 (0)50 154 5033\nEmail: leticia.aikins@omagroup.com\nSkype: leticia.aikins@omagroup.com\nWebsite: www.omagroup.com"
+          },
+          "closedAt": "2026-08-31T10:07:47.080Z",
+          "deliveredItems": [
+            {
+              "poNumber": "2026-PEP-HQPO-00142",
+              "description": "MAIN ENGINE CYLINDER COVER",
+              "supplier": "Zephyr Trading srl"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00139",
+              "description": "Beck_Order",
+              "supplier": "CAIM"
+            }
+          ]
+        },
         {
           "id": "vmrp3atcsp5z0",
           "from": "DONGGUAN, CHINA",
@@ -28076,7 +28091,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-08-28T12:53:41.198Z",
+    "voyages": "2026-08-31T10:07:50.523Z",
     "outlookCompletionQueue": "2026-08-31T09:55:52.925Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-28T14:18:38.978Z",
@@ -28090,6 +28105,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2370,
-  "savedAt": "2026-08-31T10:07:26.037Z"
+  "rev": 2371,
+  "savedAt": "2026-08-31T10:07:50.524Z"
 }
