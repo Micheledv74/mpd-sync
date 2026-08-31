@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-31T10:15:32.475Z",
+  "pushedAt": "2026-08-31T12:21:01.128Z",
   "todosCount": 399,
   "todos": [
     {
@@ -8985,9 +8985,10 @@
       "dueDate": "2026-08-31",
       "note": "",
       "createdAt": "2026-08-31T08:16:10.9779004Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-31T12:20:57.719Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-31T12:20:57.719Z"
     },
     {
       "id": "outlook_AAJvuFNaAAA=",
@@ -23887,6 +23888,13 @@
       "completedAt": "2026-08-31T09:55:49.884Z",
       "todoId": "outlook_AAJvuFNYAAA=",
       "title": "TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNZAAA=",
+      "listId": "",
+      "completedAt": "2026-08-31T12:20:57.728Z",
+      "todoId": "outlook_AAJvuFNZAAA=",
+      "title": "URGENTE – M/V MED LIGURIA – Richiesta pagamento anticipato per intervento gyro compass"
     }
   ],
   "manualOrders": {
@@ -28138,7 +28146,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-31T10:15:32.474Z",
+    "todos": "2026-08-31T12:21:01.128Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28147,7 +28155,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-08-31T10:07:50.523Z",
-    "outlookCompletionQueue": "2026-08-31T09:55:52.925Z",
+    "outlookCompletionQueue": "2026-08-31T12:21:01.128Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-28T14:18:38.978Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
@@ -28160,6 +28168,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2390,
-  "savedAt": "2026-08-31T10:15:32.475Z"
+  "rev": 2391,
+  "savedAt": "2026-08-31T12:21:01.128Z"
 }
