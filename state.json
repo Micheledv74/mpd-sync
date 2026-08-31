@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-31T09:55:27.443Z",
+  "pushedAt": "2026-08-31T09:55:52.925Z",
   "todosCount": 396,
   "todos": [
     {
@@ -8891,9 +8891,10 @@
       "dueDate": "2026-08-31",
       "note": "",
       "createdAt": "2026-08-31T06:59:17.1539689Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-08-31T09:55:49.881Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-08-31T09:55:49.881Z"
     },
     {
       "id": "outlook_AAJvY-1fAAA=",
@@ -23800,6 +23801,13 @@
       "completedAt": "2026-08-31T09:55:24.914Z",
       "todoId": "outlook_AAJt4ZYOAAA=",
       "title": "Mv Norrbotten change of Vessel Name and Company"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNYAAA=",
+      "listId": "",
+      "completedAt": "2026-08-31T09:55:49.884Z",
+      "todoId": "outlook_AAJvuFNYAAA=",
+      "title": "TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN"
     }
   ],
   "manualOrders": {
@@ -28037,7 +28045,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-31T09:55:27.443Z",
+    "todos": "2026-08-31T09:55:52.925Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28046,7 +28054,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-08-28T12:53:41.198Z",
-    "outlookCompletionQueue": "2026-08-31T09:55:27.443Z",
+    "outlookCompletionQueue": "2026-08-31T09:55:52.925Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-28T14:18:38.978Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
@@ -28059,6 +28067,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2365,
-  "savedAt": "2026-08-31T09:55:27.444Z"
+  "rev": 2366,
+  "savedAt": "2026-08-31T09:55:52.927Z"
 }
