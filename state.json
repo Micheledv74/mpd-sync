@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-31T12:21:01.128Z",
-  "todosCount": 399,
+  "pushedAt": "2026-08-31T13:02:25.719Z",
+  "todosCount": 400,
   "todos": [
     {
       "id": "td_1788170988924_8fr2s",
@@ -9008,6 +9008,29 @@
       "dueDate": "2026-08-31",
       "note": "",
       "createdAt": "2026-08-31T09:58:31.8786218Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJvuFNbAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNbAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9Y4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: M/V PEPPINO  PR65  HQPO-00100  PEP-SHPR-00065  DUBHE CO., LTD. //A-26059974",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO  PR65  HQPO-00100  PEP-SHPR-00065  DUBHE CO., LTD. //A-26059974",
+      "tags": [
+        "outlook",
+        "fornitore:DUBHE"
+      ],
+      "dueDate": "2026-08-31",
+      "note": "",
+      "createdAt": "2026-08-31T10:09:12.7868051Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -28146,7 +28169,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-31T12:21:01.128Z",
+    "todos": "2026-08-31T13:02:25.719Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28168,6 +28191,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2391,
-  "savedAt": "2026-08-31T12:21:01.128Z"
+  "rev": 2392,
+  "savedAt": "2026-08-31T13:02:25.719Z"
 }
