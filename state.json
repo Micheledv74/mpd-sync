@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-08-31T09:53:29.162Z",
+  "pushedAt": "2026-08-31T09:53:38.679Z",
   "todosCount": 396,
   "todos": [
     {
@@ -147,7 +147,7 @@
       "id": "td_1787668855913_df8ds",
       "vessel": "norrbotten",
       "action": "Sollecitare",
-      "dueDate": "2026-08-31",
+      "dueDate": "2026-09-05",
       "note": "To SAN COLOMBANO BULK S.R.L, Attached PDF file contains invoices for goods purchased from PPG Coatings Belgium BV/SRL. Please keep these documents for your payment and tax records. All sales are subject to our Conditions of Sale. Should you wish t",
       "recur": null,
       "kind": "todo",
@@ -155,7 +155,7 @@
       "outlookLinkedName": "PPG Invoice No 5312842377 10075152",
       "done": false,
       "createdAt": "2026-08-25T14:40:55.913Z",
-      "updatedAt": "2026-08-28T07:31:52.940Z"
+      "updatedAt": "2026-08-31T09:53:35.245Z"
     },
     {
       "category": "Ufficio",
@@ -28030,7 +28030,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-08-31T09:53:29.161Z",
+    "todos": "2026-08-31T09:53:38.679Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28052,6 +28052,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2359,
-  "savedAt": "2026-08-31T09:53:29.162Z"
+  "rev": 2360,
+  "savedAt": "2026-08-31T09:53:38.679Z"
 }
