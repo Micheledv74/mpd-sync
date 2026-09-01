@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-01T09:00:22.374Z",
+  "pushedAt": "2026-09-01T09:00:49.481Z",
   "todosCount": 402,
   "todos": [
     {
@@ -21638,7 +21638,7 @@
       "current": {
         "id": "vmsykguduk01a",
         "from": "XIAMEN",
-        "to": "AGW WP",
+        "to": "Yangzhou, China",
         "etd": "2026-09-06T00:00",
         "etb": "2026-08-29T15:04",
         "eta": "2026-08-26T08:00",
@@ -21659,7 +21659,7 @@
         }
       },
       "notes": "POL: Yangzhou, China - Lianyungang, China - Singapore (intended bunker port)\nPOD: Tanga, Tanzania - Vila do Conde, Brazil",
-      "updatedAt": "2026-09-01T09:00:18.975Z",
+      "updatedAt": "2026-09-01T09:00:46.047Z",
       "fromNoon": "2026-08-30",
       "history": [
         {
@@ -28221,7 +28221,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-09-01T09:00:22.374Z",
+    "voyages": "2026-09-01T09:00:49.481Z",
     "outlookCompletionQueue": "2026-08-31T12:21:01.128Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-28T14:18:38.978Z",
@@ -28235,6 +28235,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2396,
-  "savedAt": "2026-09-01T09:00:22.374Z"
+  "rev": 2397,
+  "savedAt": "2026-09-01T09:00:49.481Z"
 }
