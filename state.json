@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-01T13:42:28.478Z",
+  "pushedAt": "2026-09-01T13:42:35.791Z",
   "todosCount": 404,
   "todos": [
     {
@@ -8661,7 +8661,7 @@
       "outlookLinkedName": "R: TEF064507  Supply cables pt 2  NORRBOTTEN ",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-09-01",
+      "dueDate": "2026-09-02",
       "note": "",
       "createdAt": "2026-08-27T09:38:17.2439914Z",
       "done": false,
@@ -8669,7 +8669,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-01T09:04:16.195Z"
+      "updatedAt": "2026-09-01T13:42:33.198Z"
     },
     {
       "category": "Nave",
@@ -28293,7 +28293,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-01T13:42:28.478Z",
+    "todos": "2026-09-01T13:42:35.790Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28315,6 +28315,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2422,
-  "savedAt": "2026-09-01T13:42:28.478Z"
+  "rev": 2423,
+  "savedAt": "2026-09-01T13:42:35.791Z"
 }
