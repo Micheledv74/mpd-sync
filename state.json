@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-02T12:21:27.798Z",
+  "pushedAt": "2026-09-02T12:21:53.491Z",
   "todosCount": 406,
   "todos": [
     {
@@ -9226,7 +9226,8 @@
     "med liguria::alpha lubricator system mfg no pu110105": "2026-MLG-HQPO-00075 G&P TECH CO. - LT 7 days\n2026-MLG-HQPO-00076 MAS MARINE SHIPPING SUPPLIES - LT 4 week",
     "med toscana::emergency diesel generator": "HUB KOREA il 21/08/26",
     "med toscana::ballast system: actuators pneumatic valve spare; maker: besi marine system info@beside": "Stanby @Roger",
-    "med toscana::deck cargo lights": "Standby @Roger"
+    "med toscana::deck cargo lights": "Standby @Roger",
+    "peppino::spa req marine cooking range yangcan": "Standby @Roger"
   },
   "snoozed": {
     "todo:td_1780846490055_byv9f": "2026-06-22",
@@ -28373,7 +28374,7 @@
   },
   "collMeta": {
     "todos": "2026-09-02T12:17:39.654Z",
-    "notes": "2026-08-25T13:37:28.721Z",
+    "notes": "2026-09-02T12:21:53.491Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
     "completionsHistory": "2026-08-21T07:32:33.905Z",
@@ -28394,6 +28395,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2445,
-  "savedAt": "2026-09-02T12:21:27.798Z"
+  "rev": 2446,
+  "savedAt": "2026-09-02T12:21:53.491Z"
 }
