@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-02T08:29:15.982Z",
+  "pushedAt": "2026-09-02T08:31:27.587Z",
   "todosCount": 405,
   "todos": [
     {
@@ -22069,7 +22069,10 @@
         "etd": "2026-09-02T12:06",
         "etb": "",
         "eta": "",
-        "agency": null
+        "agency": {
+          "name": "DI.AR. MARITIME srl",
+          "contacts": "Shipping Agency - Services\nVia A. De Gasperi, 45 - 80133 Naples, ITALY  \nPhone: ++39 0815527833 - Fax: ++39 0815527837\ne-mail: info@diarma.it - WebSite: www.diarma.it"
+        }
       },
       "next": {
         "id": "",
@@ -22080,7 +22083,7 @@
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-09-01T10:06:20.415Z",
+      "updatedAt": "2026-09-02T08:31:24.183Z",
       "history": [
         {
           "id": "vms4odwaai18i",
@@ -28343,7 +28346,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-09-01T10:06:23.839Z",
+    "voyages": "2026-09-02T08:31:27.587Z",
     "outlookCompletionQueue": "2026-09-01T13:43:01.708Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-28T14:18:38.978Z",
@@ -28357,6 +28360,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2434,
-  "savedAt": "2026-09-02T08:29:15.983Z"
+  "rev": 2435,
+  "savedAt": "2026-09-02T08:31:27.588Z"
 }
