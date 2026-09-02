@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-02T12:22:38.277Z",
+  "pushedAt": "2026-09-02T12:25:53.368Z",
   "todosCount": 407,
   "todos": [
     {
@@ -24760,6 +24760,12 @@
       "port": "BEDI",
       "date": "2026-08-29",
       "frozenFromVoyage": true
+    },
+    "med toscana::engine store consumable impa 8th edition": {
+      "mode": "manual",
+      "port": "BEDI",
+      "date": "2026-08-29",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -28406,7 +28412,7 @@
     "voyages": "2026-09-02T08:31:27.587Z",
     "outlookCompletionQueue": "2026-09-02T12:17:39.654Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
-    "deliveries": "2026-08-28T14:18:38.978Z",
+    "deliveries": "2026-09-02T12:25:53.368Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-08-25T15:19:57.977Z",
@@ -28417,6 +28423,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2449,
-  "savedAt": "2026-09-02T12:22:38.277Z"
+  "rev": 2450,
+  "savedAt": "2026-09-02T12:25:53.368Z"
 }
