@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-02T12:18:32.633Z",
+  "pushedAt": "2026-09-02T12:18:41.811Z",
   "todosCount": 406,
   "todos": [
     {
@@ -25366,7 +25366,7 @@
     },
     "med toscana::ballast system: actuators pneumatic valve spare; maker: besi marine system info@beside": {
       "origin": "China",
-      "orderDateManual": "2026-09-01"
+      "orderDateManual": "2026-10-06"
     },
     "med toscana::deck cargo lights": {
       "origin": "China"
@@ -28384,12 +28384,12 @@
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-08-25T15:19:57.977Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
-    "itemOverrides": "2026-09-02T12:18:32.632Z",
+    "itemOverrides": "2026-09-02T12:18:41.811Z",
     "repliesDismissed": "2026-09-01T13:42:15.717Z",
     "shipments": "2026-08-24T10:18:38.961Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2440,
-  "savedAt": "2026-09-02T12:18:32.633Z"
+  "rev": 2441,
+  "savedAt": "2026-09-02T12:18:41.812Z"
 }
