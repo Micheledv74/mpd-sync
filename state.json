@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-03T10:53:30.899Z",
+  "pushedAt": "2026-09-03T12:00:49.161Z",
   "todosCount": 411,
   "todos": [
     {
@@ -28505,6 +28505,20 @@
         "updatedAt": "2026-08-19T13:53:16.357Z",
         "source": "17track-manual"
       }
+    ],
+    "peppino::spa req deck crane controllers": [
+      {
+        "id": "shmtlh4c1q91o",
+        "route": "supplier-hub",
+        "carrier": "DHL Express",
+        "hub": "TML Genoa",
+        "number": "4890014474",
+        "status": "pending",
+        "pickup": "2026-09-03",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-09-03T12:00:43.262Z"
+      }
     ]
   },
   "sourceDevice": {
@@ -28531,10 +28545,10 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-03T08:04:42.962Z",
     "repliesDismissed": "2026-09-03T10:53:30.899Z",
-    "shipments": "2026-08-24T10:18:38.961Z",
+    "shipments": "2026-09-03T12:00:49.161Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2479,
-  "savedAt": "2026-09-03T10:53:30.899Z"
+  "rev": 2480,
+  "savedAt": "2026-09-03T12:00:49.162Z"
 }
