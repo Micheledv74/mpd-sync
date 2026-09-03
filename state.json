@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-03T13:51:27.303Z",
+  "pushedAt": "2026-09-03T13:52:16.836Z",
   "todosCount": 420,
   "todos": [
     {
@@ -9471,9 +9471,10 @@
       "dueDate": "2026-09-03",
       "note": "",
       "createdAt": "2026-09-03T08:48:51.6051139Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-09-03T13:52:13.433Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-09-03T13:52:13.433Z"
     },
     {
       "id": "outlook_AAJvuFNoAAA=",
@@ -9493,9 +9494,10 @@
       "dueDate": "2026-09-03",
       "note": "",
       "createdAt": "2026-09-03T08:29:00.5729905Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-09-03T13:52:11.745Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-09-03T13:52:11.746Z"
     }
   ],
   "notes": {
@@ -24444,6 +24446,20 @@
       "completedAt": "2026-09-03T10:51:33.477Z",
       "todoId": "outlook_AAJsiHRDAAA=",
       "title": "M/B VEGA UNO / Torre Annunziata - Richiesta disponibilità e quotazione servizi"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNoAAA=",
+      "listId": "",
+      "completedAt": "2026-09-03T13:52:11.748Z",
+      "todoId": "outlook_AAJvuFNoAAA=",
+      "title": "Lubricants supply - Glander International / Ships Surveys And Service "
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNpAAA=",
+      "listId": "",
+      "completedAt": "2026-09-03T13:52:13.435Z",
+      "todoId": "outlook_AAJvuFNpAAA=",
+      "title": "Lubricants supply - Glander International / Ships Surveys And Service "
     }
   ],
   "manualOrders": {
@@ -28734,7 +28750,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-03T13:51:27.303Z",
+    "todos": "2026-09-03T13:52:16.836Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28743,7 +28759,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-02T08:31:27.587Z",
-    "outlookCompletionQueue": "2026-09-03T10:51:36.851Z",
+    "outlookCompletionQueue": "2026-09-03T13:52:16.836Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-02T12:25:53.368Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
@@ -28756,6 +28772,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2483,
-  "savedAt": "2026-09-03T13:51:27.304Z"
+  "rev": 2484,
+  "savedAt": "2026-09-03T13:52:16.836Z"
 }
