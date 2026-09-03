@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-03T12:01:13.149Z",
-  "todosCount": 411,
+  "pushedAt": "2026-09-03T12:01:22.052Z",
+  "todosCount": 414,
   "todos": [
     {
       "id": "td_1788432807460_ccys5",
@@ -9297,6 +9297,73 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-09-03T10:47:38.047Z"
+    },
+    {
+      "id": "outlook_AAJvuFNnAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNnAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJvuEeHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: TEF064507  Supply cables pt 2  NORRBOTTEN ",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "TEF064507  Supply cables pt 2  NORRBOTTEN ",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-02",
+      "note": "",
+      "createdAt": "2026-09-03T07:54:46.7155286Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJvuFNmAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNmAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4vWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112 - ORDER P21401/TE22518 READINESS NOTICE",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112 - ORDER P21401/TE22518 READINESS NOTICE",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-03",
+      "note": "",
+      "createdAt": "2026-09-03T07:21:52.9760644Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJvuFNlAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNlAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAAAABHDPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: M/V PEPPINO  PR65  HQPO-00100  PEP-SHPR-00065  DUBHE CO., LTD. A-26059974",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO  PR65  HQPO-00100  PEP-SHPR-00065  DUBHE CO., LTD. A-26059974",
+      "tags": [
+        "outlook",
+        "fornitore:DUBHE"
+      ],
+      "dueDate": "2026-09-03",
+      "note": "",
+      "createdAt": "2026-09-03T07:14:50.641864Z",
+      "done": true,
+      "doneAt": "2026-09-03T07:22:08.3951885Z",
+      "outlookStatus": "completed"
     }
   ],
   "notes": {
@@ -28535,7 +28602,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-03T10:53:30.899Z",
+    "todos": "2026-09-03T12:01:22.052Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28557,6 +28624,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2481,
-  "savedAt": "2026-09-03T12:01:13.150Z"
+  "rev": 2482,
+  "savedAt": "2026-09-03T12:01:22.052Z"
 }
