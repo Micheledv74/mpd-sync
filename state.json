@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-03T12:01:22.052Z",
-  "todosCount": 414,
+  "pushedAt": "2026-09-03T13:51:27.303Z",
+  "todosCount": 420,
   "todos": [
     {
       "id": "td_1788432807460_ccys5",
@@ -9216,9 +9216,9 @@
       "dueDate": "2026-09-04",
       "note": "",
       "createdAt": "2026-09-02T10:33:34.1831525Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-09-03T10:39:46.2482231Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-09-03T10:47:51.383Z"
@@ -9316,9 +9316,9 @@
       "dueDate": "2026-09-02",
       "note": "",
       "createdAt": "2026-09-03T07:54:46.7155286Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-09-03T10:35:48.9060453Z",
+      "outlookStatus": "completed"
     },
     {
       "id": "outlook_AAJvuFNmAAA=",
@@ -9364,6 +9364,138 @@
       "done": true,
       "doneAt": "2026-09-03T07:22:08.3951885Z",
       "outlookStatus": "completed"
+    },
+    {
+      "id": "outlook_AAJvuFNtAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNtAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJvuHXxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: M/V MED LIGURIA - Xiamen - update on 10 Aug",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "M/V MED LIGURIA - Xiamen - update on 10 Aug",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-03",
+      "note": "",
+      "createdAt": "2026-09-03T10:39:29.0336977Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJvuFNsAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNsAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJvuEeIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: TEF064507  Supply cables pt 2  NORRBOTTEN ",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "TEF064507  Supply cables pt 2  NORRBOTTEN ",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-03",
+      "note": "",
+      "createdAt": "2026-09-03T10:36:04.5162963Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJvuFNrAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNrAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJvtaT7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "AW: : Shipment of order-nos. CBH 43940+43941",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": ": Shipment of order-nos. CBH 43940+43941",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-03",
+      "note": "",
+      "createdAt": "2026-09-03T10:19:35.596604Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJvuFNqAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNqAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJvuEdtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "NORRBOTTEN FREEFALL / RB INVOICE",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "NORRBOTTEN FREEFALL / RB INVOICE",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-03",
+      "note": "",
+      "createdAt": "2026-09-03T09:50:20.543052Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJvuFNpAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNpAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9ZdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: Lubricants supply - Glander International / Ships Surveys And Service ",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "Lubricants supply - Glander International / Ships Surveys And Service ",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-03",
+      "note": "",
+      "createdAt": "2026-09-03T08:48:51.6051139Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJvuFNoAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNoAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJoY3DEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Lubricants supply - Glander International / Ships Surveys And Service ",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "Lubricants supply - Glander International / Ships Surveys And Service ",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-03",
+      "note": "",
+      "createdAt": "2026-09-03T08:29:00.5729905Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -28602,7 +28734,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-03T12:01:22.052Z",
+    "todos": "2026-09-03T13:51:27.303Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28624,6 +28756,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2482,
-  "savedAt": "2026-09-03T12:01:22.052Z"
+  "rev": 2483,
+  "savedAt": "2026-09-03T13:51:27.304Z"
 }
