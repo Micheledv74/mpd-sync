@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-03T08:04:42.963Z",
+  "pushedAt": "2026-09-03T08:04:47.979Z",
   "todosCount": 408,
   "todos": [
     {
@@ -25426,7 +25426,7 @@
     },
     "peppino::spa req gs#1 temperature sensor": {
       "leadTimeDays": 90,
-      "transportMode": "TML Shangai",
+      "transportMode": "TML Korea",
       "origin": "Busan, Korea"
     }
   },
@@ -28444,6 +28444,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2466,
-  "savedAt": "2026-09-03T08:04:42.963Z"
+  "rev": 2467,
+  "savedAt": "2026-09-03T08:04:47.979Z"
 }
