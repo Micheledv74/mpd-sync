@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-03T13:52:38.608Z",
+  "pushedAt": "2026-09-03T13:52:43.599Z",
   "todosCount": 420,
   "todos": [
     {
@@ -9398,16 +9398,19 @@
       "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "TEF064507  Supply cables pt 2  NORRBOTTEN ",
+      "reference": "TEF064507  Supply cables pt 2  NORRBOTTEN",
       "tags": [
         "outlook"
       ],
-      "dueDate": "2026-09-03",
+      "dueDate": "2026-09-04",
       "note": "",
       "createdAt": "2026-09-03T10:36:04.5162963Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-09-03T13:52:40.168Z"
     },
     {
       "id": "outlook_AAJvuFNrAAA=",
@@ -28778,6 +28781,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2486,
-  "savedAt": "2026-09-03T13:52:38.608Z"
+  "rev": 2487,
+  "savedAt": "2026-09-03T13:52:43.599Z"
 }
