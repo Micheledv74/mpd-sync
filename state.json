@@ -1,9 +1,24 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-03T13:53:46.891Z",
-  "todosCount": 421,
+  "pushedAt": "2026-09-03T14:36:46.320Z",
+  "todosCount": 422,
   "todos": [
+    {
+      "id": "td_1788446202884_hr982",
+      "category": "Nave",
+      "priority": "alta",
+      "vessel": "vegauno",
+      "action": "Telefonare",
+      "reference": "",
+      "tags": [],
+      "dueDate": "2026-09-04",
+      "note": "Naviservice Fire & Safety",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-09-03T14:36:42.884Z"
+    },
     {
       "id": "td_1788432807460_ccys5",
       "category": "Nave",
@@ -28790,7 +28805,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-03T13:53:46.891Z",
+    "todos": "2026-09-03T14:36:46.320Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28812,6 +28827,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2491,
-  "savedAt": "2026-09-03T13:53:46.892Z"
+  "rev": 2492,
+  "savedAt": "2026-09-03T14:36:46.320Z"
 }
