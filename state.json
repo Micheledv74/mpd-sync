@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-04T14:49:24.664Z",
+  "pushedAt": "2026-09-04T14:49:54.205Z",
   "todosCount": 429,
   "todos": [
     {
@@ -9692,9 +9692,10 @@
       "dueDate": "2026-09-04",
       "note": "",
       "createdAt": "2026-09-04T11:07:17.6910128Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-09-04T14:49:50.817Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-09-04T14:49:50.818Z"
     },
     {
       "id": "outlook_AAJvuFN0AAA=",
@@ -24707,6 +24708,13 @@
       "completedAt": "2026-09-04T10:41:05.547Z",
       "todoId": "outlook_AAJvuFNgAAA=",
       "title": "M/V MED LIGURIA - VSAT Alignment [583529]"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFN1AAA=",
+      "listId": "",
+      "completedAt": "2026-09-04T14:49:50.821Z",
+      "todoId": "outlook_AAJvuFN1AAA=",
+      "title": "2026/NA/2338  VEGA UNO - RI 70877, Matr. 8399 ROMA Fiumicino Reg. Navi Minori"
     }
   ],
   "manualOrders": {
@@ -28997,7 +29005,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-04T14:44:51.880Z",
+    "todos": "2026-09-04T14:49:54.205Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -29006,7 +29014,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-04T14:48:31.678Z",
-    "outlookCompletionQueue": "2026-09-04T10:41:08.944Z",
+    "outlookCompletionQueue": "2026-09-04T14:49:54.205Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-02T12:25:53.368Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -29019,6 +29027,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2522,
-  "savedAt": "2026-09-04T14:49:24.665Z"
+  "rev": 2523,
+  "savedAt": "2026-09-04T14:49:54.206Z"
 }
