@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-04T14:48:31.679Z",
+  "pushedAt": "2026-09-04T14:49:11.282Z",
   "todosCount": 429,
   "todos": [
     {
@@ -25341,7 +25341,7 @@
       "city": "Yalova"
     },
     "vegauno": {
-      "city": "Ravenna"
+      "city": "Torre Annunziata"
     }
   },
   "supplierProfiles": {
@@ -29009,7 +29009,7 @@
     "outlookCompletionQueue": "2026-09-04T10:41:08.944Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-02T12:25:53.368Z",
-    "vesselPos": "2026-08-21T07:32:33.905Z",
+    "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-08-25T15:19:57.977Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
@@ -29019,6 +29019,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2520,
-  "savedAt": "2026-09-04T14:48:31.679Z"
+  "rev": 2521,
+  "savedAt": "2026-09-04T14:49:11.283Z"
 }
