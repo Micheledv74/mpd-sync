@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-04T07:41:06.330Z",
-  "todosCount": 423,
+  "pushedAt": "2026-09-04T07:56:29.968Z",
+  "todosCount": 424,
   "todos": [
     {
       "id": "td_1788446202884_hr982",
@@ -9578,6 +9578,28 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-09-03T18:07:00.137Z"
+    },
+    {
+      "id": "outlook_AAJvuFNwAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNwAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAADqwEPNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/V PEPPINO  PR121  HQPO-00144  PEP-SHPR-00121  P22556/TE22556  READINESS NOTICE",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO  PR121  HQPO-00144  PEP-SHPR-00121  P22556/TE22556  READINESS NOTICE",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-04",
+      "note": "",
+      "createdAt": "2026-09-04T07:18:33.2622561Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -28830,7 +28852,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-03T18:07:03.556Z",
+    "todos": "2026-09-04T07:56:29.968Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28852,6 +28874,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2497,
-  "savedAt": "2026-09-04T07:41:06.330Z"
+  "rev": 2498,
+  "savedAt": "2026-09-04T07:56:29.968Z"
 }
