@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-04T10:41:56.415Z",
+  "pushedAt": "2026-09-04T12:45:12.426Z",
   "todosCount": 427,
   "todos": [
     {
-      "id": "td_1788446202884_hr982",
       "category": "Nave",
       "priority": "alta",
-      "vessel": "vegauno",
-      "action": "Telefonare",
       "reference": "",
       "tags": [],
+      "id": "td_1788446202884_hr982",
+      "vessel": "vegauno",
+      "action": "Telefonare",
       "dueDate": "2026-09-04",
       "note": "Naviservice Fire & Safety",
       "recur": null,
@@ -22,16 +22,16 @@
       "updatedAt": "2026-09-04T09:36:45.796Z"
     },
     {
-      "id": "td_1788432807460_ccys5",
       "category": "Nave",
       "priority": "media",
-      "vessel": "vegauno",
-      "action": "Inviare email",
       "reference": "Rispondere a Umberto D'Amato — MV VEGA UNO - RI 70877, Matr. 8399 ROMA Fiumicino Reg. Navi Minori 2025/NA/1193",
       "tags": [
         "email",
         "sssdam.com"
       ],
+      "id": "td_1788432807460_ccys5",
+      "vessel": "vegauno",
+      "action": "Inviare email",
       "dueDate": "2026-09-04",
       "note": "SPETT.LE RINA MARINE, UFF. DI NAPOLI Buongiorno, La nave in oggetto arriverà oggi a Torre Annunziata, dove sosterà 10 giorni circa ormeggiata alla banchina Rosa dei Venti. Durante questo sosta verrà eseguita pesatura e controllo d",
       "recur": null,
@@ -9268,20 +9268,20 @@
       "recur": null
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "NORRBOTTEN REFRIGERATOR REQUEST NO 50 GALLEY URGENTLY",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNkAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNkAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJvuEeEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: NORRBOTTEN REFRIGERATOR REQUEST NO 50 GALLEY URGENTLY",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "NORRBOTTEN REFRIGERATOR REQUEST NO 50 GALLEY URGENTLY",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-07",
       "note": "",
       "createdAt": "2026-09-02T17:13:31.1432408Z",
@@ -9293,20 +9293,20 @@
       "updatedAt": "2026-09-04T10:41:53.033Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "Vessel Norrbotten - conferma ordine 31362031  - TC overhaul - 2026-NOR-00013",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNjAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNjAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJvuEd%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: Vessel Norrbotten - conferma ordine 31362031  - TC overhaul - 2026-NOR-00013",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "Vessel Norrbotten - conferma ordine 31362031  - TC overhaul - 2026-NOR-00013",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-07",
       "note": "",
       "createdAt": "2026-09-02T12:56:49.4362948Z",
@@ -9318,20 +9318,20 @@
       "updatedAt": "2026-09-04T10:34:18.737Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "TEF064507  Supply cables pt 2  NORRBOTTEN ",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNnAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNnAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJvuEeHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: TEF064507  Supply cables pt 2  NORRBOTTEN ",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "TEF064507  Supply cables pt 2  NORRBOTTEN ",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-02",
       "note": "",
       "createdAt": "2026-09-03T07:54:46.7155286Z",
@@ -9340,20 +9340,20 @@
       "outlookStatus": "completed"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112 - ORDER P21401/TE22518 READINESS NOTICE",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNmAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNmAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4vWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112 - ORDER P21401/TE22518 READINESS NOTICE",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112 - ORDER P21401/TE22518 READINESS NOTICE",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-04",
       "note": "",
       "createdAt": "2026-09-03T07:21:52.9760644Z",
@@ -9365,21 +9365,21 @@
       "updatedAt": "2026-09-03T13:53:05.881Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO  PR65  HQPO-00100  PEP-SHPR-00065  DUBHE CO., LTD. A-26059974",
+      "tags": [
+        "outlook",
+        "fornitore:DUBHE"
+      ],
       "id": "outlook_AAJvuFNlAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNlAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAAAABHDPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: M/V PEPPINO  PR65  HQPO-00100  PEP-SHPR-00065  DUBHE CO., LTD. A-26059974",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "M/V PEPPINO  PR65  HQPO-00100  PEP-SHPR-00065  DUBHE CO., LTD. A-26059974",
-      "tags": [
-        "outlook",
-        "fornitore:DUBHE"
-      ],
       "dueDate": "2026-09-03",
       "note": "",
       "createdAt": "2026-09-03T07:14:50.641864Z",
@@ -9388,20 +9388,20 @@
       "outlookStatus": "completed"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED LIGURIA - Xiamen - update on 10 Aug",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNtAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNtAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAJvuHXxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: M/V MED LIGURIA - Xiamen - update on 10 Aug",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "M/V MED LIGURIA - Xiamen - update on 10 Aug",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-07",
       "note": "",
       "createdAt": "2026-09-03T10:39:29.0336977Z",
@@ -9413,20 +9413,20 @@
       "updatedAt": "2026-09-04T10:32:11.463Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "TEF064507  Supply cables pt 2  NORRBOTTEN",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNsAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNsAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJvuEeIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: TEF064507  Supply cables pt 2  NORRBOTTEN ",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "TEF064507  Supply cables pt 2  NORRBOTTEN",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-07",
       "note": "",
       "createdAt": "2026-09-03T10:36:04.5162963Z",
@@ -9438,20 +9438,20 @@
       "updatedAt": "2026-09-04T10:31:53.669Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": ": Shipment of order-nos. CBH 43940+43941",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNrAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNrAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJvtaT7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "AW: : Shipment of order-nos. CBH 43940+43941",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": ": Shipment of order-nos. CBH 43940+43941",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-07",
       "note": "",
       "createdAt": "2026-09-03T10:19:35.596604Z",
@@ -9463,20 +9463,20 @@
       "updatedAt": "2026-09-04T10:31:13.669Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "NORRBOTTEN FREEFALL / RB INVOICE",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNqAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNqAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJvuEdtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "NORRBOTTEN FREEFALL / RB INVOICE",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "NORRBOTTEN FREEFALL / RB INVOICE",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-07",
       "note": "",
       "createdAt": "2026-09-03T09:50:20.543052Z",
@@ -9488,20 +9488,20 @@
       "updatedAt": "2026-09-04T10:31:26.165Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "Lubricants supply - Glander International / Ships Surveys And Service ",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNpAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNpAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9ZdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: Lubricants supply - Glander International / Ships Surveys And Service ",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "Lubricants supply - Glander International / Ships Surveys And Service ",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-03",
       "note": "",
       "createdAt": "2026-09-03T08:48:51.6051139Z",
@@ -9511,20 +9511,20 @@
       "updatedAt": "2026-09-03T13:52:13.433Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "Lubricants supply - Glander International / Ships Surveys And Service ",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNoAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNoAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJoY3DEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Lubricants supply - Glander International / Ships Surveys And Service ",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "Lubricants supply - Glander International / Ships Surveys And Service ",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-03",
       "note": "",
       "createdAt": "2026-09-03T08:29:00.5729905Z",
@@ -9534,20 +9534,20 @@
       "updatedAt": "2026-09-03T13:52:11.746Z"
     },
     {
+      "category": "Ufficio",
+      "priority": "media",
+      "reference": "M/V NORBOTTEN / ATLAS - Richiesta indirizzo e istruzioni per eventuali consegne - Marina di Massa",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNuAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNuAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJvuEeLAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: M/V NORBOTTEN / ATLAS - Richiesta indirizzo e istruzioni per eventuali consegne - Marina di Massa",
-      "category": "Ufficio",
-      "priority": "media",
       "vessel": "",
       "action": "Telefonare",
-      "reference": "M/V NORBOTTEN / ATLAS - Richiesta indirizzo e istruzioni per eventuali consegne - Marina di Massa",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-04",
       "note": "",
       "createdAt": "2026-09-03T13:51:49.9713639Z",
@@ -9559,20 +9559,20 @@
       "updatedAt": "2026-09-03T13:53:43.755Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "NORRBOTTEN  REQ: No 48 ENGINE FILTER FOR ME",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNvAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNvAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJvuEeWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: NORRBOTTEN  REQ: No 48 ENGINE FILTER FOR ME",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "NORRBOTTEN  REQ: No 48 ENGINE FILTER FOR ME",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-04",
       "note": "",
       "createdAt": "2026-09-03T15:00:15.1319803Z",
@@ -9584,20 +9584,20 @@
       "updatedAt": "2026-09-03T18:07:00.137Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO  PR121  HQPO-00144  PEP-SHPR-00121  P22556/TE22556  READINESS NOTICE",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNwAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNwAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAADqwEPNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V PEPPINO  PR121  HQPO-00144  PEP-SHPR-00121  P22556/TE22556  READINESS NOTICE",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "M/V PEPPINO  PR121  HQPO-00144  PEP-SHPR-00121  P22556/TE22556  READINESS NOTICE",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-04",
       "note": "",
       "createdAt": "2026-09-04T07:18:33.2622561Z",
@@ -9606,20 +9606,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNxAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNxAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9ZqAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-03",
       "note": "",
       "createdAt": "2026-09-04T07:39:27.6107753Z",
@@ -9629,20 +9629,20 @@
       "updatedAt": "2026-09-04T09:36:41.732Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNzAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNzAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJvtaUYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-06",
       "note": "",
       "createdAt": "2026-09-04T09:11:42.3799583Z",
@@ -9651,20 +9651,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "TEF064507  Supply cables pt 2  NORRBOTTEN ",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJvuFNyAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNyAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJvuEecAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: TEF064507  Supply cables pt 2  NORRBOTTEN ",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "TEF064507  Supply cables pt 2  NORRBOTTEN ",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-04",
       "note": "",
       "createdAt": "2026-09-04T09:02:40.491601Z",
@@ -28945,7 +28945,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-04T10:41:56.415Z",
+    "todos": "2026-09-04T12:45:12.426Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28967,6 +28967,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2510,
-  "savedAt": "2026-09-04T10:41:56.416Z"
+  "rev": 2511,
+  "savedAt": "2026-09-04T12:45:12.426Z"
 }
