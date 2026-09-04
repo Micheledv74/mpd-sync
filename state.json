@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-04T09:36:45.119Z",
+  "pushedAt": "2026-09-04T09:36:49.248Z",
   "todosCount": 427,
   "todos": [
     {
@@ -16,8 +16,10 @@
       "note": "Naviservice Fire & Safety",
       "recur": null,
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-09-03T14:36:42.884Z"
+      "done": true,
+      "createdAt": "2026-09-03T14:36:42.884Z",
+      "doneAt": "2026-09-04T09:36:45.795Z",
+      "updatedAt": "2026-09-04T09:36:45.796Z"
     },
     {
       "id": "td_1788432807460_ccys5",
@@ -28948,6 +28950,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2500,
-  "savedAt": "2026-09-04T09:36:45.120Z"
+  "rev": 2501,
+  "savedAt": "2026-09-04T09:36:49.248Z"
 }
