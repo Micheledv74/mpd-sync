@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-04T09:36:49.248Z",
+  "pushedAt": "2026-09-04T09:39:57.637Z",
   "todosCount": 427,
   "todos": [
     {
@@ -38,8 +38,10 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJvtaTdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "MV VEGA UNO - RI 70877, Matr. 8399 ROMA Fiumicino Reg. Navi Minori 2025/NA/1193 ",
-      "done": false,
-      "createdAt": "2026-09-03T10:53:27.460Z"
+      "done": true,
+      "createdAt": "2026-09-03T10:53:27.460Z",
+      "doneAt": "2026-09-04T09:39:54.216Z",
+      "updatedAt": "2026-09-04T09:39:54.216Z"
     },
     {
       "category": "Nave",
@@ -28928,7 +28930,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-04T09:36:45.119Z",
+    "todos": "2026-09-04T09:39:57.636Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28950,6 +28952,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2501,
-  "savedAt": "2026-09-04T09:36:49.248Z"
+  "rev": 2502,
+  "savedAt": "2026-09-04T09:39:57.637Z"
 }
