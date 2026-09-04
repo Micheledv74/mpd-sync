@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-04T14:45:26.909Z",
+  "pushedAt": "2026-09-04T14:45:38.715Z",
   "todosCount": 429,
   "todos": [
     {
@@ -22505,8 +22505,8 @@
         "id": "vmrywla39ctr4",
         "from": "Port Luis, Mauritius",
         "to": "BEDI",
-        "etd": "",
-        "etb": "",
+        "etd": "2026-09-04T12:00",
+        "etb": "2026-09-04T00:00",
         "eta": "2026-08-29T11:30",
         "agency": {
           "name": "ATLANTIC GLOBAL SHIPPING PVT. LTD.",
@@ -22522,8 +22522,8 @@
         "agency": null
       },
       "notes": "DISCHARGE PORT:  MOMBASA, KENYA",
-      "updatedAt": "2026-08-28T12:53:39.785Z",
-      "fromNoon": "2026-08-28",
+      "updatedAt": "2026-09-04T14:45:35.286Z",
+      "fromNoon": "2026-09-03",
       "history": [
         {
           "id": "vmrxb1p8xb75t",
@@ -28998,7 +28998,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-09-04T14:45:26.909Z",
+    "voyages": "2026-09-04T14:45:38.715Z",
     "outlookCompletionQueue": "2026-09-04T10:41:08.944Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-02T12:25:53.368Z",
@@ -29012,6 +29012,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2516,
-  "savedAt": "2026-09-04T14:45:26.910Z"
+  "rev": 2517,
+  "savedAt": "2026-09-04T14:45:38.715Z"
 }
