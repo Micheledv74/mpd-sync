@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-04T12:53:39.052Z",
+  "pushedAt": "2026-09-04T12:54:01.366Z",
   "todosCount": 427,
   "todos": [
     {
@@ -9549,7 +9549,7 @@
       "outlookLinkedName": "Re: M/V NORBOTTEN / ATLAS - Richiesta indirizzo e istruzioni per eventuali consegne - Marina di Massa",
       "vessel": "",
       "action": "Telefonare",
-      "dueDate": "2026-09-04",
+      "dueDate": "2026-09-07",
       "note": "",
       "createdAt": "2026-09-03T13:51:49.9713639Z",
       "done": false,
@@ -9557,7 +9557,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-03T13:53:43.755Z"
+      "updatedAt": "2026-09-04T12:53:57.900Z"
     },
     {
       "category": "Nave",
@@ -28946,7 +28946,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-04T12:53:37.578Z",
+    "todos": "2026-09-04T12:54:01.366Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28968,6 +28968,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2512,
-  "savedAt": "2026-09-04T12:53:39.053Z"
+  "rev": 2513,
+  "savedAt": "2026-09-04T12:54:01.366Z"
 }
