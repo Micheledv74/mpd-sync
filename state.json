@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-04T09:40:00.979Z",
+  "pushedAt": "2026-09-04T09:40:42.352Z",
   "todosCount": 427,
   "todos": [
     {
@@ -9668,9 +9668,10 @@
       "dueDate": "2026-09-04",
       "note": "",
       "createdAt": "2026-09-04T09:02:40.491601Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-09-04T09:40:38.937Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-09-04T09:40:38.937Z"
     }
   ],
   "notes": {
@@ -24640,6 +24641,13 @@
       "completedAt": "2026-09-04T09:36:41.735Z",
       "todoId": "outlook_AAJvuFNxAAA=",
       "title": "M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNyAAA=",
+      "listId": "",
+      "completedAt": "2026-09-04T09:40:38.940Z",
+      "todoId": "outlook_AAJvuFNyAAA=",
+      "title": "TEF064507  Supply cables pt 2  NORRBOTTEN "
     }
   ],
   "manualOrders": {
@@ -28930,7 +28938,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-04T09:39:59.664Z",
+    "todos": "2026-09-04T09:40:42.351Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28939,7 +28947,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-02T08:31:27.587Z",
-    "outlookCompletionQueue": "2026-09-04T09:36:45.119Z",
+    "outlookCompletionQueue": "2026-09-04T09:40:42.351Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-02T12:25:53.368Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
@@ -28952,6 +28960,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2502,
-  "savedAt": "2026-09-04T09:40:00.979Z"
+  "rev": 2503,
+  "savedAt": "2026-09-04T09:40:42.352Z"
 }
