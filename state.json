@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-04T10:31:17.082Z",
+  "pushedAt": "2026-09-04T10:31:29.613Z",
   "todosCount": 427,
   "todos": [
     {
@@ -9477,7 +9477,7 @@
       "tags": [
         "outlook"
       ],
-      "dueDate": "2026-09-04",
+      "dueDate": "2026-09-07",
       "note": "",
       "createdAt": "2026-09-03T09:50:20.543052Z",
       "done": false,
@@ -9485,7 +9485,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-03T13:52:30.403Z"
+      "updatedAt": "2026-09-04T10:31:26.165Z"
     },
     {
       "id": "outlook_AAJvuFNpAAA=",
@@ -28938,7 +28938,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-04T10:31:17.082Z",
+    "todos": "2026-09-04T10:31:29.613Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28960,6 +28960,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2504,
-  "savedAt": "2026-09-04T10:31:17.082Z"
+  "rev": 2505,
+  "savedAt": "2026-09-04T10:31:29.613Z"
 }
