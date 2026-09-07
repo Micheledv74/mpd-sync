@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-07T07:31:49.671Z",
-  "todosCount": 429,
+  "pushedAt": "2026-09-07T07:31:54.604Z",
+  "todosCount": 431,
   "todos": [
     {
       "category": "Nave",
@@ -9724,6 +9724,50 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-09-04T14:50:15.489Z"
+    },
+    {
+      "id": "outlook_AAJzqXcMAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJzqXcMAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJzp7xkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "PPG Past Due Balance-0010075152-BE04-20260905",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "PPG Past Due Balance-0010075152-BE04-20260905",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-05",
+      "note": "",
+      "createdAt": "2026-09-05T10:33:50.5259523Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJvuFN2AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFN2AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJvtaUeAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Matrimonio Emanuele",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "Matrimonio Emanuele",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-04",
+      "note": "",
+      "createdAt": "2026-09-04T15:25:19.3834847Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -29033,6 +29077,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2529,
-  "savedAt": "2026-09-07T07:31:49.671Z"
+  "rev": 2530,
+  "savedAt": "2026-09-07T07:31:54.604Z"
 }
