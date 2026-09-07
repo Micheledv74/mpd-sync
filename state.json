@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-07T07:31:54.604Z",
+  "pushedAt": "2026-09-07T07:32:21.606Z",
   "todosCount": 431,
   "todos": [
     {
@@ -22164,7 +22164,7 @@
       },
       "next": {},
       "notes": "",
-      "updatedAt": "2026-09-04T14:45:07.958Z",
+      "updatedAt": "2026-09-07T07:32:18.165Z",
       "fromNoon": "2026-09-03",
       "history": [
         {
@@ -29063,7 +29063,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-09-04T14:48:31.678Z",
+    "voyages": "2026-09-07T07:32:21.606Z",
     "outlookCompletionQueue": "2026-09-04T14:49:54.491Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-02T12:25:53.368Z",
@@ -29077,6 +29077,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2530,
-  "savedAt": "2026-09-07T07:31:54.604Z"
+  "rev": 2531,
+  "savedAt": "2026-09-07T07:32:21.606Z"
 }
