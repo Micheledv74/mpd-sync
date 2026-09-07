@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-07T07:32:42.321Z",
+  "pushedAt": "2026-09-07T07:33:21.778Z",
   "todosCount": 431,
   "todos": [
     {
@@ -22557,29 +22557,109 @@
     "medtoscana": {
       "status": "at_sea",
       "current": {
-        "id": "vmrywla39ctr4",
-        "from": "Port Luis, Mauritius",
-        "to": "BEDI",
-        "etd": "2026-09-04T12:00",
-        "etb": "2026-09-04T00:00",
-        "eta": "2026-08-29T11:30",
-        "agency": {
-          "name": "ATLANTIC GLOBAL SHIPPING PVT. LTD.",
-          "contacts": "401, 4th Floor ANURAG AVENUE,\nLIMDA LANE, OPP. JAWAHAR PAN,\nJAMNAGAR – (GUJARAT)\nPIN CODE- 361001\nPIC: Mr. Dhiraj Maheria - 9619661677\nMr. Shibu: 9978903353\nMr. Ali: 9978903362\nind-bulk@atlanticglobalshipping.com"
-        }
-      },
-      "next": {
+        "etd": "",
         "id": "vmta5uw6sbcwu",
         "from": "Bedi",
-        "to": "KARACHI, PAKISTAN",
+        "to": "KARACHI",
         "etb": "",
-        "eta": "",
+        "eta": "2026-09-07",
         "agency": null
       },
+      "next": {},
       "notes": "DISCHARGE PORT:  MOMBASA, KENYA",
-      "updatedAt": "2026-09-04T14:45:35.286Z",
-      "fromNoon": "2026-09-03",
+      "updatedAt": "2026-09-07T07:33:18.366Z",
+      "fromNoon": "2026-09-06",
       "history": [
+        {
+          "id": "vmrywla39ctr4",
+          "from": "Port Luis, Mauritius",
+          "to": "BEDI",
+          "etd": "2026-09-04T12:00",
+          "etb": "2026-09-04T00:00",
+          "eta": "2026-08-29T11:30",
+          "agency": {
+            "name": "ATLANTIC GLOBAL SHIPPING PVT. LTD.",
+            "contacts": "401, 4th Floor ANURAG AVENUE,\nLIMDA LANE, OPP. JAWAHAR PAN,\nJAMNAGAR – (GUJARAT)\nPIN CODE- 361001\nPIC: Mr. Dhiraj Maheria - 9619661677\nMr. Shibu: 9978903353\nMr. Ali: 9978903362\nind-bulk@atlanticglobalshipping.com"
+          },
+          "closedAt": "2026-09-07T07:33:15.357Z",
+          "deliveredItems": [
+            {
+              "poNumber": "2026-MDT-HQPO-00105",
+              "description": "ENGINE STORE CONSUMABLE  IMPA 8th EDITION",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00090",
+              "description": "Annual Safety Equipment Surveys / Certification – Kandla/Bedi",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00100",
+              "description": "Alarm Monitor System; Maker: TRACO POWER; Model: TZL 100-2424: Input: 19-36DC; Output: 24 VDC/4.2 A",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00094",
+              "description": "V-BELT",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00096",
+              "description": "CHEMICALS",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00093",
+              "description": "THERMOMETER",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00091",
+              "description": "PRESSURE GAUGE",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00089",
+              "description": "BATTERY FOR UHF ICOM IC-F26",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00095",
+              "description": "HATCH COVER CLITS/SPARE PARTS",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00104",
+              "description": "PROVISION CRANE HOOK 2 T",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00088",
+              "description": "FALL PREVENTIVE DEVICE FPD ANNUAL SHORE SERVICE",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00086",
+              "description": "Deck fitter",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00099",
+              "description": "Aux. Engine Flowmeter",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00097",
+              "description": "RKI BUMP KIT WITH GAS BOTLE ( 4-5 GASES) 1-SET",
+              "supplier": "RK MARINE SERVICE"
+            },
+            {
+              "poNumber": "2026-MDT-HQPO-00092",
+              "description": "STATIONARY",
+              "supplier": "RK MARINE SERVICE"
+            }
+          ]
+        },
         {
           "id": "vmrxb1p8xb75t",
           "from": "Houston",
@@ -29067,7 +29147,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-09-07T07:32:37.801Z",
+    "voyages": "2026-09-07T07:33:21.778Z",
     "outlookCompletionQueue": "2026-09-04T14:49:54.491Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-02T12:25:53.368Z",
@@ -29081,6 +29161,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2533,
-  "savedAt": "2026-09-07T07:32:42.321Z"
+  "rev": 2534,
+  "savedAt": "2026-09-07T07:33:21.778Z"
 }
