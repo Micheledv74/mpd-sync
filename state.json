@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-08T07:36:59.653Z",
+  "pushedAt": "2026-09-08T07:38:03.131Z",
   "todosCount": 432,
   "todos": [
     {
@@ -29206,6 +29206,20 @@
         "updatedAt": "2026-09-03T12:01:09.760Z",
         "source": "17track-manual"
       }
+    ],
+    "med toscana::repair crane 2 & 3": [
+      {
+        "id": "shmtscxq1vg2d",
+        "route": "hub-port",
+        "carrier": "DHL Express",
+        "hub": "",
+        "number": "057-46302631",
+        "status": "pending",
+        "pickup": "2026-09-08",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-09-08T07:37:59.587Z"
+      }
     ]
   },
   "sourceDevice": {
@@ -29232,10 +29246,10 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-03T08:04:42.962Z",
     "repliesDismissed": "2026-09-03T10:53:30.899Z",
-    "shipments": "2026-09-03T12:01:13.149Z",
+    "shipments": "2026-09-08T07:38:03.131Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2579,
-  "savedAt": "2026-09-08T07:36:59.653Z"
+  "rev": 2580,
+  "savedAt": "2026-09-08T07:38:03.132Z"
 }
