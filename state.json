@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-08T12:22:56.475Z",
+  "pushedAt": "2026-09-08T12:23:00.814Z",
   "todosCount": 432,
   "todos": [
     {
@@ -9783,8 +9783,8 @@
       "tags": [],
       "id": "td_1788805219461_e1wk9",
       "vessel": "peppino",
-      "action": "Ricerca",
-      "dueDate": "2026-09-08",
+      "action": "",
+      "dueDate": "2026-09-09",
       "note": "Req via whatsapp",
       "recur": null,
       "kind": "todo",
@@ -9792,7 +9792,8 @@
       "createdAt": "2026-09-07T18:20:19.461Z",
       "mobileSync": "toverify",
       "mobileSyncAt": "2026-09-07T18:20:33.956Z",
-      "mobileSyncBy": "mobile"
+      "mobileSyncBy": "mobile",
+      "updatedAt": "2026-09-08T12:22:59.048Z"
     }
   ],
   "notes": {
@@ -29293,7 +29294,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-08T12:22:56.475Z",
+    "todos": "2026-09-08T12:23:00.814Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -29315,6 +29316,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2606,
-  "savedAt": "2026-09-08T12:22:56.476Z"
+  "rev": 2607,
+  "savedAt": "2026-09-08T12:23:00.815Z"
 }
