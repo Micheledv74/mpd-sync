@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-08T11:59:13.372Z",
+  "pushedAt": "2026-09-08T12:09:07.272Z",
   "todosCount": 432,
   "todos": [
     {
@@ -9549,7 +9549,7 @@
       "outlookLinkedName": "RE: NORRBOTTEN  REQ: No 48 ENGINE FILTER FOR ME",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-09-07",
+      "dueDate": "2026-09-09",
       "note": "",
       "createdAt": "2026-09-03T15:00:15.1319803Z",
       "done": false,
@@ -9557,7 +9557,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-07T07:43:15.403Z"
+      "updatedAt": "2026-09-08T12:09:03.857Z"
     },
     {
       "category": "Nave",
@@ -29251,7 +29251,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-08T09:27:57.738Z",
+    "todos": "2026-09-08T12:09:07.271Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -29273,6 +29273,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2596,
-  "savedAt": "2026-09-08T11:59:13.372Z"
+  "rev": 2597,
+  "savedAt": "2026-09-08T12:09:07.272Z"
 }
