@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-08T08:06:34.257Z",
+  "pushedAt": "2026-09-08T08:06:41.550Z",
   "todosCount": 432,
   "todos": [
     {
@@ -26202,7 +26202,8 @@
       "origin": "Busan, Korea"
     },
     "peppino::spa req fresh water generator": {
-      "origin": "China"
+      "origin": "China",
+      "transportMode": "TML Shanghai"
     }
   },
   "repliesDismissed": [
@@ -29249,12 +29250,12 @@
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-08-25T15:19:57.977Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
-    "itemOverrides": "2026-09-08T08:06:34.256Z",
+    "itemOverrides": "2026-09-08T08:06:41.550Z",
     "repliesDismissed": "2026-09-03T10:53:30.899Z",
     "shipments": "2026-09-08T07:38:03.131Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2586,
-  "savedAt": "2026-09-08T08:06:34.258Z"
+  "rev": 2587,
+  "savedAt": "2026-09-08T08:06:41.551Z"
 }
