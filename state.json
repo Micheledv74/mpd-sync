@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-08T12:22:30.833Z",
+  "pushedAt": "2026-09-08T12:22:46.039Z",
   "todosCount": 432,
   "todos": [
     {
@@ -9456,12 +9456,12 @@
       "dueDate": "2026-09-08",
       "note": "",
       "createdAt": "2026-09-03T09:50:20.543052Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-09-08T12:22:44.216Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-07T14:12:35.585Z"
+      "updatedAt": "2026-09-08T12:22:44.216Z"
     },
     {
       "category": "Altro",
@@ -24947,6 +24947,13 @@
       "completedAt": "2026-09-08T12:22:21.401Z",
       "todoId": "outlook_AAJvuFNmAAA=",
       "title": "M/V PEPPINO  PR112  HQPO-00145  PEP-SHPR-00112 - ORDER P21401/TE22518 READINESS NOTICE"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNqAAA=",
+      "listId": "",
+      "completedAt": "2026-09-08T12:22:44.218Z",
+      "todoId": "outlook_AAJvuFNqAAA=",
+      "title": "NORRBOTTEN FREEFALL / RB INVOICE"
     }
   ],
   "manualOrders": {
@@ -29279,7 +29286,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-08T12:22:27.691Z",
+    "todos": "2026-09-08T12:22:46.038Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -29288,7 +29295,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-08T10:21:40.782Z",
-    "outlookCompletionQueue": "2026-09-08T12:22:27.691Z",
+    "outlookCompletionQueue": "2026-09-08T12:22:46.038Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-08T07:35:40.033Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -29301,6 +29308,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2604,
-  "savedAt": "2026-09-08T12:22:30.834Z"
+  "rev": 2605,
+  "savedAt": "2026-09-08T12:22:46.040Z"
 }
