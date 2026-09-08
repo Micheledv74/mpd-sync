@@ -1,9 +1,24 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-08T14:24:04.386Z",
-  "todosCount": 433,
+  "pushedAt": "2026-09-08T14:25:42.243Z",
+  "todosCount": 434,
   "todos": [
+    {
+      "id": "td_1788877538834_aqhym",
+      "category": "Personale",
+      "priority": "alta",
+      "vessel": "",
+      "action": "Telefonare",
+      "reference": "",
+      "tags": [],
+      "dueDate": "2026-09-09",
+      "note": "Bonifici\n@PC\n@ Generali",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-09-08T14:25:38.834Z"
+    },
     {
       "id": "td_1788877440970_3lq1p",
       "category": "Nave",
@@ -29309,7 +29324,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-08T14:24:04.385Z",
+    "todos": "2026-09-08T14:25:42.242Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -29331,6 +29346,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2608,
-  "savedAt": "2026-09-08T14:24:04.386Z"
+  "rev": 2609,
+  "savedAt": "2026-09-08T14:25:42.243Z"
 }
