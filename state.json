@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-08T12:09:43.282Z",
+  "pushedAt": "2026-09-08T12:22:12.112Z",
   "todosCount": 432,
   "todos": [
     {
@@ -9286,12 +9286,12 @@
       "dueDate": "2026-09-08",
       "note": "",
       "createdAt": "2026-09-02T12:56:49.4362948Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-09-08T12:22:09.519Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-07T14:11:53.816Z"
+      "updatedAt": "2026-09-08T12:22:09.519Z"
     },
     {
       "category": "Nave",
@@ -24933,6 +24933,13 @@
       "completedAt": "2026-09-08T12:09:39.891Z",
       "todoId": "outlook_AAJvuFNkAAA=",
       "title": "NORRBOTTEN REFRIGERATOR REQUEST NO 50 GALLEY URGENTLY"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNjAAA=",
+      "listId": "",
+      "completedAt": "2026-09-08T12:22:09.522Z",
+      "todoId": "outlook_AAJvuFNjAAA=",
+      "title": "Vessel Norrbotten - conferma ordine 31362031  - TC overhaul - 2026-NOR-00013"
     }
   ],
   "manualOrders": {
@@ -29265,7 +29272,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-08T12:09:40.090Z",
+    "todos": "2026-09-08T12:22:12.112Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -29274,7 +29281,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-08T10:21:40.782Z",
-    "outlookCompletionQueue": "2026-09-08T12:09:40.090Z",
+    "outlookCompletionQueue": "2026-09-08T12:22:12.112Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-08T07:35:40.033Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -29287,6 +29294,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2602,
-  "savedAt": "2026-09-08T12:09:43.283Z"
+  "rev": 2603,
+  "savedAt": "2026-09-08T12:22:12.113Z"
 }
