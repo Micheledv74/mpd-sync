@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-09T10:58:38.087Z",
+  "pushedAt": "2026-09-09T10:58:59.852Z",
   "todosCount": 444,
   "todos": [
     {
@@ -21,8 +21,10 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJ0bqTuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: TEF064705 R: M/V MED TOSCANA Talk Back Box NOT WORKING ",
-      "done": false,
-      "createdAt": "2026-09-08T14:38:56.514Z"
+      "done": true,
+      "createdAt": "2026-09-08T14:38:56.514Z",
+      "doneAt": "2026-09-09T10:58:56.456Z",
+      "updatedAt": "2026-09-09T10:58:56.456Z"
     },
     {
       "category": "Personale",
@@ -29559,7 +29561,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-09T10:58:33.815Z",
+    "todos": "2026-09-09T10:58:59.852Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -29581,6 +29583,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2649,
-  "savedAt": "2026-09-09T10:58:38.087Z"
+  "rev": 2650,
+  "savedAt": "2026-09-09T10:58:59.852Z"
 }
