@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-09T11:00:16.136Z",
+  "pushedAt": "2026-09-09T11:00:28.020Z",
   "todosCount": 444,
   "todos": [
     {
@@ -9962,9 +9962,10 @@
       "dueDate": "2026-09-08",
       "note": "",
       "createdAt": "2026-09-08T09:39:26.8442792Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-09-09T11:00:24.841Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-09-09T11:00:24.841Z"
     },
     {
       "id": "outlook_AAJ0cTj_AAA=",
@@ -25243,6 +25244,13 @@
       "completedAt": "2026-09-09T10:59:11.165Z",
       "todoId": "outlook_AAJ2W0YIAAA=",
       "title": "[INVOICE] CI&PL [E2608-877 MEC] RE: R: M/B VEGA UNO - RFQ - DOOSAN 4V158TI (S/N EKZKC801879) - Exhaust Manifolds & Gaskets"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ0cTj-AAA=",
+      "listId": "",
+      "completedAt": "2026-09-09T11:00:24.844Z",
+      "todoId": "outlook_AAJ0cTj-AAA=",
+      "title": "TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN"
     }
   ],
   "manualOrders": {
@@ -29575,7 +29583,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-09T11:00:14.837Z",
+    "todos": "2026-09-09T11:00:28.020Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -29584,7 +29592,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-08T10:21:40.782Z",
-    "outlookCompletionQueue": "2026-09-09T10:59:14.572Z",
+    "outlookCompletionQueue": "2026-09-09T11:00:28.020Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-08T07:35:40.033Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -29597,6 +29605,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2653,
-  "savedAt": "2026-09-09T11:00:16.136Z"
+  "rev": 2654,
+  "savedAt": "2026-09-09T11:00:28.021Z"
 }
