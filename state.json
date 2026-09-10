@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-10T07:25:30.865Z",
+  "pushedAt": "2026-09-10T09:35:45.289Z",
   "todosCount": 444,
   "todos": [
     {
@@ -23046,8 +23046,8 @@
       "current": {
         "id": "vmrkbu5nnjjfi",
         "from": "Yalova",
-        "to": "",
-        "etd": "2026-09-20T20:02",
+        "to": "Yalova",
+        "etd": "2026-09-13T20:02",
         "etb": "2026-05-04T23:30",
         "eta": "2026-05-04T22:30",
         "agency": {
@@ -23056,15 +23056,15 @@
         }
       },
       "next": {
-        "id": "",
-        "from": "",
-        "to": "",
+        "id": "vmtvc0so3ba8v",
+        "from": "Yalova",
+        "to": "Marina di Carrara",
         "etb": "",
-        "eta": "",
+        "eta": "2026-09-20T11:35",
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-09-04T14:46:01.922Z"
+      "updatedAt": "2026-09-10T09:35:41.859Z"
     },
     "vegauno": {
       "status": "in_port",
@@ -29629,7 +29629,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-09-08T10:21:40.782Z",
+    "voyages": "2026-09-10T09:35:45.288Z",
     "outlookCompletionQueue": "2026-09-09T11:02:39.103Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-08T07:35:40.033Z",
@@ -29643,6 +29643,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2672,
-  "savedAt": "2026-09-10T07:25:30.865Z"
+  "rev": 2673,
+  "savedAt": "2026-09-10T09:35:45.290Z"
 }
