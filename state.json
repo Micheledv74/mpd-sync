@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-10T10:22:49.404Z",
+  "pushedAt": "2026-09-10T10:23:23.821Z",
   "todosCount": 444,
   "todos": [
     {
@@ -9774,7 +9774,7 @@
       "outlookLinkedName": "PPG Past Due Balance-0010075152-BE04-20260905",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-09-10",
+      "dueDate": "2026-09-14",
       "note": "",
       "createdAt": "2026-09-05T10:33:50.5259523Z",
       "done": false,
@@ -9782,7 +9782,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-09T11:02:47.725Z"
+      "updatedAt": "2026-09-10T10:23:20.373Z"
     },
     {
       "category": "Altro",
@@ -29628,7 +29628,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-10T10:22:49.403Z",
+    "todos": "2026-09-10T10:23:23.821Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -29650,6 +29650,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2678,
-  "savedAt": "2026-09-10T10:22:49.406Z"
+  "rev": 2679,
+  "savedAt": "2026-09-10T10:23:23.822Z"
 }
