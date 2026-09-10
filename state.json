@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-10T10:23:45.259Z",
+  "pushedAt": "2026-09-10T10:25:44.807Z",
   "todosCount": 443,
   "todos": [
     {
@@ -26520,7 +26520,8 @@
     },
     "med liguria::alpha lubricator system mfg no pu110105": {
       "excludePerf": true,
-      "excludeReason": "strategic"
+      "excludeReason": "strategic",
+      "origin": "Busan"
     },
     "peppino::hatch covers cleats": {
       "excludePerf": true,
@@ -29619,12 +29620,12 @@
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-08-25T15:19:57.977Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
-    "itemOverrides": "2026-09-08T08:06:41.550Z",
+    "itemOverrides": "2026-09-10T10:25:44.807Z",
     "repliesDismissed": "2026-09-08T14:45:10.346Z",
     "shipments": "2026-09-08T07:38:03.131Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2681,
-  "savedAt": "2026-09-10T10:23:45.259Z"
+  "rev": 2682,
+  "savedAt": "2026-09-10T10:25:44.808Z"
 }
