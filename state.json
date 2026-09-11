@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-11T09:03:09.322Z",
+  "pushedAt": "2026-09-11T09:03:14.167Z",
   "todosCount": 444,
   "todos": [
     {
@@ -10035,12 +10035,15 @@
       "outlookLinkedName": "RE: ## READY FOR DELIVERY ## RE: ORDER ACKNOWLEDGEMENT / M/V MED LIGURIA  PR36  HQPO-00075  MLG-SHPR-00036  G&amp;P TECH CO. / SV2605150A",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-09-10",
+      "dueDate": "2026-09-11",
       "note": "",
       "createdAt": "2026-09-08T05:54:35.3027768Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-09-11T09:03:10.746Z"
     },
     {
       "id": "outlook_AAJ0cTj8AAA=",
@@ -29728,6 +29731,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2696,
-  "savedAt": "2026-09-11T09:03:09.323Z"
+  "rev": 2697,
+  "savedAt": "2026-09-11T09:03:14.167Z"
 }
