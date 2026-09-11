@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-11T13:17:55.150Z",
+  "pushedAt": "2026-09-11T13:18:06.053Z",
   "todosCount": 450,
   "todos": [
     {
@@ -10179,9 +10179,10 @@
       "dueDate": "2026-09-09",
       "note": "",
       "createdAt": "2026-09-09T14:59:18.9390845Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-09-11T13:18:02.591Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-09-11T13:18:02.591Z"
     },
     {
       "id": "outlook_AAJ2W0YJAAA=",
@@ -25466,6 +25467,13 @@
       "completedAt": "2026-09-11T09:19:11.472Z",
       "todoId": "outlook_AAJ0cTj7AAA=",
       "title": "## READY FOR DELIVERY ## RE: ORDER ACKNOWLEDGEMENT / M/V MED LIGURIA  PR36  HQPO-00075  MLG-SHPR-00036  G&amp;P TECH CO. / SV2605150A"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ2W0YKAAA=",
+      "listId": "",
+      "completedAt": "2026-09-11T13:18:02.594Z",
+      "todoId": "outlook_AAJ2W0YKAAA=",
+      "title": "TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN"
     }
   ],
   "manualOrders": {
@@ -29876,7 +29884,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-11T13:17:55.149Z",
+    "todos": "2026-09-11T13:18:06.053Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -29885,7 +29893,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-11T09:07:50.623Z",
-    "outlookCompletionQueue": "2026-09-11T09:19:14.563Z",
+    "outlookCompletionQueue": "2026-09-11T13:18:06.053Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-08T07:35:40.033Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -29898,6 +29906,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2712,
-  "savedAt": "2026-09-11T13:17:55.150Z"
+  "rev": 2713,
+  "savedAt": "2026-09-11T13:18:06.053Z"
 }
