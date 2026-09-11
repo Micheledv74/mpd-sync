@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-11T09:06:34.399Z",
+  "pushedAt": "2026-09-11T09:07:50.623Z",
   "todosCount": 444,
   "todos": [
     {
@@ -22640,15 +22640,18 @@
         }
       },
       "next": {
-        "id": "",
-        "from": "",
-        "to": "",
+        "id": "vmtwqgr5lo51d",
+        "from": "Lianyungang",
+        "to": "Singapore",
         "etb": "",
         "eta": "",
-        "agency": null
+        "agency": {
+          "name": "JOHNASIA SINGAPORE",
+          "contacts": "Lucas Lau\nMob : +65 9735 3362\nAs agents only\n\nJOHNASIA SHIPPING (S) PTE. LTD.\n11 Irving Place, Tai Seng Point # 07-03 Singapore (369551)\nTel : +65 6223 5922 | Fax : +65 6223 5923\nEmail : singapore@johnasia.com | Web : www.johnasia.com"
+        }
       },
       "notes": "POL: Yangzhou, China - Lianyungang, China - Singapore (intended bunker port)\nPOD: Tanga, Tanzania - Vila do Conde, Brazil",
-      "updatedAt": "2026-09-08T10:21:37.355Z",
+      "updatedAt": "2026-09-11T09:07:47.193Z",
       "fromNoon": "2026-09-07",
       "history": [
         {
@@ -29738,7 +29741,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-09-11T09:02:13.006Z",
+    "voyages": "2026-09-11T09:07:50.623Z",
     "outlookCompletionQueue": "2026-09-11T09:06:04.377Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-08T07:35:40.033Z",
@@ -29752,6 +29755,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2702,
-  "savedAt": "2026-09-11T09:06:34.399Z"
+  "rev": 2703,
+  "savedAt": "2026-09-11T09:07:50.624Z"
 }
