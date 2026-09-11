@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-11T09:03:14.167Z",
+  "pushedAt": "2026-09-11T09:04:53.650Z",
   "todosCount": 444,
   "todos": [
     {
@@ -8415,12 +8415,12 @@
       "dueDate": "2026-09-12",
       "note": "",
       "createdAt": "2026-08-25T06:33:04.3908849Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-09-11T09:04:50.243Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-07T07:44:21.670Z"
+      "updatedAt": "2026-09-11T09:04:50.243Z"
     },
     {
       "category": "Nave",
@@ -25300,6 +25300,13 @@
       "completedAt": "2026-09-10T09:36:16.171Z",
       "todoId": "outlook_AAJ0cTj_AAA=",
       "title": "INFOSHIP Support Request"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJsiHQ-AAA=",
+      "listId": "",
+      "completedAt": "2026-09-11T09:04:50.247Z",
+      "todoId": "outlook_AAJsiHQ-AAA=",
+      "title": "CLOUD"
     }
   ],
   "manualOrders": {
@@ -29709,7 +29716,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-11T09:03:09.322Z",
+    "todos": "2026-09-11T09:04:53.650Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -29718,7 +29725,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-11T09:02:13.006Z",
-    "outlookCompletionQueue": "2026-09-10T09:36:19.577Z",
+    "outlookCompletionQueue": "2026-09-11T09:04:53.650Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-08T07:35:40.033Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -29731,6 +29738,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2697,
-  "savedAt": "2026-09-11T09:03:14.167Z"
+  "rev": 2698,
+  "savedAt": "2026-09-11T09:04:53.651Z"
 }
