@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-11T07:17:27.070Z",
+  "pushedAt": "2026-09-11T07:17:47.134Z",
   "todosCount": 444,
   "todos": [
     {
@@ -29626,11 +29626,73 @@
         "carrier": "DHL Express",
         "hub": "",
         "number": "50 9449 2395",
-        "status": "pending",
+        "status": "in_transit",
         "pickup": "2026-09-11",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-09-11T07:17:23.958Z"
+        "eta": "2026-09-11",
+        "events": [
+          {
+            "ts": "2026-09-11T07:36",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Shipment has departed from a DHL facility MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-11T07:09",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Processed at MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-11T06:34",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Arrived at DHL Sort Facility MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-11T04:28",
+            "place": "LEIPZIG - GERMANY",
+            "text": "Shipment has departed from a DHL facility LEIPZIG - GERMANY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-11T01:23",
+            "place": "LEIPZIG - GERMANY",
+            "text": "Processed at LEIPZIG - GERMANY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-11T00:57",
+            "place": "LEIPZIG - GERMANY",
+            "text": "Arrived at DHL Sort Facility LEIPZIG - GERMANY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-10T23:13",
+            "place": "AMSTERDAM - NETHERLANDS",
+            "text": "THE, Shipment has departed from a DHL facility AMSTERDAM - NETHERLANDS, THE",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-10T21:21",
+            "place": "AMSTERDAM - NETHERLANDS",
+            "text": "THE, Processed at AMSTERDAM - NETHERLANDS, THE",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-10T20:49",
+            "place": "AMSTERDAM - NETHERLANDS",
+            "text": "THE, Arrived at DHL Sort Facility AMSTERDAM - NETHERLANDS, THE",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-10T16:43",
+            "place": "AMSTERDAM - NETHERLANDS",
+            "text": "THE, Shipment picked up",
+            "code": "transit"
+          }
+        ],
+        "updatedAt": "2026-09-11T07:17:43.728Z",
+        "source": "17track-manual"
       }
     ]
   },
@@ -29658,10 +29720,10 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-10T10:25:44.807Z",
     "repliesDismissed": "2026-09-08T14:45:10.346Z",
-    "shipments": "2026-09-11T07:17:27.069Z",
+    "shipments": "2026-09-11T07:17:47.134Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2688,
-  "savedAt": "2026-09-11T07:17:27.072Z"
+  "rev": 2689,
+  "savedAt": "2026-09-11T07:17:47.134Z"
 }
