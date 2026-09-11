@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-11T09:19:00.106Z",
+  "pushedAt": "2026-09-11T09:19:14.563Z",
   "todosCount": 444,
   "todos": [
     {
@@ -10038,12 +10038,12 @@
       "dueDate": "2026-09-11",
       "note": "",
       "createdAt": "2026-09-08T05:54:35.3027768Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-09-11T09:19:11.467Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-11T09:03:10.746Z"
+      "updatedAt": "2026-09-11T09:19:11.467Z"
     },
     {
       "id": "outlook_AAJ0cTj8AAA=",
@@ -25324,6 +25324,13 @@
       "completedAt": "2026-09-11T09:05:59.601Z",
       "todoId": "outlook_AAJvuFNzAAA=",
       "title": "M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ0cTj7AAA=",
+      "listId": "",
+      "completedAt": "2026-09-11T09:19:11.472Z",
+      "todoId": "outlook_AAJ0cTj7AAA=",
+      "title": "## READY FOR DELIVERY ## RE: ORDER ACKNOWLEDGEMENT / M/V MED LIGURIA  PR36  HQPO-00075  MLG-SHPR-00036  G&amp;P TECH CO. / SV2605150A"
     }
   ],
   "manualOrders": {
@@ -29734,7 +29741,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-11T09:06:34.399Z",
+    "todos": "2026-09-11T09:19:14.563Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -29743,7 +29750,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-11T09:07:50.623Z",
-    "outlookCompletionQueue": "2026-09-11T09:06:04.377Z",
+    "outlookCompletionQueue": "2026-09-11T09:19:14.563Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-08T07:35:40.033Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -29756,6 +29763,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2706,
-  "savedAt": "2026-09-11T09:19:00.106Z"
+  "rev": 2707,
+  "savedAt": "2026-09-11T09:19:14.564Z"
 }
