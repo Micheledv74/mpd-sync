@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-11T09:06:05.721Z",
+  "pushedAt": "2026-09-11T09:06:34.399Z",
   "todosCount": 444,
   "todos": [
     {
@@ -9939,7 +9939,7 @@
       "outlookLinkedName": "nota credito 0029015522 San Colombano Bulk Srl",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-09-11",
+      "dueDate": "2026-09-14",
       "note": "",
       "createdAt": "2026-09-08T09:40:50.805528Z",
       "done": false,
@@ -9947,7 +9947,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-10T10:23:36.926Z"
+      "updatedAt": "2026-09-11T09:06:30.982Z"
     },
     {
       "category": "Nave",
@@ -29730,7 +29730,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-11T09:06:04.377Z",
+    "todos": "2026-09-11T09:06:34.399Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -29752,6 +29752,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2701,
-  "savedAt": "2026-09-11T09:06:05.723Z"
+  "rev": 2702,
+  "savedAt": "2026-09-11T09:06:34.399Z"
 }
