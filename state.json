@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-14T09:37:08.613Z",
+  "pushedAt": "2026-09-14T09:37:29.313Z",
   "todosCount": 453,
   "todos": [
     {
@@ -9168,7 +9168,7 @@
       "outlookLinkedName": "mv Med Toscana-Radio Annual Survey reports",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-09-14",
+      "dueDate": "2026-09-19",
       "note": "",
       "createdAt": "2026-08-31T13:51:03.9177509Z",
       "done": false,
@@ -9176,7 +9176,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-11T09:05:19.020Z"
+      "updatedAt": "2026-09-14T09:37:25.923Z"
     },
     {
       "category": "Nave",
@@ -30013,7 +30013,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-14T09:37:07.101Z",
+    "todos": "2026-09-14T09:37:29.312Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30035,6 +30035,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2757,
-  "savedAt": "2026-09-14T09:37:08.613Z"
+  "rev": 2758,
+  "savedAt": "2026-09-14T09:37:29.313Z"
 }
