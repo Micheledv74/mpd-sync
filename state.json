@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-14T09:38:19.506Z",
+  "pushedAt": "2026-09-14T09:38:32.001Z",
   "todosCount": 453,
   "todos": [
     {
@@ -10086,7 +10086,7 @@
       "outlookLinkedName": "M/V ATLAS - Final Payment",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-09-14",
+      "dueDate": "2026-09-19",
       "note": "",
       "createdAt": "2026-09-11T12:35:36.806649Z",
       "done": false,
@@ -10094,7 +10094,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-11T13:18:35.553Z"
+      "updatedAt": "2026-09-14T09:38:28.581Z"
     },
     {
       "category": "Nave",
@@ -30013,7 +30013,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-14T09:38:17.588Z",
+    "todos": "2026-09-14T09:38:32.001Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30035,6 +30035,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2761,
-  "savedAt": "2026-09-14T09:38:19.506Z"
+  "rev": 2762,
+  "savedAt": "2026-09-14T09:38:32.001Z"
 }
