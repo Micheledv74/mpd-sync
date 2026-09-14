@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-14T07:21:52.838Z",
-  "todosCount": 452,
+  "pushedAt": "2026-09-14T07:21:56.932Z",
+  "todosCount": 453,
   "todos": [
     {
       "category": "Ufficio",
@@ -10265,6 +10265,28 @@
       "doneAt": "2026-09-11T14:09:52.747Z",
       "outlookStatus": "notStarted",
       "updatedAt": "2026-09-11T14:09:52.748Z"
+    },
+    {
+      "id": "outlook_AAJ5aJnFAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ5aJnFAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJ5Z%2B%2BhAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: NORRBOTTEN VOY YALOVA- MARINA DE CARRARA",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "NORRBOTTEN VOY YALOVA- MARINA DE CARRARA",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-15",
+      "note": "",
+      "createdAt": "2026-09-14T05:53:15.9323326Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -29973,6 +29995,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2749,
-  "savedAt": "2026-09-14T07:21:52.839Z"
+  "rev": 2750,
+  "savedAt": "2026-09-14T07:21:56.933Z"
 }
