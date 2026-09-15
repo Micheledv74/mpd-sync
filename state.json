@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-15T07:13:39.536Z",
-  "todosCount": 454,
+  "pushedAt": "2026-09-15T07:23:54.238Z",
+  "todosCount": 457,
   "todos": [
     {
       "category": "Nave",
@@ -10312,6 +10312,72 @@
       "doneAt": "2026-09-14T11:15:16.535Z",
       "outlookStatus": "notStarted",
       "updatedAt": "2026-09-14T11:15:16.535Z"
+    },
+    {
+      "id": "outlook_AAJ6dHXeAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ6dHXeAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60bAABYWF9qc37UTpbqyo%2B4NVKtAADqwEXmAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "回复: Request for Quotation – Sea Water Butterfly Valve DN100 PN16",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "Request for Quotation – Sea Water Butterfly Valve DN100 PN16",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-14",
+      "note": "",
+      "createdAt": "2026-09-15T06:56:45.0109346Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJ6dHXdAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ6dHXdAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJ6dBXtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Re: Re: R: RE: R: M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "Re: R: RE: R: M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-16",
+      "note": "",
+      "createdAt": "2026-09-15T05:57:22.6489358Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJ5aJnGAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ5aJnGAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9asAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "M/V MED TOSCANA -  Seasteam Confirmation / DNS Closure",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "M/V MED TOSCANA -  Seasteam Confirmation / DNS Closure",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-13",
+      "note": "",
+      "createdAt": "2026-09-14T09:44:47.3907304Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -30065,7 +30131,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-15T06:57:48.980Z",
+    "todos": "2026-09-15T07:23:54.238Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30087,6 +30153,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2780,
-  "savedAt": "2026-09-15T07:13:39.537Z"
+  "rev": 2781,
+  "savedAt": "2026-09-15T07:23:54.238Z"
 }
