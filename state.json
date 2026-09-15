@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-15T07:13:34.717Z",
+  "pushedAt": "2026-09-15T07:13:39.536Z",
   "todosCount": 454,
   "todos": [
     {
@@ -10322,7 +10322,6 @@
     "peppino::spa req aux engine doosanman diesel 5l23/30hx720rpm": "@Singapore 30/06",
     "peppino::doosan man diesel 5l23/30h x 720rpm auxilliary generator": "@Singapore con TML",
     "peppino::spa req rescue boat electric source switch": "@Singapore 07/07",
-    "peppino::spa req gs#1 temperature sensor": "@03/08",
     "med liguria::mitsubishi hydraulic deck machinery shimonoseki shipyard mitsubishi heavy industriesltd": "?",
     "peppino::chlorine reagent kit for ballast treatment system": "@Singapore 30/06",
     "peppino::spa req aux boiler mission oc": "DHL tracking. 9620470661\nETD: 29 June 2026\nETA: 30 June 2026\nDHL shipment status can be check online at\nhttps://www.dhl.com/gb-en/home/tracking.html?tracking-id=9620470661&submit=1",
@@ -30088,6 +30087,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2779,
-  "savedAt": "2026-09-15T07:13:34.718Z"
+  "rev": 2780,
+  "savedAt": "2026-09-15T07:13:39.537Z"
 }
