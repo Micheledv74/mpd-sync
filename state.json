@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-16T08:35:34.799Z",
+  "pushedAt": "2026-09-16T08:35:39.680Z",
   "todosCount": 462,
   "todos": [
     {
@@ -10445,16 +10445,19 @@
       "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "MV ATLAS EX NORRBOTTEN PENDING INVOICES ",
+      "reference": "MV ATLAS EX NORRBOTTEN PENDING INVOICES",
       "tags": [
         "outlook"
       ],
-      "dueDate": "2026-09-15",
+      "dueDate": "2026-09-16",
       "note": "",
       "createdAt": "2026-09-16T06:55:50.0594391Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-09-16T08:35:36.260Z"
     },
     {
       "id": "outlook_AAJ6dHXgAAA=",
@@ -30282,7 +30285,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-16T08:35:32.519Z",
+    "todos": "2026-09-16T08:35:39.680Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30304,6 +30307,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2811,
-  "savedAt": "2026-09-16T08:35:34.799Z"
+  "rev": 2812,
+  "savedAt": "2026-09-16T08:35:39.680Z"
 }
