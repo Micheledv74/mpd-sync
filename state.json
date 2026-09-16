@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-16T15:07:16.703Z",
+  "pushedAt": "2026-09-16T15:07:30.949Z",
   "todosCount": 462,
   "todos": [
     {
@@ -10430,12 +10430,12 @@
       "dueDate": "2026-09-16",
       "note": "",
       "createdAt": "2026-09-16T06:56:05.7375514Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-09-16T15:07:28.823Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-16T08:35:28.852Z"
+      "updatedAt": "2026-09-16T15:07:28.823Z"
     },
     {
       "id": "outlook_AAJ7CCzPAAA=",
@@ -25879,6 +25879,13 @@
       "completedAt": "2026-09-16T13:09:31.186Z",
       "todoId": "outlook_AAJ5aJnGAAA=",
       "title": "M/V MED TOSCANA -  Seasteam Confirmation / DNS Closure"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ7CCzQAAA=",
+      "listId": "",
+      "completedAt": "2026-09-16T15:07:28.830Z",
+      "todoId": "outlook_AAJ7CCzQAAA=",
+      "title": "MV ATLAS EX NORRBOTTEN PENDING INVOICES"
     }
   ],
   "manualOrders": {
@@ -30309,7 +30316,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-16T15:07:16.703Z",
+    "todos": "2026-09-16T15:07:30.949Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30318,7 +30325,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-16T13:17:48.255Z",
-    "outlookCompletionQueue": "2026-09-16T13:09:34.471Z",
+    "outlookCompletionQueue": "2026-09-16T15:07:30.949Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-08T07:35:40.033Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -30331,6 +30338,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2822,
-  "savedAt": "2026-09-16T15:07:16.706Z"
+  "rev": 2823,
+  "savedAt": "2026-09-16T15:07:30.950Z"
 }
