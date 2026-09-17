@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-17T14:19:58.924Z",
+  "pushedAt": "2026-09-17T14:20:16.911Z",
   "todosCount": 471,
   "todos": [
     {
@@ -10717,9 +10717,9 @@
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60UAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B6bYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "MV PEPPINO - VDR (CARD  ISSUE)",
-      "category": "Altro",
+      "category": "Nave",
       "priority": "media",
-      "vessel": "",
+      "vessel": "peppino",
       "action": "Altro",
       "reference": "MV PEPPINO - VDR (CARD  ISSUE)",
       "tags": [
@@ -10733,7 +10733,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-17T14:19:56.143Z"
+      "updatedAt": "2026-09-17T14:20:14.382Z"
     }
   ],
   "notes": {
@@ -30599,7 +30599,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-17T14:19:58.923Z",
+    "todos": "2026-09-17T14:20:16.911Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30621,6 +30621,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2860,
-  "savedAt": "2026-09-17T14:19:58.924Z"
+  "rev": 2861,
+  "savedAt": "2026-09-17T14:20:16.912Z"
 }
