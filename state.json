@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-17T12:53:39.044Z",
+  "pushedAt": "2026-09-17T12:53:45.677Z",
   "todosCount": 470,
   "todos": [
     {
@@ -10650,12 +10650,15 @@
       "outlookLinkedName": "R: M/V MED TOSCANA PR86 HQPO-00103 MDT-SHPR-00086 FARMACIA GHIGLIAZZA",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-09-17",
+      "dueDate": "2026-09-18",
       "note": "",
       "createdAt": "2026-09-17T10:48:02.5655113Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-09-17T12:53:42.141Z"
     },
     {
       "category": "Altro",
@@ -30565,7 +30568,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-17T12:53:39.043Z",
+    "todos": "2026-09-17T12:53:45.677Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30587,6 +30590,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2854,
-  "savedAt": "2026-09-17T12:53:39.044Z"
+  "rev": 2855,
+  "savedAt": "2026-09-17T12:53:45.678Z"
 }
