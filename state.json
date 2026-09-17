@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-17T10:34:15.747Z",
-  "todosCount": 467,
+  "pushedAt": "2026-09-17T10:55:08.709Z",
+  "todosCount": 470,
   "todos": [
     {
       "category": "Nave",
@@ -10527,9 +10527,9 @@
       "dueDate": "2026-09-17",
       "note": "",
       "createdAt": "2026-09-16T15:07:51.865773Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-09-17T10:40:37.1262086Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-09-16T15:12:02.477Z"
@@ -10627,6 +10627,73 @@
       "dueDate": "2026-09-17",
       "note": "",
       "createdAt": "2026-09-17T07:36:35.5972215Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJ71PlxAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ71PlxAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9bYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: M/V MED TOSCANA PR86 HQPO-00103 MDT-SHPR-00086 FARMACIA GHIGLIAZZA",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "M/V MED TOSCANA PR86 HQPO-00103 MDT-SHPR-00086 FARMACIA GHIGLIAZZA",
+      "tags": [
+        "outlook",
+        "fornitore:FARMACIA"
+      ],
+      "dueDate": "2026-09-17",
+      "note": "",
+      "createdAt": "2026-09-17T10:48:02.5655113Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJ71PlwAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ71PlwAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9b1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: MV PEPPINO - Urgent Requisition",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "MV PEPPINO - Urgent Requisition",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-17",
+      "note": "",
+      "createdAt": "2026-09-17T10:41:39.6623304Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJ71PlvAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ71PlvAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3QtAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9%2BJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "POSTA CERTIFICATA: UNITà VEGA UNO// RICHIESTA DI VISITA @ TORRE ANNUNZIATA",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "vegauno",
+      "action": "Altro",
+      "reference": "POSTA CERTIFICATA: UNITà VEGA UNO// RICHIESTA DI VISITA @ TORRE ANNUNZIATA",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-17",
+      "note": "",
+      "createdAt": "2026-09-17T10:40:21.3449407Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -30459,7 +30526,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-17T07:58:27.548Z",
+    "todos": "2026-09-17T10:55:08.709Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30481,6 +30548,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2844,
-  "savedAt": "2026-09-17T10:34:15.747Z"
+  "rev": 2845,
+  "savedAt": "2026-09-17T10:55:08.709Z"
 }
