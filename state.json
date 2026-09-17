@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-17T10:55:08.709Z",
+  "pushedAt": "2026-09-17T10:58:18.594Z",
   "todosCount": 470,
   "todos": [
     {
@@ -10560,20 +10560,20 @@
       "updatedAt": "2026-09-16T15:11:53.437Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "M/V ATLAS - Request for Outstanding Invoice and Payment Status",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJ7CCzVAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ7CCzVAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJ7CBFGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: M/V ATLAS - Request for Outstanding Invoice and Payment Status",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "M/V ATLAS - Request for Outstanding Invoice and Payment Status",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-17",
       "note": "",
       "createdAt": "2026-09-16T15:21:42.1794835Z",
@@ -10585,20 +10585,20 @@
       "updatedAt": "2026-09-17T07:02:58.654Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "[EXTERNAL]   M/V PEPPINO - Quotation Request – Cotton Rags",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJ7CCzUAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ7CCzUAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60ZAABYWF9qc37UTpbqyo%2B4NVKtAAAABHUHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: [EXTERNAL]   M/V PEPPINO - Quotation Request – Cotton Rags",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "[EXTERNAL]   M/V PEPPINO - Quotation Request – Cotton Rags",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-17",
       "note": "",
       "createdAt": "2026-09-16T15:19:39.0839288Z",
@@ -10610,20 +10610,20 @@
       "updatedAt": "2026-09-17T07:58:16.417Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "[EXTERNAL]   M/V PEPPINO - Quotation Request – Cotton Rags",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJ71PluAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ71PluAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9bwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "I: [EXTERNAL]   M/V PEPPINO - Quotation Request – Cotton Rags",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "[EXTERNAL]   M/V PEPPINO - Quotation Request – Cotton Rags",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-17",
       "note": "",
       "createdAt": "2026-09-17T07:36:35.5972215Z",
@@ -10632,21 +10632,21 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED TOSCANA PR86 HQPO-00103 MDT-SHPR-00086 FARMACIA GHIGLIAZZA",
+      "tags": [
+        "outlook",
+        "fornitore:FARMACIA"
+      ],
       "id": "outlook_AAJ71PlxAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ71PlxAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9bYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: M/V MED TOSCANA PR86 HQPO-00103 MDT-SHPR-00086 FARMACIA GHIGLIAZZA",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "M/V MED TOSCANA PR86 HQPO-00103 MDT-SHPR-00086 FARMACIA GHIGLIAZZA",
-      "tags": [
-        "outlook",
-        "fornitore:FARMACIA"
-      ],
       "dueDate": "2026-09-17",
       "note": "",
       "createdAt": "2026-09-17T10:48:02.5655113Z",
@@ -10655,20 +10655,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "MV PEPPINO - Urgent Requisition",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJ71PlwAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ71PlwAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9b1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: MV PEPPINO - Urgent Requisition",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "MV PEPPINO - Urgent Requisition",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-17",
       "note": "",
       "createdAt": "2026-09-17T10:41:39.6623304Z",
@@ -10677,20 +10677,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "POSTA CERTIFICATA: UNITà VEGA UNO// RICHIESTA DI VISITA @ TORRE ANNUNZIATA",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJ71PlvAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ71PlvAAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3QtAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9%2BJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "POSTA CERTIFICATA: UNITà VEGA UNO// RICHIESTA DI VISITA @ TORRE ANNUNZIATA",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "vegauno",
       "action": "Altro",
-      "reference": "POSTA CERTIFICATA: UNITà VEGA UNO// RICHIESTA DI VISITA @ TORRE ANNUNZIATA",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-17",
       "note": "",
       "createdAt": "2026-09-17T10:40:21.3449407Z",
@@ -30526,7 +30526,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-17T10:55:08.709Z",
+    "todos": "2026-09-17T10:58:18.594Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30548,6 +30548,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2845,
-  "savedAt": "2026-09-17T10:55:08.709Z"
+  "rev": 2846,
+  "savedAt": "2026-09-17T10:58:18.595Z"
 }
