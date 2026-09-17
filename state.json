@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-17T14:19:49.192Z",
+  "pushedAt": "2026-09-17T14:19:58.924Z",
   "todosCount": 471,
   "todos": [
     {
@@ -10725,12 +10725,15 @@
       "tags": [
         "outlook"
       ],
-      "dueDate": "2026-09-17",
+      "dueDate": "2026-09-18",
       "note": "",
       "createdAt": "2026-09-17T14:06:09.0502709Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-09-17T14:19:56.143Z"
     }
   ],
   "notes": {
@@ -30596,7 +30599,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-17T13:03:24.286Z",
+    "todos": "2026-09-17T14:19:58.923Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30618,6 +30621,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2859,
-  "savedAt": "2026-09-17T14:19:49.192Z"
+  "rev": 2860,
+  "savedAt": "2026-09-17T14:19:58.924Z"
 }
