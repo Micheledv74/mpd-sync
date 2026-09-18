@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-18T14:58:29.486Z",
-  "todosCount": 474,
+  "pushedAt": "2026-09-18T14:58:38.301Z",
+  "todosCount": 477,
   "todos": [
     {
       "id": "td_1789718336029_bfr2u",
@@ -10795,6 +10795,73 @@
       "doneAt": "2026-09-18T08:04:03.645Z",
       "outlookStatus": "notStarted",
       "updatedAt": "2026-09-18T08:04:03.645Z"
+    },
+    {
+      "id": "outlook_AAJ8mxrKAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ8mxrKAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJ8mnaJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: TEF064730 - Nave NORRBOTTEN - installazione della parte elettrica stern thruster e gruppo elettrogeno",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "TEF064730 - Nave NORRBOTTEN - installazione della parte elettrica stern thruster e gruppo elettrogeno",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-20",
+      "note": "",
+      "createdAt": "2026-09-18T14:57:53.8779252Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJ8mxrJAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ8mxrJAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9a%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "I: nota credito 0029015522 San Colombano Bulk Srl",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "nota credito 0029015522 San Colombano Bulk Srl",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-18",
+      "note": "",
+      "createdAt": "2026-09-18T12:57:18.5432319Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJ8mxrIAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ8mxrIAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAAHdVZVCAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Re: M/V MED LIGURIA PR36 HQPO-00076 MLG-SHPR-00036 MAS MARINE SHIPPING SUPPLIES / 026-58544",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "M/V MED LIGURIA PR36 HQPO-00076 MLG-SHPR-00036 MAS MARINE SHIPPING SUPPLIES / 026-58544",
+      "tags": [
+        "outlook",
+        "fornitore:MAS"
+      ],
+      "dueDate": "2026-09-18",
+      "note": "",
+      "createdAt": "2026-09-18T12:54:07.3902684Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -30718,7 +30785,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-18T10:05:52.945Z",
+    "todos": "2026-09-18T14:58:38.300Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30740,6 +30807,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2886,
-  "savedAt": "2026-09-18T14:58:29.486Z"
+  "rev": 2887,
+  "savedAt": "2026-09-18T14:58:38.301Z"
 }
