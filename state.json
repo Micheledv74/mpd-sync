@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-18T08:07:05.686Z",
+  "pushedAt": "2026-09-18T10:02:52.813Z",
   "todosCount": 474,
   "todos": [
     {
@@ -10589,7 +10589,7 @@
       "outlookLinkedName": "RE: M/V ATLAS - Request for Outstanding Invoice and Payment Status",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-09-18",
+      "dueDate": "2026-09-21",
       "note": "",
       "createdAt": "2026-09-16T15:21:42.1794835Z",
       "done": false,
@@ -10597,7 +10597,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-17T12:53:27.342Z"
+      "updatedAt": "2026-09-18T10:02:49.417Z"
     },
     {
       "category": "Nave",
@@ -30704,7 +30704,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-18T08:07:03.488Z",
+    "todos": "2026-09-18T10:02:52.813Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30726,6 +30726,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2872,
-  "savedAt": "2026-09-18T08:07:05.688Z"
+  "rev": 2873,
+  "savedAt": "2026-09-18T10:02:52.813Z"
 }
