@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-19T17:18:33.583Z",
+  "pushedAt": "2026-09-19T17:20:18.067Z",
   "todosCount": 478,
   "todos": [
     {
@@ -12760,7 +12760,8 @@
     "MacGregor Pte Ltd": "en",
     "Global Marine Safety - America": "en",
     "Wartsila Italia S.p.A.": "en",
-    "Dongjin Intec Co., Ltd.": "en"
+    "Dongjin Intec Co., Ltd.": "en",
+    "MAS MARINE SHIPPING SUPPLIES": "it"
   },
   "pinnedActions": [],
   "certificates": {
@@ -30825,7 +30826,7 @@
     "archivedActions": "2026-08-21T07:32:33.905Z",
     "completionsHistory": "2026-08-21T07:32:33.905Z",
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
-    "supplierLanguages": "2026-08-24T09:32:27.663Z",
+    "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-18T07:07:42.413Z",
     "outlookCompletionQueue": "2026-09-18T10:05:20.656Z",
@@ -30841,6 +30842,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2893,
-  "savedAt": "2026-09-19T17:18:33.583Z"
+  "rev": 2894,
+  "savedAt": "2026-09-19T17:20:18.067Z"
 }
