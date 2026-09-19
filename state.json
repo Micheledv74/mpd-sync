@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-18T14:59:33.364Z",
+  "pushedAt": "2026-09-19T08:37:42.042Z",
   "todosCount": 477,
   "todos": [
     {
@@ -26958,6 +26958,12 @@
       "mode": "manual",
       "port": "Panama",
       "date": "2026-06-06"
+    },
+    "med liguria::deck & engine paint": {
+      "mode": "manual",
+      "port": "SINGAPORE",
+      "date": "2026-09-21",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -30802,7 +30808,7 @@
     "voyages": "2026-09-18T07:07:42.413Z",
     "outlookCompletionQueue": "2026-09-18T10:05:20.656Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
-    "deliveries": "2026-09-08T07:35:40.033Z",
+    "deliveries": "2026-09-19T08:37:42.042Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-09-15T14:47:23.791Z",
@@ -30813,6 +30819,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2890,
-  "savedAt": "2026-09-18T14:59:33.364Z"
+  "rev": 2891,
+  "savedAt": "2026-09-19T08:37:42.042Z"
 }
