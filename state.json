@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-19T18:52:48.733Z",
+  "pushedAt": "2026-09-19T18:53:30.096Z",
   "todosCount": 478,
   "todos": [
     {
@@ -10884,12 +10884,15 @@
       "outlookLinkedName": "Re: Richiesta quotazione - Valvola presa mare DN100 PN16 certificata",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-09-19",
+      "dueDate": "2026-09-21",
       "note": "",
       "createdAt": "2026-09-19T17:11:01.9269117Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-09-19T18:53:26.696Z"
     }
   ],
   "notes": {
@@ -30820,7 +30823,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-19T18:52:42.456Z",
+    "todos": "2026-09-19T18:53:30.096Z",
     "notes": "2026-09-02T12:22:14.798Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30842,6 +30845,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2895,
-  "savedAt": "2026-09-19T18:52:48.734Z"
+  "rev": 2896,
+  "savedAt": "2026-09-19T18:53:30.096Z"
 }
