@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-21T14:57:53.160Z",
+  "pushedAt": "2026-09-21T15:28:21.503Z",
   "todosCount": 480,
   "todos": [
     {
@@ -10749,7 +10749,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-18T10:04:06.530Z"
+      "updatedAt": "2026-09-21T15:28:18.098Z"
     },
     {
       "category": "Nave",
@@ -30885,7 +30885,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-21T14:57:51.649Z",
+    "todos": "2026-09-21T15:28:21.502Z",
     "notes": "2026-09-21T08:10:51.119Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30907,6 +30907,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2940,
-  "savedAt": "2026-09-21T14:57:53.161Z"
+  "rev": 2941,
+  "savedAt": "2026-09-21T15:28:21.504Z"
 }
