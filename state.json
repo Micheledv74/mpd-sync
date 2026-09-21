@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-21T16:58:49.311Z",
+  "pushedAt": "2026-09-21T16:59:08.376Z",
   "todosCount": 480,
   "todos": [
     {
@@ -23971,12 +23971,12 @@
         "from": "Yalova",
         "to": "Marina di Carrara",
         "etb": "",
-        "eta": "2026-09-20T11:35",
+        "eta": "2026-10-04T11:35",
         "etd": "",
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-09-21T16:58:45.889Z"
+      "updatedAt": "2026-09-21T16:59:04.951Z"
     },
     "vegauno": {
       "status": "in_port",
@@ -30914,7 +30914,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-09-21T16:58:49.310Z",
+    "voyages": "2026-09-21T16:59:08.376Z",
     "outlookCompletionQueue": "2026-09-21T16:55:57.496Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-19T08:37:42.042Z",
@@ -30928,6 +30928,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2954,
-  "savedAt": "2026-09-21T16:58:49.311Z"
+  "rev": 2955,
+  "savedAt": "2026-09-21T16:59:08.376Z"
 }
