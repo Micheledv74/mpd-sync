@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-21T09:59:53.548Z",
-  "todosCount": 478,
+  "pushedAt": "2026-09-21T12:56:43.311Z",
+  "todosCount": 480,
   "todos": [
     {
       "category": "Nave",
@@ -10896,6 +10896,50 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-09-19T18:53:26.696Z"
+    },
+    {
+      "id": "outlook_AAJ93uLxAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ93uLxAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJ93pcmAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "mv ATLAS (ex NORRBOTTEN) - NORIS assistance is needed / BM260431-LU",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "mv ATLAS (ex NORRBOTTEN) - NORIS assistance is needed / BM260431-LU",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-21",
+      "note": "",
+      "createdAt": "2026-09-21T10:29:12.6243867Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJ93uLwAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ93uLwAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJ93pclAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: MV ATLAS  Eng Requisition No. 60-61 ",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "MV ATLAS  Eng Requisition No. 60-61 ",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-21",
+      "note": "",
+      "createdAt": "2026-09-21T08:21:32.6746308Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -30840,7 +30884,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-21T07:23:16.187Z",
+    "todos": "2026-09-21T12:56:43.310Z",
     "notes": "2026-09-21T08:10:51.119Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -30862,6 +30906,6 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": ""
   },
-  "rev": 2938,
-  "savedAt": "2026-09-21T09:59:53.549Z"
+  "rev": 2939,
+  "savedAt": "2026-09-21T12:56:43.311Z"
 }
