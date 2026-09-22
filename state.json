@@ -1,20 +1,20 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-22T19:22:04.334Z",
+  "pushedAt": "2026-09-22T19:22:10.138Z",
   "todosCount": 487,
   "todos": [
     {
-      "id": "td_1790102062474_je2ya",
       "category": "Ufficio",
       "priority": "media",
-      "vessel": "",
-      "action": "Inviare email",
       "reference": "Rispondere a intraship@dhl.com — Conferma Spedizione DHL Express",
       "tags": [
         "email",
         "dhl.com"
       ],
+      "id": "td_1790102062474_je2ya",
+      "vessel": "",
+      "action": "Inviare email",
       "dueDate": "2026-09-23",
       "note": "Aiuto e Supporto Questa spedizione è stata creata con DHL Express Numero di ricerca lettera di vettura 3798766790 Non rispondere a questa mail Termini & Condizioni | Informativa sulla privacy | Condizioni Generali di Trasporto 2026 ©",
       "recur": null,
@@ -31337,7 +31337,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-22T19:22:04.334Z",
+    "todos": "2026-09-22T19:22:10.138Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -31360,6 +31360,6 @@
     "pinnedActions": "",
     "rfqChases": "2026-09-21T20:39:46.515Z"
   },
-  "rev": 3058,
-  "savedAt": "2026-09-22T19:22:04.335Z"
+  "rev": 3059,
+  "savedAt": "2026-09-22T19:22:10.139Z"
 }
