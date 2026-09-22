@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-22T07:58:11.855Z",
+  "pushedAt": "2026-09-22T07:59:50.962Z",
   "todosCount": 481,
   "todos": [
     {
@@ -30751,10 +30751,76 @@
         "carrier": "DHL Express",
         "hub": "TML Genoa",
         "number": "4890014474",
-        "status": "in_transit",
+        "status": "delivered",
         "pickup": "2026-09-03",
-        "eta": "2026-09-03",
+        "eta": "2026-09-04",
         "events": [
+          {
+            "ts": "2026-09-04T14:35",
+            "place": "Genova - ITALY",
+            "text": "Delivered",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-09-04T11:00",
+            "place": "GENOA - ITALY",
+            "text": "Shipment is out with courier for delivery",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-04T10:21",
+            "place": "GENOA - ITALY",
+            "text": "Arrived at DHL Delivery Facility GENOA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-04T06:24",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Shipment has departed from a DHL facility MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-04T05:34",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Processed at MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-04T04:59",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Arrived at DHL Sort Facility MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-04T03:25",
+            "place": "BRUSSELS - BELGIUM",
+            "text": "Shipment has departed from a DHL facility BRUSSELS - BELGIUM",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-03T23:28",
+            "place": "BRUSSELS - BELGIUM",
+            "text": "Processed at BRUSSELS - BELGIUM",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-03T22:07",
+            "place": "BRUSSELS - BELGIUM",
+            "text": "Arrived at DHL Sort Facility BRUSSELS - BELGIUM",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-03T19:20",
+            "place": "EINDHOVEN - NETHERLANDS",
+            "text": "THE, Shipment has departed from a DHL facility EINDHOVEN - NETHERLANDS, THE",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-03T19:20",
+            "place": "EINDHOVEN - NETHERLANDS",
+            "text": "THE, Processed at EINDHOVEN - NETHERLANDS, THE",
+            "code": "transit"
+          },
           {
             "ts": "2026-09-03T11:28",
             "place": "EINDHOVEN - NETHERLANDS",
@@ -30762,7 +30828,7 @@
             "code": "transit"
           }
         ],
-        "updatedAt": "2026-09-03T12:01:09.760Z",
+        "updatedAt": "2026-09-22T07:59:47.527Z",
         "source": "17track-manual"
       }
     ],
@@ -31028,11 +31094,11 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-15T09:04:12.962Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
-    "shipments": "2026-09-22T07:58:11.854Z",
+    "shipments": "2026-09-22T07:59:50.961Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
     "rfqChases": "2026-09-21T20:39:46.515Z"
   },
-  "rev": 2982,
-  "savedAt": "2026-09-22T07:58:11.855Z"
+  "rev": 2983,
+  "savedAt": "2026-09-22T07:59:50.962Z"
 }
