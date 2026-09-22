@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-22T07:55:26.506Z",
+  "pushedAt": "2026-09-22T07:57:49.037Z",
   "todosCount": 481,
   "todos": [
     {
@@ -30966,6 +30966,18 @@
         ],
         "updatedAt": "2026-09-22T07:55:23.101Z",
         "source": "17track-manual"
+      },
+      {
+        "id": "shmucdt0vxnzu",
+        "route": "hub-port",
+        "carrier": "Altro",
+        "hub": "",
+        "number": "157-54263635",
+        "status": "pending",
+        "pickup": "2026-09-22",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-09-22T07:57:43.485Z"
       }
     ],
     "med liguria::alpha lubricator system mfg no pu110105": [
@@ -31008,11 +31020,11 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-15T09:04:12.962Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
-    "shipments": "2026-09-22T07:55:26.506Z",
+    "shipments": "2026-09-22T07:57:49.037Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
     "rfqChases": "2026-09-21T20:39:46.515Z"
   },
-  "rev": 2980,
-  "savedAt": "2026-09-22T07:55:26.506Z"
+  "rev": 2981,
+  "savedAt": "2026-09-22T07:57:49.037Z"
 }
