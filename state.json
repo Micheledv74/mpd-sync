@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-22T08:00:29.029Z",
-  "todosCount": 481,
+  "pushedAt": "2026-09-22T08:00:39.280Z",
+  "todosCount": 484,
   "todos": [
     {
       "category": "Nave",
@@ -10972,6 +10972,72 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-09-21T20:10:36.573Z"
+    },
+    {
+      "id": "outlook_AAJ-UOMYAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ-UOMYAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NrAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BdVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: 11.09.2026 RS inspection - NCs",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "11.09.2026 RS inspection - NCs",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "",
+      "note": "",
+      "createdAt": "2026-09-22T07:46:30.6806992Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJ-UOMXAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ-UOMXAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJ%2FUKUWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: MV 'MED TOSCANA' - ETA-23.09.26 / 06:00 lt / prospect on arrival",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "MV 'MED TOSCANA' - ETA-23.09.26 / 06:00 lt / prospect on arrival",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "",
+      "note": "",
+      "createdAt": "2026-09-22T07:17:28.7569861Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAJ-UOMWAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ-UOMWAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60eAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4%2B3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: Order Confirmation / PO 2026-MDT-HQPO-00057 / VESSEL MED TOSCANA / SO 2386541.",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: Order Confirmation / PO 2026-MDT-HQPO-00057 / VESSEL MED TOSCANA / SO 2386541.",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "",
+      "note": "",
+      "createdAt": "2026-09-22T07:14:11.3291265Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -31096,7 +31162,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-21T20:10:40.200Z",
+    "todos": "2026-09-22T08:00:39.280Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -31119,6 +31185,6 @@
     "pinnedActions": "",
     "rfqChases": "2026-09-21T20:39:46.515Z"
   },
-  "rev": 2986,
-  "savedAt": "2026-09-22T08:00:29.029Z"
+  "rev": 2987,
+  "savedAt": "2026-09-22T08:00:39.281Z"
 }
