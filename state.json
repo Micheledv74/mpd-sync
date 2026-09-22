@@ -1,9 +1,30 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-22T18:58:03.322Z",
+  "pushedAt": "2026-09-22T18:59:03.337Z",
   "todosCount": 487,
   "todos": [
+    {
+      "id": "td_1790102062474_je2ya",
+      "category": "Ufficio",
+      "priority": "media",
+      "vessel": "",
+      "action": "Inviare email",
+      "reference": "Rispondere a intraship@dhl.com — Conferma Spedizione DHL Express",
+      "tags": [
+        "email",
+        "dhl.com"
+      ],
+      "dueDate": "2026-09-23",
+      "note": "Aiuto e Supporto Questa spedizione è stata creata con DHL Express Numero di ricerca lettera di vettura 3798766790 Non rispondere a questa mail Termini & Condizioni | Informativa sulla privacy | Condizioni Generali di Trasporto 2026 ©",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJ%2FUKU3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Conferma Spedizione DHL Express",
+      "done": false,
+      "createdAt": "2026-09-22T18:34:22.474Z",
+      "updatedAt": "2026-09-22T18:34:22.474Z"
+    },
     {
       "category": "Nave",
       "priority": "media",
@@ -11083,27 +11104,6 @@
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
-    },
-    {
-      "id": "td_1790102062474_je2ya",
-      "category": "Ufficio",
-      "priority": "media",
-      "vessel": "",
-      "action": "Inviare email",
-      "reference": "Rispondere a intraship@dhl.com — Conferma Spedizione DHL Express",
-      "tags": [
-        "email",
-        "dhl.com"
-      ],
-      "dueDate": "2026-09-23",
-      "note": "Aiuto e Supporto Questa spedizione è stata creata con DHL Express Numero di ricerca lettera di vettura 3798766790 Non rispondere a questa mail Termini & Condizioni | Informativa sulla privacy | Condizioni Generali di Trasporto 2026 ©",
-      "recur": null,
-      "kind": "todo",
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJ%2FUKU3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookLinkedName": "Conferma Spedizione DHL Express",
-      "done": false,
-      "createdAt": "2026-09-22T18:34:22.474Z",
-      "updatedAt": "2026-09-22T18:34:22.474Z"
     }
   ],
   "notes": {
@@ -31337,7 +31337,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-22T18:58:03.322Z",
+    "todos": "2026-09-22T18:59:03.337Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -31360,6 +31360,6 @@
     "pinnedActions": "",
     "rfqChases": "2026-09-21T20:39:46.515Z"
   },
-  "rev": 3044,
-  "savedAt": "2026-09-22T18:58:03.323Z"
+  "rev": 3046,
+  "savedAt": "2026-09-22T18:59:03.338Z"
 }
