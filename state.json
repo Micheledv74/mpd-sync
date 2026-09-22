@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-22T10:53:03.558Z",
+  "pushedAt": "2026-09-22T11:01:35.814Z",
   "todosCount": 484,
   "todos": [
     {
@@ -10719,12 +10719,12 @@
       "dueDate": "2026-09-22",
       "note": "",
       "createdAt": "2026-09-17T10:40:21.3449407Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-09-22T11:01:32.129Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-21T16:54:25.224Z"
+      "updatedAt": "2026-09-22T11:01:32.129Z"
     },
     {
       "category": "Nave",
@@ -26519,6 +26519,13 @@
       "completedAt": "2026-09-22T09:47:53.229Z",
       "todoId": "outlook_AAJ6dHXdAAA=",
       "title": "Re: R: RE: R: M/V MED LIGURIA - Return of Incorrectly Delivered Items - PR 239-2025"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ71PlvAAA=",
+      "listId": "",
+      "completedAt": "2026-09-22T11:01:32.133Z",
+      "todoId": "outlook_AAJ71PlvAAA=",
+      "title": "POSTA CERTIFICATA: UNITà VEGA UNO// RICHIESTA DI VISITA @ TORRE ANNUNZIATA"
     }
   ],
   "manualOrders": {
@@ -31208,7 +31215,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-22T09:47:56.647Z",
+    "todos": "2026-09-22T11:01:35.814Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -31217,7 +31224,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-22T08:01:53.232Z",
-    "outlookCompletionQueue": "2026-09-22T09:47:56.647Z",
+    "outlookCompletionQueue": "2026-09-22T11:01:35.814Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-22T08:04:07.555Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -31231,6 +31238,6 @@
     "pinnedActions": "",
     "rfqChases": "2026-09-21T20:39:46.515Z"
   },
-  "rev": 3001,
-  "savedAt": "2026-09-22T10:53:03.559Z"
+  "rev": 3002,
+  "savedAt": "2026-09-22T11:01:35.814Z"
 }
