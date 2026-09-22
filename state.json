@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-22T07:12:14.309Z",
+  "pushedAt": "2026-09-22T07:55:26.506Z",
   "todosCount": 481,
   "todos": [
     {
@@ -30881,10 +30881,52 @@
         "carrier": "DHL Express",
         "hub": "",
         "number": "12 5489 9413",
-        "status": "in_transit",
+        "status": "delivered",
         "pickup": "2026-09-17",
-        "eta": "2026-09-18",
+        "eta": "2026-09-21",
         "events": [
+          {
+            "ts": "2026-09-21T11:19",
+            "place": "GENOA - ITALY",
+            "text": "Delivered",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-09-21T07:15",
+            "place": "GENOA - ITALY",
+            "text": "Arrived at DHL Delivery Facility GENOA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-21T03:56",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Shipment has departed from a DHL facility MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-20T23:36",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Processed at MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-20T22:51",
+            "place": "MILAN - MALPENSA - ITALY",
+            "text": "Arrived at DHL Sort Facility MILAN - MALPENSA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-18T21:18",
+            "place": "LEIPZIG - GERMANY",
+            "text": "Shipment has departed from a DHL facility LEIPZIG - GERMANY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-18T12:15",
+            "place": "LEIPZIG - GERMANY",
+            "text": "Shipment is on hold",
+            "code": "exception"
+          },
           {
             "ts": "2026-09-18T04:15",
             "place": "LEIPZIG - GERMANY",
@@ -30922,7 +30964,7 @@
             "code": "transit"
           }
         ],
-        "updatedAt": "2026-09-18T08:05:49.002Z",
+        "updatedAt": "2026-09-22T07:55:23.101Z",
         "source": "17track-manual"
       }
     ],
@@ -30966,11 +31008,11 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-15T09:04:12.962Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
-    "shipments": "2026-09-21T09:59:52.388Z",
+    "shipments": "2026-09-22T07:55:26.506Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
     "rfqChases": "2026-09-21T20:39:46.515Z"
   },
-  "rev": 2979,
-  "savedAt": "2026-09-22T07:12:14.309Z"
+  "rev": 2980,
+  "savedAt": "2026-09-22T07:55:26.506Z"
 }
