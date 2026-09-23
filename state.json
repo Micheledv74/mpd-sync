@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-23T12:29:35.910Z",
+  "pushedAt": "2026-09-23T12:39:57.561Z",
   "todosCount": 510,
   "todos": [
     {
@@ -31842,6 +31842,20 @@
         "updatedAt": "2026-09-22T15:19:10.960Z",
         "source": "17track-manual"
       }
+    ],
+    "peppino::log book peppino": [
+      {
+        "id": "shmue3bsi2ll7",
+        "route": "supplier-hub",
+        "carrier": "DHL Express",
+        "hub": "",
+        "number": "37 9876 6790",
+        "status": "pending",
+        "pickup": "2026-09-23",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-09-23T12:39:55.658Z"
+      }
     ]
   },
   "rfqChases": {
@@ -34692,12 +34706,12 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-15T09:04:12.962Z",
     "repliesDismissed": "2026-09-22T19:33:38.236Z",
-    "shipments": "2026-09-22T15:19:14.569Z",
+    "shipments": "2026-09-23T12:39:57.560Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
     "rfqChases": "2026-09-23T09:12:23.501Z",
     "rfqVendors": "2026-09-23T10:13:40.695Z"
   },
-  "rev": 3115,
-  "savedAt": "2026-09-23T12:29:35.913Z"
+  "rev": 3116,
+  "savedAt": "2026-09-23T12:39:57.562Z"
 }
