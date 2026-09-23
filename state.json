@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-23T14:15:56.844Z",
+  "pushedAt": "2026-09-23T14:16:03.056Z",
   "todosCount": 510,
   "todos": [
     {
@@ -11105,7 +11105,7 @@
       "outlookLinkedName": "M/B VEGA UNO - Guarnizione collettore scarico Doosan 4V158TI",
       "vessel": "vegauno",
       "action": "Altro",
-      "dueDate": "2026-09-23",
+      "dueDate": "2026-09-24",
       "note": "GLS BA662806182",
       "createdAt": "2026-09-21T15:26:12.5824558Z",
       "done": false,
@@ -11113,7 +11113,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-23T14:15:53.421Z"
+      "updatedAt": "2026-09-23T14:15:59.645Z"
     },
     {
       "category": "Altro",
@@ -34752,7 +34752,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-23T14:15:56.844Z",
+    "todos": "2026-09-23T14:16:03.056Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -34776,6 +34776,6 @@
     "rfqChases": "2026-09-23T09:12:23.501Z",
     "rfqVendors": "2026-09-23T10:13:40.695Z"
   },
-  "rev": 3122,
-  "savedAt": "2026-09-23T14:15:56.845Z"
+  "rev": 3123,
+  "savedAt": "2026-09-23T14:16:03.056Z"
 }
