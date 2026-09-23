@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-23T09:27:23.041Z",
+  "pushedAt": "2026-09-23T09:27:28.239Z",
   "todosCount": 508,
   "todos": [
     {
@@ -11307,8 +11307,10 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAJeFgLjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: DECKHOUSE: MED TOSCANA-H0088241// Delivery Tickets",
-      "done": false,
-      "createdAt": "2026-08-05T15:20:17.361Z"
+      "done": true,
+      "createdAt": "2026-08-05T15:20:17.361Z",
+      "doneAt": "2026-09-23T09:27:24.806Z",
+      "updatedAt": "2026-09-23T09:27:24.806Z"
     },
     {
       "category": "Ufficio",
@@ -34618,6 +34620,6 @@
     "rfqChases": "2026-09-23T09:12:23.501Z",
     "rfqVendors": "2026-09-23T09:22:30.812Z"
   },
-  "rev": 3098,
-  "savedAt": "2026-09-23T09:27:23.042Z"
+  "rev": 3099,
+  "savedAt": "2026-09-23T09:27:28.240Z"
 }
