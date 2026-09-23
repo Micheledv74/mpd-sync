@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-23T11:05:06.019Z",
+  "pushedAt": "2026-09-23T12:29:11.126Z",
   "todosCount": 510,
   "todos": [
     {
-      "id": "td_1790155639624_kdkee",
       "category": "Nave",
       "priority": "alta",
-      "vessel": "peppino",
-      "action": "Controllare",
       "reference": "Certificati",
       "tags": [],
+      "id": "td_1790155639624_kdkee",
+      "vessel": "peppino",
+      "action": "Controllare",
       "dueDate": "2026-10-02",
       "note": "",
       "recur": {
@@ -24,13 +24,13 @@
       "updatedAt": "2026-09-23T09:27:19.624Z"
     },
     {
-      "id": "td_1790155636360_ptweu",
       "category": "Nave",
       "priority": "alta",
-      "vessel": "peppino",
-      "action": "Controllare",
       "reference": "Certificati",
       "tags": [],
+      "id": "td_1790155636360_ptweu",
+      "vessel": "peppino",
+      "action": "Controllare",
       "dueDate": "2026-09-28",
       "note": "",
       "recur": {
@@ -43,13 +43,13 @@
       "updatedAt": "2026-09-23T09:27:16.360Z"
     },
     {
-      "id": "td_1790155635575_dkyye",
       "category": "Nave",
       "priority": "alta",
-      "vessel": "peppino",
-      "action": "Controllare",
       "reference": "Certificati",
       "tags": [],
+      "id": "td_1790155635575_dkyye",
+      "vessel": "peppino",
+      "action": "Controllare",
       "dueDate": "2026-09-17",
       "note": "",
       "recur": {
@@ -63,13 +63,13 @@
       "doneAt": "2026-09-23T09:27:19.621Z"
     },
     {
-      "id": "td_1790155634765_yw65r",
       "category": "Nave",
       "priority": "alta",
-      "vessel": "peppino",
-      "action": "Controllare",
       "reference": "Certificati",
       "tags": [],
+      "id": "td_1790155634765_yw65r",
+      "vessel": "peppino",
+      "action": "Controllare",
       "dueDate": "2026-09-13",
       "note": "",
       "recur": {
@@ -83,13 +83,13 @@
       "doneAt": "2026-09-23T09:27:16.357Z"
     },
     {
-      "id": "td_1790155633959_7l9kj",
       "category": "Nave",
       "priority": "alta",
-      "vessel": "peppino",
-      "action": "Controllare",
       "reference": "Certificati",
       "tags": [],
+      "id": "td_1790155633959_7l9kj",
+      "vessel": "peppino",
+      "action": "Controllare",
       "dueDate": "2026-09-02",
       "note": "",
       "recur": {
@@ -103,13 +103,13 @@
       "doneAt": "2026-09-23T09:27:15.573Z"
     },
     {
-      "id": "td_1790155632568_ks8v2",
       "category": "Nave",
       "priority": "alta",
-      "vessel": "peppino",
-      "action": "Controllare",
       "reference": "Certificati",
       "tags": [],
+      "id": "td_1790155632568_ks8v2",
+      "vessel": "peppino",
+      "action": "Controllare",
       "dueDate": "2026-08-29",
       "note": "",
       "recur": {
@@ -11547,20 +11547,20 @@
       "updatedAt": "2026-08-11T08:07:04.278Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V ATLAS -(EX NAME NORRBOTTEN )- Request for Outstanding Invoice and Payment Status / MYTHMAR-26.7523 & 26.7524 & 26.7525 & 26.7526 & 26.7527 & 26.7528 & 26.7529 & 26.7530 )",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJ-nfz5AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ-nfz5AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3NsAABYWF9qc37UTpbqyo%2B4NVKtAAJ%2FntvxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V ATLAS -(EX NAME NORRBOTTEN )- Request for Outstanding Invoice and Payment Status / MYTHMAR-26.7523 & 26.7524 & 26.7525 & 26.7526 & 26.7527 & 26.7528 & 26.7529 & 26.7530 )",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "M/V ATLAS -(EX NAME NORRBOTTEN )- Request for Outstanding Invoice and Payment Status / MYTHMAR-26.7523 & 26.7524 & 26.7525 & 26.7526 & 26.7527 & 26.7528 & 26.7529 & 26.7530 )",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "",
       "note": "",
       "createdAt": "2026-09-23T09:45:21.6252775Z",
@@ -11569,20 +11569,20 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/B VEGA UNO - Visita di Ispezione della Stazione Radio GMDSS",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAJ-nfz4AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ-nfz4AAA=",
       "outlookListId": "",
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9coAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: M/B VEGA UNO - Visita di Ispezione della Stazione Radio GMDSS",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "vegauno",
       "action": "Altro",
-      "reference": "M/B VEGA UNO - Visita di Ispezione della Stazione Radio GMDSS",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "",
       "note": "",
       "createdAt": "2026-09-23T09:38:06.6864742Z",
@@ -34674,7 +34674,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-23T10:32:58.491Z",
+    "todos": "2026-09-23T12:29:11.126Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -34698,6 +34698,6 @@
     "rfqChases": "2026-09-23T09:12:23.501Z",
     "rfqVendors": "2026-09-23T10:13:40.695Z"
   },
-  "rev": 3113,
-  "savedAt": "2026-09-23T11:05:06.019Z"
+  "rev": 3114,
+  "savedAt": "2026-09-23T12:29:11.126Z"
 }
