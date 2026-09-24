@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-24T10:51:58.565Z",
-  "todosCount": 513,
+  "pushedAt": "2026-09-24T10:52:09.211Z",
+  "todosCount": 514,
   "todos": [
     {
       "category": "Nave",
@@ -11655,6 +11655,28 @@
       "dueDate": "",
       "note": "",
       "createdAt": "2026-09-23T15:02:44.4516046Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKAS8xGAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKAS8xGAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAIG%2B3QtAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9%2BWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "R: M/B VEGA UNO - Visita di Ispezione della Stazione Radio GMDSS",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "vegauno",
+      "action": "Altro",
+      "reference": "M/B VEGA UNO - Visita di Ispezione della Stazione Radio GMDSS",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-01",
+      "note": "",
+      "createdAt": "2026-09-24T09:23:25.3523936Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -34900,7 +34922,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-24T07:53:26.006Z",
+    "todos": "2026-09-24T10:52:09.211Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T07:54:28.443Z",
@@ -34924,6 +34946,6 @@
     "rfqChases": "2026-09-23T15:10:45.587Z",
     "rfqVendors": "2026-09-23T10:13:40.695Z"
   },
-  "rev": 3137,
-  "savedAt": "2026-09-24T10:51:58.566Z"
+  "rev": 3138,
+  "savedAt": "2026-09-24T10:52:09.211Z"
 }
