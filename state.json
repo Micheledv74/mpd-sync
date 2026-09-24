@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-24T19:41:23.804Z",
+  "pushedAt": "2026-09-24T19:41:41.922Z",
   "todosCount": 517,
   "todos": [
     {
@@ -31806,25 +31806,31 @@
         "eta": "2026-09-24",
         "events": [
           {
+            "ts": "2026-09-24T16:28",
+            "place": "DOH(Doha)",
+            "text": "RCF · Received in DOH",
+            "code": "transit"
+          },
+          {
             "ts": "2026-09-24T11:04",
             "place": "DOH(Doha)",
-            "text": "ARR · Arrivato al DOH il QR 8214/24-settembre-2026 (QR8214)",
+            "text": "ARR · Arrived in DOH on QR 8214/24-Sep-2026 (QR8214)",
             "code": "transit"
           },
           {
             "ts": "2026-09-24T03:55",
             "place": "MXP(Milan)",
-            "text": "DEP · Partenza da MXP il QR8214/24-settembre-2026 (QR8214)",
+            "text": "DEP · Departed from MXP on QR8214/24-Sep-2026 (QR8214)",
             "code": "transit"
           },
           {
             "ts": "2026-09-22T07:12",
             "place": "MXP(Milan)",
-            "text": "RCS · Ricevuto dallo spedizioniere in MXP",
+            "text": "RCS · Received from shipper in MXP",
             "code": "info"
           }
         ],
-        "updatedAt": "2026-09-24T13:03:47.859Z",
+        "updatedAt": "2026-09-24T19:41:38.486Z",
         "source": "17track-manual"
       }
     ],
@@ -35177,12 +35183,12 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-15T09:04:12.962Z",
     "repliesDismissed": "2026-09-22T19:33:38.236Z",
-    "shipments": "2026-09-24T13:04:21.442Z",
+    "shipments": "2026-09-24T19:41:41.922Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
     "rfqChases": "2026-09-24T12:40:31.257Z",
     "rfqVendors": "2026-09-24T12:44:31.949Z"
   },
-  "rev": 3185,
-  "savedAt": "2026-09-24T19:41:23.804Z"
+  "rev": 3186,
+  "savedAt": "2026-09-24T19:41:41.923Z"
 }
