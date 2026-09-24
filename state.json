@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-24T12:36:38.577Z",
+  "pushedAt": "2026-09-24T12:37:53.282Z",
   "todosCount": 514,
   "todos": [
     {
@@ -32182,6 +32182,24 @@
       "supplier": "HANIL fuji CO., LTDSupply Service Division",
       "description": "SPA Req. Accommodation Air Condition - USDN40H",
       "updatedAt": "2026-09-24T11:57:30.776Z"
+    },
+    "2026-PEP-HQRQ-00243": {
+      "entries": [
+        {
+          "id": "ch_mufioxmp3hs",
+          "ts": "2026-09-24T12:37:49.249Z",
+          "level": 1,
+          "lang": "en",
+          "to": "lgmarine@lgmarineservices.com",
+          "subject": "M/V PEPPINO - Quotation reminder – RFQ 2026-PEP-HQRQ-00243",
+          "channel": "email"
+        }
+      ],
+      "rfqNumber": "2026-PEP-HQRQ-00243",
+      "vesselId": "peppino",
+      "supplier": "LG Marine Services(HK) Co.,Limited",
+      "description": "G/E COOLING WATER EXPANSION JOINT",
+      "updatedAt": "2026-09-24T12:37:49.249Z"
     }
   },
   "rfqVendors": {
@@ -34983,9 +35001,9 @@
     "shipments": "2026-09-23T12:40:31.678Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
-    "rfqChases": "2026-09-23T15:10:45.587Z",
+    "rfqChases": "2026-09-24T12:37:53.282Z",
     "rfqVendors": "2026-09-24T12:36:28.751Z"
   },
-  "rev": 3146,
-  "savedAt": "2026-09-24T12:36:38.577Z"
+  "rev": 3147,
+  "savedAt": "2026-09-24T12:37:53.284Z"
 }
