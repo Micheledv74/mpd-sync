@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-24T12:40:31.257Z",
+  "pushedAt": "2026-09-24T12:41:28.810Z",
   "todosCount": 514,
   "todos": [
     {
@@ -11905,6 +11905,10 @@
     "overdue:med toscana::me jw cooler; maker: the leader heat exchanger; model: ht121m1p27": {
       "archivedAt": "2026-09-24T07:54:25.057Z",
       "lastSeenStatus": "3/5 offerte"
+    },
+    "overdue:med toscana::emergency diesel generator tacho sensor": {
+      "archivedAt": "2026-09-24T12:41:25.402Z",
+      "lastSeenStatus": "In attesa"
     }
   },
   "completionsHistory": [
@@ -13544,6 +13548,15 @@
       "vesselName": "MED TOSCANA",
       "description": "ME J.W. Cooler;  Maker: The Leader Heat Exchanger;  Model: HT121M-1P-27",
       "supplier": "YH MARINE TRADE CO.,LTD",
+      "level": "warning"
+    },
+    {
+      "key": "overdue:med toscana::emergency diesel generator tacho sensor",
+      "label": "In attesa · 43g",
+      "completedAt": "2026-09-24T12:41:25.402Z",
+      "vesselName": "MED TOSCANA",
+      "description": "Emergency Diesel Generator, Tacho Sensor",
+      "supplier": "RK MARINE SERVICE",
       "level": "warning"
     }
   ],
@@ -35001,8 +35014,8 @@
     "todos": "2026-09-24T10:52:20.689Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
-    "archivedActions": "2026-09-24T07:54:28.443Z",
-    "completionsHistory": "2026-09-24T07:54:28.443Z",
+    "archivedActions": "2026-09-24T12:41:28.810Z",
+    "completionsHistory": "2026-09-24T12:41:28.810Z",
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
@@ -35022,6 +35035,6 @@
     "rfqChases": "2026-09-24T12:40:31.257Z",
     "rfqVendors": "2026-09-24T12:36:28.751Z"
   },
-  "rev": 3148,
-  "savedAt": "2026-09-24T12:40:31.258Z"
+  "rev": 3149,
+  "savedAt": "2026-09-24T12:41:28.811Z"
 }
