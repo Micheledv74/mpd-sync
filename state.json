@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-24T12:41:42.369Z",
+  "pushedAt": "2026-09-24T12:41:47.146Z",
   "todosCount": 514,
   "todos": [
     {
@@ -11907,8 +11907,8 @@
       "lastSeenStatus": "3/5 offerte"
     },
     "overdue:med toscana::emergency diesel generator tacho sensor": {
-      "archivedAt": "2026-09-24T12:41:38.952Z",
-      "lastSeenStatus": "In attesa"
+      "archivedAt": "2026-09-24T12:41:43.736Z",
+      "lastSeenStatus": "1/2 offerte"
     }
   },
   "completionsHistory": [
@@ -13575,6 +13575,15 @@
       "vesselName": "MED TOSCANA",
       "description": "Emergency Diesel Generator, Tacho Sensor",
       "supplier": "RK MARINE SERVICE",
+      "level": "warning"
+    },
+    {
+      "key": "overdue:med toscana::emergency diesel generator tacho sensor",
+      "label": "1/2 offerte · 23g",
+      "completedAt": "2026-09-24T12:41:43.736Z",
+      "vesselName": "MED TOSCANA",
+      "description": "Emergency Diesel Generator, Tacho Sensor",
+      "supplier": "FORTUNE MARITIME",
       "level": "warning"
     }
   ],
@@ -35053,6 +35062,6 @@
     "rfqChases": "2026-09-24T12:40:31.257Z",
     "rfqVendors": "2026-09-24T12:36:28.751Z"
   },
-  "rev": 3151,
-  "savedAt": "2026-09-24T12:41:42.369Z"
+  "rev": 3152,
+  "savedAt": "2026-09-24T12:41:47.146Z"
 }
