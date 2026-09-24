@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-24T11:57:34.365Z",
+  "pushedAt": "2026-09-24T12:27:54.625Z",
   "todosCount": 514,
   "todos": [
     {
@@ -24261,17 +24261,28 @@
     "medliguria": {
       "status": "at_sea",
       "current": {
-        "etd": "",
         "id": "vmucc5zy51fxj",
         "from": "SINGAPORE",
         "to": "TANGA",
+        "etd": "",
         "etb": "",
         "eta": "2026-10-07T12:00",
+        "agency": {
+          "name": "SEAFORTH GENERAL AGENCIES LTD",
+          "contacts": "Skyways Building, 1st Floor, Junction of Ohio Street & Sokoine Drive, \nP.O. BOX 9313, Dar Es Salaam, Tanzania\nTel: +255-22-2139109 (3 lines)\nMobile: +255-714-633158\ndocumentation@seaforth.co.tz"
+        }
+      },
+      "next": {
+        "id": "",
+        "from": "",
+        "to": "",
+        "etb": "",
+        "eta": "",
+        "etd": "",
         "agency": null
       },
-      "next": {},
       "notes": "POL: Yangzhou, China - Lianyungang, China - Singapore (intended bunker port)\nPOD: Tanga, Tanzania - Vila do Conde, Brazil",
-      "updatedAt": "2026-09-24T07:03:00.466Z",
+      "updatedAt": "2026-09-24T12:27:51.192Z",
       "fromNoon": "2026-09-23",
       "history": [
         {
@@ -34957,7 +34968,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-09-24T07:03:03.877Z",
+    "voyages": "2026-09-24T12:27:54.625Z",
     "outlookCompletionQueue": "2026-09-24T10:52:20.689Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-22T08:04:07.555Z",
@@ -34973,6 +34984,6 @@
     "rfqChases": "2026-09-23T15:10:45.587Z",
     "rfqVendors": "2026-09-24T11:57:30.650Z"
   },
-  "rev": 3141,
-  "savedAt": "2026-09-24T11:57:34.365Z"
+  "rev": 3142,
+  "savedAt": "2026-09-24T12:27:54.625Z"
 }
