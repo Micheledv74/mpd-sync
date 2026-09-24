@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-24T11:57:30.652Z",
+  "pushedAt": "2026-09-24T11:57:34.365Z",
   "todosCount": 514,
   "todos": [
     {
@@ -32153,6 +32153,24 @@
       "supplier": "Dongjin Intec Co., Ltd.",
       "description": "Incinerator; Maker: Team Tec; Model: OG 200 C",
       "updatedAt": "2026-09-23T15:10:41.193Z"
+    },
+    "2026-PEP-HQRQ-00241": {
+      "entries": [
+        {
+          "id": "ch_mufh93iwj63",
+          "ts": "2026-09-24T11:57:30.776Z",
+          "level": 1,
+          "lang": "en",
+          "to": "",
+          "subject": "M/V PEPPINO - Quotation reminder – RFQ 2026-PEP-HQRQ-00241",
+          "channel": "email"
+        }
+      ],
+      "rfqNumber": "2026-PEP-HQRQ-00241",
+      "vesselId": "peppino",
+      "supplier": "HANIL fuji CO., LTDSupply Service Division",
+      "description": "SPA Req. Accommodation Air Condition - USDN40H",
+      "updatedAt": "2026-09-24T11:57:30.776Z"
     }
   },
   "rfqVendors": {
@@ -34955,6 +34973,6 @@
     "rfqChases": "2026-09-23T15:10:45.587Z",
     "rfqVendors": "2026-09-24T11:57:30.650Z"
   },
-  "rev": 3140,
-  "savedAt": "2026-09-24T11:57:30.652Z"
+  "rev": 3141,
+  "savedAt": "2026-09-24T11:57:34.365Z"
 }
