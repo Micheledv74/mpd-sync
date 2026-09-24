@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-24T12:36:28.751Z",
+  "pushedAt": "2026-09-24T12:36:34.637Z",
   "todosCount": 514,
   "todos": [
     {
@@ -32927,11 +32927,11 @@
       "issuedAt": "2026-08-18",
       "deadline": "2026-09-02",
       "importedAt": "2026-09-23T08:58:32.033Z",
-      "updatedAt": "2026-09-24T12:36:25.338Z",
+      "updatedAt": "2026-09-24T12:36:31.218Z",
       "supplier": "LG Marine Services(HK) Co.,Limited",
       "email": "lgmarine@lgmarineservices.com",
-      "answered": true,
-      "answeredAt": "2026-09-24T12:36:25.338Z"
+      "answered": false,
+      "answeredAt": ""
     },
     "2026-PEP-HQRQ-00227": {
       "source": "infoship",
@@ -34986,6 +34986,6 @@
     "rfqChases": "2026-09-23T15:10:45.587Z",
     "rfqVendors": "2026-09-24T12:36:28.751Z"
   },
-  "rev": 3144,
-  "savedAt": "2026-09-24T12:36:28.752Z"
+  "rev": 3145,
+  "savedAt": "2026-09-24T12:36:34.637Z"
 }
