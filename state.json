@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-24T10:52:22.232Z",
+  "pushedAt": "2026-09-24T11:57:30.652Z",
   "todosCount": 514,
   "todos": [
     {
@@ -32788,9 +32788,11 @@
       "issuedAt": "2026-08-18",
       "deadline": "2026-09-02",
       "importedAt": "2026-09-23T08:58:32.033Z",
-      "updatedAt": "2026-09-23T08:58:32.033Z",
+      "updatedAt": "2026-09-24T11:57:27.228Z",
       "supplier": "DUBHE CO., LTD.",
-      "email": "service@dubheco.com"
+      "email": "service@dubheco.com",
+      "answered": true,
+      "answeredAt": "2026-09-24T11:57:27.226Z"
     },
     "2026-PEP-HQRQ-00236": {
       "source": "infoship",
@@ -34951,8 +34953,8 @@
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
     "rfqChases": "2026-09-23T15:10:45.587Z",
-    "rfqVendors": "2026-09-23T10:13:40.695Z"
+    "rfqVendors": "2026-09-24T11:57:30.650Z"
   },
-  "rev": 3139,
-  "savedAt": "2026-09-24T10:52:22.234Z"
+  "rev": 3140,
+  "savedAt": "2026-09-24T11:57:30.652Z"
 }
