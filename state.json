@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-25T11:35:41.405Z",
+  "pushedAt": "2026-09-25T11:35:56.797Z",
   "todosCount": 520,
   "todos": [
     {
@@ -8889,7 +8889,8 @@
       "done": true,
       "doneAt": "2026-08-28T07:33:47.643Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-28T07:33:47.644Z"
+      "updatedAt": "2026-08-28T07:33:47.644Z",
+      "outlookFlagDate": "2026-08-27"
     },
     {
       "category": "Nave",
@@ -8912,7 +8913,8 @@
       "done": true,
       "doneAt": "2026-08-28T07:33:04.027Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-28T07:33:04.027Z"
+      "updatedAt": "2026-08-28T07:33:04.027Z",
+      "outlookFlagDate": "2026-08-26"
     },
     {
       "category": "Nave",
@@ -8937,7 +8939,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-28T12:57:53.433Z"
+      "updatedAt": "2026-08-28T12:57:53.433Z",
+      "outlookFlagDate": "2026-08-26"
     },
     {
       "category": "Nave",
@@ -8962,7 +8965,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-08T12:09:36.682Z"
+      "updatedAt": "2026-09-08T12:09:36.682Z",
+      "outlookFlagDate": "2026-08-27"
     },
     {
       "category": "Nave",
@@ -8985,7 +8989,8 @@
       "done": true,
       "doneAt": "2026-08-28T07:34:35.828Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-28T07:34:35.828Z"
+      "updatedAt": "2026-08-28T07:34:35.828Z",
+      "outlookFlagDate": "2026-08-27"
     },
     {
       "category": "Nave",
@@ -9009,7 +9014,8 @@
       "done": true,
       "doneAt": "2026-08-28T07:26:34.589Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-28T07:26:34.589Z"
+      "updatedAt": "2026-08-28T07:26:34.589Z",
+      "outlookFlagDate": "2026-08-25"
     },
     {
       "category": "Nave",
@@ -9031,7 +9037,8 @@
       "createdAt": "2026-08-26T12:34:53.3280863Z",
       "done": true,
       "doneAt": "2026-08-27T07:11:56.1604644Z",
-      "outlookStatus": "completed"
+      "outlookStatus": "completed",
+      "outlookFlagDate": "2026-08-26"
     },
     {
       "category": "Nave",
@@ -9057,7 +9064,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-28T15:13:19.957Z"
+      "updatedAt": "2026-08-28T15:13:19.957Z",
+      "outlookFlagDate": "2026-08-27"
     },
     {
       "category": "Nave",
@@ -9082,7 +9090,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-31T09:35:38.334Z"
+      "updatedAt": "2026-08-31T09:35:38.334Z",
+      "outlookFlagDate": "2026-08-27"
     },
     {
       "category": "Nave",
@@ -9105,7 +9114,8 @@
       "done": true,
       "doneAt": "2026-08-28T15:12:54.692Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-28T15:12:54.693Z"
+      "updatedAt": "2026-08-28T15:12:54.693Z",
+      "outlookFlagDate": "2026-08-28"
     },
     {
       "category": "Nave",
@@ -9130,7 +9140,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-08-31T09:55:24.912Z"
+      "updatedAt": "2026-08-31T09:55:24.912Z",
+      "outlookFlagDate": "2026-08-28"
     },
     {
       "category": "Nave",
@@ -9209,7 +9220,8 @@
       "done": true,
       "doneAt": "2026-08-31T09:55:49.881Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-31T09:55:49.881Z"
+      "updatedAt": "2026-08-31T09:55:49.881Z",
+      "outlookFlagDate": "2026-08-31"
     },
     {
       "category": "Nave",
@@ -9235,7 +9247,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-02T12:17:36.250Z"
+      "updatedAt": "2026-09-02T12:17:36.250Z",
+      "outlookFlagDate": "2026-08-29"
     },
     {
       "category": "Altro",
@@ -9260,7 +9273,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-01T13:42:59.198Z"
+      "updatedAt": "2026-09-01T13:42:59.198Z",
+      "outlookFlagDate": "2026-08-28"
     },
     {
       "category": "Nave",
@@ -9283,7 +9297,8 @@
       "done": true,
       "doneAt": "2026-08-31T12:20:57.719Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-08-31T12:20:57.719Z"
+      "updatedAt": "2026-08-31T12:20:57.719Z",
+      "outlookFlagDate": "2026-08-31"
     },
     {
       "category": "Nave",
@@ -9306,7 +9321,8 @@
       "done": true,
       "doneAt": "2026-09-01T09:04:42.954Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-01T09:04:42.955Z"
+      "updatedAt": "2026-09-01T09:04:42.955Z",
+      "outlookFlagDate": "2026-08-31"
     },
     {
       "category": "Nave",
@@ -9330,7 +9346,8 @@
       "done": true,
       "doneAt": "2026-09-01T09:05:00.027Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-01T09:05:00.028Z"
+      "updatedAt": "2026-09-01T09:05:00.028Z",
+      "outlookFlagDate": "2026-08-31"
     },
     {
       "category": "Nave",
@@ -9355,7 +9372,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-23T09:34:29.181Z"
+      "updatedAt": "2026-09-23T09:34:29.181Z",
+      "outlookFlagDate": "2026-08-31"
     },
     {
       "category": "Nave",
@@ -9381,7 +9399,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-18T10:05:17.251Z"
+      "updatedAt": "2026-09-18T10:05:17.251Z",
+      "outlookFlagDate": "2026-09-15"
     },
     {
       "category": "Nave",
@@ -9406,7 +9425,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-01T14:01:51.109Z"
+      "updatedAt": "2026-09-01T14:01:51.109Z",
+      "outlookFlagDate": "2026-08-31"
     },
     {
       "category": "Nave",
@@ -9431,7 +9451,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-04T10:41:05.544Z"
+      "updatedAt": "2026-09-04T10:41:05.544Z",
+      "outlookFlagDate": "2026-09-01"
     },
     {
       "category": "Nave",
@@ -9456,7 +9477,8 @@
       "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-03T10:47:51.383Z"
+      "updatedAt": "2026-09-03T10:47:51.383Z",
+      "outlookFlagDate": "2026-09-02"
     },
     {
       "category": "Nave",
@@ -9481,7 +9503,8 @@
       "outlookStatus": "notStarted",
       "updatedAt": "2026-09-03T10:35:31.837Z",
       "kind": "todo",
-      "recur": null
+      "recur": null,
+      "outlookFlagDate": "2026-09-02"
     },
     {
       "category": "Nave",
@@ -9506,7 +9529,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-08T12:09:39.890Z"
+      "updatedAt": "2026-09-08T12:09:39.890Z",
+      "outlookFlagDate": "2026-09-02"
     },
     {
       "category": "Nave",
@@ -9531,7 +9555,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-08T12:22:09.519Z"
+      "updatedAt": "2026-09-08T12:22:09.519Z",
+      "outlookFlagDate": "2026-09-02"
     },
     {
       "category": "Nave",
@@ -9553,7 +9578,8 @@
       "createdAt": "2026-09-03T07:54:46.7155286Z",
       "done": true,
       "doneAt": "2026-09-03T10:35:48.9060453Z",
-      "outlookStatus": "completed"
+      "outlookStatus": "completed",
+      "outlookFlagDate": "2026-09-02"
     },
     {
       "category": "Nave",
@@ -9578,7 +9604,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-08T12:22:21.398Z"
+      "updatedAt": "2026-09-08T12:22:21.398Z",
+      "outlookFlagDate": "2026-09-03"
     },
     {
       "category": "Nave",
@@ -9601,7 +9628,8 @@
       "createdAt": "2026-09-03T07:14:50.641864Z",
       "done": true,
       "doneAt": "2026-09-03T07:22:08.3951885Z",
-      "outlookStatus": "completed"
+      "outlookStatus": "completed",
+      "outlookFlagDate": "2026-09-03"
     },
     {
       "category": "Nave",
@@ -9626,7 +9654,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-11T09:05:49.589Z"
+      "updatedAt": "2026-09-11T09:05:49.589Z",
+      "outlookFlagDate": "2026-09-03"
     },
     {
       "category": "Nave",
@@ -9651,7 +9680,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-07T14:12:18.745Z"
+      "updatedAt": "2026-09-07T14:12:18.745Z",
+      "outlookFlagDate": "2026-09-03"
     },
     {
       "category": "Altro",
@@ -9676,7 +9706,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-09T11:02:22.275Z"
+      "updatedAt": "2026-09-09T11:02:22.275Z",
+      "outlookFlagDate": "2026-09-03"
     },
     {
       "category": "Nave",
@@ -9701,7 +9732,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-08T12:22:44.216Z"
+      "updatedAt": "2026-09-08T12:22:44.216Z",
+      "outlookFlagDate": "2026-09-03"
     },
     {
       "category": "Altro",
@@ -9724,7 +9756,8 @@
       "done": true,
       "doneAt": "2026-09-03T13:52:13.433Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-03T13:52:13.433Z"
+      "updatedAt": "2026-09-03T13:52:13.433Z",
+      "outlookFlagDate": "2026-09-03"
     },
     {
       "category": "Altro",
@@ -9747,7 +9780,8 @@
       "done": true,
       "doneAt": "2026-09-03T13:52:11.745Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-03T13:52:11.746Z"
+      "updatedAt": "2026-09-03T13:52:11.746Z",
+      "outlookFlagDate": "2026-09-03"
     },
     {
       "category": "Ufficio",
@@ -9772,7 +9806,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-07T14:12:39.050Z"
+      "updatedAt": "2026-09-07T14:12:39.050Z",
+      "outlookFlagDate": "2026-09-03"
     },
     {
       "category": "Nave",
@@ -9797,7 +9832,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-09T11:02:35.653Z"
+      "updatedAt": "2026-09-09T11:02:35.653Z",
+      "outlookFlagDate": "2026-09-03"
     },
     {
       "category": "Nave",
@@ -9822,7 +9858,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-08T12:22:53.080Z"
+      "updatedAt": "2026-09-08T12:22:53.080Z",
+      "outlookFlagDate": "2026-09-04"
     },
     {
       "category": "Nave",
@@ -9845,7 +9882,8 @@
       "done": true,
       "doneAt": "2026-09-04T09:36:41.731Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-04T09:36:41.732Z"
+      "updatedAt": "2026-09-04T09:36:41.732Z",
+      "outlookFlagDate": "2026-09-03"
     },
     {
       "category": "Nave",
@@ -9870,7 +9908,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-11T09:05:59.596Z"
+      "updatedAt": "2026-09-11T09:05:59.596Z",
+      "outlookFlagDate": "2026-09-06"
     },
     {
       "category": "Nave",
@@ -9893,7 +9932,8 @@
       "done": true,
       "doneAt": "2026-09-04T09:40:38.937Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-04T09:40:38.937Z"
+      "updatedAt": "2026-09-04T09:40:38.937Z",
+      "outlookFlagDate": "2026-09-04"
     },
     {
       "category": "Nave",
@@ -9916,7 +9956,8 @@
       "done": true,
       "doneAt": "2026-09-04T14:49:50.817Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-04T14:49:50.818Z"
+      "updatedAt": "2026-09-04T14:49:50.818Z",
+      "outlookFlagDate": "2026-09-04"
     },
     {
       "category": "Nave",
@@ -9941,7 +9982,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-08T08:43:18.561Z"
+      "updatedAt": "2026-09-08T08:43:18.561Z",
+      "outlookFlagDate": "2026-09-04"
     },
     {
       "category": "Altro",
@@ -9966,7 +10008,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-23T09:34:38.623Z"
+      "updatedAt": "2026-09-23T09:34:38.623Z",
+      "outlookFlagDate": "2026-09-05"
     },
     {
       "category": "Altro",
@@ -9989,7 +10032,8 @@
       "done": true,
       "doneAt": "2026-09-07T07:42:59.801Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-07T07:42:59.801Z"
+      "updatedAt": "2026-09-07T07:42:59.801Z",
+      "outlookFlagDate": "2026-09-04"
     },
     {
       "category": "Altro",
@@ -10014,7 +10058,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-23T09:40:29.274Z"
+      "updatedAt": "2026-09-23T09:40:29.274Z",
+      "outlookFlagDate": "2026-09-01"
     },
     {
       "category": "Nave",
@@ -10057,7 +10102,8 @@
       "done": true,
       "doneAt": "2026-09-09T10:59:11.161Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-09T10:59:11.161Z"
+      "updatedAt": "2026-09-09T10:59:11.161Z",
+      "outlookFlagDate": "2026-09-08"
     },
     {
       "category": "Nave",
@@ -10082,7 +10128,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-23T09:40:56.779Z"
+      "updatedAt": "2026-09-23T09:40:56.779Z",
+      "outlookFlagDate": "2026-09-08"
     },
     {
       "category": "Nave",
@@ -10105,7 +10152,8 @@
       "done": true,
       "doneAt": "2026-09-09T10:58:30.392Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-09T10:58:30.392Z"
+      "updatedAt": "2026-09-09T10:58:30.392Z",
+      "outlookFlagDate": "2026-09-07"
     },
     {
       "category": "Altro",
@@ -10130,7 +10178,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-14T09:34:49.512Z"
+      "updatedAt": "2026-09-14T09:34:49.512Z",
+      "outlookFlagDate": "2026-09-08"
     },
     {
       "category": "Nave",
@@ -10153,7 +10202,8 @@
       "done": true,
       "doneAt": "2026-09-09T11:00:24.841Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-09T11:00:24.841Z"
+      "updatedAt": "2026-09-09T11:00:24.841Z",
+      "outlookFlagDate": "2026-09-08"
     },
     {
       "category": "Altro",
@@ -10178,7 +10228,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-10T09:36:16.167Z"
+      "updatedAt": "2026-09-10T09:36:16.167Z",
+      "outlookFlagDate": "2026-09-08"
     },
     {
       "category": "Altro",
@@ -10201,7 +10252,8 @@
       "done": true,
       "doneAt": "2026-09-09T10:58:34.641Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-09T10:58:34.641Z"
+      "updatedAt": "2026-09-09T10:58:34.641Z",
+      "outlookFlagDate": "2026-09-07"
     },
     {
       "category": "Nave",
@@ -10226,7 +10278,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-11T09:19:11.467Z"
+      "updatedAt": "2026-09-11T09:19:11.467Z",
+      "outlookFlagDate": "2026-09-08"
     },
     {
       "category": "Altro",
@@ -10251,7 +10304,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-14T09:34:51.664Z"
+      "updatedAt": "2026-09-14T09:34:51.664Z",
+      "outlookFlagDate": "2026-09-08"
     },
     {
       "category": "Altro",
@@ -10276,7 +10330,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-22T11:05:00.955Z"
+      "updatedAt": "2026-09-22T11:05:00.955Z",
+      "outlookFlagDate": "2026-09-11"
     },
     {
       "category": "Nave",
@@ -10301,7 +10356,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-16T13:09:12.823Z"
+      "updatedAt": "2026-09-16T13:09:12.823Z",
+      "outlookFlagDate": "2026-09-11"
     },
     {
       "category": "Altro",
@@ -10326,7 +10382,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-23T09:41:21.037Z"
+      "updatedAt": "2026-09-23T09:41:21.037Z",
+      "outlookFlagDate": "2026-09-11"
     },
     {
       "category": "Nave",
@@ -10351,7 +10408,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-14T09:39:11.063Z"
+      "updatedAt": "2026-09-14T09:39:11.063Z",
+      "outlookFlagDate": "2026-09-09"
     },
     {
       "category": "Nave",
@@ -10374,7 +10432,8 @@
       "done": true,
       "doneAt": "2026-09-11T13:18:02.591Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-11T13:18:02.591Z"
+      "updatedAt": "2026-09-11T13:18:02.591Z",
+      "outlookFlagDate": "2026-09-09"
     },
     {
       "category": "Altro",
@@ -10399,7 +10458,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-15T09:14:08.474Z"
+      "updatedAt": "2026-09-15T09:14:08.474Z",
+      "outlookFlagDate": "2026-09-10"
     },
     {
       "category": "Nave",
@@ -10424,7 +10484,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-15T13:57:07.159Z"
+      "updatedAt": "2026-09-15T13:57:07.159Z",
+      "outlookFlagDate": "2026-09-11"
     },
     {
       "category": "Nave",
@@ -10447,7 +10508,8 @@
       "done": true,
       "doneAt": "2026-09-11T14:09:52.747Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-11T14:09:52.748Z"
+      "updatedAt": "2026-09-11T14:09:52.748Z",
+      "outlookFlagDate": "2026-09-11"
     },
     {
       "category": "Nave",
@@ -10470,7 +10532,8 @@
       "done": true,
       "doneAt": "2026-09-14T11:15:16.535Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-14T11:15:16.535Z"
+      "updatedAt": "2026-09-14T11:15:16.535Z",
+      "outlookFlagDate": "2026-09-14"
     },
     {
       "category": "Altro",
@@ -10493,7 +10556,8 @@
       "done": true,
       "doneAt": "2026-09-15T09:06:07.202Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-15T09:06:07.203Z"
+      "updatedAt": "2026-09-15T09:06:07.203Z",
+      "outlookFlagDate": "2026-09-14"
     },
     {
       "category": "Nave",
@@ -10518,7 +10582,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-22T09:47:53.223Z"
+      "updatedAt": "2026-09-22T09:47:53.223Z",
+      "outlookFlagDate": "2026-09-15"
     },
     {
       "category": "Nave",
@@ -10543,7 +10608,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-16T13:09:31.182Z"
+      "updatedAt": "2026-09-16T13:09:31.182Z",
+      "outlookFlagDate": "2026-09-13"
     },
     {
       "category": "Altro",
@@ -10568,7 +10634,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-17T12:52:56.485Z"
+      "updatedAt": "2026-09-17T12:52:56.485Z",
+      "outlookFlagDate": "2026-09-15"
     },
     {
       "category": "Nave",
@@ -10593,7 +10660,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-16T15:07:28.823Z"
+      "updatedAt": "2026-09-16T15:07:28.823Z",
+      "outlookFlagDate": "2026-09-15"
     },
     {
       "category": "Nave",
@@ -10618,7 +10686,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-16T15:07:36.316Z"
+      "updatedAt": "2026-09-16T15:07:36.316Z",
+      "outlookFlagDate": "2026-09-15"
     },
     {
       "category": "Altro",
@@ -10643,7 +10712,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-17T07:57:30.098Z"
+      "updatedAt": "2026-09-17T07:57:30.098Z",
+      "outlookFlagDate": "2026-09-14"
     },
     {
       "category": "Nave",
@@ -10666,7 +10736,8 @@
       "done": true,
       "doneAt": "2026-09-24T07:52:34.702Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-24T07:52:34.703Z"
+      "updatedAt": "2026-09-24T07:52:34.703Z",
+      "outlookFlagDate": "2026-09-24"
     },
     {
       "category": "Nave",
@@ -10691,7 +10762,8 @@
       "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-16T15:12:02.477Z"
+      "updatedAt": "2026-09-16T15:12:02.477Z",
+      "outlookFlagDate": "2026-09-16"
     },
     {
       "category": "Nave",
@@ -10716,7 +10788,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-17T12:53:13.934Z"
+      "updatedAt": "2026-09-17T12:53:13.934Z",
+      "outlookFlagDate": "2026-09-15"
     },
     {
       "category": "Altro",
@@ -10741,7 +10814,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-23T09:41:37.419Z"
+      "updatedAt": "2026-09-23T09:41:37.419Z",
+      "outlookFlagDate": "2026-09-16"
     },
     {
       "category": "Nave",
@@ -10766,7 +10840,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-17T07:58:16.417Z"
+      "updatedAt": "2026-09-17T07:58:16.417Z",
+      "outlookFlagDate": "2026-09-17"
     },
     {
       "category": "Nave",
@@ -10791,7 +10866,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-24T07:52:38.534Z"
+      "updatedAt": "2026-09-24T07:52:38.534Z",
+      "outlookFlagDate": "2026-09-17"
     },
     {
       "category": "Nave",
@@ -10817,7 +10893,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-18T10:03:23.249Z"
+      "updatedAt": "2026-09-18T10:03:23.249Z",
+      "outlookFlagDate": "2026-09-17"
     },
     {
       "category": "Infoship",
@@ -10842,7 +10919,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-24T10:52:15.985Z"
+      "updatedAt": "2026-09-24T10:52:15.985Z",
+      "outlookFlagDate": "2026-09-17"
     },
     {
       "category": "Nave",
@@ -10867,7 +10945,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-22T11:01:47.650Z"
+      "updatedAt": "2026-09-22T11:01:47.650Z",
+      "outlookFlagDate": "2026-09-17"
     },
     {
       "category": "Nave",
@@ -10892,7 +10971,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-21T15:28:23.586Z"
+      "updatedAt": "2026-09-21T15:28:23.586Z",
+      "outlookFlagDate": "2026-09-17"
     },
     {
       "category": "Nave",
@@ -10915,7 +10995,8 @@
       "done": true,
       "doneAt": "2026-09-18T08:04:02.501Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-18T08:04:02.501Z"
+      "updatedAt": "2026-09-18T08:04:02.501Z",
+      "outlookFlagDate": "2026-09-17"
     },
     {
       "category": "Nave",
@@ -10938,7 +11019,8 @@
       "done": true,
       "doneAt": "2026-09-18T08:04:03.645Z",
       "outlookStatus": "notStarted",
-      "updatedAt": "2026-09-18T08:04:03.645Z"
+      "updatedAt": "2026-09-18T08:04:03.645Z",
+      "outlookFlagDate": "2026-09-17"
     },
     {
       "category": "Nave",
@@ -10963,7 +11045,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-22T11:03:38.091Z"
+      "updatedAt": "2026-09-22T11:03:38.091Z",
+      "outlookFlagDate": "2026-09-20"
     },
     {
       "category": "Altro",
@@ -10988,7 +11071,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-22T11:02:59.338Z"
+      "updatedAt": "2026-09-22T11:02:59.338Z",
+      "outlookFlagDate": "2026-09-18"
     },
     {
       "category": "Nave",
@@ -11014,7 +11098,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-21T16:55:55.566Z"
+      "updatedAt": "2026-09-21T16:55:55.566Z",
+      "outlookFlagDate": "2026-09-18"
     },
     {
       "category": "Altro",
@@ -11039,7 +11124,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-21T17:04:51.159Z"
+      "updatedAt": "2026-09-21T17:04:51.159Z",
+      "outlookFlagDate": "2026-09-19"
     },
     {
       "category": "Nave",
@@ -11064,7 +11150,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-23T09:43:03.550Z"
+      "updatedAt": "2026-09-23T09:43:03.550Z",
+      "outlookFlagDate": "2026-09-21"
     },
     {
       "category": "Nave",
@@ -11089,7 +11176,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-23T09:27:34.773Z"
+      "updatedAt": "2026-09-23T09:27:34.773Z",
+      "outlookFlagDate": "2026-09-21"
     },
     {
       "category": "Nave",
@@ -11114,7 +11202,8 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-24T14:14:25.863Z"
+      "updatedAt": "2026-09-24T14:14:25.863Z",
+      "outlookFlagDate": "2026-09-21"
     },
     {
       "category": "Altro",
@@ -11136,7 +11225,8 @@
       "createdAt": "2026-09-22T07:46:30.6806992Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-22"
     },
     {
       "category": "Nave",
@@ -11158,7 +11248,8 @@
       "createdAt": "2026-09-22T07:17:28.7569861Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-22"
     },
     {
       "category": "Nave",
@@ -11180,7 +11271,8 @@
       "createdAt": "2026-09-22T07:14:11.3291265Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-22"
     },
     {
       "category": "Nave",
@@ -11203,7 +11295,8 @@
       "createdAt": "2026-09-22T14:41:52.8219487Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-22"
     },
     {
       "category": "Nave",
@@ -11225,7 +11318,8 @@
       "createdAt": "2026-09-22T18:13:24.5016446Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-22"
     },
     {
       "category": "Ufficio",
@@ -11569,7 +11663,8 @@
       "createdAt": "2026-09-23T09:45:21.6252775Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-23"
     },
     {
       "category": "Nave",
@@ -11591,7 +11686,8 @@
       "createdAt": "2026-09-23T09:38:06.6864742Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-23"
     },
     {
       "category": "Altro",
@@ -11613,7 +11709,8 @@
       "createdAt": "2026-09-24T07:03:49.1845Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-24"
     },
     {
       "category": "Altro",
@@ -11635,7 +11732,8 @@
       "createdAt": "2026-09-23T15:02:45.0378467Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-23"
     },
     {
       "category": "Altro",
@@ -11657,7 +11755,8 @@
       "createdAt": "2026-09-23T15:02:44.4516046Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-23"
     },
     {
       "category": "Nave",
@@ -11679,7 +11778,8 @@
       "createdAt": "2026-09-24T09:23:25.3523936Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-10-01"
     },
     {
       "category": "Altro",
@@ -11701,7 +11801,8 @@
       "createdAt": "2026-09-24T12:24:14.8841964Z",
       "done": true,
       "doneAt": "2026-09-25T09:22:41.9138082Z",
-      "outlookStatus": "completed"
+      "outlookStatus": "completed",
+      "outlookFlagDate": "2026-09-24"
     },
     {
       "category": "Nave",
@@ -11723,7 +11824,8 @@
       "createdAt": "2026-09-24T13:00:02.7923826Z",
       "done": true,
       "doneAt": "2026-09-24T14:04:13.647784Z",
-      "outlookStatus": "completed"
+      "outlookStatus": "completed",
+      "outlookFlagDate": "2026-09-24"
     },
     {
       "category": "Nave",
@@ -11745,7 +11847,8 @@
       "createdAt": "2026-09-24T14:46:19.741416Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-24"
     },
     {
       "category": "Altro",
@@ -11767,7 +11870,8 @@
       "createdAt": "2026-09-25T07:30:18.0081738Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-25"
     },
     {
       "category": "Altro",
@@ -11789,7 +11893,8 @@
       "createdAt": "2026-09-25T09:22:42.7172827Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-25"
     },
     {
       "category": "Nave",
@@ -11811,7 +11916,8 @@
       "createdAt": "2026-09-25T09:17:34.5961211Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "outlookFlagDate": "2026-09-25"
     }
   ],
   "notes": {
@@ -34083,7 +34189,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-25T10:30:03.061Z",
+    "todos": "2026-09-25T11:35:56.797Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -34109,5 +34215,5 @@
     "portProfiles": "2026-09-24T21:47:49.807Z"
   },
   "rev": 3272,
-  "savedAt": "2026-09-25T11:35:41.405Z"
+  "savedAt": "2026-09-25T11:35:56.798Z"
 }
