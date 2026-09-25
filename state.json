@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-25T11:39:46.068Z",
+  "pushedAt": "2026-09-25T11:40:01.063Z",
   "todosCount": 520,
   "todos": [
     {
@@ -778,8 +778,10 @@
       "note": "",
       "recur": null,
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-17T13:08:52.745Z"
+      "done": true,
+      "createdAt": "2026-07-17T13:08:52.745Z",
+      "doneAt": "2026-09-25T11:39:57.669Z",
+      "updatedAt": "2026-09-25T11:39:57.669Z"
     },
     {
       "category": "Email",
@@ -793,8 +795,10 @@
       "note": "",
       "recur": null,
       "kind": "todo",
-      "done": false,
-      "createdAt": "2026-07-17T13:08:18.996Z"
+      "done": true,
+      "createdAt": "2026-07-17T13:08:18.996Z",
+      "doneAt": "2026-09-25T11:39:55.717Z",
+      "updatedAt": "2026-09-25T11:39:55.717Z"
     },
     {
       "category": "Nave",
@@ -34193,7 +34197,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-25T11:39:46.067Z",
+    "todos": "2026-09-25T11:40:01.063Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -34218,6 +34222,6 @@
     "rfqVendors": "2026-09-24T12:44:31.949Z",
     "portProfiles": "2026-09-24T21:47:49.807Z"
   },
-  "rev": 3280,
-  "savedAt": "2026-09-25T11:39:46.068Z"
+  "rev": 3281,
+  "savedAt": "2026-09-25T11:40:01.064Z"
 }
