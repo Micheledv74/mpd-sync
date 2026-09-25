@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_ex1cq6qu8y",
-  "pushedAt": "2026-09-25T08:47:13.879Z",
+  "pushedAt": "2026-09-25T08:47:21.064Z",
   "todosCount": 518,
   "todos": [
     {
@@ -32735,8 +32735,56 @@
         ],
         "source": "17track-manual",
         "updatedAt": "2026-09-25T08:20:25.646Z"
+      },
+      "gmugp5ugad5m": {
+        "id": "gmugp5ugad5m",
+        "items": [
+          "med liguria::log book med liguria",
+          "med toscana::log book med toscana"
+        ],
+        "route": "supplier-hub",
+        "carrier": "DHL Express",
+        "hub": "Ship Surveys and Service",
+        "number": "37 9306 6104",
+        "status": "pending",
+        "pickup": "2026-09-25",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-09-25T08:25:51.886Z"
       }
-    }
+    },
+    "med liguria::log book med liguria": [
+      {
+        "id": "shmugp4rnye1v",
+        "partial": false,
+        "route": "supplier-hub",
+        "carrier": "DHL Express",
+        "hub": "Ship Surveys and Service",
+        "number": "37 9306 6104",
+        "status": "pending",
+        "pickup": "2026-09-25",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-09-25T08:25:51.886Z",
+        "gid": "gmugp5ugad5m"
+      }
+    ],
+    "med toscana::log book med toscana": [
+      {
+        "id": "shmugp5ugaukg",
+        "gid": "gmugp5ugad5m",
+        "partial": false,
+        "route": "supplier-hub",
+        "carrier": "DHL Express",
+        "hub": "Ship Surveys and Service",
+        "number": "37 9306 6104",
+        "status": "pending",
+        "pickup": "2026-09-25",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-09-25T08:25:51.886Z"
+      }
+    ]
   },
   "rfqChases": {},
   "rfqVendors": {},
@@ -32771,6 +32819,6 @@
     "shipments": "2026-09-25T08:25:42.885Z",
     "certExtras": "2026-08-21T07:32:33.905Z"
   },
-  "rev": 2390,
-  "savedAt": "2026-09-25T08:47:13.881Z"
+  "rev": 2391,
+  "savedAt": "2026-09-25T08:47:21.066Z"
 }
