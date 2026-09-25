@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-25T12:12:40.622Z",
-  "todosCount": 521,
+  "pushedAt": "2026-09-25T12:12:47.836Z",
+  "todosCount": 520,
   "todos": [
     {
       "id": "td_1790338298332_ch76d",
@@ -162,24 +162,6 @@
       "createdAt": "2026-09-18T07:58:56.029Z",
       "updatedAt": "2026-09-23T14:15:32.837Z",
       "doneAt": "2026-09-23T14:15:32.837Z"
-    },
-    {
-      "category": "Nave",
-      "priority": "alta",
-      "reference": "Certificati",
-      "tags": [],
-      "id": "td_1789384457955_nfog5",
-      "vessel": "peppino",
-      "action": "Controllare",
-      "dueDate": "2026-10-13",
-      "note": "",
-      "recur": {
-        "type": "days",
-        "interval": 15
-      },
-      "kind": "todo",
-      "done": false,
-      "createdAt": "2026-09-14T11:14:17.955Z"
     },
     {
       "category": "Ufficio",
@@ -33775,6 +33757,7 @@
   "critFlags": {},
   "matPos": {},
   "todoTombs": {
+    "td_1789384457955_nfog5": "2026-09-25T12:12:44.432Z",
     "td_1790155639624_kdkee": "2026-09-25T12:12:37.241Z"
   },
   "sourceDevice": {
@@ -33783,7 +33766,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-25T12:12:40.622Z",
+    "todos": "2026-09-25T12:12:47.836Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -33807,8 +33790,8 @@
     "rfqChases": "2026-09-24T12:40:31.257Z",
     "rfqVendors": "2026-09-24T12:44:31.949Z",
     "portProfiles": "2026-09-24T21:47:49.807Z",
-    "todoTombs": "2026-09-25T12:12:40.622Z"
+    "todoTombs": "2026-09-25T12:12:47.836Z"
   },
-  "rev": 3307,
-  "savedAt": "2026-09-25T12:12:40.622Z"
+  "rev": 3308,
+  "savedAt": "2026-09-25T12:12:47.836Z"
 }
