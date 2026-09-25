@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-25T17:49:58.972Z",
-  "todosCount": 520,
+  "pushedAt": "2026-09-25T17:50:18.948Z",
+  "todosCount": 522,
   "todos": [
     {
       "id": "td_1790338298332_ch76d",
@@ -11217,7 +11217,7 @@
       "createdAt": "2026-09-22T07:46:30.6806992Z",
       "done": true,
       "doneAt": "2026-09-25T11:55:54.398Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-22",
       "updatedAt": "2026-09-25T11:55:54.398Z"
     },
@@ -11241,7 +11241,7 @@
       "createdAt": "2026-09-22T07:17:28.7569861Z",
       "done": true,
       "doneAt": "2026-09-25T11:56:32.782Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-22",
       "updatedAt": "2026-09-25T11:56:32.782Z"
     },
@@ -11292,7 +11292,7 @@
       "createdAt": "2026-09-22T14:41:52.8219487Z",
       "done": true,
       "doneAt": "2026-09-25T11:56:59.678Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-22",
       "updatedAt": "2026-09-25T11:56:59.678Z"
     },
@@ -11316,7 +11316,7 @@
       "createdAt": "2026-09-22T18:13:24.5016446Z",
       "done": true,
       "doneAt": "2026-09-25T11:57:15.198Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-22",
       "updatedAt": "2026-09-25T11:57:15.198Z"
     },
@@ -11688,7 +11688,7 @@
       "createdAt": "2026-09-23T09:38:06.6864742Z",
       "done": true,
       "doneAt": "2026-09-25T11:58:37.103Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-23",
       "updatedAt": "2026-09-25T11:58:37.104Z"
     },
@@ -11888,7 +11888,7 @@
       "createdAt": "2026-09-25T07:30:18.0081738Z",
       "done": true,
       "doneAt": "2026-09-25T12:09:51.685Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-25",
       "updatedAt": "2026-09-25T12:09:51.685Z"
     },
@@ -11912,7 +11912,7 @@
       "createdAt": "2026-09-25T09:22:42.7172827Z",
       "done": true,
       "doneAt": "2026-09-25T12:11:38.327Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-25",
       "kind": "todo",
       "recur": {
@@ -11941,7 +11941,7 @@
       "createdAt": "2026-09-25T09:17:34.5961211Z",
       "done": true,
       "doneAt": "2026-09-25T12:11:58.350Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-25",
       "updatedAt": "2026-09-25T12:11:58.350Z"
     },
@@ -11966,8 +11966,54 @@
       "createdAt": "2026-09-25T11:44:58.7426138Z",
       "done": true,
       "doneAt": "2026-09-25T11:58:53.152Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "updatedAt": "2026-09-25T11:58:53.152Z"
+    },
+    {
+      "id": "outlook_AAKAS8xPAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKAS8xPAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9dIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-09-25",
+      "outlookLinkedName": "R: M/V PEPPINO - Purchase Order #2026-PEP-HQPO-00155 – Cotton Rags",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO - Purchase Order #2026-PEP-HQPO-00155 – Cotton Rags",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-25",
+      "note": "",
+      "createdAt": "2026-09-25T12:47:28.6919664Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKAS8xOAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKAS8xOAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9c0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-09-25",
+      "outlookLinkedName": "M/V PEPPINO - Purchase Order #2026-PEP-HQPO-00155 – Cotton Rags",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO - Purchase Order #2026-PEP-HQPO-00155 – Cotton Rags",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "",
+      "note": "",
+      "createdAt": "2026-09-25T12:42:41.3400148Z",
+      "done": true,
+      "doneAt": "2026-09-25T12:47:28.4655185Z",
+      "outlookStatus": "completed"
     }
   ],
   "notes": {
@@ -25203,69 +25249,6 @@
       "completedAt": "2026-09-14T09:37:02.655Z",
       "todoId": "outlook_AAJIqr3YAAA=",
       "title": "REMINDER - IMPORTANT INFORMATION REGARDING MACGREGOR SPARE PARTS BUSINESS"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ-UOMYAAA=",
-      "listId": "",
-      "completedAt": "2026-09-25T11:55:54.402Z",
-      "todoId": "outlook_AAJ-UOMYAAA=",
-      "title": "11.09.2026 RS inspection - NCs"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ-UOMXAAA=",
-      "listId": "",
-      "completedAt": "2026-09-25T11:56:32.787Z",
-      "todoId": "outlook_AAJ-UOMXAAA=",
-      "title": "MV 'MED TOSCANA' - ETA-23.09.26 / 06:00 lt / prospect on arrival"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ-UOMZAAA=",
-      "listId": "",
-      "completedAt": "2026-09-25T11:56:59.681Z",
-      "todoId": "outlook_AAJ-UOMZAAA=",
-      "title": "M/V MED TOSCANA - ORD_2026-HQPO-MDT-00110 CAIM"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ-nfz3AAA=",
-      "listId": "",
-      "completedAt": "2026-09-25T11:57:15.202Z",
-      "todoId": "outlook_AAJ-nfz3AAA=",
-      "title": "M/B VEGA UNO -  Conferma ordine Naviservice Fire & Safety"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ-nfz4AAA=",
-      "listId": "",
-      "completedAt": "2026-09-25T11:58:37.105Z",
-      "todoId": "outlook_AAJ-nfz4AAA=",
-      "title": "M/B VEGA UNO - Visita di Ispezione della Stazione Radio GMDSS"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKAS8xNAAA=",
-      "listId": "",
-      "completedAt": "2026-09-25T11:58:53.155Z",
-      "todoId": "outlook_AAKAS8xNAAA=",
-      "title": "M/B VEGA UNO - Guarnizione collettore scarico Doosan 4V158TI"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKAS8xKAAA=",
-      "listId": "",
-      "completedAt": "2026-09-25T12:09:51.690Z",
-      "todoId": "outlook_AAKAS8xKAAA=",
-      "title": "Lubricants supply - Glander International / Ships Surveys And Service "
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKAS8xMAAA=",
-      "listId": "",
-      "completedAt": "2026-09-25T12:11:38.331Z",
-      "todoId": "outlook_AAKAS8xMAAA=",
-      "title": "Credenziali configurazioni Outlook"
-    },
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKAS8xLAAA=",
-      "listId": "",
-      "completedAt": "2026-09-25T12:11:58.354Z",
-      "todoId": "outlook_AAKAS8xLAAA=",
-      "title": "M/V MED LIGURIA - Urgent - REQ for DPA Letter No. 08/2026"
     }
   ],
   "manualOrders": {
@@ -33833,7 +33816,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-25T13:22:54.783Z",
+    "todos": "2026-09-25T17:50:18.948Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -33842,7 +33825,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-24T19:59:16.212Z",
-    "outlookCompletionQueue": "2026-09-25T13:22:54.783Z",
+    "outlookCompletionQueue": "2026-09-25T17:50:18.948Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-22T08:04:07.555Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -33859,6 +33842,6 @@
     "portProfiles": "2026-09-24T21:47:49.807Z",
     "todoTombs": "2026-09-25T12:12:47.836Z"
   },
-  "rev": 3312,
-  "savedAt": "2026-09-25T17:49:58.973Z"
+  "rev": 3313,
+  "savedAt": "2026-09-25T17:50:18.949Z"
 }
