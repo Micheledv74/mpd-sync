@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-25T08:09:50.000Z",
+  "pushedAt": "2026-09-25T08:18:36.820Z",
   "todosCount": 518,
   "todos": [
     {
@@ -29397,7 +29397,8 @@
           }
         ],
         "updatedAt": "2026-08-19T07:39:10.767Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbnydy"
       }
     ],
     "peppino::windlass/band brake": [
@@ -29487,7 +29488,8 @@
           }
         ],
         "updatedAt": "2026-08-13T07:16:49.060Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbnbb2"
       },
       {
         "id": "shmszzlhwu84j",
@@ -29703,7 +29705,8 @@
           }
         ],
         "updatedAt": "2026-08-18T07:27:47.780Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbntcw"
       }
     ],
     "med liguria::medicine": [
@@ -30007,7 +30010,8 @@
           }
         ],
         "updatedAt": "2026-08-19T13:03:40.816Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbnfj1"
       }
     ],
     "med toscana::diesel oil pump imo pump ace 025 l3 nvbp 1year service kit": [
@@ -30077,7 +30081,8 @@
           }
         ],
         "updatedAt": "2026-08-19T07:40:00.879Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbnydy"
       }
     ],
     "med liguria::mitsuiman b&w 6s50mcc 9480kw engine no 6192 2011 mitsui engineering & shipbuilding coltd": [
@@ -30271,7 +30276,8 @@
           }
         ],
         "updatedAt": "2026-08-19T07:38:19.079Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbne5v"
       }
     ],
     "peppino::main engine cylinder cover": [
@@ -30707,7 +30713,8 @@
           }
         ],
         "updatedAt": "2026-08-18T07:27:34.724Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbntcw"
       }
     ],
     "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": [
@@ -30825,7 +30832,8 @@
           }
         ],
         "updatedAt": "2026-08-18T07:26:01.410Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbne5v"
       }
     ],
     "med toscana::cargo crane claim spare part": [
@@ -30943,7 +30951,8 @@
           }
         ],
         "updatedAt": "2026-08-17T07:28:14.281Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbne5v"
       }
     ],
     "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": [
@@ -31061,7 +31070,8 @@
           }
         ],
         "updatedAt": "2026-08-18T07:26:13.130Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbne5v"
       }
     ],
     "med toscana::ships crane spare parts": [
@@ -31179,7 +31189,8 @@
           }
         ],
         "updatedAt": "2026-08-18T07:26:22.842Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbne5v"
       }
     ],
     "med toscana::navigation light control panel": [
@@ -31467,7 +31478,8 @@
           }
         ],
         "updatedAt": "2026-08-19T13:05:08.376Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbnfj1"
       }
     ],
     "med liguria::k8fe strainer automatic backwashing type a/e fo 2nd strainer": [
@@ -31531,7 +31543,8 @@
           }
         ],
         "updatedAt": "2026-08-19T13:06:33.810Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbnfj1"
       }
     ],
     "med liguria::manual fire alarm switch": [
@@ -31595,7 +31608,8 @@
           }
         ],
         "updatedAt": "2026-08-19T13:07:30.122Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbnfj1"
       }
     ],
     "med liguria::fixed temperature type spot fire detector": [
@@ -31659,7 +31673,8 @@
           }
         ],
         "updatedAt": "2026-08-19T13:08:14.435Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbnfj1"
       }
     ],
     "med liguria::logbooks": [
@@ -31735,7 +31750,8 @@
           }
         ],
         "updatedAt": "2026-08-19T13:53:16.357Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbnbb2"
       }
     ],
     "peppino::spa req deck crane controllers": [
@@ -31867,7 +31883,8 @@
           }
         ],
         "updatedAt": "2026-09-25T05:09:26.859Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbn7rs"
       }
     ],
     "med toscana::repair crane 2 & 3": [
@@ -32007,7 +32024,8 @@
           }
         ],
         "updatedAt": "2026-09-24T13:04:18.032Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbn7rs"
       }
     ],
     "peppino::spa req fwg ejector pump new top urgent": [
@@ -32139,7 +32157,8 @@
           }
         ],
         "updatedAt": "2026-09-24T19:42:36.541Z",
-        "source": "17track-manual"
+        "source": "17track-manual",
+        "gid": "gmugovdbn7rs"
       }
     ],
     "med liguria::alpha lubricator system mfg no pu110105": [
@@ -32269,7 +32288,490 @@
         "updatedAt": "2026-09-23T12:40:28.275Z",
         "source": "17track-manual"
       }
-    ]
+    ],
+    "__groups": {
+      "gmugovdbnydy": {
+        "id": "gmugovdbnydy",
+        "items": [
+          "med toscana::bwts suction pump mn 40125",
+          "med toscana::diesel oil pump imo pump ace 025 l3 nvbp 1year service kit"
+        ],
+        "route": "hub-port",
+        "carrier": "DHL Express",
+        "hub": "",
+        "number": "235-05734805",
+        "status": "delivered",
+        "pickup": "2026-08-07",
+        "eta": "2026-08-19",
+        "events": [
+          {
+            "ts": "2026-08-19T09:20",
+            "place": "MRU(Plaine Magnien)",
+            "text": "DLV · Shipment Delivered",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-08-14T15:05",
+            "place": "MRU(Plaine Magnien)",
+            "text": "NFD · Shipment Notified For Delivery",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-14T14:39",
+            "place": "MRU(Plaine Magnien)",
+            "text": "RCF · Shipment Received From Flight (TK0176)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-14T02:15",
+            "place": "IST(Istanbul)",
+            "text": "DEP · Shipment Departed (TK0176)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-13T17:40",
+            "place": "MXP(Milan)",
+            "text": "BKD · Shipment Booked (TK1874)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-13T17:40",
+            "place": "IST(Istanbul)",
+            "text": "BKD · Shipment Booked (TK0176)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-13T16:42",
+            "place": "IST(Istanbul)",
+            "text": "RCF · Shipment Received From Flight (TK1874)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-13T10:56",
+            "place": "MXP(Milan)",
+            "text": "DEP · Shipment Departed (TK1874)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-06T20:50",
+            "place": "MXP(Milan)",
+            "text": "RCS · Shipment Accepted",
+            "code": "info"
+          }
+        ],
+        "source": "17track-manual",
+        "updatedAt": "2026-08-19T07:40:00.879Z"
+      },
+      "gmugovdbnbb2": {
+        "id": "gmugovdbnbb2",
+        "items": [
+          "peppino::beck_order",
+          "med liguria::logbooks"
+        ],
+        "route": "supplier-hub",
+        "carrier": "DHL Express",
+        "hub": "",
+        "number": "71 0201 4555",
+        "status": "delivered",
+        "pickup": "2026-08-19",
+        "eta": "2026-07-29",
+        "events": [
+          {
+            "ts": "2026-07-29T14:08",
+            "place": "NAPLES - ITALY",
+            "text": "Delivered",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-07-29T11:50",
+            "place": "CASANDRINO - ITALY",
+            "text": "Shipment is out with courier for delivery",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-29T09:17",
+            "place": "CASANDRINO - ITALY",
+            "text": "Processed at CASANDRINO - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-29T09:09",
+            "place": "CASANDRINO - ITALY",
+            "text": "Arrived at DHL Delivery Facility CASANDRINO - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-29T01:39",
+            "place": "BOLOGNA - ITALY",
+            "text": "Shipment has departed from a DHL facility BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-29T00:52",
+            "place": "BOLOGNA - ITALY",
+            "text": "Processed at BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-28T23:54",
+            "place": "BOLOGNA - ITALY",
+            "text": "Arrived at DHL Sort Facility BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-28T20:03",
+            "place": "GENOA - ITALY",
+            "text": "Shipment has departed from a DHL facility GENOA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-28T20:03",
+            "place": "GENOA - ITALY",
+            "text": "Processed at GENOA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-07-28T16:23",
+            "place": "GENOA - ITALY",
+            "text": "Shipment picked up",
+            "code": "transit"
+          }
+        ],
+        "source": "17track-manual",
+        "updatedAt": "2026-08-19T13:53:16.357Z"
+      },
+      "gmugovdbntcw": {
+        "id": "gmugovdbntcw",
+        "items": [
+          "med toscana::fuel circulation pump of me ace038 n3 ntbp complete",
+          "med toscana::hanla level c/h water ingress system sensor"
+        ],
+        "route": "hub-port",
+        "carrier": "Altro",
+        "hub": "",
+        "number": "020-92985476",
+        "status": "delivered",
+        "pickup": "2026-08-06",
+        "eta": "2026-08-18",
+        "events": [
+          {
+            "ts": "2026-08-18T10:35",
+            "place": "--",
+            "text": "DLV · MRU(Plaine Magnien) (2)",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-08-10T14:49",
+            "place": "--",
+            "text": "NFD · MRU(Plaine Magnien) (2)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-10T14:04",
+            "place": "4Y156",
+            "text": "RCF · MRU(Plaine Magnien) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-10T13:25",
+            "place": "4Y156",
+            "text": "ARR · MRU(Plaine Magnien) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-10T06:28",
+            "place": "--",
+            "text": "BKD · ICN(Seoul) (2)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-09T21:48",
+            "place": "4Y156",
+            "text": "DEP · FRA(Frankfurt) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-09T20:34",
+            "place": "4Y156",
+            "text": "MAN · FRA(Frankfurt) (2)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-07T23:53",
+            "place": "LH713",
+            "text": "RCF · FRA(Frankfurt) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T17:49",
+            "place": "LH713",
+            "text": "ARR · FRA(Frankfurt) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T12:19",
+            "place": "LH713",
+            "text": "DEP · ICN(Seoul) (2)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T08:59",
+            "place": "LH713",
+            "text": "MAN · ICN(Seoul) (2)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-06T10:49",
+            "place": "--",
+            "text": "RCS · ICN(Seoul) (2)",
+            "code": "info"
+          }
+        ],
+        "source": "17track-manual",
+        "updatedAt": "2026-08-18T07:27:47.780Z"
+      },
+      "gmugovdbnfj1": {
+        "id": "gmugovdbnfj1",
+        "items": [
+          "med liguria::automatic fire detection and alarm system nippon hakuyo electronics ltd critical spare parts",
+          "med liguria::air horn ibuki kogyo co ltd",
+          "med liguria::k8fe strainer automatic backwashing type a/e fo 2nd strainer",
+          "med liguria::manual fire alarm switch",
+          "med liguria::fixed temperature type spot fire detector"
+        ],
+        "route": "hub-port",
+        "carrier": "Altro",
+        "hub": "",
+        "number": "131-26268653",
+        "status": "delivered",
+        "pickup": "2026-08-19",
+        "eta": "2026-08-10",
+        "events": [
+          {
+            "ts": "2026-08-10T17:20",
+            "place": "CAN(Guangzhou)",
+            "text": "DLV · DeliveredShipment has been Delivered.",
+            "code": "delivered"
+          },
+          {
+            "ts": "2026-08-08T12:25",
+            "place": "CAN(Guangzhou)",
+            "text": "ARR · Arrived (JL087)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-08T09:11",
+            "place": "HND(Tokyo)",
+            "text": "DEP · Departed (JL087)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-08T07:00",
+            "place": "HND(Tokyo)",
+            "text": "ARR · Arrived (JL9827)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T21:37",
+            "place": "KIX(Osaka)",
+            "text": "RCF · Accepted",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-07T21:00",
+            "place": "KIX(Osaka)",
+            "text": "DEP · Departed (JL9827)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-05T19:13",
+            "place": "KIX(Osaka)",
+            "text": "BKD · Reserved",
+            "code": "info"
+          },
+          {
+            "ts": "",
+            "place": "CAN(Guangzhou)",
+            "text": "RCF · Shipment Availability",
+            "code": "transit"
+          }
+        ],
+        "source": "17track-manual",
+        "updatedAt": "2026-08-19T13:08:14.435Z"
+      },
+      "gmugovdbne5v": {
+        "id": "gmugovdbne5v",
+        "items": [
+          "med toscana::ht cooling electro pneumatic regulator",
+          "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar",
+          "med toscana::cargo crane claim spare part",
+          "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1",
+          "med toscana::ships crane spare parts"
+        ],
+        "route": "supplier-port",
+        "carrier": "Altro",
+        "hub": "",
+        "number": "176-65337333",
+        "status": "out_for_delivery",
+        "pickup": "2026-08-10",
+        "eta": "2026-08-11",
+        "events": [
+          {
+            "ts": "2026-08-11T19:40",
+            "place": "MRU(Plaine Magnien)",
+            "text": "RCF · Received at MRU from Flight No. EK-0703, 11 Aug 2026, DXB-MRU (EK0703)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-11T19:37",
+            "place": "MRU(Plaine Magnien)",
+            "text": "NFD · Agent has been Notified of arrival of Shipment at MRU",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-11T19:32",
+            "place": "MRU(Plaine Magnien)",
+            "text": "ARR · Arrived at MRU on Flight EK-0703, 11 Aug 2026, DXB-MRU (EK0703)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-11T13:40",
+            "place": "DXB(Dubai)",
+            "text": "DEP · Departed to MRU on Flight EK-0703, 11 Aug 2026, DXB-MRU (EK0703)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-11T06:19",
+            "place": "DXB(Dubai)",
+            "text": "MAN · Manifested on Flight EK-0703, 11 Aug 2026, DXB-MRU (EK0703)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-10T10:57",
+            "place": "DXB(Dubai)",
+            "text": "RCF · Received at DXB from Flight No. EK-7518D, 09 Aug 2026, DWC-DXB (EK7518D)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-09T23:14",
+            "place": "DXB(Dubai)",
+            "text": "ARR · Arrived at DXB on Flight EK-7518D, 09 Aug 2026, DWC-DXB (EK7518D)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-09T21:24",
+            "place": "DWC(Dubai)",
+            "text": "DEP · Departed to DXB on Flight EK-7518D, 09 Aug 2026, DWC-DXB (EK7518D)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-09T21:02",
+            "place": "DWC(Dubai)",
+            "text": "MAN · Manifested on Flight EK-7518D, 09 Aug 2026, DWC-DXB (EK7518D)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-09T21:02",
+            "place": "DWC(Dubai)",
+            "text": "BKD · Booked on Flight EK-7518D, 09 Aug 2026, DWC-DXB (EK7518D)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-09T20:14",
+            "place": "DWC(Dubai)",
+            "text": "RCF · Received at DWC from Flight No. EK-9859, 09 Aug 2026, HKG-DWC (EK9859)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-09T19:11",
+            "place": "HKG(Hong Kong)",
+            "text": "MAN · Manifested on Flight EK-9859, 09 Aug 2026, HKG-DWC (EK9859)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-09T15:05",
+            "place": "DWC(Dubai)",
+            "text": "ARR · Arrived at DWC on Flight EK-9859, 09 Aug 2026, HKG-DWC (EK9859)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-09T11:41",
+            "place": "HKG(Hong Kong)",
+            "text": "DEP · Departed to DWC on Flight EK-9859, 09 Aug 2026, HKG-DWC (EK9859)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-08-09T11:27",
+            "place": "HKG(Hong Kong)",
+            "text": "RCS · Ready for Carriage at HKG",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-09T11:27",
+            "place": "HKG(Hong Kong)",
+            "text": "BKD · Booked on Flight EK-0703, 11 Aug 2026, DXB-MRU (EK0703)",
+            "code": "info"
+          },
+          {
+            "ts": "2026-08-07T11:15",
+            "place": "HKG(Hong Kong)",
+            "text": "BKD · Booked on Flight EK-9859, 09 Aug 2026, HKG-DWC (EK9859)",
+            "code": "info"
+          }
+        ],
+        "source": "17track-manual",
+        "updatedAt": "2026-08-19T07:38:19.079Z"
+      },
+      "gmugovdbn7rs": {
+        "id": "gmugovdbn7rs",
+        "items": [
+          "peppino::spa req deck crane controllers",
+          "peppino::fresh water generator additional",
+          "peppino::spa req fwg ejector pump new top urgent"
+        ],
+        "route": "hub-port",
+        "carrier": "DHL Express",
+        "hub": "",
+        "number": "157-54263635",
+        "status": "in_transit",
+        "pickup": "2026-09-22",
+        "eta": "2026-09-25",
+        "events": [
+          {
+            "ts": "2026-09-25T02:18",
+            "place": "DOH(Doha)",
+            "text": "DEP · Departed from DOH on QR1424/25-Sep-2026 (QR1424)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-24T16:28",
+            "place": "DOH(Doha)",
+            "text": "RCF · Received in DOH",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-24T11:04",
+            "place": "DOH(Doha)",
+            "text": "ARR · Arrived in DOH on QR 8214/24-Sep-2026 (QR8214)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-24T03:55",
+            "place": "MXP(Milan)",
+            "text": "DEP · Departed from MXP on QR8214/24-Sep-2026 (QR8214)",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-22T07:12",
+            "place": "MXP(Milan)",
+            "text": "RCS · Received from shipper in MXP",
+            "code": "info"
+          }
+        ],
+        "source": "17track-manual",
+        "updatedAt": "2026-09-25T05:09:26.859Z"
+      }
+    }
   },
   "rfqChases": {
     "2026-PEP-HQRQ-00215": {
@@ -35252,13 +35754,13 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-15T09:04:12.962Z",
     "repliesDismissed": "2026-09-22T19:33:38.236Z",
-    "shipments": "2026-09-25T05:06:07.358Z",
+    "shipments": "2026-09-25T08:18:36.819Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
     "rfqChases": "2026-09-24T12:40:31.257Z",
     "rfqVendors": "2026-09-24T12:44:31.949Z",
     "portProfiles": "2026-09-24T21:47:49.807Z"
   },
-  "rev": 3237,
-  "savedAt": "2026-09-25T08:09:50.000Z"
+  "rev": 3238,
+  "savedAt": "2026-09-25T08:18:36.820Z"
 }
