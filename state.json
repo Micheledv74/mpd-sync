@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-25T20:06:12.735Z",
+  "pushedAt": "2026-09-25T20:06:15.423Z",
   "todosCount": 525,
   "todos": [
     {
@@ -34159,7 +34159,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-25T20:06:12.735Z",
+    "todos": "2026-09-25T20:06:14.018Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -34168,7 +34168,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-24T19:59:16.212Z",
-    "outlookCompletionQueue": "2026-09-25T20:06:12.735Z",
+    "outlookCompletionQueue": "2026-09-25T20:06:14.018Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-22T08:04:07.555Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -34186,5 +34186,5 @@
     "todoTombs": "2026-09-25T12:12:47.836Z"
   },
   "rev": 3320,
-  "savedAt": "2026-09-25T20:06:12.736Z"
+  "savedAt": "2026-09-25T20:06:15.425Z"
 }
