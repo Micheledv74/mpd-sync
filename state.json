@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-25T09:30:07.960Z",
+  "pushedAt": "2026-09-25T09:31:32.784Z",
   "todosCount": 518,
   "todos": [
     {
@@ -32781,11 +32781,73 @@
         "carrier": "DHL Express",
         "hub": "Ship Surveys and Service",
         "number": "37 9306 6104",
-        "status": "pending",
+        "status": "delivered",
         "pickup": "2026-09-25",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-09-25T08:25:51.886Z"
+        "eta": "2026-09-25",
+        "events": [
+          {
+            "ts": "2026-09-25T10:56",
+            "place": "CASANDRINO - ITALY",
+            "text": "Shipment is out with courier for delivery",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-25T09:16",
+            "place": "CASANDRINO - ITALY",
+            "text": "Arrived at DHL Delivery Facility CASANDRINO - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-25T08:55",
+            "place": "NAPLES - ITALY",
+            "text": "Processed at NAPLES - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-25T02:01",
+            "place": "BOLOGNA - ITALY",
+            "text": "Shipment has departed from a DHL facility BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-25T01:08",
+            "place": "BOLOGNA - ITALY",
+            "text": "Processed at BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-25T00:08",
+            "place": "BOLOGNA - ITALY",
+            "text": "Shipment is on hold",
+            "code": "exception"
+          },
+          {
+            "ts": "2026-09-25T00:08",
+            "place": "BOLOGNA - ITALY",
+            "text": "Arrived at DHL Sort Facility BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-24T19:52",
+            "place": "GENOA - ITALY",
+            "text": "Shipment has departed from a DHL facility GENOA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-24T19:52",
+            "place": "GENOA - ITALY",
+            "text": "Processed at GENOA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-24T16:27",
+            "place": "GENOA - ITALY",
+            "text": "Shipment picked up",
+            "code": "transit"
+          }
+        ],
+        "updatedAt": "2026-09-25T09:31:29.362Z",
+        "source": "17track-manual"
       }
     },
     "med liguria::log book med liguria": [
@@ -32796,12 +32858,74 @@
         "carrier": "DHL Express",
         "hub": "Ship Surveys and Service",
         "number": "37 9306 6104",
-        "status": "pending",
+        "status": "delivered",
         "pickup": "2026-09-25",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-09-25T08:25:51.886Z",
-        "gid": "gmugp5ugad5m"
+        "eta": "2026-09-25",
+        "events": [
+          {
+            "ts": "2026-09-25T10:56",
+            "place": "CASANDRINO - ITALY",
+            "text": "Shipment is out with courier for delivery",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-25T09:16",
+            "place": "CASANDRINO - ITALY",
+            "text": "Arrived at DHL Delivery Facility CASANDRINO - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-25T08:55",
+            "place": "NAPLES - ITALY",
+            "text": "Processed at NAPLES - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-25T02:01",
+            "place": "BOLOGNA - ITALY",
+            "text": "Shipment has departed from a DHL facility BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-25T01:08",
+            "place": "BOLOGNA - ITALY",
+            "text": "Processed at BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-25T00:08",
+            "place": "BOLOGNA - ITALY",
+            "text": "Shipment is on hold",
+            "code": "exception"
+          },
+          {
+            "ts": "2026-09-25T00:08",
+            "place": "BOLOGNA - ITALY",
+            "text": "Arrived at DHL Sort Facility BOLOGNA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-24T19:52",
+            "place": "GENOA - ITALY",
+            "text": "Shipment has departed from a DHL facility GENOA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-24T19:52",
+            "place": "GENOA - ITALY",
+            "text": "Processed at GENOA - ITALY",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-09-24T16:27",
+            "place": "GENOA - ITALY",
+            "text": "Shipment picked up",
+            "code": "transit"
+          }
+        ],
+        "updatedAt": "2026-09-25T09:31:29.362Z",
+        "gid": "gmugp5ugad5m",
+        "source": "17track-manual"
       }
     ],
     "med toscana::log book med toscana": [
@@ -35802,13 +35926,13 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-15T09:04:12.962Z",
     "repliesDismissed": "2026-09-22T19:33:38.236Z",
-    "shipments": "2026-09-25T08:26:45.552Z",
+    "shipments": "2026-09-25T09:31:32.783Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
     "rfqChases": "2026-09-24T12:40:31.257Z",
     "rfqVendors": "2026-09-24T12:44:31.949Z",
     "portProfiles": "2026-09-24T21:47:49.807Z"
   },
-  "rev": 3254,
-  "savedAt": "2026-09-25T09:30:07.961Z"
+  "rev": 3255,
+  "savedAt": "2026-09-25T09:31:32.784Z"
 }
