@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-25T12:20:33.763Z",
+  "pushedAt": "2026-09-25T13:22:54.783Z",
   "todosCount": 520,
   "todos": [
     {
@@ -9312,7 +9312,7 @@
       "createdAt": "2026-08-31T09:58:31.8786218Z",
       "done": true,
       "doneAt": "2026-09-01T09:04:42.954Z",
-      "outlookStatus": "notStarted",
+      "outlookStatus": "completed",
       "updatedAt": "2026-09-01T09:04:42.955Z",
       "outlookFlagDate": "2026-08-31"
     },
@@ -25205,13 +25205,6 @@
       "title": "REMINDER - IMPORTANT INFORMATION REGARDING MACGREGOR SPARE PARTS BUSINESS"
     },
     {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJvuFNaAAA=",
-      "listId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAuAAAAAAC1d6vpnx-PR6MWu34vnklfAQBYWF9qc37UTpbqyo_4NVKtAACaX_4EAAA=",
-      "completedAt": "2026-09-25T10:44:25.218Z",
-      "todoId": "outlook_AAJvuFNaAAA=",
-      "title": "TEFIN TECHNICIAN'S ARRIVAL 23/08 - TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN"
-    },
-    {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ-UOMYAAA=",
       "listId": "",
       "completedAt": "2026-09-25T11:55:54.402Z",
@@ -33804,7 +33797,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-25T12:12:47.836Z",
+    "todos": "2026-09-25T13:22:54.783Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -33813,7 +33806,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-24T19:59:16.212Z",
-    "outlookCompletionQueue": "2026-09-25T12:12:01.827Z",
+    "outlookCompletionQueue": "2026-09-25T13:22:54.783Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-22T08:04:07.555Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -33830,6 +33823,6 @@
     "portProfiles": "2026-09-24T21:47:49.807Z",
     "todoTombs": "2026-09-25T12:12:47.836Z"
   },
-  "rev": 3310,
-  "savedAt": "2026-09-25T12:20:33.764Z"
+  "rev": 3311,
+  "savedAt": "2026-09-25T13:22:54.783Z"
 }
