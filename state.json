@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-28T07:41:11.569Z",
+  "pushedAt": "2026-09-28T07:41:26.120Z",
   "todosCount": 524,
   "todos": [
     {
@@ -10635,7 +10635,7 @@
       "outlookFlagDate": "2026-09-11"
     },
     {
-      "category": "Altro",
+      "category": "Nave",
       "priority": "media",
       "reference": "M/V ATLAS -  SOA  and payment  / DD1263",
       "tags": [
@@ -10647,7 +10647,7 @@
       "outlookSourceImported": true,
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B9awAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "R: M/V ATLAS -  SOA  and payment  / DD1263",
-      "vessel": "",
+      "vessel": "norrbotten",
       "action": "Altro",
       "dueDate": "2026-09-28",
       "note": "",
@@ -10657,7 +10657,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-23T09:41:21.037Z",
+      "updatedAt": "2026-09-28T07:41:22.709Z",
       "outlookFlagDate": "2026-09-11"
     },
     {
@@ -34169,7 +34169,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-28T07:41:11.569Z",
+    "todos": "2026-09-28T07:41:26.120Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -34196,6 +34196,6 @@
     "todoTombs": "2026-09-25T12:12:47.836Z",
     "critFlags": "2026-09-25T20:47:32.850Z"
   },
-  "rev": 3360,
-  "savedAt": "2026-09-28T07:41:11.570Z"
+  "rev": 3361,
+  "savedAt": "2026-09-28T07:41:26.121Z"
 }
