@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-28T07:38:57.322Z",
+  "pushedAt": "2026-09-28T07:39:06.953Z",
   "todosCount": 524,
   "todos": [
     {
@@ -11941,7 +11941,7 @@
       "outlookLinkedName": "M/V ATLAS -(EX NAME NORRBOTTEN )- Request for Outstanding Invoice and Payment Status / MYTHMAR-26.7523 & 26.7524 & 26.7525 & 26.7526 & 26.7527 & 26.7528 & 26.7529 & 26.7530 )",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-09-28",
+      "dueDate": "2026-09-29",
       "note": "",
       "createdAt": "2026-09-23T09:45:21.6252775Z",
       "done": false,
@@ -11950,7 +11950,7 @@
       "outlookFlagDate": "2026-09-23",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-25T11:57:27.879Z"
+      "updatedAt": "2026-09-28T07:39:03.503Z"
     },
     {
       "category": "Nave",
@@ -34154,7 +34154,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-28T07:38:57.321Z",
+    "todos": "2026-09-28T07:39:06.953Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -34181,6 +34181,6 @@
     "todoTombs": "2026-09-25T12:12:47.836Z",
     "critFlags": "2026-09-25T20:47:32.850Z"
   },
-  "rev": 3353,
-  "savedAt": "2026-09-28T07:38:57.323Z"
+  "rev": 3354,
+  "savedAt": "2026-09-28T07:39:06.954Z"
 }
