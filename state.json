@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_jcjbq8zhzw",
-  "pushedAt": "2026-09-28T08:59:02.964Z",
+  "pushedAt": "2026-09-28T08:59:07.820Z",
   "todosCount": 486,
   "todos": [
     {
@@ -28834,7 +28834,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-28T08:59:02.964Z",
+    "todos": "2026-09-28T08:59:06.545Z",
     "notes": "2026-08-25T13:37:28.721Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-08-21T07:32:33.905Z",
@@ -28843,7 +28843,7 @@
     "supplierLanguages": "2026-08-24T09:32:27.663Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-08-26T15:27:56.185Z",
-    "outlookCompletionQueue": "2026-09-28T08:59:02.964Z",
+    "outlookCompletionQueue": "2026-09-28T08:59:06.545Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-08-24T10:23:08.166Z",
     "vesselPos": "2026-08-21T07:32:33.905Z",
@@ -28853,9 +28853,9 @@
     "itemOverrides": "2026-08-25T13:37:18.740Z",
     "repliesDismissed": "2026-08-26T15:26:21.802Z",
     "pinnedActions": "",
-    "shipments": "2026-09-28T08:59:02.964Z",
+    "shipments": "2026-09-28T08:59:06.545Z",
     "certExtras": "2026-08-21T07:32:33.905Z"
   },
   "rev": 2276,
-  "savedAt": "2026-09-28T08:59:02.964Z"
+  "savedAt": "2026-09-28T08:59:07.822Z"
 }
