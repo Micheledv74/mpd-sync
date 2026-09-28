@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-28T20:38:48.242Z",
+  "pushedAt": "2026-09-28T20:38:55.980Z",
   "todosCount": 533,
   "todos": [
     {
@@ -26480,6 +26480,12 @@
       "port": "Tema, Ghana",
       "date": "2026-09-26",
       "frozenFromVoyage": true
+    },
+    "peppino::welding machine": {
+      "mode": "manual",
+      "port": "Tema, Ghana",
+      "date": "2026-09-26",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -34550,7 +34556,7 @@
     "voyages": "2026-09-28T07:04:43.995Z",
     "outlookCompletionQueue": "2026-09-28T08:26:22.546Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
-    "deliveries": "2026-09-28T15:28:46.839Z",
+    "deliveries": "2026-09-28T20:38:55.980Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-09-22T17:38:51.248Z",
@@ -34567,6 +34573,6 @@
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-09-28T20:38:48.242Z"
   },
-  "rev": 3401,
-  "savedAt": "2026-09-28T20:38:48.242Z"
+  "rev": 3402,
+  "savedAt": "2026-09-28T20:38:55.980Z"
 }
