@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-28T15:25:41.502Z",
+  "pushedAt": "2026-09-28T15:26:02.426Z",
   "todosCount": 531,
   "todos": [
     {
@@ -34339,7 +34339,7 @@
     "peppino::urgent engine store cotton rags": {
       "pos": "transit",
       "closeInInfoship": false,
-      "updatedAt": "2026-09-28T12:52:54.312Z",
+      "updatedAt": "2026-09-28T15:25:58.817Z",
       "since": "2026-09-28",
       "by": "scheda"
     },
@@ -34387,8 +34387,8 @@
     "portProfiles": "2026-09-25T17:52:59.070Z",
     "todoTombs": "2026-09-25T12:12:47.836Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-09-28T13:12:37.095Z"
+    "matPos": "2026-09-28T15:26:02.425Z"
   },
-  "rev": 3386,
-  "savedAt": "2026-09-28T15:25:41.502Z"
+  "rev": 3387,
+  "savedAt": "2026-09-28T15:26:02.426Z"
 }
