@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-28T13:12:48.187Z",
+  "pushedAt": "2026-09-28T15:25:41.502Z",
   "todosCount": 531,
   "todos": [
     {
@@ -30243,7 +30243,7 @@
             "code": "info"
           }
         ],
-        "updatedAt": "2026-09-28T07:03:26.791Z",
+        "updatedAt": "2026-09-28T15:25:38.053Z",
         "source": "17track-manual",
         "gid": "gmugovdbn7rs"
       }
@@ -31148,7 +31148,7 @@
           }
         ],
         "source": "17track-manual",
-        "updatedAt": "2026-09-28T07:03:26.791Z"
+        "updatedAt": "2026-09-28T15:25:38.053Z"
       },
       "gmugp5ugad5m": {
         "id": "gmugp5ugad5m",
@@ -34379,7 +34379,7 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-15T09:04:12.962Z",
     "repliesDismissed": "2026-09-22T19:33:38.236Z",
-    "shipments": "2026-09-28T07:03:30.216Z",
+    "shipments": "2026-09-28T15:25:41.501Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
     "rfqChases": "2026-09-25T12:20:33.762Z",
@@ -34389,6 +34389,6 @@
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-09-28T13:12:37.095Z"
   },
-  "rev": 3385,
-  "savedAt": "2026-09-28T13:12:48.187Z"
+  "rev": 3386,
+  "savedAt": "2026-09-28T15:25:41.502Z"
 }
