@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-28T12:30:32.054Z",
-  "todosCount": 528,
+  "pushedAt": "2026-09-28T12:30:36.687Z",
+  "todosCount": 530,
   "todos": [
     {
       "category": "Infoship",
@@ -12460,6 +12460,52 @@
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKDN5JPAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKDN5JPAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKDNzQlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-09-27",
+      "outlookLinkedName": "Re: [EXTERNAL] MV PEPINO - Urgent order for welding machine",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "[EXTERNAL] MV PEPINO - Urgent order for welding machine",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-27",
+      "note": "",
+      "createdAt": "2026-09-28T09:44:40.3934717Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKDN5JOAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKDN5JOAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKDNzQiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-09-27",
+      "outlookLinkedName": "Re: [EXTERNAL] MV PEPINO - Urgent order for welding machine",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "[EXTERNAL] MV PEPINO - Urgent order for welding machine",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-27",
+      "note": "",
+      "createdAt": "2026-09-28T09:38:29.3875806Z",
+      "done": true,
+      "doneAt": "2026-09-28T09:44:40.1263289Z",
+      "outlookStatus": "completed"
     }
   ],
   "notes": {
@@ -34299,6 +34345,6 @@
     "todoTombs": "2026-09-25T12:12:47.836Z",
     "critFlags": "2026-09-25T20:47:32.850Z"
   },
-  "rev": 3372,
-  "savedAt": "2026-09-28T12:30:32.055Z"
+  "rev": 3373,
+  "savedAt": "2026-09-28T12:30:36.688Z"
 }
