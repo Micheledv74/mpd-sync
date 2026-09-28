@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-28T13:12:37.095Z",
+  "pushedAt": "2026-09-28T13:12:48.187Z",
   "todosCount": 531,
   "todos": [
     {
@@ -26428,6 +26428,12 @@
       "port": "Tema, Ghana",
       "date": "2026-09-26",
       "frozenFromVoyage": true
+    },
+    "med toscana::talk back card": {
+      "mode": "manual",
+      "port": "MOMBASA",
+      "date": "2026-09-26",
+      "frozenFromVoyage": true
     }
   },
   "vesselPos": {
@@ -34366,7 +34372,7 @@
     "voyages": "2026-09-28T07:04:43.995Z",
     "outlookCompletionQueue": "2026-09-28T08:26:22.546Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
-    "deliveries": "2026-09-28T12:53:12.648Z",
+    "deliveries": "2026-09-28T13:12:48.187Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-09-22T17:38:51.248Z",
@@ -34383,6 +34389,6 @@
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-09-28T13:12:37.095Z"
   },
-  "rev": 3384,
-  "savedAt": "2026-09-28T13:12:37.096Z"
+  "rev": 3385,
+  "savedAt": "2026-09-28T13:12:48.187Z"
 }
