@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-28T12:53:42.454Z",
+  "pushedAt": "2026-09-28T13:12:37.095Z",
   "todosCount": 531,
   "todos": [
     {
@@ -34336,6 +34336,12 @@
       "updatedAt": "2026-09-28T12:52:54.312Z",
       "since": "2026-09-28",
       "by": "scheda"
+    },
+    "med toscana::talk back card": {
+      "pos": "transit",
+      "closeInInfoship": false,
+      "updatedAt": "2026-09-28T13:12:33.542Z",
+      "since": "2026-09-28"
     }
   },
   "todoTombs": {
@@ -34375,8 +34381,8 @@
     "portProfiles": "2026-09-25T17:52:59.070Z",
     "todoTombs": "2026-09-25T12:12:47.836Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-09-28T12:52:51.747Z"
+    "matPos": "2026-09-28T13:12:37.095Z"
   },
-  "rev": 3383,
-  "savedAt": "2026-09-28T12:53:42.455Z"
+  "rev": 3384,
+  "savedAt": "2026-09-28T13:12:37.096Z"
 }
