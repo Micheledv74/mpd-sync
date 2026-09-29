@@ -1,9 +1,28 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-29T07:36:20.038Z",
-  "todosCount": 534,
+  "pushedAt": "2026-09-29T07:38:51.301Z",
+  "todosCount": 535,
   "todos": [
+    {
+      "id": "td_1790667527875_zrf5y",
+      "category": "Nave",
+      "priority": "alta",
+      "vessel": "peppino",
+      "action": "Controllare",
+      "reference": "Certificati",
+      "tags": [],
+      "dueDate": "2026-10-28",
+      "note": "",
+      "recur": {
+        "type": "days",
+        "interval": 30
+      },
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-09-29T07:38:47.876Z",
+      "updatedAt": "2026-09-29T07:38:47.876Z"
+    },
     {
       "category": "Infoship",
       "priority": "alta",
@@ -12272,12 +12291,12 @@
       "dueDate": "2026-09-28",
       "note": "",
       "createdAt": "2026-09-25T12:47:28.6919664Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-09-29T07:38:45.089Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-28T07:37:20.788Z"
+      "updatedAt": "2026-09-29T07:38:45.089Z"
     },
     {
       "category": "Nave",
@@ -12357,13 +12376,13 @@
       "dueDate": "2026-09-28",
       "note": "",
       "createdAt": "2026-09-25T14:12:04.6793466Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-09-29T07:38:46.273Z",
       "outlookStatus": "notStarted",
       "outlookFlagDate": "2026-09-24",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-28T07:41:08.091Z"
+      "updatedAt": "2026-09-29T07:38:46.273Z"
     },
     {
       "category": "Nave",
@@ -12525,9 +12544,10 @@
         "interval": 30
       },
       "kind": "todo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-09-23T09:27:16.360Z",
-      "updatedAt": "2026-09-25T12:12:23.519Z"
+      "updatedAt": "2026-09-29T07:38:47.873Z",
+      "doneAt": "2026-09-29T07:38:47.873Z"
     },
     {
       "category": "Altro",
@@ -25813,6 +25833,20 @@
       "completedAt": "2026-09-28T08:26:19.150Z",
       "todoId": "outlook_AAKAS8xRAAA=",
       "title": "[QTN] RE: I: M/V MED TOSCANA PR98 HQRQ-00219 MDT-SHPR-00098 (FB26262575)"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKAS8xPAAA=",
+      "listId": "",
+      "completedAt": "2026-09-29T07:38:45.092Z",
+      "todoId": "outlook_AAKAS8xPAAA=",
+      "title": "M/V PEPPINO - Purchase Order #2026-PEP-HQPO-00155 – Cotton Rags"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKAS8xQAAA=",
+      "listId": "",
+      "completedAt": "2026-09-29T07:38:46.275Z",
+      "todoId": "outlook_AAKAS8xQAAA=",
+      "title": "MV PEPINO - Urgent order for welding machine"
     }
   ],
   "manualOrders": {
@@ -34570,7 +34604,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-28T21:19:01.175Z",
+    "todos": "2026-09-29T07:38:51.301Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -34579,7 +34613,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-28T07:04:43.995Z",
-    "outlookCompletionQueue": "2026-09-28T08:26:22.546Z",
+    "outlookCompletionQueue": "2026-09-29T07:38:51.301Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -34598,6 +34632,6 @@
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-09-28T21:21:45.685Z"
   },
-  "rev": 3418,
-  "savedAt": "2026-09-29T07:36:20.038Z"
+  "rev": 3419,
+  "savedAt": "2026-09-29T07:38:51.302Z"
 }
