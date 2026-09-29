@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-29T07:57:27.186Z",
+  "pushedAt": "2026-09-29T07:57:42.069Z",
   "todosCount": 535,
   "todos": [
     {
@@ -12592,12 +12592,15 @@
       "outlookLinkedName": "MYTHMAR-26.7731 26.7732 26.7733 / MV NORRBOTTEN / INVOICE",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-09-28",
+      "dueDate": "2026-10-05",
       "note": "",
       "createdAt": "2026-09-28T13:55:08.8239587Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-09-29T07:57:38.636Z"
     },
     {
       "category": "Nave",
@@ -34622,7 +34625,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-29T07:57:25.522Z",
+    "todos": "2026-09-29T07:57:42.069Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -34650,6 +34653,6 @@
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-09-28T21:21:45.685Z"
   },
-  "rev": 3425,
-  "savedAt": "2026-09-29T07:57:27.188Z"
+  "rev": 3426,
+  "savedAt": "2026-09-29T07:57:42.071Z"
 }
