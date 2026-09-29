@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-29T09:20:54.045Z",
-  "todosCount": 535,
+  "pushedAt": "2026-09-29T11:22:37.617Z",
+  "todosCount": 536,
   "todos": [
     {
       "category": "Nave",
@@ -12620,6 +12620,29 @@
       "mobileSync": "synced",
       "mobileSyncAt": "2026-09-28T20:51:15.051Z",
       "doneAt": "2026-09-29T07:57:44.245Z"
+    },
+    {
+      "id": "outlook_AAKDN5JSAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKDN5JSAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKDNzRvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-09-29",
+      "outlookLinkedName": "TEF064770 ATLAS (EX NORRBOTTEN) Forntiura materiali installativi pt 2",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "TEF064770 ATLAS (EX NORRBOTTEN) Forntiura materiali installativi pt 2",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-09-29",
+      "note": "",
+      "createdAt": "2026-09-29T09:51:57.3975392Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -34673,7 +34696,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-29T08:22:13.353Z",
+    "todos": "2026-09-29T11:22:37.616Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -34701,6 +34724,6 @@
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-09-29T09:20:54.045Z"
   },
-  "rev": 3447,
-  "savedAt": "2026-09-29T09:20:54.045Z"
+  "rev": 3448,
+  "savedAt": "2026-09-29T11:22:37.617Z"
 }
