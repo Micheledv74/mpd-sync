@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-29T09:20:32.225Z",
+  "pushedAt": "2026-09-29T09:20:46.987Z",
   "todosCount": 535,
   "todos": [
     {
@@ -34646,6 +34646,13 @@
       "by": "scheda",
       "updatedAt": "2026-09-29T09:20:28.801Z",
       "since": "2026-09-29"
+    },
+    "med liguria::lashing material for grabs": {
+      "pos": "onboard",
+      "closeInInfoship": true,
+      "by": "scheda",
+      "updatedAt": "2026-09-29T09:20:43.560Z",
+      "since": "2026-09-29"
     }
   },
   "todoTombs": {
@@ -34685,8 +34692,8 @@
     "portProfiles": "2026-09-25T17:52:59.070Z",
     "todoTombs": "2026-09-25T12:12:47.836Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-09-29T09:20:32.225Z"
+    "matPos": "2026-09-29T09:20:46.987Z"
   },
-  "rev": 3445,
-  "savedAt": "2026-09-29T09:20:32.226Z"
+  "rev": 3446,
+  "savedAt": "2026-09-29T09:20:46.988Z"
 }
