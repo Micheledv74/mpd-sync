@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-29T12:00:58.007Z",
+  "pushedAt": "2026-09-29T12:02:34.247Z",
   "todosCount": 538,
   "todos": [
     {
@@ -27297,6 +27297,10 @@
     "peppino::spa req fresh water generator": {
       "origin": "China",
       "transportMode": "TML Shanghai"
+    },
+    "med toscana::messenger line for mooring ropes": {
+      "excludePerf": true,
+      "excludeReason": "strategic"
     }
   },
   "repliesDismissed": [
@@ -34826,7 +34830,7 @@
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-09-22T17:38:51.248Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
-    "itemOverrides": "2026-09-15T09:04:12.962Z",
+    "itemOverrides": "2026-09-29T12:02:34.247Z",
     "repliesDismissed": "2026-09-29T12:00:58.007Z",
     "shipments": "2026-09-29T08:02:55.745Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
@@ -34838,6 +34842,6 @@
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-09-29T09:20:54.045Z"
   },
-  "rev": 3483,
-  "savedAt": "2026-09-29T12:00:58.007Z"
+  "rev": 3484,
+  "savedAt": "2026-09-29T12:02:34.248Z"
 }
