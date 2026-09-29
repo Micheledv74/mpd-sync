@@ -1,9 +1,30 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-29T11:22:50.007Z",
-  "todosCount": 536,
+  "pushedAt": "2026-09-29T11:53:29.468Z",
+  "todosCount": 537,
   "todos": [
+    {
+      "id": "td_1790682806058_j44v4",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Inviare email",
+      "reference": "Rispondere a Oriana Schiano — TEF064770 ATLAS (EX NORRBOTTEN) Forntiura materiali installativi pt 2",
+      "tags": [
+        "email",
+        "tefin.it"
+      ],
+      "dueDate": "2026-09-30",
+      "note": "Buongiorno a tutti In allegato lista di ulteriori materiale installativi necessari per le attività da svolgere a bordo Attendiamo vs Saluti Oriana Schiano Service coordination department Gestione imprese on behalf of: Direct: 08119134415 Telepho",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKDNzRvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "TEF064770 ATLAS (EX NORRBOTTEN) Forntiura materiali installativi pt 2",
+      "done": false,
+      "createdAt": "2026-09-29T11:53:26.058Z",
+      "updatedAt": "2026-09-29T11:53:26.058Z"
+    },
     {
       "category": "Nave",
       "priority": "alta",
@@ -27258,8 +27279,6 @@
     }
   },
   "repliesDismissed": [
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAG9-kFIwnltFuaveVzfzOAQ=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQACkcaAhqhqhAr668XjaMhX4=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAxlNig_OvBFr_5SLompZes=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAEfXO_DYu0OorYAcRMW2fJc=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJtladi_SGpPrqxadi_R4d4=",
@@ -27757,7 +27776,9 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAE0ez5STIXtKiiPMGNWIbb0=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAH_o1LABmkl1rrRLpOb7T7c=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAGi4NgEUD9tHkcZgitYk59c=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQANIM4aHLTUc6qEnfTPluJE0="
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQANIM4aHLTUc6qEnfTPluJE0=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAC58tPwIREb4s7afQY3oUYc=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAOFe6qynNTBKuWLyGxLe4ko="
   ],
   "shipments": {
     "med toscana::bwts suction pump mn 40125": [
@@ -34768,7 +34789,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-29T11:22:50.007Z",
+    "todos": "2026-09-29T11:53:29.467Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -34785,7 +34806,7 @@
     "agencyProfiles": "2026-09-22T17:38:51.248Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-15T09:04:12.962Z",
-    "repliesDismissed": "2026-09-22T19:33:38.236Z",
+    "repliesDismissed": "2026-09-29T11:53:29.467Z",
     "shipments": "2026-09-29T08:02:55.745Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
@@ -34796,6 +34817,6 @@
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-09-29T09:20:54.045Z"
   },
-  "rev": 3448,
-  "savedAt": "2026-09-29T11:22:50.007Z"
+  "rev": 3449,
+  "savedAt": "2026-09-29T11:53:29.468Z"
 }
