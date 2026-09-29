@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-29T07:39:56.096Z",
+  "pushedAt": "2026-09-29T07:40:31.758Z",
   "todosCount": 535,
   "todos": [
     {
@@ -12013,13 +12013,13 @@
       "dueDate": "2026-09-28",
       "note": "",
       "createdAt": "2026-09-24T07:03:49.1845Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-09-29T07:40:28.651Z",
       "outlookStatus": "notStarted",
       "outlookFlagDate": "2026-09-24",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-28T07:41:42.670Z"
+      "updatedAt": "2026-09-29T07:40:28.651Z"
     },
     {
       "category": "Altro",
@@ -25847,6 +25847,13 @@
       "completedAt": "2026-09-29T07:38:46.275Z",
       "todoId": "outlook_AAKAS8xQAAA=",
       "title": "MV PEPINO - Urgent order for welding machine"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKAS8xFAAA=",
+      "listId": "",
+      "completedAt": "2026-09-29T07:40:28.655Z",
+      "todoId": "outlook_AAKAS8xFAAA=",
+      "title": "TEF064730 - Nave NORRBOTTEN - installazione della parte elettrica stern thruster e gruppo elettrogeno"
     }
   ],
   "manualOrders": {
@@ -34604,7 +34611,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-29T07:39:56.096Z",
+    "todos": "2026-09-29T07:40:31.757Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -34613,7 +34620,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-28T07:04:43.995Z",
-    "outlookCompletionQueue": "2026-09-29T07:38:51.301Z",
+    "outlookCompletionQueue": "2026-09-29T07:40:31.757Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -34632,6 +34639,6 @@
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-09-28T21:21:45.685Z"
   },
-  "rev": 3422,
-  "savedAt": "2026-09-29T07:39:56.096Z"
+  "rev": 3423,
+  "savedAt": "2026-09-29T07:40:31.759Z"
 }
