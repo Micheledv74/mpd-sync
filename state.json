@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T09:12:17.920Z",
+  "pushedAt": "2026-09-30T09:35:18.419Z",
   "todosCount": 540,
   "todos": [
     {
@@ -25657,7 +25657,7 @@
         "id": "vmtwq7qwo4d88",
         "from": "Kirachi",
         "to": "MOMBASA",
-        "etd": "2026-10-03T21:59",
+        "etd": "2026-10-05T21:59",
         "etb": "2026-09-26T21:59",
         "eta": "2026-09-23T06:00",
         "agency": null
@@ -25672,7 +25672,7 @@
         "agency": null
       },
       "notes": "DISCHARGE PORT:  MOMBASA, KENYA",
-      "updatedAt": "2026-09-30T09:07:56.873Z",
+      "updatedAt": "2026-09-30T09:35:15.680Z",
       "fromNoon": "2026-09-21",
       "history": [
         {
@@ -34905,7 +34905,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-09-30T09:09:15.767Z",
+    "voyages": "2026-09-30T09:35:18.418Z",
     "outlookCompletionQueue": "2026-09-30T09:12:17.919Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
@@ -34926,6 +34926,6 @@
     "matPos": "2026-09-30T09:10:10.537Z",
     "delivGoal": "2026-09-30T09:09:15.767Z"
   },
-  "rev": 3503,
-  "savedAt": "2026-09-30T09:12:17.920Z"
+  "rev": 3504,
+  "savedAt": "2026-09-30T09:35:18.420Z"
 }
