@@ -1,19 +1,19 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T17:50:13.008Z",
+  "pushedAt": "2026-09-30T17:50:17.991Z",
   "todosCount": 546,
   "todos": [
     {
-      "id": "td_rem_tekomar_vegauno_2026_09",
       "category": "Nave",
       "priority": "media",
-      "vessel": "vegauno",
-      "action": "Inviare email",
       "reference": "M/V VEGA UNO - TEKOMAR XPERT – September Data Update",
       "tags": [
         "avviso"
       ],
+      "id": "td_rem_tekomar_vegauno_2026_09",
+      "vessel": "vegauno",
+      "action": "Inviare email",
       "dueDate": "2026-09-25",
       "note": "Avviso periodico «TEKOMAR XPERT · aggiornamento mensile» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
@@ -28,15 +28,15 @@
       }
     },
     {
-      "id": "td_rem_tekomar_norrbotten_2026_09",
       "category": "Nave",
       "priority": "media",
-      "vessel": "norrbotten",
-      "action": "Inviare email",
       "reference": "M/V ATLAS - TEKOMAR XPERT – September Data Update",
       "tags": [
         "avviso"
       ],
+      "id": "td_rem_tekomar_norrbotten_2026_09",
+      "vessel": "norrbotten",
+      "action": "Inviare email",
       "dueDate": "2026-09-25",
       "note": "Avviso periodico «TEKOMAR XPERT · aggiornamento mensile» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
@@ -51,15 +51,15 @@
       }
     },
     {
-      "id": "td_rem_tekomar_medtoscana_2026_09",
       "category": "Nave",
       "priority": "media",
-      "vessel": "medtoscana",
-      "action": "Inviare email",
       "reference": "M/V MED TOSCANA - TEKOMAR XPERT – September Data Update",
       "tags": [
         "avviso"
       ],
+      "id": "td_rem_tekomar_medtoscana_2026_09",
+      "vessel": "medtoscana",
+      "action": "Inviare email",
       "dueDate": "2026-09-25",
       "note": "Avviso periodico «TEKOMAR XPERT · aggiornamento mensile» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
@@ -75,15 +75,15 @@
       "doneAt": "2026-09-30T17:38:19.933Z"
     },
     {
-      "id": "td_rem_tekomar_medliguria_2026_09",
       "category": "Nave",
       "priority": "media",
-      "vessel": "medliguria",
-      "action": "Inviare email",
       "reference": "M/V MED LIGURIA - TEKOMAR XPERT – September Data Update",
       "tags": [
         "avviso"
       ],
+      "id": "td_rem_tekomar_medliguria_2026_09",
+      "vessel": "medliguria",
+      "action": "Inviare email",
       "dueDate": "2026-09-25",
       "note": "Avviso periodico «TEKOMAR XPERT · aggiornamento mensile» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
@@ -99,15 +99,15 @@
       "doneAt": "2026-09-30T17:38:01.859Z"
     },
     {
-      "id": "td_rem_tekomar_peppino_2026_09",
       "category": "Nave",
       "priority": "media",
-      "vessel": "peppino",
-      "action": "Inviare email",
       "reference": "M/V PEPPINO - TEKOMAR XPERT – September Data Update",
       "tags": [
         "avviso"
       ],
+      "id": "td_rem_tekomar_peppino_2026_09",
+      "vessel": "peppino",
+      "action": "Inviare email",
       "dueDate": "2026-09-25",
       "note": "Avviso periodico «TEKOMAR XPERT · aggiornamento mensile» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
@@ -26157,7 +26157,7 @@
         "id": "mo_1790790562390_or6z",
         "docNum": "1",
         "description": "",
-        "supplier": "Delta Service s",
+        "supplier": "Delta Service srl",
         "status": "rfq",
         "date": "",
         "amount": "",
@@ -35110,7 +35110,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-30T17:50:13.008Z",
+    "todos": "2026-09-30T17:50:17.991Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -35140,6 +35140,6 @@
     "delivGoal": "2026-09-30T09:09:15.767Z",
     "reminders": "2026-09-30T17:40:54.773Z"
   },
-  "rev": 3533,
-  "savedAt": "2026-09-30T17:50:13.009Z"
+  "rev": 3539,
+  "savedAt": "2026-09-30T17:50:17.992Z"
 }
