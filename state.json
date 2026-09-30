@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T09:11:57.849Z",
+  "pushedAt": "2026-09-30T09:12:17.920Z",
   "todosCount": 540,
   "todos": [
     {
@@ -12682,9 +12682,10 @@
       "dueDate": "2026-09-29",
       "note": "",
       "createdAt": "2026-09-29T09:51:57.3975392Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-09-30T09:12:14.475Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-09-30T09:12:14.476Z"
     },
     {
       "id": "outlook_AAKEluUzAAA=",
@@ -25987,6 +25988,13 @@
       "completedAt": "2026-09-29T07:57:59.328Z",
       "todoId": "outlook_AAKDN5JPAAA=",
       "title": "[EXTERNAL] MV PEPINO - Urgent order for welding machine"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKDN5JSAAA=",
+      "listId": "",
+      "completedAt": "2026-09-30T09:12:14.481Z",
+      "todoId": "outlook_AAKDN5JSAAA=",
+      "title": "TEF064770 ATLAS (EX NORRBOTTEN) Forntiura materiali installativi pt 2"
     }
   ],
   "manualOrders": {
@@ -34889,7 +34897,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-30T08:04:33.088Z",
+    "todos": "2026-09-30T09:12:17.919Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -34898,7 +34906,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-30T09:09:15.767Z",
-    "outlookCompletionQueue": "2026-09-29T07:58:02.719Z",
+    "outlookCompletionQueue": "2026-09-30T09:12:17.919Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -34918,6 +34926,6 @@
     "matPos": "2026-09-30T09:10:10.537Z",
     "delivGoal": "2026-09-30T09:09:15.767Z"
   },
-  "rev": 3502,
-  "savedAt": "2026-09-30T09:11:57.849Z"
+  "rev": 3503,
+  "savedAt": "2026-09-30T09:12:17.920Z"
 }
