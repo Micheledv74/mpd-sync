@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T17:58:29.413Z",
+  "pushedAt": "2026-09-30T17:58:33.122Z",
   "todosCount": 546,
   "todos": [
     {
@@ -26180,7 +26180,7 @@
         "supplier": "",
         "status": "rfq",
         "date": "2026-05-07",
-        "amount": "",
+        "amount": "5",
         "currency": "EUR"
       }
     ],
@@ -35160,6 +35160,6 @@
     "delivGoal": "2026-09-30T09:09:15.767Z",
     "reminders": "2026-09-30T17:40:54.773Z"
   },
-  "rev": 3556,
-  "savedAt": "2026-09-30T17:58:29.414Z"
+  "rev": 3557,
+  "savedAt": "2026-09-30T17:58:33.123Z"
 }
