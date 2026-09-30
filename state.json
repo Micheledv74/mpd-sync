@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T17:58:33.122Z",
+  "pushedAt": "2026-09-30T17:58:41.640Z",
   "todosCount": 546,
   "todos": [
     {
@@ -26180,7 +26180,7 @@
         "supplier": "",
         "status": "rfq",
         "date": "2026-05-07",
-        "amount": "5",
+        "amount": "881.089",
         "currency": "EUR"
       }
     ],
@@ -35140,7 +35140,7 @@
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-30T10:20:50.384Z",
     "outlookCompletionQueue": "2026-09-30T09:48:04.794Z",
-    "manualOrders": "2026-09-30T17:58:29.413Z",
+    "manualOrders": "2026-09-30T17:58:41.640Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35160,6 +35160,6 @@
     "delivGoal": "2026-09-30T09:09:15.767Z",
     "reminders": "2026-09-30T17:40:54.773Z"
   },
-  "rev": 3557,
-  "savedAt": "2026-09-30T17:58:33.123Z"
+  "rev": 3558,
+  "savedAt": "2026-09-30T17:58:41.640Z"
 }
