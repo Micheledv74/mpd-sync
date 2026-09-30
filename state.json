@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T07:06:39.901Z",
+  "pushedAt": "2026-09-30T07:27:22.642Z",
   "todosCount": 538,
   "todos": [
     {
@@ -34698,10 +34698,11 @@
       "by": "scheda"
     },
     "peppino::welding machine": {
-      "pos": "supplier",
-      "closeInInfoship": false,
-      "updatedAt": "2026-09-28T21:21:01.778Z",
-      "since": "2026-09-28"
+      "pos": "onboard",
+      "closeInInfoship": true,
+      "updatedAt": "2026-09-30T07:27:19.189Z",
+      "since": "2026-09-30",
+      "by": "scheda"
     },
     "peppino::log book peppino": {
       "pos": "onboard",
@@ -34743,7 +34744,8 @@
       "port": "Tema, Ghana",
       "etd": "2026-10-02",
       "vid": "peppino",
-      "updatedAt": "2026-09-29T11:22:39.533Z"
+      "out": "made",
+      "updatedAt": "2026-09-30T07:27:19.217Z"
     },
     "peppino::urgent engine store cotton rags": {
       "worst": "risk",
@@ -34845,9 +34847,9 @@
     "portProfiles": "2026-09-25T17:52:59.070Z",
     "todoTombs": "2026-09-25T12:12:47.836Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-09-29T12:23:24.418Z",
-    "delivGoal": "2026-09-29T12:22:11.132Z"
+    "matPos": "2026-09-30T07:27:22.642Z",
+    "delivGoal": "2026-09-30T07:27:22.642Z"
   },
-  "rev": 3490,
-  "savedAt": "2026-09-30T07:06:39.902Z"
+  "rev": 3491,
+  "savedAt": "2026-09-30T07:27:22.642Z"
 }
