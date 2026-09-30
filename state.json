@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T09:47:43.562Z",
+  "pushedAt": "2026-09-30T09:48:04.795Z",
   "todosCount": 540,
   "todos": [
     {
@@ -12708,9 +12708,10 @@
       "dueDate": "2026-09-30",
       "note": "",
       "createdAt": "2026-09-30T07:13:44.6442225Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-09-30T09:48:01.367Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-09-30T09:48:01.367Z"
     },
     {
       "id": "outlook_AAKEluUyAAA=",
@@ -25997,6 +25998,13 @@
       "completedAt": "2026-09-30T09:12:14.481Z",
       "todoId": "outlook_AAKDN5JSAAA=",
       "title": "TEF064770 ATLAS (EX NORRBOTTEN) Forntiura materiali installativi pt 2"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKEluUzAAA=",
+      "listId": "",
+      "completedAt": "2026-09-30T09:48:01.372Z",
+      "todoId": "outlook_AAKEluUzAAA=",
+      "title": "TEF064829 - ATLAS"
     }
   ],
   "manualOrders": {
@@ -34899,7 +34907,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-30T09:47:38.677Z",
+    "todos": "2026-09-30T09:48:04.794Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -34908,7 +34916,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-30T09:35:18.418Z",
-    "outlookCompletionQueue": "2026-09-30T09:12:17.919Z",
+    "outlookCompletionQueue": "2026-09-30T09:48:04.794Z",
     "manualOrders": "2026-08-21T07:32:33.905Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -34928,6 +34936,6 @@
     "matPos": "2026-09-30T09:10:10.537Z",
     "delivGoal": "2026-09-30T09:09:15.767Z"
   },
-  "rev": 3506,
-  "savedAt": "2026-09-30T09:47:43.565Z"
+  "rev": 3507,
+  "savedAt": "2026-09-30T09:48:04.795Z"
 }
