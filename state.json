@@ -1,9 +1,29 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T18:12:03.949Z",
-  "todosCount": 546,
+  "pushedAt": "2026-09-30T18:13:11.427Z",
+  "todosCount": 547,
   "todos": [
+    {
+      "id": "td_1790791988010_vhzna",
+      "category": "Ufficio",
+      "priority": "alta",
+      "vessel": "",
+      "action": "Sollecitare",
+      "reference": "Rispondere a Purchasing SSSDAm — Re: 4929354242 // MV PEPPINO",
+      "tags": [
+        "email"
+      ],
+      "dueDate": "2026-09-30",
+      "note": "Dear Angel, As far as our records are concerned, this shipment does not appear to be related to us. Kindly keep the shipment on hold and verify the shipper and consignee details directly with DHL. Best regards, michele del vecchio purchasing",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKElqpQAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "Re: 4929354242 // MV PEPPINO",
+      "done": false,
+      "createdAt": "2026-09-30T18:13:08.010Z",
+      "updatedAt": "2026-09-30T18:13:08.010Z"
+    },
     {
       "category": "Nave",
       "priority": "media",
@@ -27543,7 +27563,6 @@
     }
   },
   "repliesDismissed": [
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFQWSDJcy7lHpseXKd6XnPc=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALk0u1AMykk5m2tHSN6MBIA=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQANd8mpPDzjRNogwViygH4tw=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAHMVbZf-lANDgD9DsS9OgSs=",
@@ -28042,7 +28061,8 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAB_jmRMD64FItEmYVjrMyg8=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAKXX7GAh2M9Brk0l9ZbN7_w=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAM5SpKLiTIxEpyYGXxcBsws=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAigsX-LNUUunK1DcDiU7g4="
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAigsX-LNUUunK1DcDiU7g4=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAC0LS1ilTN5OqIIDU9KdFjI="
   ],
   "shipments": {
     "med toscana::bwts suction pump mn 40125": [
@@ -35130,7 +35150,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-30T18:12:03.948Z",
+    "todos": "2026-09-30T18:13:11.427Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -35147,7 +35167,7 @@
     "agencyProfiles": "2026-09-22T17:38:51.248Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-29T12:02:34.247Z",
-    "repliesDismissed": "2026-09-29T12:00:58.007Z",
+    "repliesDismissed": "2026-09-30T18:13:11.427Z",
     "shipments": "2026-09-29T08:02:55.745Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
@@ -35160,6 +35180,6 @@
     "delivGoal": "2026-09-30T09:09:15.767Z",
     "reminders": "2026-09-30T17:40:54.773Z"
   },
-  "rev": 3571,
-  "savedAt": "2026-09-30T18:12:03.949Z"
+  "rev": 3572,
+  "savedAt": "2026-09-30T18:13:11.427Z"
 }
