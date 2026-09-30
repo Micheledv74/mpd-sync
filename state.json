@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T17:38:26.077Z",
+  "pushedAt": "2026-09-30T17:40:33.997Z",
   "todosCount": 546,
   "todos": [
     {
@@ -35072,9 +35072,9 @@
       "tpl": "tekomar",
       "vid": "peppino",
       "cyc": "2026-09",
-      "sentAt": "2026-09-30T17:38:22.494Z",
+      "sentAt": "2026-09-30T17:40:29.752Z",
       "to": "mvpeppino@shipsemail.it",
-      "updatedAt": "2026-09-30T17:38:22.494Z"
+      "updatedAt": "2026-09-30T17:40:29.752Z"
     },
     "s:tekomar|medliguria|2026-09": {
       "tpl": "tekomar",
@@ -35127,8 +35127,8 @@
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-09-30T09:10:10.537Z",
     "delivGoal": "2026-09-30T09:09:15.767Z",
-    "reminders": "2026-09-30T17:38:26.077Z"
+    "reminders": "2026-09-30T17:40:33.997Z"
   },
-  "rev": 3529,
-  "savedAt": "2026-09-30T17:38:26.079Z"
+  "rev": 3530,
+  "savedAt": "2026-09-30T17:40:33.997Z"
 }
