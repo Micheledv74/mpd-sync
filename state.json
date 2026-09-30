@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T17:34:14.170Z",
+  "pushedAt": "2026-09-30T17:34:36.707Z",
   "todosCount": 541,
   "todos": [
     {
@@ -12740,6 +12740,12 @@
       "updatedAt": "2026-09-30T10:03:37.492Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "MV PEPPINO - INSTALATION OF NEW VDR CARD",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKEluU0AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKEluU0AAA=",
       "outlookListId": "",
@@ -12747,14 +12753,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAKElyd8AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-09-30",
       "outlookLinkedName": "RE: MV PEPPINO - INSTALATION OF NEW VDR CARD",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "MV PEPPINO - INSTALATION OF NEW VDR CARD",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-09-30",
       "note": "",
       "createdAt": "2026-09-30T17:06:06.8831059Z",
@@ -34933,7 +34933,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-30T17:34:10.050Z",
+    "todos": "2026-09-30T17:34:36.707Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -34962,6 +34962,6 @@
     "matPos": "2026-09-30T09:10:10.537Z",
     "delivGoal": "2026-09-30T09:09:15.767Z"
   },
-  "rev": 3524,
-  "savedAt": "2026-09-30T17:34:14.170Z"
+  "rev": 3525,
+  "savedAt": "2026-09-30T17:34:36.708Z"
 }
