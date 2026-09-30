@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T20:56:44.711Z",
+  "pushedAt": "2026-09-30T20:56:52.891Z",
   "todosCount": 547,
   "todos": [
     {
@@ -35180,6 +35180,1556 @@
     "delivGoal": "2026-09-30T09:09:15.767Z",
     "reminders": "2026-09-30T17:40:54.773Z"
   },
-  "rev": 3585,
-  "savedAt": "2026-09-30T20:56:44.712Z"
+  "recRev": {
+    "manualOrders": {
+      "vegauno|mo_1790790562390_or6z": [
+        "yrw9dh4o",
+        ""
+      ],
+      "vegauno|mo_1790790949759_yoo6": [
+        "tqwea14d",
+        ""
+      ],
+      "vegauno|mo_1790791051748_c1m2": [
+        "1v8ibnc4k",
+        ""
+      ]
+    },
+    "shipments": {
+      "med toscana::bwts suction pump mn 40125": [
+        "10aafvg20i",
+        ""
+      ],
+      "peppino::windlass/band brake": [
+        "vd3y8k5h",
+        ""
+      ],
+      "peppino::beck_order": [
+        "1inkuw332m",
+        ""
+      ],
+      "med toscana::fuel circulation pump of me ace038 n3 ntbp complete": [
+        "vvb87q11g",
+        ""
+      ],
+      "med liguria::medicine": [
+        "1wv1fs31v",
+        ""
+      ],
+      "med liguria::automatic fire detection and alarm system nippon hakuyo electronics ltd critical spare parts": [
+        "10y02f1h5",
+        ""
+      ],
+      "med toscana::diesel oil pump imo pump ace 025 l3 nvbp 1year service kit": [
+        "1aschbqym",
+        ""
+      ],
+      "med liguria::mitsuiman b&w 6s50mcc 9480kw engine no 6192 2011 mitsui engineering & shipbuilding coltd": [
+        "12e17qwy",
+        ""
+      ],
+      "med toscana::ht cooling electro pneumatic regulator": [
+        "flhre9225",
+        ""
+      ],
+      "peppino::main engine cylinder cover": [
+        "kkl61h51g",
+        ""
+      ],
+      "med toscana::hanla level c/h water ingress system sensor": [
+        "jp5te011g",
+        ""
+      ],
+      "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": [
+        "lke9a3225",
+        ""
+      ],
+      "med toscana::cargo crane claim spare part": [
+        "10b3hg5225",
+        ""
+      ],
+      "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": [
+        "e2l0a1225",
+        ""
+      ],
+      "med toscana::ships crane spare parts": [
+        "1kqgjzc225",
+        ""
+      ],
+      "med toscana::navigation light control panel": [
+        "8xlhck2ue",
+        ""
+      ],
+      "med liguria::itu list iv": [
+        "1tztougzl",
+        ""
+      ],
+      "med liguria::air horn ibuki kogyo co ltd": [
+        "1i2tq2si",
+        ""
+      ],
+      "med liguria::k8fe strainer automatic backwashing type a/e fo 2nd strainer": [
+        "1qofp6csi",
+        ""
+      ],
+      "med liguria::manual fire alarm switch": [
+        "n46xjusi",
+        ""
+      ],
+      "med liguria::fixed temperature type spot fire detector": [
+        "11gxn4msi",
+        ""
+      ],
+      "med liguria::logbooks": [
+        "w4dvfx13d",
+        ""
+      ],
+      "peppino::spa req deck crane controllers": [
+        "1ionqlc2a7",
+        ""
+      ],
+      "med toscana::repair crane 2 & 3": [
+        "wqfyae5l",
+        ""
+      ],
+      "peppino::fresh water generator additional": [
+        "kbtm5e1z2",
+        ""
+      ],
+      "peppino::spa req fwg ejector pump new top urgent": [
+        "1sna9ps20k",
+        ""
+      ],
+      "med liguria::alpha lubricator system mfg no pu110105": [
+        "1lhmejfqd",
+        ""
+      ],
+      "peppino::log book peppino": [
+        "1r5uwra18f",
+        ""
+      ],
+      "G|gmugovdbnydy": [
+        "135w7vv11g",
+        ""
+      ],
+      "G|gmugovdbnbb2": [
+        "vi2bsr149",
+        ""
+      ],
+      "G|gmugovdbntcw": [
+        "qr640l14k",
+        ""
+      ],
+      "G|gmugovdbnfj1": [
+        "dfi7tm114",
+        ""
+      ],
+      "G|gmugovdbne5v": [
+        "etiiyt2be",
+        ""
+      ],
+      "G|gmugovdbn7rs": [
+        "102vg26zo",
+        ""
+      ],
+      "G|gmugp5ugad5m": [
+        "qu7wvw19b",
+        ""
+      ],
+      "med liguria::log book med liguria": [
+        "efgdt171",
+        ""
+      ],
+      "med toscana::log book med toscana": [
+        "1pd3rj37e",
+        ""
+      ],
+      "med toscana::talk back card": [
+        "3fa4wi1x4",
+        ""
+      ]
+    },
+    "deliveries": {
+      "peppino::spa req aux boiler mission oc": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::liferaft exchange": [
+        "5woihm1p",
+        ""
+      ],
+      "med toscana::cfr publication 2026mdt292026": [
+        "1rki3z91i",
+        ""
+      ],
+      "med toscana::temperature dry bulb for coal celsium up to +70": [
+        "1rki3z91i",
+        ""
+      ],
+      "med toscana::portable gas detector & bump test kit with botle og gases": [
+        "1rki3z91i",
+        ""
+      ],
+      "med toscana::bilge separetor": [
+        "1rki3z91i",
+        ""
+      ],
+      "peppino::messanger line for mooring rope": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::lubrication oil": [
+        "5woihm1p",
+        ""
+      ],
+      "peppino::spa req aux engine doosanman diesel 5l23/30hx720rpm": [
+        "5woihm1p",
+        ""
+      ],
+      "peppino::spa req rescue boat electric source switch": [
+        "5woihm1p",
+        ""
+      ],
+      "peppino::doosan man diesel 5l23/30h x 720rpm auxilliary generator": [
+        "1176wgp28",
+        ""
+      ],
+      "med toscana::underwater inspection barranquilla": [
+        "mis7el1n",
+        ""
+      ],
+      "med toscana::urgently original headset/accessory/ garniture for icom icf61 fireman": [
+        "1rki3z91i",
+        ""
+      ],
+      "med toscana::gulf marine lubricant": [
+        "1rki3z91i",
+        ""
+      ],
+      "peppino::electrical store for maintenance urgent": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::acetylene and oxygen": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::engine store urgent": [
+        "1jkw5rm1j",
+        ""
+      ],
+      "peppino::deck maintenance urgent": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::safety symbols and equipment": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::spa req air conditioning plant usdn40h": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::straight nozzle 1000 bar denjet high pressure water blaster": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::rotating nozzle 1000 bar denjet high pressure water blaster": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::spa req sewage treatment plant blower": [
+        "1q2323a1j",
+        ""
+      ],
+      "peppino::epirb hru": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::fresh water generator model sl 6000": [
+        "1gkfmpl1j",
+        ""
+      ],
+      "peppino::spa req macgregor jib top mounting spare parts": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::portable gangway ladder": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::span gas composition bottles for gas detectors": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::deck maintenance": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::security equipment": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::spa req ship combined oil test kit": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::paint urgent": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::store grinder angle electric singapore ugrent": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::safety equipment": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::paint": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::deck/engine/electrical/safety store for deck maintenance urgent": [
+        "1176wgp28",
+        ""
+      ],
+      "peppino::spa req air conditioner": [
+        "1jkw5rm1j",
+        ""
+      ],
+      "peppino::spa req water mist system": [
+        "1jkw5rm1j",
+        ""
+      ],
+      "peppino::spa req fire alarm system salwico cs4000": [
+        "1jkw5rm1j",
+        ""
+      ],
+      "peppino::washing machine": [
+        "1jkw5rm1j",
+        ""
+      ],
+      "peppino::spa req rescue boat battery": [
+        "1jkw5rm1j",
+        ""
+      ],
+      "peppino::chlorine reagent kit for ballast treatment system": [
+        "1jkw5rm1j",
+        ""
+      ],
+      "peppino::spa req lube oil filter xl280d40/4": [
+        "1jkw5rm1j",
+        ""
+      ],
+      "peppino::tools and materials for repair on deck by fitter": [
+        "1jkw5rm1j",
+        ""
+      ],
+      "peppino::spa req aux boiler mission oc kboe burner": [
+        "1jkw5rm1j",
+        ""
+      ],
+      "peppino::spa req macgregor jib top mounting": [
+        "1jkw5rm1j",
+        ""
+      ],
+      "peppino::paint thinner urgent": [
+        "4nk4681k",
+        ""
+      ],
+      "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": [
+        "3ncypw29",
+        ""
+      ],
+      "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": [
+        "3ncypw29",
+        ""
+      ],
+      "med toscana::ships crane spare parts": [
+        "3ncypw29",
+        ""
+      ],
+      "med toscana::cargo crane claim spare part": [
+        "3ncypw29",
+        ""
+      ],
+      "med liguria::unitor": [
+        "u2weao28",
+        ""
+      ],
+      "med toscana::fuel circulation pump of me ace038 n3 ntbp complete": [
+        "3ncypw29",
+        ""
+      ],
+      "med toscana::hanla level c/h water ingress system sensor": [
+        "3ncypw29",
+        ""
+      ],
+      "med toscana::diesel oil pump imo pump ace 025 l3 nvbp 1year service kit": [
+        "3ncypw29",
+        ""
+      ],
+      "med toscana::bwts suction pump mn 40125": [
+        "3ncypw29",
+        ""
+      ],
+      "med toscana::ht cooling electro pneumatic regulator": [
+        "3ncypw29",
+        ""
+      ],
+      "med toscana::navigation light control panel": [
+        "3ncypw29",
+        ""
+      ],
+      "med liguria::me cylinder oil": [
+        "u2weao28",
+        ""
+      ],
+      "med liguria::paint": [
+        "u2weao28",
+        ""
+      ],
+      "med liguria::medicine": [
+        "u2weao28",
+        ""
+      ],
+      "med liguria::automatic fire detection and alarm system nippon hakuyo electronics ltd critical spare parts": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::air horn ibuki kogyo co ltd": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::k8fe strainer automatic backwashing type a/e fo 2nd strainer": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::manual fire alarm switch": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::fixed temperature type spot fire detector": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::mitsuiman b&w 6s50mcc 9480kw engine no 6192 2011 mitsui engineering & shipbuilding coltd": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::bridge navigational watch alarm system jcx151": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::battery module": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::temperature sensor": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::logbooks": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::multi gym": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::deck store security equipment": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::check and calibration gas for gas detectors": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::stationary": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::electrical store": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::deck storemessenger line for mooring rope": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::safety": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::air horn a150ess": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::cabin and galley": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::portable ligths for cargo holds": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::fresh water generator wm20dk fresh water flow meter": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::deck store": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::group starter panel auxiliary relay omron g2r1s ac24v": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::itu list iv": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::ballast water treatment system": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::portable gangway ladder mlg": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::paint mlg": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::group starter panel auxiliary relay omron g2a4l32a ac24v": [
+        "1mab2aa25",
+        ""
+      ],
+      "med liguria::new grabs with bv certificate": [
+        "1mab2aa25",
+        ""
+      ],
+      "peppino::main engine cylinder cover": [
+        "37p5dm2e",
+        ""
+      ],
+      "peppino::beck_order": [
+        "37p5dm2e",
+        ""
+      ],
+      "med toscana::deck fitter": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::fall preventive device fpd annual shore service": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::battery for uhf icom icf26": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::annual safety equipment surveys / certification – kandla/bedi": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::pressure gauge": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::stationary": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::thermometer": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::vbelt": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::hatch cover clits/spare parts": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::chemicals": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::rki bump kit with gas botle 45 gases 1set": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::aux engine flowmeter": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::alarm monitor system; maker: traco power; model: tzl 1002424: input: 1936dc; output: 24 vdc/42 a": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::provision crane hook 2 t": [
+        "6hno7l23",
+        ""
+      ],
+      "med toscana::engine store consumable impa 8th edition": [
+        "6hno7l23",
+        ""
+      ],
+      "med liguria::deck storeflagurgent": [
+        "1mb8wo32a",
+        ""
+      ],
+      "med liguria::lashing material for grabs": [
+        "1mb8wo32a",
+        ""
+      ],
+      "med toscana::aux engine fuel system maker: wartsila model: 645w a4l20 serial no: paae096626paae096628": [
+        "1gb4ykl1h",
+        ""
+      ],
+      "med toscana::repair crane 2 & 3": [
+        "1gb4ykl1h",
+        ""
+      ],
+      "med liguria::deck & engine paint": [
+        "1yubjxw28",
+        ""
+      ],
+      "peppino::spa req deck crane controllers": [
+        "1vzsfor2a",
+        ""
+      ],
+      "peppino::fresh water generator additional": [
+        "1vzsfor2a",
+        ""
+      ],
+      "peppino::spa req fwg ejector pump new top urgent": [
+        "1vzsfor2a",
+        ""
+      ],
+      "med toscana::talk back card": [
+        "wp4o6926",
+        ""
+      ],
+      "peppino::urgent engine store cotton rags": [
+        "1vzsfor2a",
+        ""
+      ],
+      "peppino::welding machine": [
+        "1x0znrk1m",
+        ""
+      ],
+      "peppino::log book peppino": [
+        "1vzsfor2a",
+        ""
+      ]
+    },
+    "vesselPos": {
+      "norrbotten": [
+        "1lqg09oh",
+        ""
+      ],
+      "vegauno": [
+        "1chss05r",
+        ""
+      ]
+    },
+    "supplierProfiles": {
+      "AALBORG MARINE BOILERS": [
+        "qjz54k1r",
+        ""
+      ],
+      "Accelleron Switzerland Ltd": [
+        "14tcghp36",
+        ""
+      ],
+      "C/O AGENT": [
+        "1mbuqqu1r",
+        ""
+      ],
+      "ERMA FIRST": [
+        "1ykv0ty3g",
+        ""
+      ],
+      "FARMACIA GHIGLIAZZA": [
+        "9snell46",
+        ""
+      ],
+      "Global Marine Supplies Spa": [
+        "1e222aa2k",
+        ""
+      ],
+      "HAKEPA SRL": [
+        "bywtqg3z",
+        ""
+      ],
+      "LFA Global. Pte Ltd.": [
+        "dn1zlg39",
+        ""
+      ],
+      "LG Marine Services(HK) Co.,Limited": [
+        "2t2xby48",
+        ""
+      ],
+      "MacGregor Pte Ltd": [
+        "19aznxx3n",
+        ""
+      ],
+      "MAS MARINE SHIPPING SUPPLIES": [
+        "1vjkd1h3b",
+        ""
+      ],
+      "RINA Consulting S.p.A.": [
+        "10ux40h1r",
+        ""
+      ],
+      "RINA Digital Solutions": [
+        "d5b4pa2j",
+        ""
+      ],
+      "SQE MARINE GROUP": [
+        "1yk6vfw37",
+        ""
+      ],
+      "TEFIN SCRL": [
+        "trxhql35",
+        ""
+      ],
+      "Umut Denizcilik": [
+        "jjbtrj3p",
+        ""
+      ],
+      "Wartsila Italia S.p.A.": [
+        "nbp47q3g",
+        ""
+      ],
+      "Wilhelmsen Ships Service": [
+        "167siy3f",
+        ""
+      ],
+      "YH MARINE TRADE CO.,LTD": [
+        "740i7y3e",
+        ""
+      ],
+      "Zephyr Trading srl": [
+        "120lqyj45",
+        ""
+      ],
+      "Accelleron Italy S.p.A.": [
+        "17q440e4t",
+        ""
+      ],
+      "AL SAFWAN MARINE EQUIPMENT MAINT.LLC": [
+        "dkqpb92r",
+        ""
+      ],
+      "Alfa Laval SpA, Marine & Diesel, Service": [
+        "tclcrs3e",
+        ""
+      ],
+      "Alfa Laval SRL": [
+        "17law3e3p",
+        ""
+      ],
+      "CAIM": [
+        "13bkjsy4b",
+        ""
+      ],
+      "CSSC SUNRUI / SHIPSERVICE": [
+        "clqwkf3a",
+        ""
+      ],
+      "DEMOS MOTORS S.A.": [
+        "u2csf84z",
+        ""
+      ],
+      "DEN-JET MARINE Pte Ltd": [
+        "lpc9q332",
+        ""
+      ],
+      "Dongjin Intec Co., Ltd.": [
+        "12ak9g83i",
+        ""
+      ],
+      "DUBHE CO., LTD.": [
+        "jikhzd3c",
+        ""
+      ],
+      "EAST WIND Ship- and Shipyard Supplies": [
+        "1x2z84b3s",
+        ""
+      ],
+      "Everllence Italia S.r.l.": [
+        "1ngosdy40",
+        ""
+      ],
+      "Fast Marine Services (FMS)": [
+        "15eq7zs3d",
+        ""
+      ],
+      "FUJI ELECTRIC Co.; Ltd": [
+        "1u62nlk3g",
+        ""
+      ],
+      "G&P TECH CO.": [
+        "1qnjr8q3b",
+        ""
+      ],
+      "GALLAGHER MARINE SYSTEMS": [
+        "aaadhn1r",
+        ""
+      ],
+      "GEORGE MENABONI SRL": [
+        "1x658zb3c",
+        ""
+      ],
+      "Global Marine Safety - America": [
+        "d78tzj3f",
+        ""
+      ],
+      "GLOBAL MARINE SUPPLIES SPA": [
+        "1042nbj37",
+        ""
+      ],
+      "Gulf Oil Marine Ltd.": [
+        "1yrywdr4f",
+        ""
+      ],
+      "HAGEDORN Products & Systems GmbH": [
+        "1vp03vg3h",
+        ""
+      ],
+      "Host Agency, LLC": [
+        "i8hf8g2r",
+        ""
+      ],
+      "KORONAKIS D. S.A.": [
+        "plk7dm3d",
+        ""
+      ],
+      "LIBERIAN MARITIME AUTHORITY LISCR, LLC": [
+        "1n8c5o22m",
+        ""
+      ],
+      "MARINE DIESEL ITALY SRL (MDI SRL)": [
+        "r37tmk41",
+        ""
+      ],
+      "Mistral Suisse Sagl": [
+        "7ay3lf3i",
+        ""
+      ],
+      "Monjasa Pte. Ltd.": [
+        "brtws837",
+        ""
+      ],
+      "NEW SEA GENERATION S.R.L": [
+        "1qkydaa3q",
+        ""
+      ],
+      "O&Bis": [
+        "mb0sc84u",
+        ""
+      ],
+      "PPG PROTECTIVE & MARINE COATINS": [
+        "17sf7vy37",
+        ""
+      ],
+      "Proinelca Korea Co., Ltd.": [
+        "dsiup3g",
+        ""
+      ],
+      "Reseaworld Srl": [
+        "98hp2x3i",
+        ""
+      ],
+      "RK MARINE SERVICE": [
+        "1xcmstt4j",
+        ""
+      ],
+      "SGS ITALIA SPA": [
+        "lhzia94m",
+        ""
+      ],
+      "SHANGHAI AOHAN MARINE COMPANY": [
+        "165b6nn39",
+        ""
+      ],
+      "Ship Survey And Service S.r.l.": [
+        "1x7y2nb1r",
+        ""
+      ],
+      "SSI SERVIZI SPECIALI INTEGRATIVI": [
+        "10plwfr35",
+        ""
+      ],
+      "Sufimar Shipping Services Co.": [
+        "17hrvjv5d",
+        ""
+      ],
+      "SUNJIN ENTECH Co.,Ltd.": [
+        "7mz4ze3d",
+        ""
+      ],
+      "TAILOR MADE LOGISTIC - Germany": [
+        "95alg039",
+        ""
+      ],
+      "TAILOR MADE LOGISTIC - Japan": [
+        "bqdifu38",
+        ""
+      ],
+      "TAILOR MADE LOGISTIC - Singapore": [
+        "l0a0jw3m",
+        ""
+      ],
+      "TAILOR MADE LOGISTIC - TO BE SPECIFIED": [
+        "pagnp939",
+        ""
+      ],
+      "TAILORMADE LOGISTIC - China": [
+        "11ticp93h",
+        ""
+      ],
+      "TAILORMADE LOGISTIC - Genoa": [
+        "1ek3jgc3g",
+        ""
+      ],
+      "TAILORMADE LOGISTIC - Holland": [
+        "19ky8qj3f",
+        ""
+      ],
+      "TAILORMADE LOGISTIC - Houston": [
+        "1bm1rzv3c",
+        ""
+      ],
+      "TAILORMADE LOGISTIC - Panama": [
+        "gh2wrt3s",
+        ""
+      ],
+      "TAILORMADE LOGISTIC - South Korea": [
+        "2zfqtp2y",
+        ""
+      ],
+      "TAILORMADE LOGISTIC - UK": [
+        "1916hqx3e",
+        ""
+      ],
+      "Tushar Gole": [
+        "96yepy3g",
+        ""
+      ],
+      "WESTEAM": [
+        "72ayk03u",
+        ""
+      ]
+    },
+    "agencyProfiles": {
+      "Ben Line Agencies (Thailand) Ltd.": [
+        "u3poom4n",
+        ""
+      ],
+      "GAC Philippines, Inc. (Filippine)": [
+        "1adpi834o",
+        ""
+      ],
+      "Johnasia Shipping (S) Pte Ltd": [
+        "1ma1z2u4q",
+        ""
+      ],
+      "Sufimar Shipping Services Co": [
+        "owf2lr4f",
+        ""
+      ],
+      "Host Agency, LLC": [
+        "18on5a72r",
+        ""
+      ],
+      "LG Marine Services(HK) Co.,Limited": [
+        "4ufwxi3q",
+        ""
+      ],
+      "JOHNASIA SHANGHAI": [
+        "11d14lzc",
+        ""
+      ],
+      "JOHNASIA SINGAPORE": [
+        "osma8t89",
+        ""
+      ],
+      "NAVIGO Maritime Solution": [
+        "1a4q4d019",
+        ""
+      ],
+      "MARITIMA PEREZ": [
+        "19avyq1k",
+        ""
+      ],
+      "Ravenna Cargo - and ships assistance": [
+        "v5oo0u75",
+        ""
+      ],
+      "MARİNSA LOJİSTİK VE İNŞAAT LTD ŞTİ": [
+        "12qczjd9i",
+        ""
+      ],
+      "ATLANTIC GLOBAL SHIPPING PVT. LTD.": [
+        "wqqh2b7p",
+        ""
+      ],
+      "Port Luis Shipping Agency Ltd": [
+        "12h2ovuc",
+        ""
+      ],
+      "OMA Ghana": [
+        "11ddqlvc",
+        ""
+      ]
+    },
+    "itemOverrides": {
+      "med toscana::aux engine critical spare parts maker: wartsila model: 645w a4l20 serial no: paae096626paae096628": [
+        "1p9m9o61c",
+        ""
+      ],
+      "peppino::lubrication oil": [
+        "1p9m9o61c",
+        ""
+      ],
+      "med toscana::urgently original headset/accessory for icom icf61 fireman": [
+        "l9b1gbk",
+        ""
+      ],
+      "med liguria::alpha lubricator system mfg no pu110105": [
+        "qul29i2l",
+        ""
+      ],
+      "peppino::hatch covers cleats": [
+        "1p9m9o61c",
+        ""
+      ],
+      "med toscana::rki bump kit with gas botle 45 gases 1set": [
+        "1p9m9o61c",
+        ""
+      ],
+      "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": [
+        "24ek0ui",
+        ""
+      ],
+      "med toscana::aux engine cylinder head maker: wartsila model: 645w a4l20 serial no: paae096626 paae096628": [
+        "1p9m9o61c",
+        ""
+      ],
+      "peppino::fresh water generator additional": [
+        "1xritz01y",
+        ""
+      ],
+      "peppino::spa req fwg ejector pump new top urgent": [
+        "lanybr2i",
+        ""
+      ],
+      "med liguria::fire gs pump type 150cdb65": [
+        "12opdq5j",
+        ""
+      ],
+      "med toscana::ballast system: actuators pneumatic valve spare; maker: besi marine system info@beside": [
+        "pbsrjz1v",
+        ""
+      ],
+      "med toscana::deck cargo lights": [
+        "24ek0ui",
+        ""
+      ],
+      "med toscana::medicine": [
+        "1pafrw71f",
+        ""
+      ],
+      "peppino::spa req deck crane controllers": [
+        "i2fwxd1e",
+        ""
+      ],
+      "peppino::spa req gs#1 temperature sensor": [
+        "1qihif21z",
+        ""
+      ],
+      "peppino::spa req fresh water generator": [
+        "2gbelm1d",
+        ""
+      ],
+      "med toscana::messenger line for mooring ropes": [
+        "1p9m9o61c",
+        ""
+      ]
+    },
+    "certExtras": {
+      "medtoscana": [
+        "1pwhnxf5pu",
+        ""
+      ]
+    },
+    "notes": {
+      "med toscana::aux engine critical spare parts maker: wartsila model: 645w a4l20 serial no: paae096626paae096628": [
+        "16zhko1y",
+        ""
+      ],
+      "med toscana::er spare parts for pumps": [
+        "1rgxeeed",
+        ""
+      ],
+      "peppino::liferaft exchange": [
+        "jm9kucb9",
+        ""
+      ],
+      "peppino::lubrication oil": [
+        "186rmo1i",
+        ""
+      ],
+      "peppino::spa req aux engine doosanman diesel 5l23/30hx720rpm": [
+        "186rmo1i",
+        ""
+      ],
+      "peppino::doosan man diesel 5l23/30h x 720rpm auxilliary generator": [
+        "19xqxi0k",
+        ""
+      ],
+      "peppino::spa req rescue boat electric source switch": [
+        "1c6tciai",
+        ""
+      ],
+      "med liguria::mitsubishi hydraulic deck machinery shimonoseki shipyard mitsubishi heavy industriesltd": [
+        "1qhp57o3",
+        ""
+      ],
+      "peppino::chlorine reagent kit for ballast treatment system": [
+        "186rmo1i",
+        ""
+      ],
+      "peppino::spa req aux boiler mission oc": [
+        "1owu5x556",
+        ""
+      ],
+      "med toscana::portable gas detector & bump test kit with botle og gases": [
+        "136c4yo",
+        ""
+      ],
+      "med toscana::cargo crane claim spare part": [
+        "1ba1l1ni",
+        ""
+      ],
+      "med liguria::battery module": [
+        "vvwr31k",
+        ""
+      ],
+      "med toscana::bilge separetor": [
+        "89d72ms",
+        ""
+      ],
+      "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": [
+        "1ba1l1ni",
+        ""
+      ],
+      "med toscana::ships crane spare parts": [
+        "1ab3t41k",
+        ""
+      ],
+      "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": [
+        "1ab3t41k",
+        ""
+      ],
+      "med liguria::bwms balclor spare parts": [
+        "hspdg1e",
+        ""
+      ],
+      "med toscana::rki bump kit with gas botle 45 gases 1set": [
+        "13xsbgq1n",
+        ""
+      ],
+      "peppino::hatch covers cleats": [
+        "15ufz2gd",
+        ""
+      ],
+      "peppino::spa req charging & discharging panel": [
+        "14wvc3k",
+        ""
+      ],
+      "peppino::spa req transportable pump unit top urgent": [
+        "14wvc3k",
+        ""
+      ],
+      "med toscana::urgently original headset/accessory for icom icf61 fireman": [
+        "1daq58wd",
+        ""
+      ],
+      "med liguria::paint": [
+        "1aki3km11",
+        ""
+      ],
+      "med toscana::ht cooling electro pneumatic regulator": [
+        "j99rlnj",
+        ""
+      ],
+      "med toscana::navigation light control panel": [
+        "kixog6e",
+        ""
+      ],
+      "med toscana::diesel oil pump imo pump ace 025 l3 nvbp 1year service kit": [
+        "yzcun9h",
+        ""
+      ],
+      "med toscana::fuel circulation pump of me ace038 n3 ntbp complete": [
+        "yzcun9h",
+        ""
+      ],
+      "med toscana::hanla level c/h water ingress system sensor": [
+        "yzcun9h",
+        ""
+      ],
+      "med toscana::bwts suction pump mn 40125": [
+        "1rww6b5g",
+        ""
+      ],
+      "med liguria::mitsuiman b&w 6s50mcc 9480kw engine no 6192 2011 mitsui engineering & shipbuilding coltd": [
+        "1l8k6bpj",
+        ""
+      ],
+      "med liguria::deck store": [
+        "pxuahpf",
+        ""
+      ],
+      "peppino::spa req marine cargo lights": [
+        "x3ljnpg",
+        ""
+      ],
+      "med liguria::group starter panel auxiliary relay omron g2r1s ac24v": [
+        "rjcwtf8",
+        ""
+      ],
+      "med liguria::group starter panel auxiliary relay omron g2a4l32a ac24v": [
+        "rjcwtf8",
+        ""
+      ],
+      "med liguria::fire gs pump type 150cdb65": [
+        "1nvh8gbp",
+        ""
+      ],
+      "med liguria::alpha lubricator system mfg no pu110105": [
+        "1xz4nzd3t",
+        ""
+      ],
+      "med toscana::emergency diesel generator": [
+        "b5d4rsn",
+        ""
+      ],
+      "med toscana::ballast system: actuators pneumatic valve spare; maker: besi marine system info@beside": [
+        "12gm2dbf",
+        ""
+      ],
+      "med toscana::deck cargo lights": [
+        "x3ljnpg",
+        ""
+      ],
+      "peppino::spa req marine cooking range yangcan": [
+        "x3ljnpg",
+        ""
+      ],
+      "peppino::spa req gs#1 temperature sensor": [
+        "180gpxj8",
+        ""
+      ]
+    },
+    "voyages": {
+      "peppino": [
+        "1fbmswz3ly",
+        ""
+      ],
+      "medliguria": [
+        "c36w7y5o7",
+        ""
+      ],
+      "medtoscana": [
+        "1hhf4hv3sz",
+        ""
+      ],
+      "norrbotten": [
+        "127cun5fs",
+        ""
+      ],
+      "vegauno": [
+        "1ruaz0d14n",
+        ""
+      ]
+    },
+    "snoozed": {
+      "todo:td_1780846490055_byv9f": [
+        "1mr4ognc",
+        ""
+      ],
+      "todo:outlook_AAJABq_oAAA=": [
+        "1mr4ognc",
+        ""
+      ],
+      "todo:td_1781594085068_88hrw": [
+        "1mvyu8qc",
+        ""
+      ],
+      "todo:outlook_AAJD1gbbAAA=": [
+        "1mt80zec",
+        ""
+      ],
+      "overdue:peppino::cargo hold bilges suction non return valves": [
+        "a10vzyc",
+        ""
+      ]
+    },
+    "archivedActions": {
+      "overdue:peppino::spare part for ballast system": [
+        "ip2n1y25",
+        ""
+      ],
+      "overdue:peppino::emergency diesel generator radiator": [
+        "176xhzj25",
+        ""
+      ],
+      "todo:td_1781260448612_g37cc": [
+        "q5p5k82a",
+        ""
+      ],
+      "overdue:med toscana::consumable for cargo crane wire/cable motor maintanance impa marine catalogue 6th edition": [
+        "52a8je24",
+        ""
+      ],
+      "overdue:med toscana::electrical measuring tools": [
+        "1jwm8qf25",
+        ""
+      ],
+      "overdue:med toscana::rubber washer for hatch covers clits": [
+        "1vcef1e25",
+        ""
+      ],
+      "overdue:med toscana::mechanical seal for sewage discharge pump": [
+        "5ffuyn24",
+        ""
+      ],
+      "overdue:med toscana::alcohol tester drager 6820": [
+        "12sxti925",
+        ""
+      ],
+      "overdue:med toscana::fall prevention device for rescue boat": [
+        "t3juo825",
+        ""
+      ],
+      "overdue:med toscana::electrical store": [
+        "1uwjjci25",
+        ""
+      ],
+      "overdue:med liguria::bridge navigational watch alarm system jcx151": [
+        "oy2ge024",
+        ""
+      ],
+      "overdue:med liguria::gas detector calibration certificate": [
+        "jf624v25",
+        ""
+      ],
+      "overdue:med liguria::main air compressor model: h64; pressure: 29mpa; speed 1800 min tanabe pneumatic machinery co ltd": [
+        "1xhbg9a25",
+        ""
+      ],
+      "overdue:peppino::vbelts and bearing for deck scaling machine": [
+        "mlkyx925",
+        ""
+      ],
+      "overdue:peppino::internet power supply": [
+        "1cmdhgx25",
+        ""
+      ],
+      "overdue:peppino::rescue boat throttle and shift cable": [
+        "tcpgm725",
+        ""
+      ],
+      "overdue:peppino::aux generator no3 kilowatt meter": [
+        "twn8ht25",
+        ""
+      ],
+      "overdue:peppino::quarterly cabin store impa 7 ed": [
+        "yolgt325",
+        ""
+      ],
+      "overdue:peppino::engine store": [
+        "122mfgm25",
+        ""
+      ],
+      "overdue:peppino::stationary store": [
+        "1ivh6lb25",
+        ""
+      ],
+      "overdue:peppino::electrical store": [
+        "1x5nq3e25",
+        ""
+      ],
+      "overdue:peppino::deck store": [
+        "1v551ia25",
+        ""
+      ],
+      "overdue:peppino::ref provision plant": [
+        "llvikb25",
+        ""
+      ],
+      "overdue:peppino::aux generator power supply": [
+        "64d4dm25",
+        ""
+      ],
+      "overdue:peppino::daikin ref provision plant": [
+        "yx7ogh25",
+        ""
+      ],
+      "batch:medtoscana:LFA Global. Pte Ltd.": [
+        "1z4ddl23",
+        ""
+      ],
+      "todo:td_1781014498363_lgc0s": [
+        "1gardlw25",
+        ""
+      ],
+      "todo:outlook_AAJABq_sAAA=": [
+        "3v5sa1x",
+        ""
+      ],
+      "overdue:peppino::spa req lube oil filter xl280d40/4": [
+        "gb9g3324",
+        ""
+      ],
+      "overdue:med liguria::fixed temperature type spot fire detector": [
+        "1spv3gi24",
+        ""
+      ],
+      "overdue:peppino::spa req aux boiler mission oc": [
+        "te03e024",
+        ""
+      ],
+      "overdue:peppino::lubrication oil": [
+        "qhcy7724",
+        ""
+      ],
+      "overdue:peppino::spa req aux engine doosanman diesel 5l23/30hx720rpm": [
+        "1luww9s24",
+        ""
+      ],
+      "batch:peppino:YH MARINE TRADE CO.,LTD": [
+        "jmcnof23",
+        ""
+      ],
+      "batch:peppino:RK MARINE SERVICE": [
+        "53a0z023",
+        ""
+      ],
+      "todo:td_1781594085068_88hrw": [
+        "bejvgl23",
+        ""
+      ],
+      "todo:td_1781269005212_cr82z": [
+        "7du3xs2a",
+        ""
+      ],
+      "todo:outlook_AAJEq1MKAAA=": [
+        "1emzxqd1x",
+        ""
+      ],
+      "overdue:med toscana::portable gas detector & bump test kit with botle og gases": [
+        "16p2r6124",
+        ""
+      ],
+      "overdue:med toscana::urgently original headset/accessory/ garniture for icom icf61 fireman": [
+        "x7hcc423",
+        ""
+      ],
+      "batch:medtoscana:Global Marine Safety - America": [
+        "1ilnapq23",
+        ""
+      ],
+      "overdue:med toscana::aux engine cylinder head maker: wartsila model: 645w a4l20 serial no: paae096626paae096628": [
+        "1ujwquq24",
+        ""
+      ],
+      "overdue:med toscana::me jw cooler; maker: the leader heat exchanger; model: ht121m1p27": [
+        "1bly18h20",
+        ""
+      ],
+      "overdue:med toscana::emergency diesel generator tacho sensor": [
+        "1gjk2uw20",
+        ""
+      ]
+    },
+    "supplierTimezones": {
+      "Zephyr Trading srl": [
+        "qkb2z1d",
+        ""
+      ],
+      "YH MARINE TRADE CO.,LTD": [
+        "13gtzw9f",
+        ""
+      ],
+      "LG Marine Services(HK) Co.,Limited": [
+        "13gtzw9f",
+        ""
+      ],
+      "G&P TECH CO.": [
+        "1fclklqc",
+        ""
+      ],
+      "DUBHE CO., LTD.": [
+        "1fclklqc",
+        ""
+      ],
+      "VIKING LIFE-SAVING EQUIPMENT ITALIA SRL": [
+        "13gtzw9f",
+        ""
+      ]
+    },
+    "supplierLanguages": {
+      "LFA Global. Pte Ltd.": [
+        "1ityjq04",
+        ""
+      ],
+      "SUNJIN ENTECH Co.,Ltd.": [
+        "1ityjq04",
+        ""
+      ],
+      "RK MARINE SERVICE": [
+        "1ityjq04",
+        ""
+      ],
+      "YH MARINE TRADE CO.,LTD": [
+        "1ityjq04",
+        ""
+      ],
+      "HAKEPA SRL": [
+        "1uvm36e4",
+        ""
+      ],
+      "MacGregor Pte Ltd": [
+        "1ityjq04",
+        ""
+      ],
+      "Global Marine Safety - America": [
+        "1ityjq04",
+        ""
+      ],
+      "Wartsila Italia S.p.A.": [
+        "1ityjq04",
+        ""
+      ],
+      "Dongjin Intec Co., Ltd.": [
+        "1ityjq04",
+        ""
+      ],
+      "MAS MARINE SHIPPING SUPPLIES": [
+        "1uvm36e4",
+        ""
+      ]
+    }
+  },
+  "rev": 3586,
+  "savedAt": "2026-09-30T20:56:52.893Z"
 }
