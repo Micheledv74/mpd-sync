@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T09:09:15.767Z",
+  "pushedAt": "2026-09-30T09:09:41.041Z",
   "todosCount": 540,
   "todos": [
     {
@@ -34780,6 +34780,13 @@
       "updatedAt": "2026-09-29T12:20:48.723Z",
       "since": "2026-09-29",
       "ifxAskedAt": "2026-09-29T12:20:48.723Z"
+    },
+    "peppino::spa req fwg ejector pump new top urgent": {
+      "pos": "customs",
+      "port": "Tema, Ghana",
+      "closeInInfoship": false,
+      "updatedAt": "2026-09-30T09:09:37.634Z",
+      "since": "2026-09-30"
     }
   },
   "delivGoal": {
@@ -34894,9 +34901,9 @@
     "portProfiles": "2026-09-25T17:52:59.070Z",
     "todoTombs": "2026-09-25T12:12:47.836Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-09-30T09:08:29.884Z",
+    "matPos": "2026-09-30T09:09:41.041Z",
     "delivGoal": "2026-09-30T09:09:15.767Z"
   },
-  "rev": 3498,
-  "savedAt": "2026-09-30T09:09:15.767Z"
+  "rev": 3499,
+  "savedAt": "2026-09-30T09:09:41.041Z"
 }
