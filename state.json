@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T18:06:10.022Z",
+  "pushedAt": "2026-09-30T18:06:16.089Z",
   "todosCount": 546,
   "todos": [
     {
@@ -26156,7 +26156,7 @@
       {
         "id": "mo_1790790562390_or6z",
         "docNum": "1",
-        "description": "Filtri Olio",
+        "description": "",
         "supplier": "Delta Service srl",
         "status": "delivered",
         "date": "2026-03-16",
@@ -26176,7 +26176,7 @@
       {
         "id": "mo_1790791051748_c1m2",
         "docNum": "2026-VGU-00003",
-        "description": "Filtri ",
+        "description": "",
         "supplier": "",
         "status": "delivered",
         "date": "2026-05-07",
@@ -35160,6 +35160,6 @@
     "delivGoal": "2026-09-30T09:09:15.767Z",
     "reminders": "2026-09-30T17:40:54.773Z"
   },
-  "rev": 3567,
-  "savedAt": "2026-09-30T18:06:10.023Z"
+  "rev": 3568,
+  "savedAt": "2026-09-30T18:06:16.090Z"
 }
