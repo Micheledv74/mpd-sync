@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-09-30T17:49:25.844Z",
+  "pushedAt": "2026-09-30T17:49:32.176Z",
   "todosCount": 546,
   "todos": [
     {
@@ -26155,7 +26155,7 @@
     "vegauno": [
       {
         "id": "mo_1790790562390_or6z",
-        "docNum": "",
+        "docNum": "1",
         "description": "",
         "supplier": "",
         "status": "rfq",
@@ -35120,7 +35120,7 @@
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-09-30T10:20:50.384Z",
     "outlookCompletionQueue": "2026-09-30T09:48:04.794Z",
-    "manualOrders": "2026-09-30T17:49:25.844Z",
+    "manualOrders": "2026-09-30T17:49:32.175Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35140,6 +35140,6 @@
     "delivGoal": "2026-09-30T09:09:15.767Z",
     "reminders": "2026-09-30T17:40:54.773Z"
   },
-  "rev": 3537,
-  "savedAt": "2026-09-30T17:49:25.844Z"
+  "rev": 3538,
+  "savedAt": "2026-09-30T17:49:32.177Z"
 }
