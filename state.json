@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T07:10:28.003Z",
+  "pushedAt": "2026-10-01T07:11:58.487Z",
   "todosCount": 547,
   "todos": [
     {
@@ -25354,30 +25354,64 @@
     "peppino": {
       "status": "at_sea",
       "current": {
-        "id": "vmsn3dmql4gg2",
-        "from": "Takoradi, Ghana",
-        "to": "Tema, Ghana",
-        "etd": "2026-10-01T03:31",
-        "etb": "2026-09-26T15:17",
-        "eta": "2026-08-30T12:31",
-        "agency": {
-          "name": "OMA Ghana",
-          "contacts": "Leticia Aikins │ Ship Agency\nOMA Ghana | 3rd Floor, GPHA Credit Union Building Behind Bank of Ghana, Takoradi, Ghana\nTel: +233 312 027758 |Mob: +233 (0)50 154 5033\nEmail: leticia.aikins@omagroup.com\nSkype: leticia.aikins@omagroup.com\nWebsite: www.omagroup.com"
-        }
-      },
-      "next": {
+        "etd": "",
         "id": "vmunxt9nxvdrr",
         "from": "Tema",
         "to": "Juruti, Brazil",
         "etb": "",
         "eta": "",
-        "etd": "",
         "agency": null
       },
+      "next": {},
       "notes": "",
-      "updatedAt": "2026-10-01T07:10:24.511Z",
+      "updatedAt": "2026-10-01T07:11:55.056Z",
       "fromNoon": "2026-09-03",
       "history": [
+        {
+          "id": "vmsn3dmql4gg2",
+          "from": "Takoradi, Ghana",
+          "to": "Tema, Ghana",
+          "etd": "2026-10-01T03:31",
+          "etb": "2026-09-26T15:17",
+          "eta": "2026-08-30T12:31",
+          "agency": {
+            "name": "OMA Ghana",
+            "contacts": "Leticia Aikins │ Ship Agency\nOMA Ghana | 3rd Floor, GPHA Credit Union Building Behind Bank of Ghana, Takoradi, Ghana\nTel: +233 312 027758 |Mob: +233 (0)50 154 5033\nEmail: leticia.aikins@omagroup.com\nSkype: leticia.aikins@omagroup.com\nWebsite: www.omagroup.com"
+          },
+          "closedAt": "2026-10-01T07:11:55.050Z",
+          "deliveredItems": [
+            {
+              "poNumber": "2026-PEP-HQPO-00158",
+              "description": "Welding machine",
+              "supplier": "OMA GROUP"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00155",
+              "description": "URGENT ENGINE STORE- COTTON RAGS",
+              "supplier": "OMA GROUP"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00154",
+              "description": "Log Book - Peppino",
+              "supplier": "CAIM"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00149",
+              "description": "SPA Req. Deck Crane - Controllers",
+              "supplier": "MacGregor Pte Ltd"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00144",
+              "description": "FRESH WATER GENERATOR, ADDITIONAL",
+              "supplier": "Mistral Suisse Sagl"
+            },
+            {
+              "poNumber": "2026-PEP-HQPO-00147",
+              "description": "SPA Req. FWG Ejector pump NEW - TOP Urgent",
+              "supplier": "Mistral Suisse Sagl"
+            }
+          ]
+        },
         {
           "id": "vmrx9frz5mb8h",
           "from": "Port Louis, Mauritius",
@@ -35158,7 +35192,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-10-01T07:10:28.003Z",
+    "voyages": "2026-10-01T07:11:58.487Z",
     "outlookCompletionQueue": "2026-09-30T09:48:04.794Z",
     "manualOrders": "2026-09-30T18:06:10.022Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
@@ -36441,8 +36475,8 @@
     },
     "voyages": {
       "peppino": [
-        "1gz494x3ly",
-        "2026-10-01T07:10:24.897Z"
+        "1oq9s4445k",
+        "2026-10-01T07:11:55.365Z"
       ],
       "medliguria": [
         "c36w7y5o7",
@@ -36730,6 +36764,6 @@
       ]
     }
   },
-  "rev": 3597,
-  "savedAt": "2026-10-01T07:10:28.004Z"
+  "rev": 3598,
+  "savedAt": "2026-10-01T07:11:58.488Z"
 }
