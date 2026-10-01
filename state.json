@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T08:47:56.362Z",
+  "pushedAt": "2026-10-01T08:48:53.692Z",
   "todosCount": 553,
   "todos": [
     {
@@ -12710,9 +12710,10 @@
       "dueDate": "2026-10-01",
       "note": "",
       "createdAt": "2026-09-26T10:55:35.8991524Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-10-01T08:48:49.889Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-10-01T08:48:49.889Z"
     },
     {
       "category": "Nave",
@@ -26357,6 +26358,13 @@
       "completedAt": "2026-10-01T07:16:12.401Z",
       "todoId": "outlook_AAKEluU0AAA=",
       "title": "MV PEPPINO - INSTALATION OF NEW VDR CARD"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKAS8xSAAA=",
+      "listId": "",
+      "completedAt": "2026-10-01T08:48:49.895Z",
+      "todoId": "outlook_AAKAS8xSAAA=",
+      "title": "PEPPINO - VOY 16 - UWC Completion & Final Report Request"
     }
   ],
   "manualOrders": {
@@ -35376,7 +35384,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-01T08:47:56.362Z",
+    "todos": "2026-10-01T08:48:53.692Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -35385,7 +35393,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-10-01T07:11:58.487Z",
-    "outlookCompletionQueue": "2026-10-01T07:16:16.904Z",
+    "outlookCompletionQueue": "2026-10-01T08:48:53.692Z",
     "manualOrders": "2026-09-30T18:06:10.022Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -36956,6 +36964,6 @@
       ]
     }
   },
-  "rev": 3624,
-  "savedAt": "2026-10-01T08:47:56.364Z"
+  "rev": 3625,
+  "savedAt": "2026-10-01T08:48:53.694Z"
 }
