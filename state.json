@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T12:23:15.986Z",
+  "pushedAt": "2026-10-01T12:24:03.127Z",
   "todosCount": 553,
   "todos": [
     {
@@ -35271,6 +35271,13 @@
       "closeInInfoship": false,
       "updatedAt": "2026-10-01T12:23:12.580Z",
       "since": "2026-10-01"
+    },
+    "med toscana::publication": {
+      "pos": "onboard",
+      "closeInInfoship": true,
+      "by": "scheda",
+      "updatedAt": "2026-10-01T12:23:59.685Z",
+      "since": "2026-10-01"
     }
   },
   "delivGoal": {
@@ -35471,7 +35478,7 @@
     "portProfiles": "2026-09-25T17:52:59.070Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-01T12:23:15.986Z",
+    "matPos": "2026-10-01T12:24:03.127Z",
     "delivGoal": "2026-10-01T07:10:28.003Z",
     "reminders": "2026-10-01T11:02:41.545Z"
   },
@@ -37029,6 +37036,6 @@
       ]
     }
   },
-  "rev": 3643,
-  "savedAt": "2026-10-01T12:23:15.987Z"
+  "rev": 3644,
+  "savedAt": "2026-10-01T12:24:03.129Z"
 }
