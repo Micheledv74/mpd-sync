@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T11:02:14.213Z",
+  "pushedAt": "2026-10-01T11:02:41.545Z",
   "todosCount": 553,
   "todos": [
     {
@@ -35380,10 +35380,10 @@
       "todo": true,
       "active": true,
       "deleted": false,
-      "updatedAt": "2026-10-01T11:02:08.306Z",
+      "updatedAt": "2026-10-01T11:02:38.080Z",
       "firstWd": true,
       "scope": "office",
-      "to": "'Andrea Solano | MiTek IHM Deparment' <a.solano.IHM@mitekltd.com>",
+      "to": "a.solano.IHM@mitekltd.com",
       "tool": "ihm"
     },
     "s:ihm-report-4jgr|_office|2026-10": {
@@ -35430,7 +35430,7 @@
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-09-30T09:10:10.537Z",
     "delivGoal": "2026-10-01T07:10:28.003Z",
-    "reminders": "2026-10-01T11:02:14.213Z"
+    "reminders": "2026-10-01T11:02:41.545Z"
   },
   "recRev": {
     "manualOrders": {
@@ -36982,6 +36982,6 @@
       ]
     }
   },
-  "rev": 3629,
-  "savedAt": "2026-10-01T11:02:14.218Z"
+  "rev": 3630,
+  "savedAt": "2026-10-01T11:02:41.546Z"
 }
