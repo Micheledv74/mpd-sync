@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T12:55:46.369Z",
+  "pushedAt": "2026-10-01T12:56:13.303Z",
   "todosCount": 554,
   "todos": [
     {
@@ -35251,8 +35251,9 @@
       "pos": "customs",
       "port": "Tema, Ghana",
       "closeInInfoship": false,
-      "updatedAt": "2026-09-30T09:09:55.642Z",
-      "since": "2026-09-30"
+      "updatedAt": "2026-10-01T12:56:09.787Z",
+      "since": "2026-09-30",
+      "back": "2026-10-01"
     },
     "peppino::spa req deck crane controllers": {
       "pos": "customs",
@@ -35509,7 +35510,7 @@
     "portProfiles": "2026-09-25T17:52:59.070Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-01T12:55:46.369Z",
+    "matPos": "2026-10-01T12:56:13.302Z",
     "delivGoal": "2026-10-01T07:10:28.003Z",
     "reminders": "2026-10-01T11:02:41.545Z"
   },
@@ -37067,6 +37068,6 @@
       ]
     }
   },
-  "rev": 3652,
-  "savedAt": "2026-10-01T12:55:46.370Z"
+  "rev": 3653,
+  "savedAt": "2026-10-01T12:56:13.305Z"
 }
