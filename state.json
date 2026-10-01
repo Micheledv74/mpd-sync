@@ -1,9 +1,32 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T08:24:21.339Z",
-  "todosCount": 552,
+  "pushedAt": "2026-10-01T08:25:13.769Z",
+  "todosCount": 553,
   "todos": [
+    {
+      "id": "td_rem_ihm_report_4jgr__office_2026_10",
+      "category": "Ufficio",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "IHM  settembre",
+      "tags": [
+        "promemoria"
+      ],
+      "dueDate": "2026-10-01",
+      "note": "Promemoria ufficio «IHM Report» · settembre 2026. Spuntala quando l'hai fatto.",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-10-01T08:25:10.342Z",
+      "updatedAt": "2026-10-01T08:25:10.342Z",
+      "remKey": {
+        "tpl": "ihm-report-4jgr",
+        "vid": "_office",
+        "cyc": "2026-10"
+      }
+    },
     {
       "category": "Nave",
       "priority": "media",
@@ -35322,10 +35345,14 @@
       ],
       "toMaster": true,
       "toCE": true,
-      "todo": false,
+      "todo": true,
       "active": true,
       "deleted": false,
-      "updatedAt": "2026-10-01T07:40:09.042Z"
+      "updatedAt": "2026-10-01T08:25:10.341Z",
+      "firstWd": true,
+      "scope": "office",
+      "to": "",
+      "tool": ""
     }
   },
   "chaseOff": {},
@@ -35335,7 +35362,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-01T08:18:09.334Z",
+    "todos": "2026-10-01T08:25:13.769Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -35363,7 +35390,7 @@
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-09-30T09:10:10.537Z",
     "delivGoal": "2026-10-01T07:10:28.003Z",
-    "reminders": "2026-10-01T07:40:12.671Z"
+    "reminders": "2026-10-01T08:25:13.769Z"
   },
   "recRev": {
     "manualOrders": {
@@ -36915,6 +36942,6 @@
       ]
     }
   },
-  "rev": 3614,
-  "savedAt": "2026-10-01T08:24:21.340Z"
+  "rev": 3615,
+  "savedAt": "2026-10-01T08:25:13.770Z"
 }
