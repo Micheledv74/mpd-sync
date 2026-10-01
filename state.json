@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T12:17:06.993Z",
+  "pushedAt": "2026-10-01T12:17:16.203Z",
   "todosCount": 553,
   "todos": [
     {
@@ -35249,6 +35249,12 @@
       "closeInInfoship": false,
       "updatedAt": "2026-10-01T12:17:03.554Z",
       "since": "2026-10-01"
+    },
+    "med toscana::ballast system: actuators pneumatic valve spare; maker: besi marine system info@beside": {
+      "pos": "supplier",
+      "closeInInfoship": false,
+      "updatedAt": "2026-10-01T12:17:12.747Z",
+      "since": "2026-10-01"
     }
   },
   "delivGoal": {
@@ -35449,7 +35455,7 @@
     "portProfiles": "2026-09-25T17:52:59.070Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-01T12:17:06.993Z",
+    "matPos": "2026-10-01T12:17:16.203Z",
     "delivGoal": "2026-10-01T07:10:28.003Z",
     "reminders": "2026-10-01T11:02:41.545Z"
   },
@@ -37003,6 +37009,6 @@
       ]
     }
   },
-  "rev": 3634,
-  "savedAt": "2026-10-01T12:17:06.994Z"
+  "rev": 3635,
+  "savedAt": "2026-10-01T12:17:16.205Z"
 }
