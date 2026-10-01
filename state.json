@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T08:47:28.328Z",
+  "pushedAt": "2026-10-01T08:47:45.920Z",
   "todosCount": 553,
   "todos": [
     {
@@ -42,14 +42,15 @@
       "note": "Avviso periodico «IHM Report» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
       "kind": "todo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-10-01T07:39:43.386Z",
-      "updatedAt": "2026-10-01T07:39:43.386Z",
+      "updatedAt": "2026-10-01T08:47:42.466Z",
       "remKey": {
         "tpl": "ihm-report-4jgr",
         "vid": "vegauno",
         "cyc": "2026-10"
-      }
+      },
+      "doneAt": "2026-10-01T08:47:42.465Z"
     },
     {
       "category": "Nave",
@@ -35371,7 +35372,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-01T08:42:23.133Z",
+    "todos": "2026-10-01T08:47:45.919Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -36951,6 +36952,6 @@
       ]
     }
   },
-  "rev": 3622,
-  "savedAt": "2026-10-01T08:47:28.329Z"
+  "rev": 3623,
+  "savedAt": "2026-10-01T08:47:45.922Z"
 }
