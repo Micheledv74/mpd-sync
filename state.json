@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T11:02:41.545Z",
+  "pushedAt": "2026-10-01T11:11:29.520Z",
   "todosCount": 553,
   "todos": [
     {
@@ -13020,9 +13020,10 @@
       "dueDate": "2026-10-01",
       "note": "",
       "createdAt": "2026-10-01T07:52:54.9114345Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-10-01T11:11:26.101Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-10-01T11:11:26.101Z"
     },
     {
       "category": "Nave",
@@ -26365,6 +26366,13 @@
       "completedAt": "2026-10-01T08:48:49.895Z",
       "todoId": "outlook_AAKAS8xSAAA=",
       "title": "PEPPINO - VOY 16 - UWC Completion & Final Report Request"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKEluU2AAA=",
+      "listId": "",
+      "completedAt": "2026-10-01T11:11:26.105Z",
+      "todoId": "outlook_AAKEluU2AAA=",
+      "title": "R: Re: R: R: Re: M/V MED LIGURIA - URGENT - Gyro Compass Failure - Technician Attendance Required Before Yangzhou Berthing"
     }
   ],
   "manualOrders": {
@@ -35402,7 +35410,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-01T08:48:55.649Z",
+    "todos": "2026-10-01T11:11:29.519Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -35411,7 +35419,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-10-01T07:11:58.487Z",
-    "outlookCompletionQueue": "2026-10-01T08:48:55.649Z",
+    "outlookCompletionQueue": "2026-10-01T11:11:29.519Z",
     "manualOrders": "2026-09-30T18:06:10.022Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -36982,6 +36990,6 @@
       ]
     }
   },
-  "rev": 3630,
-  "savedAt": "2026-10-01T11:02:41.546Z"
+  "rev": 3631,
+  "savedAt": "2026-10-01T11:11:29.521Z"
 }
