@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T13:22:20.512Z",
+  "pushedAt": "2026-10-01T13:24:59.205Z",
   "todosCount": 554,
   "todos": [
     {
@@ -35323,6 +35323,12 @@
       "by": "scheda",
       "updatedAt": "2026-10-01T12:25:53.957Z",
       "since": "2026-10-01"
+    },
+    "peppino::spa req marine cooking range yangcan": {
+      "pos": "supplier",
+      "closeInInfoship": false,
+      "updatedAt": "2026-10-01T13:24:55.779Z",
+      "since": "2026-10-01"
     }
   },
   "delivGoal": {
@@ -35523,7 +35529,7 @@
     "portProfiles": "2026-09-25T17:52:59.070Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-01T12:56:26.211Z",
+    "matPos": "2026-10-01T13:24:59.204Z",
     "delivGoal": "2026-10-01T07:10:28.003Z",
     "reminders": "2026-10-01T11:02:41.545Z"
   },
@@ -37081,6 +37087,6 @@
       ]
     }
   },
-  "rev": 3657,
-  "savedAt": "2026-10-01T13:22:20.513Z"
+  "rev": 3658,
+  "savedAt": "2026-10-01T13:24:59.206Z"
 }
