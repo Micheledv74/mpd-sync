@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T08:47:45.920Z",
+  "pushedAt": "2026-10-01T08:47:56.362Z",
   "todosCount": 553,
   "todos": [
     {
@@ -66,14 +66,15 @@
       "note": "Avviso periodico «IHM Report» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
       "kind": "todo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-10-01T07:39:43.383Z",
-      "updatedAt": "2026-10-01T07:39:43.383Z",
+      "updatedAt": "2026-10-01T08:47:48.833Z",
       "remKey": {
         "tpl": "ihm-report-4jgr",
         "vid": "norrbotten",
         "cyc": "2026-10"
-      }
+      },
+      "doneAt": "2026-10-01T08:47:48.833Z"
     },
     {
       "category": "Nave",
@@ -89,14 +90,15 @@
       "note": "Avviso periodico «IHM Report» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
       "kind": "todo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-10-01T07:39:43.380Z",
-      "updatedAt": "2026-10-01T07:39:43.380Z",
+      "updatedAt": "2026-10-01T08:47:49.897Z",
       "remKey": {
         "tpl": "ihm-report-4jgr",
         "vid": "medtoscana",
         "cyc": "2026-10"
-      }
+      },
+      "doneAt": "2026-10-01T08:47:49.897Z"
     },
     {
       "category": "Nave",
@@ -112,14 +114,15 @@
       "note": "Avviso periodico «IHM Report» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
       "kind": "todo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-10-01T07:39:43.376Z",
-      "updatedAt": "2026-10-01T07:39:43.376Z",
+      "updatedAt": "2026-10-01T08:47:51.163Z",
       "remKey": {
         "tpl": "ihm-report-4jgr",
         "vid": "medliguria",
         "cyc": "2026-10"
-      }
+      },
+      "doneAt": "2026-10-01T08:47:51.163Z"
     },
     {
       "category": "Nave",
@@ -135,14 +138,15 @@
       "note": "Avviso periodico «IHM Report» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
       "kind": "todo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-10-01T07:39:43.372Z",
-      "updatedAt": "2026-10-01T07:39:43.372Z",
+      "updatedAt": "2026-10-01T08:47:52.873Z",
       "remKey": {
         "tpl": "ihm-report-4jgr",
         "vid": "peppino",
         "cyc": "2026-10"
-      }
+      },
+      "doneAt": "2026-10-01T08:47:52.873Z"
     },
     {
       "category": "Ufficio",
@@ -35372,7 +35376,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-01T08:47:45.919Z",
+    "todos": "2026-10-01T08:47:56.362Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -36952,6 +36956,6 @@
       ]
     }
   },
-  "rev": 3623,
-  "savedAt": "2026-10-01T08:47:45.922Z"
+  "rev": 3624,
+  "savedAt": "2026-10-01T08:47:56.364Z"
 }
