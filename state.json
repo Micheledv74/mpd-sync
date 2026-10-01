@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T12:17:51.441Z",
+  "pushedAt": "2026-10-01T12:17:54.963Z",
   "todosCount": 553,
   "todos": [
     {
@@ -35257,10 +35257,10 @@
       "since": "2026-10-01"
     },
     "med toscana::logbook": {
-      "pos": "repair",
+      "pos": "transit",
       "hub": "it-goa",
       "closeInInfoship": false,
-      "updatedAt": "2026-10-01T12:17:48.018Z",
+      "updatedAt": "2026-10-01T12:17:51.469Z",
       "since": "2026-10-01"
     }
   },
@@ -37016,6 +37016,6 @@
       ]
     }
   },
-  "rev": 3637,
-  "savedAt": "2026-10-01T12:17:51.442Z"
+  "rev": 3638,
+  "savedAt": "2026-10-01T12:17:54.964Z"
 }
