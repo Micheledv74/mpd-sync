@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T08:17:52.075Z",
-  "todosCount": 550,
+  "pushedAt": "2026-10-01T08:18:00.003Z",
+  "todosCount": 552,
   "todos": [
     {
       "category": "Nave",
@@ -12970,6 +12970,53 @@
       "doneAt": "2026-10-01T07:16:12.397Z",
       "outlookStatus": "notStarted",
       "updatedAt": "2026-10-01T07:16:12.397Z"
+    },
+    {
+      "id": "outlook_AAKEluU2AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKEluU2AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKElqpYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-01",
+      "outlookLinkedName": "Re: R: Re: R: R: Re: M/V MED LIGURIA - URGENT - Gyro Compass Failure - Technician Attendance Required Before Yangzhou Berthing",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "R: Re: R: R: Re: M/V MED LIGURIA - URGENT - Gyro Compass Failure - Technician Attendance Required Before Yangzhou Berthing",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-01",
+      "note": "",
+      "createdAt": "2026-10-01T07:52:54.9114345Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKEluU1AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKEluU1AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAAAABHDaAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-01",
+      "outlookLinkedName": "RE: M/V PEPPINO  PR120  HQPO-00156  PEP-SHPR-00120  DUBHE CO., LTD. /A-26102711",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO  PR120  HQPO-00156  PEP-SHPR-00120  DUBHE CO., LTD. /A-26102711",
+      "tags": [
+        "outlook",
+        "fornitore:DUBHE"
+      ],
+      "dueDate": "2026-10-01",
+      "note": "",
+      "createdAt": "2026-10-01T07:02:27.3698798Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -35288,7 +35335,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-01T08:12:17.597Z",
+    "todos": "2026-10-01T08:18:00.003Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -36868,6 +36915,6 @@
       ]
     }
   },
-  "rev": 3608,
-  "savedAt": "2026-10-01T08:17:52.077Z"
+  "rev": 3609,
+  "savedAt": "2026-10-01T08:18:00.006Z"
 }
