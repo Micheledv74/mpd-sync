@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T12:39:13.602Z",
+  "pushedAt": "2026-10-01T12:39:32.275Z",
   "todosCount": 554,
   "todos": [
     {
@@ -13050,6 +13050,12 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": " 2026-NOR-00053 R: TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKFbFhwAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKFbFhwAAA=",
       "outlookListId": "",
@@ -13057,14 +13063,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKFbAD%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-01",
       "outlookLinkedName": "R:  2026-NOR-00053 R: TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": " 2026-NOR-00053 R: TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-01",
       "note": "",
       "createdAt": "2026-10-01T12:29:17.0510422Z",
@@ -35482,7 +35482,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-01T12:39:13.602Z",
+    "todos": "2026-10-01T12:39:32.274Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -37066,6 +37066,6 @@
       ]
     }
   },
-  "rev": 3649,
-  "savedAt": "2026-10-01T12:39:13.603Z"
+  "rev": 3650,
+  "savedAt": "2026-10-01T12:39:32.276Z"
 }
