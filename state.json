@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T15:48:17.734Z",
+  "pushedAt": "2026-10-01T15:50:25.010Z",
   "todosCount": 554,
   "todos": [
     {
@@ -1219,11 +1219,11 @@
       "dueDate": "2026-08-01",
       "note": "Model. HRS280 2.80 mt.\n3 persone, 550 kg.\n7.5 KW 10 hp",
       "recur": null,
-      "done": true,
+      "done": false,
       "createdAt": "2026-07-02T18:42:50.752Z",
-      "updatedAt": "2026-08-20T13:54:33.863Z",
+      "updatedAt": "2026-10-01T15:50:21.523Z",
       "kind": "todo",
-      "doneAt": "2026-08-20T13:54:33.863Z"
+      "doneAt": null
     },
     {
       "category": "Nave",
@@ -35518,7 +35518,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-01T15:48:17.734Z",
+    "todos": "2026-10-01T15:50:25.009Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -37102,6 +37102,6 @@
       ]
     }
   },
-  "rev": 3681,
-  "savedAt": "2026-10-01T15:48:17.735Z"
+  "rev": 3682,
+  "savedAt": "2026-10-01T15:50:25.011Z"
 }
