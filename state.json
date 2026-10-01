@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T08:42:14.341Z",
+  "pushedAt": "2026-10-01T08:42:23.133Z",
   "todosCount": 553,
   "todos": [
     {
@@ -18,15 +18,15 @@
       "note": "Promemoria ufficio «IHM Report» · settembre 2026. Spuntala quando l'hai fatto.",
       "recur": null,
       "kind": "todo",
-      "done": false,
+      "done": true,
       "createdAt": "2026-10-01T08:25:10.342Z",
-      "updatedAt": "2026-10-01T08:25:24.698Z",
+      "updatedAt": "2026-10-01T08:42:17.117Z",
       "remKey": {
         "tpl": "ihm-report-4jgr",
         "vid": "_office",
         "cyc": "2026-10"
       },
-      "doneAt": null
+      "doneAt": "2026-10-01T08:42:17.117Z"
     },
     {
       "category": "Nave",
@@ -35354,6 +35354,14 @@
       "scope": "office",
       "to": "",
       "tool": "ihm"
+    },
+    "s:ihm-report-4jgr|_office|2026-10": {
+      "tpl": "ihm-report-4jgr",
+      "vid": "_office",
+      "cyc": "2026-10",
+      "sentAt": "2026-10-01T08:42:19.229Z",
+      "to": "",
+      "updatedAt": "2026-10-01T08:42:19.229Z"
     }
   },
   "chaseOff": {},
@@ -35363,7 +35371,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-01T08:41:44.845Z",
+    "todos": "2026-10-01T08:42:23.133Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -35391,7 +35399,7 @@
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-09-30T09:10:10.537Z",
     "delivGoal": "2026-10-01T07:10:28.003Z",
-    "reminders": "2026-10-01T08:26:03.482Z"
+    "reminders": "2026-10-01T08:42:23.133Z"
   },
   "recRev": {
     "manualOrders": {
@@ -36943,6 +36951,6 @@
       ]
     }
   },
-  "rev": 3620,
-  "savedAt": "2026-10-01T08:42:14.342Z"
+  "rev": 3621,
+  "savedAt": "2026-10-01T08:42:23.135Z"
 }
