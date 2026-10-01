@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T12:18:13.442Z",
+  "pushedAt": "2026-10-01T12:18:26.768Z",
   "todosCount": 553,
   "todos": [
     {
@@ -13092,7 +13092,8 @@
     "med toscana::ballast system: actuators pneumatic valve spare; maker: besi marine system info@beside": "Stanby @Roger",
     "med toscana::deck cargo lights": "Standby @Roger",
     "peppino::spa req marine cooking range yangcan": "Standby @Roger",
-    "peppino::spa req gs#1 temperature sensor": "@03/08"
+    "peppino::spa req gs#1 temperature sensor": "@03/08",
+    "med toscana::logbook": "@UFFICIO"
   },
   "snoozed": {
     "todo:td_1780846490055_byv9f": "2026-06-22",
@@ -35438,7 +35439,7 @@
   },
   "collMeta": {
     "todos": "2026-10-01T11:11:30.751Z",
-    "notes": "2026-09-21T20:42:37.043Z",
+    "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
     "completionsHistory": "2026-09-24T12:41:56.567Z",
@@ -36724,6 +36725,10 @@
       "peppino::spa req gs#1 temperature sensor": [
         "180gpxj8",
         ""
+      ],
+      "med toscana::logbook": [
+        "3shml0a",
+        "2026-10-01T12:18:23.598Z"
       ]
     },
     "voyages": {
@@ -37017,6 +37022,6 @@
       ]
     }
   },
-  "rev": 3641,
-  "savedAt": "2026-10-01T12:18:13.443Z"
+  "rev": 3642,
+  "savedAt": "2026-10-01T12:18:26.769Z"
 }
