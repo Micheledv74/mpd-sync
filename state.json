@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-01T07:11:58.487Z",
+  "pushedAt": "2026-10-01T07:13:31.504Z",
   "todosCount": 547,
   "todos": [
     {
@@ -20,9 +20,10 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKElqpQAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Re: 4929354242 // MV PEPPINO",
-      "done": false,
+      "done": true,
       "createdAt": "2026-09-30T18:13:08.010Z",
-      "updatedAt": "2026-09-30T18:13:08.010Z"
+      "updatedAt": "2026-10-01T07:13:28.090Z",
+      "doneAt": "2026-10-01T07:13:28.090Z"
     },
     {
       "category": "Nave",
@@ -35184,7 +35185,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-09-30T20:56:44.711Z",
+    "todos": "2026-10-01T07:13:31.504Z",
     "notes": "2026-09-21T20:42:37.043Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -36764,6 +36765,6 @@
       ]
     }
   },
-  "rev": 3598,
-  "savedAt": "2026-10-01T07:11:58.488Z"
+  "rev": 3599,
+  "savedAt": "2026-10-01T07:13:31.505Z"
 }
