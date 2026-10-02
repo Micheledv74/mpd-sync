@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T09:20:38.821Z",
+  "pushedAt": "2026-10-02T09:36:45.282Z",
   "todosCount": 554,
   "todos": [
     {
@@ -11867,13 +11867,13 @@
       "dueDate": "2026-10-02",
       "note": "",
       "createdAt": "2026-09-22T07:14:11.3291265Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-10-02T09:36:41.869Z",
       "outlookStatus": "notStarted",
       "outlookFlagDate": "2026-09-22",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-28T07:38:53.902Z"
+      "updatedAt": "2026-10-02T09:36:41.869Z"
     },
     {
       "category": "Nave",
@@ -26421,6 +26421,13 @@
       "completedAt": "2026-10-01T11:11:26.105Z",
       "todoId": "outlook_AAKEluU2AAA=",
       "title": "R: Re: R: R: Re: M/V MED LIGURIA - URGENT - Gyro Compass Failure - Technician Attendance Required Before Yangzhou Berthing"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAJ-UOMWAAA=",
+      "listId": "",
+      "completedAt": "2026-10-02T09:36:41.878Z",
+      "todoId": "outlook_AAJ-UOMWAAA=",
+      "title": "R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: Order Confirmation / PO 2026-MDT-HQPO-00057 / VESSEL MED TOSCANA / SO 2386541."
     }
   ],
   "manualOrders": {
@@ -35569,7 +35576,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-02T08:33:20.707Z",
+    "todos": "2026-10-02T09:36:45.281Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -35578,7 +35585,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-10-02T07:17:26.934Z",
-    "outlookCompletionQueue": "2026-10-01T11:11:30.751Z",
+    "outlookCompletionQueue": "2026-10-02T09:36:45.281Z",
     "manualOrders": "2026-10-02T09:20:38.820Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -37165,6 +37172,6 @@
       ]
     }
   },
-  "rev": 3717,
-  "savedAt": "2026-10-02T09:20:38.823Z"
+  "rev": 3718,
+  "savedAt": "2026-10-02T09:36:45.283Z"
 }
