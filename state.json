@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T09:17:06.256Z",
+  "pushedAt": "2026-10-02T09:17:26.888Z",
   "todosCount": 554,
   "todos": [
     {
@@ -26464,10 +26464,21 @@
         "description": "",
         "supplier": "KAM Marina Nazionale",
         "status": "delivered",
-        "date": "",
+        "date": "2026-05-11",
         "amount": "641.48",
         "currency": "EUR",
-        "updatedAt": "2026-10-02T09:17:00.109Z"
+        "updatedAt": "2026-10-02T09:17:14.724Z"
+      },
+      {
+        "id": "mo_1790932636702_2uxt",
+        "docNum": "2026-VGU-00005",
+        "description": "",
+        "supplier": "",
+        "status": "rfq",
+        "date": "",
+        "amount": "",
+        "currency": "EUR",
+        "updatedAt": "2026-10-02T09:17:23.472Z"
       }
     ],
     "norrbotten": []
@@ -35557,7 +35568,7 @@
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-10-02T07:17:26.934Z",
     "outlookCompletionQueue": "2026-10-01T11:11:30.751Z",
-    "manualOrders": "2026-10-02T09:17:03.632Z",
+    "manualOrders": "2026-10-02T09:17:26.887Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35592,8 +35603,12 @@
         "2026-10-02T09:15:30.756Z"
       ],
       "vegauno|mo_1790932548562_72g9": [
-        "1u2id5q5w",
-        "2026-10-02T09:17:00.425Z"
+        "4hev4b66",
+        "2026-10-02T09:17:15.027Z"
+      ],
+      "vegauno|mo_1790932636702_2uxt": [
+        "uj4j3150",
+        "2026-10-02T09:17:23.773Z"
       ]
     },
     "shipments": {
@@ -37135,6 +37150,6 @@
       ]
     }
   },
-  "rev": 3705,
-  "savedAt": "2026-10-02T09:17:06.259Z"
+  "rev": 3706,
+  "savedAt": "2026-10-02T09:17:26.889Z"
 }
