@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T10:36:11.373Z",
+  "pushedAt": "2026-10-02T12:45:50.794Z",
   "todosCount": 556,
   "todos": [
     {
@@ -13128,12 +13128,15 @@
       "outlookLinkedName": "Re: ETA/ETD VESSEL UPDATE - R: [EXTERNAL] M/V PEPPINO@TEMA (GHANA) ETA SEPT 23rd TBC INGFORMATIONS REQUEST",
       "vessel": "peppino",
       "action": "Altro",
-      "dueDate": "2026-10-01",
+      "dueDate": "2026-10-05",
       "note": "",
       "createdAt": "2026-10-02T08:41:58.744673Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-10-02T12:45:47.375Z"
     }
   ],
   "notes": {
@@ -35864,7 +35867,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-02T10:31:38.832Z",
+    "todos": "2026-10-02T12:45:50.794Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -37492,6 +37495,6 @@
       ]
     }
   },
-  "rev": 3737,
-  "savedAt": "2026-10-02T10:36:11.374Z"
+  "rev": 3738,
+  "savedAt": "2026-10-02T12:45:50.795Z"
 }
