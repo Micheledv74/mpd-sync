@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T09:14:23.666Z",
+  "pushedAt": "2026-10-02T09:14:35.592Z",
   "todosCount": 554,
   "todos": [
     {
@@ -26440,11 +26440,12 @@
         "id": "mo_1790790949759_yoo6",
         "docNum": "2026-VGU-00002",
         "description": "Olio",
-        "supplier": "",
+        "supplier": "Total ERG",
         "status": "delivered",
         "date": "",
         "amount": "595.36",
-        "currency": "EUR"
+        "currency": "EUR",
+        "updatedAt": "2026-10-02T09:14:32.143Z"
       },
       {
         "id": "mo_1790791051748_c1m2",
@@ -35544,7 +35545,7 @@
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-10-02T07:17:26.934Z",
     "outlookCompletionQueue": "2026-10-01T11:11:30.751Z",
-    "manualOrders": "2026-10-02T09:14:23.665Z",
+    "manualOrders": "2026-10-02T09:14:35.592Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35571,8 +35572,8 @@
         "2026-10-02T09:14:20.552Z"
       ],
       "vegauno|mo_1790790949759_yoo6": [
-        "tqwea14d",
-        ""
+        "xd5l5d5p",
+        "2026-10-02T09:14:32.454Z"
       ],
       "vegauno|mo_1790791051748_c1m2": [
         "1v8ibnc4k",
@@ -37118,6 +37119,6 @@
       ]
     }
   },
-  "rev": 3698,
-  "savedAt": "2026-10-02T09:14:23.667Z"
+  "rev": 3699,
+  "savedAt": "2026-10-02T09:14:35.593Z"
 }
