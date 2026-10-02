@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T09:14:48.233Z",
+  "pushedAt": "2026-10-02T09:15:33.870Z",
   "todosCount": 554,
   "todos": [
     {
@@ -26450,13 +26450,13 @@
       {
         "id": "mo_1790791051748_c1m2",
         "docNum": "2026-VGU-00003",
-        "description": "",
+        "description": "Filtri olio e Racor",
         "supplier": "Delta Service srl",
         "status": "delivered",
         "date": "2026-05-07",
         "amount": "881.089",
         "currency": "EUR",
-        "updatedAt": "2026-10-02T09:14:42.530Z"
+        "updatedAt": "2026-10-02T09:15:30.442Z"
       }
     ],
     "norrbotten": []
@@ -35546,7 +35546,7 @@
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-10-02T07:17:26.934Z",
     "outlookCompletionQueue": "2026-10-01T11:11:30.751Z",
-    "manualOrders": "2026-10-02T09:14:46.046Z",
+    "manualOrders": "2026-10-02T09:15:33.869Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35577,8 +35577,8 @@
         "2026-10-02T09:14:32.454Z"
       ],
       "vegauno|mo_1790791051748_c1m2": [
-        "19ln26b64",
-        "2026-10-02T09:14:42.837Z"
+        "feweu86n",
+        "2026-10-02T09:15:30.756Z"
       ]
     },
     "shipments": {
@@ -37120,6 +37120,6 @@
       ]
     }
   },
-  "rev": 3700,
-  "savedAt": "2026-10-02T09:14:48.235Z"
+  "rev": 3701,
+  "savedAt": "2026-10-02T09:15:33.874Z"
 }
