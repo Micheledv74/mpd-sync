@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T12:45:50.794Z",
+  "pushedAt": "2026-10-02T12:47:20.384Z",
   "todosCount": 556,
   "todos": [
     {
@@ -27991,7 +27991,6 @@
     }
   },
   "repliesDismissed": [
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQALtszXkhnI5Dg0cHGCdPX2g=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAFtaU3BdqtBIry5YTGwMcDE=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQANe5gA9XvdxPof7rGV0lxNA=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAABe6LKTxLdKkemiSa7DcNY=",
@@ -28490,7 +28489,8 @@
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQANrAf_nbXAlKl3p3y6HG2cI=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAGZbvYqYHEIvruK9Ejpc7kI=",
     "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAJi0rGNrec9BgLbibHS7JWc=",
-    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAK3mKaWg5UG5m-tUbVi79fU="
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAK3mKaWg5UG5m-tUbVi79fU=",
+    "AAQkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQAQAAnMhmISekKitHS-I3vWv6U="
   ],
   "shipments": {
     "med toscana::bwts suction pump mn 40125": [
@@ -35884,7 +35884,7 @@
     "agencyProfiles": "2026-09-22T17:38:51.248Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-29T12:02:34.247Z",
-    "repliesDismissed": "2026-10-01T15:21:15.158Z",
+    "repliesDismissed": "2026-10-02T12:47:20.383Z",
     "shipments": "2026-10-01T13:08:17.927Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
@@ -37495,6 +37495,6 @@
       ]
     }
   },
-  "rev": 3738,
-  "savedAt": "2026-10-02T12:45:50.795Z"
+  "rev": 3739,
+  "savedAt": "2026-10-02T12:47:20.385Z"
 }
