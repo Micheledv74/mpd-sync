@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T07:24:02.307Z",
+  "pushedAt": "2026-10-02T08:32:55.412Z",
   "todosCount": 554,
   "todos": [
     {
@@ -35353,6 +35353,12 @@
       "closeInInfoship": false,
       "updatedAt": "2026-10-01T13:24:55.779Z",
       "since": "2026-10-01"
+    },
+    "med toscana::repair crane 2 & 3": {
+      "pos": "supplier",
+      "closeInInfoship": false,
+      "updatedAt": "2026-10-02T08:32:52.004Z",
+      "since": "2026-10-02"
     }
   },
   "delivGoal": {
@@ -35553,7 +35559,7 @@
     "portProfiles": "2026-09-25T17:52:59.070Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-01T13:24:59.204Z",
+    "matPos": "2026-10-02T08:32:55.411Z",
     "delivGoal": "2026-10-01T14:03:44.819Z",
     "reminders": "2026-10-01T11:02:41.545Z"
   },
@@ -37111,6 +37117,6 @@
       ]
     }
   },
-  "rev": 3695,
-  "savedAt": "2026-10-02T07:24:02.311Z"
+  "rev": 3696,
+  "savedAt": "2026-10-02T08:32:55.413Z"
 }
