@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T09:18:25.876Z",
+  "pushedAt": "2026-10-02T09:19:00.251Z",
   "todosCount": 554,
   "todos": [
     {
@@ -26482,13 +26482,14 @@
       },
       {
         "id": "mo_1790932701824_bhry",
-        "docNum": "",
-        "description": "",
-        "supplier": "",
-        "status": "rfq",
+        "docNum": "2026-VGU-00006",
+        "description": "Collaudo CO2",
+        "supplier": "Naviservice Fire & Safety",
+        "status": "delivered",
         "date": "",
         "amount": "",
-        "currency": "EUR"
+        "currency": "EUR",
+        "updatedAt": "2026-10-02T09:19:00.169Z"
       }
     ],
     "norrbotten": []
@@ -35578,7 +35579,7 @@
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-10-02T07:17:26.934Z",
     "outlookCompletionQueue": "2026-10-01T11:11:30.751Z",
-    "manualOrders": "2026-10-02T09:18:21.504Z",
+    "manualOrders": "2026-10-02T09:19:00.251Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35621,8 +35622,8 @@
         "2026-10-02T09:18:17.411Z"
       ],
       "vegauno|mo_1790932701824_bhry": [
-        "1137gyy3j",
-        "2026-10-02T09:18:22.127Z"
+        "1ar65on67",
+        "2026-10-02T09:19:00.252Z"
       ]
     },
     "shipments": {
@@ -37164,6 +37165,6 @@
       ]
     }
   },
-  "rev": 3712,
-  "savedAt": "2026-10-02T09:18:25.878Z"
+  "rev": 3713,
+  "savedAt": "2026-10-02T09:19:00.253Z"
 }
