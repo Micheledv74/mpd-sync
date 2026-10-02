@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T09:17:59.450Z",
+  "pushedAt": "2026-10-02T09:18:08.170Z",
   "todosCount": 554,
   "todos": [
     {
@@ -26475,10 +26475,10 @@
         "description": "MANIFOLD ASSY",
         "supplier": "SUNJIN ENTECH Co.,Ltd.",
         "status": "delivered",
-        "date": "",
+        "date": "2026-09-01",
         "amount": "",
         "currency": "EUR",
-        "updatedAt": "2026-10-02T09:17:57.367Z"
+        "updatedAt": "2026-10-02T09:18:05.341Z"
       }
     ],
     "norrbotten": []
@@ -35568,7 +35568,7 @@
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-10-02T07:17:26.934Z",
     "outlookCompletionQueue": "2026-10-01T11:11:30.751Z",
-    "manualOrders": "2026-10-02T09:17:57.314Z",
+    "manualOrders": "2026-10-02T09:18:08.170Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35607,8 +35607,8 @@
         "2026-10-02T09:17:15.027Z"
       ],
       "vegauno|mo_1790932636702_2uxt": [
-        "8hehwe65",
-        "2026-10-02T09:17:57.676Z"
+        "1si56z06f",
+        "2026-10-02T09:18:05.642Z"
       ]
     },
     "shipments": {
@@ -37150,6 +37150,6 @@
       ]
     }
   },
-  "rev": 3709,
-  "savedAt": "2026-10-02T09:17:59.452Z"
+  "rev": 3710,
+  "savedAt": "2026-10-02T09:18:08.175Z"
 }
