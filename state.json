@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T12:48:00.414Z",
+  "pushedAt": "2026-10-02T12:50:40.531Z",
   "todosCount": 556,
   "todos": [
     {
@@ -27759,7 +27759,7 @@
     "GAC Philippines, Inc. (Filippine)": {
       "email": "Franco Angelo Zosa <franco.zosa@gac.com>",
       "phone": "Tel +63 288 922 713 | Mob + 63 998 588 1913",
-      "rating": 0,
+      "rating": 4,
       "_notionId": "3102131b-343e-80d4-beb0-efdc4624a297"
     },
     "Johnasia Shipping (S) Pte Ltd": {
@@ -35881,7 +35881,7 @@
     "deliveries": "2026-10-02T10:36:11.372Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
-    "agencyProfiles": "2026-09-22T17:38:51.248Z",
+    "agencyProfiles": "2026-10-02T12:50:40.531Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-09-29T12:02:34.247Z",
     "repliesDismissed": "2026-10-02T12:48:00.413Z",
@@ -36890,8 +36890,8 @@
         ""
       ],
       "GAC Philippines, Inc. (Filippine)": [
-        "1adpi834o",
-        ""
+        "1vgxagn4o",
+        "2026-10-02T12:50:35.028Z"
       ],
       "Johnasia Shipping (S) Pte Ltd": [
         "1ma1z2u4q",
@@ -37495,6 +37495,6 @@
       ]
     }
   },
-  "rev": 3744,
-  "savedAt": "2026-10-02T12:48:00.416Z"
+  "rev": 3745,
+  "savedAt": "2026-10-02T12:50:40.532Z"
 }
