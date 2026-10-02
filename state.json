@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T10:31:38.832Z",
+  "pushedAt": "2026-10-02T10:32:46.310Z",
   "todosCount": 556,
   "todos": [
     {
@@ -27301,6 +27301,11 @@
       "mode": "manual",
       "port": "Torre Annunziata",
       "date": "2026-09-18"
+    },
+    "mo::vegauno::mo_1790932548562_72g9": {
+      "mode": "manual",
+      "port": "Ravenna",
+      "date": "2026-05-18"
     }
   },
   "vesselPos": {
@@ -35855,7 +35860,7 @@
     "voyages": "2026-10-02T07:17:26.934Z",
     "outlookCompletionQueue": "2026-10-02T09:39:39.337Z",
     "manualOrders": "2026-10-02T10:25:28.126Z",
-    "deliveries": "2026-10-02T10:31:38.832Z",
+    "deliveries": "2026-10-02T10:32:46.310Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-09-22T17:38:51.248Z",
@@ -36543,6 +36548,10 @@
       "mo::vegauno::mo_1790932636702_2uxt": [
         "1g9h7721r",
         "2026-10-02T10:31:35.718Z"
+      ],
+      "mo::vegauno::mo_1790932548562_72g9": [
+        "10e9maa1i",
+        "2026-10-02T10:32:43.222Z"
       ]
     },
     "vesselPos": {
@@ -37456,6 +37465,6 @@
       ]
     }
   },
-  "rev": 3733,
-  "savedAt": "2026-10-02T10:31:38.833Z"
+  "rev": 3734,
+  "savedAt": "2026-10-02T10:32:46.313Z"
 }
