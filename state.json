@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T14:45:58.440Z",
+  "pushedAt": "2026-10-02T14:46:28.450Z",
   "todosCount": 558,
   "todos": [
     {
@@ -15,7 +15,7 @@
       "id": "td_1790868071675_ee9e3",
       "vessel": "peppino",
       "action": "Inviare email",
-      "dueDate": "2026-10-02",
+      "dueDate": "2026-10-05",
       "note": "Dear Federica Botta, good day! your below message was duly noted. we are able to assist your during vessels call to Brazilian port basis vessels rotation informed by you - best option for all the jobs crew change and spare parts will be ALUMAR",
       "recur": null,
       "kind": "todo",
@@ -23,7 +23,7 @@
       "outlookLinkedName": "RE: MV Peppino calling Brazil",
       "done": false,
       "createdAt": "2026-10-01T15:21:11.675Z",
-      "updatedAt": "2026-10-02T07:18:07.354Z"
+      "updatedAt": "2026-10-02T14:46:24.825Z"
     },
     {
       "category": "Ufficio",
@@ -35914,7 +35914,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-02T14:33:17.080Z",
+    "todos": "2026-10-02T14:46:28.450Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -37542,6 +37542,6 @@
       ]
     }
   },
-  "rev": 3753,
-  "savedAt": "2026-10-02T14:45:58.441Z"
+  "rev": 3754,
+  "savedAt": "2026-10-02T14:46:28.451Z"
 }
