@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T09:39:39.337Z",
+  "pushedAt": "2026-10-02T09:46:59.055Z",
   "todosCount": 554,
   "todos": [
     {
@@ -13317,6 +13317,10 @@
     "overdue:med toscana::emergency diesel generator tacho sensor": {
       "archivedAt": "2026-09-24T12:41:57.896Z",
       "lastSeenStatus": "1/2 offerte"
+    },
+    "overdue:med toscana::talk back box preamplifier ordering according service": {
+      "archivedAt": "2026-10-02T09:46:55.632Z",
+      "lastSeenStatus": "In attesa"
     }
   },
   "completionsHistory": [
@@ -15010,6 +15014,15 @@
       "vesselName": "MED TOSCANA",
       "description": "Emergency Diesel Generator, Tacho Sensor",
       "supplier": "FORTUNE MARITIME",
+      "level": "warning"
+    },
+    {
+      "key": "overdue:med toscana::talk back box preamplifier ordering according service",
+      "label": "In attesa · 9g",
+      "completedAt": "2026-10-02T09:46:55.631Z",
+      "vesselName": "MED TOSCANA",
+      "description": "TALK BACK BOX PREAMPLIFIER, ORDERING ACCORDING SERVICE",
+      "supplier": "TEFIN SCRL",
       "level": "warning"
     }
   ],
@@ -35586,8 +35599,8 @@
     "todos": "2026-10-02T09:39:39.337Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
-    "archivedActions": "2026-09-24T12:41:56.567Z",
-    "completionsHistory": "2026-09-24T12:41:56.567Z",
+    "archivedActions": "2026-10-02T09:46:59.054Z",
+    "completionsHistory": "2026-10-02T09:46:59.054Z",
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
@@ -37108,6 +37121,10 @@
       "overdue:med toscana::emergency diesel generator tacho sensor": [
         "1gjk2uw20",
         ""
+      ],
+      "overdue:med toscana::talk back box preamplifier ordering according service": [
+        "xxgzon1y",
+        "2026-10-02T09:46:55.943Z"
       ]
     },
     "supplierTimezones": {
@@ -37179,6 +37196,6 @@
       ]
     }
   },
-  "rev": 3720,
-  "savedAt": "2026-10-02T09:39:39.339Z"
+  "rev": 3721,
+  "savedAt": "2026-10-02T09:46:59.056Z"
 }
