@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T09:37:28.910Z",
+  "pushedAt": "2026-10-02T09:39:39.337Z",
   "todosCount": 554,
   "todos": [
     {
@@ -13081,12 +13081,12 @@
       "dueDate": "2026-10-02",
       "note": "",
       "createdAt": "2026-10-01T13:05:36.6937344Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-10-02T09:39:35.932Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-02T07:23:04.727Z"
+      "updatedAt": "2026-10-02T09:39:35.932Z"
     }
   ],
   "notes": {
@@ -26428,6 +26428,13 @@
       "completedAt": "2026-10-02T09:36:41.878Z",
       "todoId": "outlook_AAJ-UOMWAAA=",
       "title": "R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: Order Confirmation / PO 2026-MDT-HQPO-00057 / VESSEL MED TOSCANA / SO 2386541."
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKFbFhxAAA=",
+      "listId": "",
+      "completedAt": "2026-10-02T09:39:35.938Z",
+      "todoId": "outlook_AAKFbFhxAAA=",
+      "title": "MV Peppino calling Brazil"
     }
   ],
   "manualOrders": {
@@ -35576,7 +35583,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-02T09:37:28.910Z",
+    "todos": "2026-10-02T09:39:39.337Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -35585,7 +35592,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
     "voyages": "2026-10-02T07:17:26.934Z",
-    "outlookCompletionQueue": "2026-10-02T09:36:45.915Z",
+    "outlookCompletionQueue": "2026-10-02T09:39:39.337Z",
     "manualOrders": "2026-10-02T09:20:38.820Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -37172,6 +37179,6 @@
       ]
     }
   },
-  "rev": 3719,
-  "savedAt": "2026-10-02T09:37:28.911Z"
+  "rev": 3720,
+  "savedAt": "2026-10-02T09:39:39.339Z"
 }
