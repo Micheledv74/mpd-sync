@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T09:54:28.867Z",
+  "pushedAt": "2026-10-02T10:00:20.097Z",
   "todosCount": 554,
   "todos": [
     {
@@ -32573,6 +32573,24 @@
       "supplier": "FUJI TRADING JAPAN",
       "description": "FW HYDROPHORE PUMP",
       "updatedAt": "2026-10-02T09:54:24.538Z"
+    },
+    "2026-PEP-HQRQ-00255": {
+      "entries": [
+        {
+          "id": "ch_muqsl4j7yf2",
+          "ts": "2026-10-02T10:00:15.667Z",
+          "level": 1,
+          "lang": "en",
+          "to": "jeon@gandptech.com",
+          "subject": "M/V PEPPINO - Quotation reminder – RFQ 2026-PEP-HQRQ-00255",
+          "channel": "email"
+        }
+      ],
+      "rfqNumber": "2026-PEP-HQRQ-00255",
+      "vesselId": "peppino",
+      "supplier": "G&P TECH CO.",
+      "description": "Aux. Generator",
+      "updatedAt": "2026-10-02T10:00:15.667Z"
     }
   },
   "rfqVendors": {
@@ -35709,7 +35727,7 @@
     "shipments": "2026-10-01T13:08:17.927Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
-    "rfqChases": "2026-10-02T09:54:23.903Z",
+    "rfqChases": "2026-10-02T10:00:20.097Z",
     "rfqVendors": "2026-10-02T09:50:56.223Z",
     "portProfiles": "2026-09-25T17:52:59.070Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
@@ -37288,6 +37306,6 @@
       ]
     }
   },
-  "rev": 3727,
-  "savedAt": "2026-10-02T09:54:28.871Z"
+  "rev": 3728,
+  "savedAt": "2026-10-02T10:00:20.099Z"
 }
