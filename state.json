@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T09:36:48.150Z",
+  "pushedAt": "2026-10-02T09:37:28.910Z",
   "todosCount": 554,
   "todos": [
     {
@@ -12951,7 +12951,7 @@
       "outlookLinkedName": "Nabtesco Main Engine Remote Control System || Required Maintenance || 2026 || Ships Surveys & Services Srl /MED LIGURIA",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-10-02",
+      "dueDate": "2026-10-05",
       "note": "",
       "createdAt": "2026-09-30T07:12:11.4994418Z",
       "done": false,
@@ -12959,7 +12959,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-30T10:03:37.492Z"
+      "updatedAt": "2026-10-02T09:37:25.617Z"
     },
     {
       "category": "Altro",
@@ -35576,7 +35576,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-02T09:36:45.915Z",
+    "todos": "2026-10-02T09:37:28.910Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-09-24T12:41:56.567Z",
@@ -37172,6 +37172,6 @@
       ]
     }
   },
-  "rev": 3718,
-  "savedAt": "2026-10-02T09:36:48.152Z"
+  "rev": 3719,
+  "savedAt": "2026-10-02T09:37:28.911Z"
 }
