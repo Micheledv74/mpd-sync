@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-02T07:16:53.394Z",
+  "pushedAt": "2026-10-02T07:17:26.935Z",
   "todosCount": 554,
   "todos": [
     {
@@ -25544,7 +25544,7 @@
       },
       "next": {},
       "notes": "",
-      "updatedAt": "2026-10-01T12:54:10.038Z",
+      "updatedAt": "2026-10-02T07:17:23.370Z",
       "fromNoon": "2026-10-01",
       "history": [
         {
@@ -35526,7 +35526,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-08-21T07:32:33.905Z",
-    "voyages": "2026-10-01T15:40:25.538Z",
+    "voyages": "2026-10-02T07:17:26.934Z",
     "outlookCompletionQueue": "2026-10-01T11:11:30.751Z",
     "manualOrders": "2026-09-30T18:06:10.022Z",
     "deliveries": "2026-09-28T21:23:08.118Z",
@@ -36813,8 +36813,8 @@
     },
     "voyages": {
       "peppino": [
-        "1xaab9v460",
-        "2026-10-01T12:54:10.348Z"
+        "q9pxiy460",
+        "2026-10-02T07:17:23.673Z"
       ],
       "medliguria": [
         "c36w7y5o7",
@@ -37102,6 +37102,6 @@
       ]
     }
   },
-  "rev": 3685,
-  "savedAt": "2026-10-02T07:16:53.395Z"
+  "rev": 3686,
+  "savedAt": "2026-10-02T07:17:26.936Z"
 }
