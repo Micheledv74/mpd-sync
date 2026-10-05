@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-05T13:54:50.088Z",
+  "pushedAt": "2026-10-05T15:10:34.148Z",
   "todosCount": 558,
   "todos": [
     {
@@ -34903,6 +34903,19 @@
       "eu": true,
       "note": "Ostruzionismo  da parte agenzia su arrivi dall'estero con documentazione rigida.",
       "updatedAt": "2026-09-25T17:52:55.524Z"
+    },
+    "RICHARDS BAY (SA)": {
+      "port": "Richards Bay (SA)",
+      "customs": [
+        1,
+        2
+      ],
+      "notice": 24,
+      "rel": 0,
+      "agent": "",
+      "eu": true,
+      "note": "",
+      "updatedAt": "2026-10-05T15:10:30.712Z"
     }
   },
   "logbook": {},
@@ -35367,7 +35380,7 @@
     "pinnedActions": "",
     "rfqChases": "2026-10-02T10:00:20.097Z",
     "rfqVendors": "2026-10-02T09:50:56.223Z",
-    "portProfiles": "2026-09-25T17:52:59.070Z",
+    "portProfiles": "2026-10-05T15:10:34.148Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-10-05T10:31:26.541Z",
@@ -36992,6 +37005,6 @@
       ]
     }
   },
-  "rev": 3831,
-  "savedAt": "2026-10-05T13:54:50.090Z"
+  "rev": 3832,
+  "savedAt": "2026-10-05T15:10:34.149Z"
 }
