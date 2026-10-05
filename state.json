@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-05T07:56:42.158Z",
+  "pushedAt": "2026-10-05T07:57:04.934Z",
   "todosCount": 558,
   "todos": [
     {
@@ -26663,6 +26663,11 @@
       "mode": "manual",
       "port": "Xiemen",
       "date": ""
+    },
+    "med liguria::ballast water sample analysis vgp": {
+      "mode": "manual",
+      "port": "Xiemen",
+      "date": ""
     }
   },
   "vesselPos": {
@@ -35240,7 +35245,7 @@
     "voyages": "2026-10-05T07:44:26.738Z",
     "outlookCompletionQueue": "2026-10-02T14:47:18.356Z",
     "manualOrders": "2026-10-02T10:25:28.126Z",
-    "deliveries": "2026-10-05T07:56:42.158Z",
+    "deliveries": "2026-10-05T07:57:04.933Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-10-02T12:50:40.531Z",
@@ -35952,6 +35957,10 @@
       "med liguria::annual bwts calibration service lake charles": [
         "athk9v17",
         "2026-10-05T07:56:39.038Z"
+      ],
+      "med liguria::ballast water sample analysis vgp": [
+        "athk9v17",
+        "2026-10-05T07:57:01.837Z"
       ]
     },
     "vesselPos": {
@@ -36865,6 +36874,6 @@
       ]
     }
   },
-  "rev": 3798,
-  "savedAt": "2026-10-05T07:56:42.160Z"
+  "rev": 3799,
+  "savedAt": "2026-10-05T07:57:04.936Z"
 }
