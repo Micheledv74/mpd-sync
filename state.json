@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-05T07:55:16.420Z",
+  "pushedAt": "2026-10-05T07:56:04.442Z",
   "todosCount": 558,
   "todos": [
     {
@@ -26653,6 +26653,11 @@
       "mode": "manual",
       "port": "Ravenna",
       "date": "2026-03-23"
+    },
+    "med liguria::engine store electric matting rubber": {
+      "mode": "manual",
+      "port": "Xiemen",
+      "date": ""
     }
   },
   "vesselPos": {
@@ -35225,7 +35230,7 @@
     "voyages": "2026-10-05T07:44:26.738Z",
     "outlookCompletionQueue": "2026-10-02T14:47:18.356Z",
     "manualOrders": "2026-10-02T10:25:28.126Z",
-    "deliveries": "2026-10-05T07:54:27.917Z",
+    "deliveries": "2026-10-05T07:56:04.441Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-10-02T12:50:40.531Z",
@@ -35929,6 +35934,10 @@
       "mo::vegauno::mo_1790790562390_or6z": [
         "txl7ae1i",
         "2026-10-02T10:36:08.174Z"
+      ],
+      "med liguria::engine store electric matting rubber": [
+        "athk9v17",
+        "2026-10-05T07:56:01.286Z"
       ]
     },
     "vesselPos": {
@@ -36842,6 +36851,6 @@
       ]
     }
   },
-  "rev": 3795,
-  "savedAt": "2026-10-05T07:55:16.422Z"
+  "rev": 3796,
+  "savedAt": "2026-10-05T07:56:04.443Z"
 }
