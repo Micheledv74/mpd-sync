@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-05T08:46:53.097Z",
+  "pushedAt": "2026-10-05T08:47:06.581Z",
   "todosCount": 558,
   "todos": [
     {
@@ -12843,7 +12843,7 @@
       "updatedAt": "2026-10-05T08:46:46.535Z"
     },
     {
-      "category": "Altro",
+      "category": "Nave",
       "priority": "media",
       "reference": "MYTHMAR-26.7731 26.7732 26.7733 / MV NORRBOTTEN / INVOICE",
       "tags": [
@@ -12856,7 +12856,7 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKDNzQ3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-09-28",
       "outlookLinkedName": "MYTHMAR-26.7731 26.7732 26.7733 / MV NORRBOTTEN / INVOICE",
-      "vessel": "",
+      "vessel": "norrbotten",
       "action": "Altro",
       "dueDate": "2026-10-05",
       "note": "",
@@ -12866,7 +12866,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-29T07:57:38.636Z"
+      "updatedAt": "2026-10-05T08:47:03.726Z"
     },
     {
       "category": "Nave",
@@ -35268,7 +35268,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-05T08:46:51.696Z",
+    "todos": "2026-10-05T08:47:06.581Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -36912,6 +36912,6 @@
       ]
     }
   },
-  "rev": 3810,
-  "savedAt": "2026-10-05T08:46:53.100Z"
+  "rev": 3811,
+  "savedAt": "2026-10-05T08:47:06.582Z"
 }
