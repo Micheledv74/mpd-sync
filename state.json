@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-05T10:29:41.907Z",
+  "pushedAt": "2026-10-05T10:30:00.732Z",
   "todosCount": 558,
   "todos": [
     {
@@ -27354,6 +27354,9 @@
     "med toscana::messenger line for mooring ropes": {
       "excludePerf": true,
       "excludeReason": "strategic"
+    },
+    "med liguria::alpha lubricator system mfg no pu110105::2026-MLG-HQPO-00076": {
+      "transportMode": "TML GENOA"
     }
   },
   "repliesDismissed": [
@@ -35314,7 +35317,7 @@
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
     "agencyProfiles": "2026-10-02T12:50:40.531Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
-    "itemOverrides": "2026-09-29T12:02:34.247Z",
+    "itemOverrides": "2026-10-05T10:30:00.732Z",
     "repliesDismissed": "2026-10-02T12:48:00.413Z",
     "shipments": "2026-10-01T13:08:17.927Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
@@ -36465,6 +36468,10 @@
       "med toscana::messenger line for mooring ropes": [
         "1p9m9o61c",
         ""
+      ],
+      "med liguria::alpha lubricator system mfg no pu110105::2026-MLG-HQPO-00076": [
+        "12ejn5ut",
+        "2026-10-05T10:29:57.650Z"
       ]
     },
     "certExtras": {
@@ -36942,6 +36949,6 @@
       ]
     }
   },
-  "rev": 3821,
-  "savedAt": "2026-10-05T10:29:41.909Z"
+  "rev": 3822,
+  "savedAt": "2026-10-05T10:30:00.734Z"
 }
