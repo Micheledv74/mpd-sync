@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-05T11:02:59.984Z",
+  "pushedAt": "2026-10-05T13:54:47.589Z",
   "todosCount": 558,
   "todos": [
     {
@@ -25422,17 +25422,25 @@
     "medtoscana": {
       "status": "at_sea",
       "current": {
-        "etd": "",
         "id": "vmuuxzmmfpfg9",
         "from": "Mombasa (Kenya)",
         "to": "Richards Bay (SA)",
-        "etb": "",
+        "etd": "",
+        "etb": "2026-10-18T08:00",
         "eta": "2026-10-10T14:00",
         "agency": null
       },
-      "next": {},
+      "next": {
+        "id": "",
+        "from": "",
+        "to": "",
+        "etb": "",
+        "eta": "",
+        "etd": "",
+        "agency": null
+      },
       "notes": "DISCHARGE PORT:  MOMBASA, KENYA",
-      "updatedAt": "2026-10-05T07:42:44.962Z",
+      "updatedAt": "2026-10-05T13:54:44.173Z",
       "fromNoon": "2026-09-21",
       "history": [
         {
@@ -35344,7 +35352,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-05T07:46:43.941Z",
-    "voyages": "2026-10-05T07:44:26.738Z",
+    "voyages": "2026-10-05T13:54:47.589Z",
     "outlookCompletionQueue": "2026-10-05T11:02:59.984Z",
     "manualOrders": "2026-10-02T10:25:28.126Z",
     "deliveries": "2026-10-05T08:01:02.698Z",
@@ -36699,8 +36707,8 @@
         "2026-10-02T15:48:57.210Z"
       ],
       "medtoscana": [
-        "10acaiv3yu",
-        "2026-10-05T07:42:45.263Z"
+        "1qpkm03414",
+        "2026-10-05T13:54:44.482Z"
       ],
       "norrbotten": [
         "1olqnrnfs",
@@ -36984,6 +36992,6 @@
       ]
     }
   },
-  "rev": 3829,
-  "savedAt": "2026-10-05T11:02:59.987Z"
+  "rev": 3830,
+  "savedAt": "2026-10-05T13:54:47.590Z"
 }
