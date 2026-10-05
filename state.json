@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-05T15:33:57.943Z",
+  "pushedAt": "2026-10-05T15:34:09.293Z",
   "todosCount": 562,
   "todos": [
     {
@@ -13252,16 +13252,19 @@
       "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "SALDO FATTURE SCADUTE ",
+      "reference": "SALDO FATTURE SCADUTE",
       "tags": [
         "outlook"
       ],
-      "dueDate": "2026-10-05",
+      "dueDate": "2026-10-06",
       "note": "",
       "createdAt": "2026-10-05T14:43:39.408143Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-10-05T15:34:05.876Z"
     },
     {
       "id": "outlook_AAKHtr-1AAA=",
@@ -35461,7 +35464,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-05T15:33:55.834Z",
+    "todos": "2026-10-05T15:34:09.293Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -37109,6 +37112,6 @@
       ]
     }
   },
-  "rev": 3843,
-  "savedAt": "2026-10-05T15:33:57.952Z"
+  "rev": 3844,
+  "savedAt": "2026-10-05T15:34:09.295Z"
 }
