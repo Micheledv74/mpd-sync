@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-05T07:57:33.172Z",
+  "pushedAt": "2026-10-05T07:58:32.200Z",
   "todosCount": 558,
   "todos": [
     {
@@ -35015,6 +35015,11 @@
       "by": "scheda",
       "updatedAt": "2026-10-05T07:57:23.990Z",
       "since": "2026-10-05"
+    },
+    "med toscana::annual inspection for lifeboat and their launching": {
+      "pos": "onboard",
+      "updatedAt": "2026-10-05T07:58:28.775Z",
+      "since": "2026-10-05"
     }
   },
   "delivGoal": {
@@ -35266,7 +35271,7 @@
     "portProfiles": "2026-09-25T17:52:59.070Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-05T07:57:27.433Z",
+    "matPos": "2026-10-05T07:58:32.199Z",
     "delivGoal": "2026-10-05T07:41:03.111Z",
     "reminders": "2026-10-01T11:02:41.545Z"
   },
@@ -36880,6 +36885,6 @@
       ]
     }
   },
-  "rev": 3801,
-  "savedAt": "2026-10-05T07:57:33.173Z"
+  "rev": 3802,
+  "savedAt": "2026-10-05T07:58:32.201Z"
 }
