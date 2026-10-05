@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-05T07:38:06.846Z",
+  "pushedAt": "2026-10-05T07:39:35.258Z",
   "todosCount": 558,
   "todos": [
     {
@@ -17728,7 +17728,7 @@
         "n": "",
         "name": "Annual or Intermediate Survey",
         "issue": "2026-04-03",
-        "expiry": "2030-04-17",
+        "expiry": "2027-04-03",
         "place": "",
         "certNum": "",
         "notes": "",
@@ -17752,7 +17752,7 @@
         "n": "",
         "name": "Annual Survey",
         "issue": "2026-04-03",
-        "expiry": "2030-04-17",
+        "expiry": "2027-04-03",
         "place": "",
         "certNum": "",
         "notes": "",
@@ -17776,7 +17776,7 @@
         "n": "",
         "name": "Intermediate Survey or Annual Survey",
         "issue": "2026-04-03",
-        "expiry": "2030-04-03",
+        "expiry": "2027-04-03",
         "place": "",
         "certNum": "",
         "notes": "",
@@ -17821,18 +17821,6 @@
         "isPermanent": false
       },
       {
-        "n": "9 G",
-        "name": "EXEMPTION CERTIFICATE",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "9 H",
         "name": "VDR or S-VDR Annual Performancer Test (APT)",
         "issue": "2026-04-01",
@@ -17845,28 +17833,16 @@
         "isPermanent": false
       },
       {
-        "n": "9 I",
-        "name": "BNWAS Type Approval Certificate",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Permanent",
-        "category": "Radio/GMDSS",
-        "isChild": false,
-        "isPermanent": true
-      },
-      {
         "n": "9 L",
         "name": "LRIT CONFORMANCE TEST REPORT",
         "issue": "2025-12-29",
-        "expiry": "",
+        "expiry": "2026-12-29",
         "place": "DULLES",
         "certNum": ".46580-05171-22412-38186.",
         "notes": "Permanent",
         "category": "Radio/GMDSS",
         "isChild": false,
-        "isPermanent": true
+        "isPermanent": false
       },
       {
         "n": "9 M",
@@ -17920,13 +17896,15 @@
         "n": "",
         "name": "Intermediate Survey",
         "issue": "",
-        "expiry": "",
+        "expiry": "2028-04-30",
         "place": "",
         "certNum": "",
-        "notes": "Between second and third year of certificate validity",
+        "notes": "Between second and third year of certificate validity · Finestra visita intermedia: 2027-04-30 → 2028-04-30",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-04-30",
+        "anniversary": ""
       },
       {
         "n": "11",
@@ -17968,18 +17946,20 @@
         "n": "",
         "name": "Intermediate Survey",
         "issue": "",
-        "expiry": "",
+        "expiry": "2028-04-30",
         "place": "",
         "certNum": "",
-        "notes": "Between second and third year of certificate validity",
+        "notes": "Between second and third year of certificate validity · Finestra visita intermedia: 2027-04-30 → 2028-04-30",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-04-30",
+        "anniversary": ""
       },
       {
         "n": "13",
         "name": "CONTINUOS SYNOPSIS RECORD (CSR)",
-        "issue": "2024-10-12",
+        "issue": "2024-12-11",
         "expiry": "",
         "place": "",
         "certNum": "No.6",
@@ -18016,7 +17996,7 @@
         "n": "",
         "name": "Annual Survey",
         "issue": "2026-04-03",
-        "expiry": "2027-04-17",
+        "expiry": "2027-04-03",
         "place": "CEYHAN",
         "certNum": "",
         "notes": "",
@@ -18040,7 +18020,7 @@
         "n": "15 C",
         "name": "EPIRB TEST CERTIFICATE",
         "issue": "2026-04-03",
-        "expiry": "2027-03-02",
+        "expiry": "2027-04-03",
         "place": "ZHOUSHAN",
         "certNum": "",
         "notes": "Yearly by Radio Technician",
@@ -18052,7 +18032,7 @@
         "n": "15 D",
         "name": "EPIRB  BATTERY",
         "issue": "2025-03-01",
-        "expiry": "2027-01-03",
+        "expiry": "2027-03-01",
         "place": "ZHOUSHAN",
         "certNum": "R25078",
         "notes": "4 years for Italian flag - battery expiry date for other flags",
@@ -18064,7 +18044,7 @@
         "n": "15 DD",
         "name": "HRU EPIRB",
         "issue": "2025-03-01",
-        "expiry": "2027-01-03",
+        "expiry": "2027-03-01",
         "place": "ZHOUSHAN",
         "certNum": "R25078",
         "notes": "",
@@ -18253,18 +18233,6 @@
         "isPermanent": false
       },
       {
-        "n": "18 B",
-        "name": "RIGGING PLAN",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Permanent (attached to Cargo Gear Booklet)",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": true
-      },
-      {
         "n": "19",
         "name": "INTERN. AIR POLLUTION PREVENTION CERTIFICATE (IAPP)",
         "issue": "2025-04-03",
@@ -18351,9 +18319,9 @@
       {
         "n": "19 E",
         "name": "DOCUMENT OF COMPLIANCE FOR IMO DCS",
-        "issue": "",
-        "expiry": "",
-        "place": "",
+        "issue": "2026-05-28",
+        "expiry": "2027-05-31",
+        "place": "Dules, Virinia USA",
         "certNum": "",
         "notes": "Yearly",
         "category": "Statutory/Class",
@@ -18368,18 +18336,6 @@
         "place": "ZHOUSHAN/NAPOLI",
         "certNum": "107246-R002-006",
         "notes": "Validity 5 years",
-        "category": "Statutory/Class",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "20A",
-        "name": "Annual Test of purified Sewage",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Yearly",
         "category": "Statutory/Class",
         "isChild": false,
         "isPermanent": false
@@ -18481,34 +18437,10 @@
         "isPermanent": false
       },
       {
-        "n": "23B",
-        "name": "Statement for VGP",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "23C",
-        "name": "Certificate of Antifouling Paint by Maker",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Statutory/Class",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "24A",
         "name": "HULL and MACHINERY INSURANCE CERTIFICATE",
-        "issue": "2025-07-21",
-        "expiry": "2026-07-21",
+        "issue": "2026-06-22",
+        "expiry": "2028-01-22",
         "place": "",
         "certNum": "POLIASS",
         "notes": "Yearly",
@@ -18603,8 +18535,8 @@
       {
         "n": "29",
         "name": "U.S.C.G. COFR - VESSEL CERTIFICATE OF FINANCIAL RESPONSIBILITY",
-        "issue": "",
-        "expiry": "",
+        "issue": "2025-09-16",
+        "expiry": "2028-09-16",
         "place": "",
         "certNum": "",
         "notes": "3 years",
@@ -18640,13 +18572,15 @@
         "n": "",
         "name": "Intermediate Survey",
         "issue": "",
-        "expiry": "",
+        "expiry": "2028-04-30",
         "place": "",
         "certNum": "",
-        "notes": "Intermediate surveys at 2.5 years",
+        "notes": "Intermediate surveys at 2.5 years · Finestra visita intermedia: 2027-04-30 → 2028-04-30",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-04-30",
+        "anniversary": ""
       },
       {
         "n": "30 B",
@@ -18663,7 +18597,7 @@
       {
         "n": "30 C",
         "name": "Declaration of Maritime Labor Compliance (DMLC) Part II",
-        "issue": "2024-06-12",
+        "issue": "2025-09-21",
         "expiry": "",
         "place": "DULLES",
         "certNum": "",
@@ -18675,8 +18609,8 @@
       {
         "n": "31",
         "name": "MEDICAL CHEST CERTIFICATE + FIRST AID BOX",
-        "issue": "2025-12-02",
-        "expiry": "2026-12-02",
+        "issue": "2026-08-02",
+        "expiry": "2027-08-01",
         "place": "ITALY",
         "certNum": "2986",
         "notes": "6 Months for Italian ships - Yearly for other flags",
@@ -18687,9 +18621,9 @@
       {
         "n": "32",
         "name": "SHIP SANITATION CONTROL EXEMPTION Certificate",
-        "issue": "2026-03-19",
-        "expiry": "2026-09-18",
-        "place": "ISKENDERUN",
+        "issue": "2026-09-11",
+        "expiry": "2027-03-10",
+        "place": "Lyanyngang",
         "certNum": "",
         "notes": "6 Months",
         "category": "Crew/Medical",
@@ -18699,8 +18633,8 @@
       {
         "n": "33",
         "name": "FRESH WATER ANALYSIS",
-        "issue": "2025-09-01",
-        "expiry": "2026-03-01",
+        "issue": "2026-09-20",
+        "expiry": "2027-03-20",
         "place": "BRAKE",
         "certNum": "",
         "notes": "6 Months",
@@ -18723,8 +18657,8 @@
       {
         "n": "33 B",
         "name": "FRESH WATER TANKS CERTIFICATE/CLEANING STBD SIDE",
-        "issue": "2025-12-18",
-        "expiry": "2026-06-18",
+        "issue": "2026-09-23",
+        "expiry": "2027-03-23",
         "place": "",
         "certNum": "",
         "notes": "6 Months",
@@ -18748,13 +18682,15 @@
         "n": "",
         "name": "Annual Survey",
         "issue": "2026-04-03",
-        "expiry": "",
+        "expiry": "2027-07-17",
         "place": "",
         "certNum": "",
-        "notes": "",
+        "notes": "Finestra visita: 2027-01-17 → 2027-07-17 (anniversario 2027-04-17)",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-01-17",
+        "anniversary": "2027-04-17"
       },
       {
         "n": "36",
@@ -18793,54 +18729,6 @@
         "isPermanent": false
       },
       {
-        "n": "39",
-        "name": "CO2 FIXED PLANT CYLINDER CERTIFICATE (Bi-Annual check)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "2 Years (Malta Flags at intermediate or Special Survey 2.5 / 5 Years)",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "39 A",
-        "name": "CO2 FIXED SYS BOTTLES HYDROSTATIC TEST",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "10 Years ( 10% of the Btls) - Malta Flags (50% of the Btls)",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "39 B",
-        "name": "FIXED SYSTEM GALLEY",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "2 Years (Malta Flags at intermediate or Special Survey 2.5 / 5 Years)",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "39 C",
-        "name": "FIXED SYSTEM GALLEY BTLS HYDROSTATIC TEST",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "10 Years",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "40",
         "name": "PORTABLE FOAM 9 Ltrs  FIRE EXTINGUISHERS CERT.",
         "issue": "2026-04-03",
@@ -18858,18 +18746,6 @@
         "issue": "2026-04-03",
         "expiry": "2027-04-03",
         "place": "TURKEY",
-        "certNum": "",
-        "notes": "2 Years - Malta Flags Yearly",
-        "category": "Safety Equipment",
-        "isChild": true,
-        "isPermanent": false
-      },
-      {
-        "n": "",
-        "name": "PORTABLE  CO2   FIRE EXTINGUISHERS CERT.",
-        "issue": "",
-        "expiry": "",
-        "place": "",
         "certNum": "",
         "notes": "2 Years - Malta Flags Yearly",
         "category": "Safety Equipment",
@@ -18901,18 +18777,6 @@
         "isPermanent": false
       },
       {
-        "n": "40 C",
-        "name": "PORT. CO2 HYDR. PRESSURE TEST",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "10 Years or when pressure loss or low charged",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "40 D",
         "name": "45 - 50 Ltr. WHEELED FOAM EXTING. REFILL",
         "issue": "2026-04-03",
@@ -18921,66 +18785,6 @@
         "certNum": "ALCOHOL",
         "notes": "Charge Yearly- See Flag Requirements",
         "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "40 E",
-        "name": "45 - 50 Ltr. WHEELED FOAM EXTING. HYDR. PRESSURE TEST",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "5 Years - Malta Flags 10 Years",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "40 F",
-        "name": "135 Ltr. WHEELED FOAM EXTING. REFILL",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Charge Yearly - See Flag Requirements",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "40 G",
-        "name": "135 Ltr. WHEELED FOAM EXTING. HYDR. PRESSURE TEST",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "5 Years - Malta Flags 10 Years",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "40 H",
-        "name": "40 Kg  WHEELED DRY POWER EXTING. REFILL",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Check Yearly and replacement at 5 Years",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "40 I",
-        "name": "40 Kg WHEELED DRY POWER EXTING. HYDR. PRESS. TEST",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "5 Years - Malta Flags 10 Years",
-        "category": "Other",
         "isChild": false,
         "isPermanent": false
       },
@@ -19004,18 +18808,6 @@
         "place": "",
         "certNum": "",
         "notes": "After 3 years every year / Follow the Foam fix Sys",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "40 N",
-        "name": "FIXED - FOAM CERTIFICATE of analysis on Deck Plant",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "After 3 Years and thereafter every YEAR",
         "category": "Safety Equipment",
         "isChild": false,
         "isPermanent": false
@@ -19239,8 +19031,8 @@
       {
         "n": "54",
         "name": "WINCH BRAKE TEST",
-        "issue": "2025-06-02",
-        "expiry": "2026-06-02",
+        "issue": "2026-06-22",
+        "expiry": "2027-06-22",
         "place": "",
         "certNum": "",
         "notes": "Yearly",
@@ -19273,33 +19065,9 @@
         "isPermanent": false
       },
       {
-        "n": "57",
-        "name": "Reference Thermometer Certificate",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Yearly",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "58",
-        "name": "Reference Manometer Certificate",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Yearly",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "60 A",
         "name": "NOISE SURVEY REPORT",
-        "issue": "2025-04-04",
+        "issue": "2026-08-21",
         "expiry": "",
         "place": "",
         "certNum": "",
@@ -19311,7 +19079,7 @@
       {
         "n": "60 B",
         "name": "VIBRATION SURVEY REPORT",
-        "issue": "2025-04-04",
+        "issue": "2026-08-20",
         "expiry": "",
         "place": "",
         "certNum": "",
@@ -19340,30 +19108,6 @@
         "place": "",
         "certNum": "",
         "notes": "",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "62",
-        "name": "LINE THROWING APPARATUS ROCKET & STRIKER",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "62A",
-        "name": "PNEUMATIC LINE THROWING APPARATUS",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Validity  5 Years from the date of air cylinder hydro test",
         "category": "Safety Equipment",
         "isChild": false,
         "isPermanent": false
@@ -19405,30 +19149,6 @@
         "isPermanent": false
       },
       {
-        "n": "66",
-        "name": "RED HAND FLARES",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "67",
-        "name": "RED STAR SIGNAL (italian flag only)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "68",
         "name": "FIRST AID KIT BRIDGE",
         "issue": "2026-02-18",
@@ -19462,30 +19182,6 @@
         "notes": "Air pressure test every 3 years. For suits over ten years of age air pressure test Yearly.",
         "category": "Safety Equipment",
         "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "",
-        "name": "PILOT LADDERS",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Safety Equipment",
-        "isChild": true,
-        "isPermanent": false
-      },
-      {
-        "n": "",
-        "name": "PORT AND STARBOARD LIFEBOATS / ENCLOSED",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Safety Equipment",
-        "isChild": true,
         "isPermanent": false
       },
       {
@@ -19581,18 +19277,6 @@
         "certNum": "",
         "notes": "",
         "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "79",
-        "name": "RESCUE BOAT WIRE RENEWED",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Operational",
         "isChild": false,
         "isPermanent": false
       },
@@ -19694,18 +19378,6 @@
       },
       {
         "n": "",
-        "name": "VOLATILE ORGANIC COMPOUND (VOC)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Other",
-        "isChild": true,
-        "isPermanent": false
-      },
-      {
-        "n": "",
         "name": "VESSEL GENERAL PERMIT (VGP) MANUAL",
         "issue": "2025-08-20",
         "expiry": "",
@@ -19725,18 +19397,6 @@
         "certNum": "",
         "notes": "",
         "category": "Statutory/Class",
-        "isChild": true,
-        "isPermanent": false
-      },
-      {
-        "n": "",
-        "name": "MRV MONITORING PLAN",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Other",
         "isChild": true,
         "isPermanent": false
       },
@@ -25263,9 +24923,11 @@
       "count": 208
     },
     "medliguria": {
-      "fileName": "DOC F01 - List of certificate REV. 16 - 05-05-2026 .xls",
-      "importedAt": "2026-06-16T12:18:31.016Z",
-      "count": 175
+      "fileName": "DOC F01 - List of certificate REV. 16 - 03-09-2026.xls",
+      "importedAt": "2026-10-05T07:39:31.851Z",
+      "count": 146,
+      "skipped": 29,
+      "lastDate": "2026-09-23"
     },
     "medtoscana": {
       "fileName": "@a.DOC F01 - List of certificate  01.07.2026.xls",
@@ -35940,7 +35602,7 @@
     "completionsHistory": "2026-10-02T09:46:59.054Z",
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
-    "certificates": "2026-08-21T07:32:33.905Z",
+    "certificates": "2026-10-05T07:39:35.258Z",
     "voyages": "2026-10-02T15:49:00.313Z",
     "outlookCompletionQueue": "2026-10-02T14:47:18.356Z",
     "manualOrders": "2026-10-02T10:25:28.126Z",
@@ -37561,6 +37223,6 @@
       ]
     }
   },
-  "rev": 3785,
-  "savedAt": "2026-10-05T07:38:06.847Z"
+  "rev": 3786,
+  "savedAt": "2026-10-05T07:39:35.260Z"
 }
