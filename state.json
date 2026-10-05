@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-05T15:12:17.286Z",
-  "todosCount": 558,
+  "pushedAt": "2026-10-05T15:32:24.710Z",
+  "todosCount": 562,
   "todos": [
     {
       "category": "Nave",
@@ -13192,6 +13192,99 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-10-05T08:52:40.845Z"
+    },
+    {
+      "id": "outlook_AAKHtr-0AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKHtr-0AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60bAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B5mwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-04",
+      "outlookLinkedName": "RE: M/V MED LIGURIA  PR87  HQRQ-00158  MLG-SHPR-00087  G&amp;P TECH CO. - SV2609290C",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "M/V MED LIGURIA  PR87  HQRQ-00158  MLG-SHPR-00087  G&amp;P TECH CO. - SV2609290C",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-04",
+      "note": "",
+      "createdAt": "2026-10-05T07:24:07.0376337Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKFkWYlAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKFkWYlAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60dAABYWF9qc37UTpbqyo%2B4NVKtAAAABHkJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-03",
+      "outlookLinkedName": "Re: M/V MED TOSCANA - Quotation reminder - RFQ 2026-MDT-HQRQ-00216",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "M/V MED TOSCANA - Quotation reminder - RFQ 2026-MDT-HQRQ-00216",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "",
+      "note": "",
+      "createdAt": "2026-10-03T07:59:47.0171663Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKHtr-2AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKHtr-2AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKHtlpKAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-05",
+      "outlookLinkedName": "SALDO FATTURE SCADUTE ",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "SALDO FATTURE SCADUTE ",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-05",
+      "note": "",
+      "createdAt": "2026-10-05T14:43:39.408143Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKHtr-1AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKHtr-1AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60eAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4%2FDAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-04",
+      "outlookLinkedName": "Re: M/V MED TOSCANA PR79 HQPO-00114 MDT-SHPR-00079 MAS MARINE SHIPPING SUPPLIES /026-62142",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "M/V MED TOSCANA PR79 HQPO-00114 MDT-SHPR-00079 MAS MARINE SHIPPING SUPPLIES /026-62142",
+      "tags": [
+        "outlook",
+        "fornitore:MAS"
+      ],
+      "dueDate": "2026-10-04",
+      "note": "",
+      "createdAt": "2026-10-05T10:33:41.2135727Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -35357,7 +35450,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-05T15:12:17.286Z",
+    "todos": "2026-10-05T15:32:24.709Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -37005,6 +37098,6 @@
       ]
     }
   },
-  "rev": 3840,
-  "savedAt": "2026-10-05T15:12:17.288Z"
+  "rev": 3841,
+  "savedAt": "2026-10-05T15:32:24.711Z"
 }
