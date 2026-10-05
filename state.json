@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-05T07:59:42.043Z",
+  "pushedAt": "2026-10-05T07:59:45.963Z",
   "todosCount": 558,
   "todos": [
     {
@@ -26316,8 +26316,7 @@
     "med liguria::bridge navigational watch alarm system jcx151": {
       "mode": "manual",
       "port": "XIAMEN",
-      "date": "2026-08-20",
-      "frozenFromVoyage": true
+      "date": "2026-08-20"
     },
     "med liguria::battery module": {
       "mode": "manual",
@@ -35742,8 +35741,8 @@
         "2026-10-05T07:54:24.818Z"
       ],
       "med liguria::bridge navigational watch alarm system jcx151": [
-        "1mab2aa25",
-        ""
+        "sliyhp1h",
+        "2026-10-05T07:59:42.823Z"
       ],
       "med liguria::battery module": [
         "1mab2aa25",
@@ -36901,6 +36900,6 @@
       ]
     }
   },
-  "rev": 3804,
-  "savedAt": "2026-10-05T07:59:42.045Z"
+  "rev": 3805,
+  "savedAt": "2026-10-05T07:59:45.965Z"
 }
