@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-05T07:44:26.739Z",
+  "pushedAt": "2026-10-05T07:46:43.942Z",
   "todosCount": 558,
   "todos": [
     {
@@ -15169,8 +15169,8 @@
       {
         "n": "1A",
         "name": "ITF BLU CARD (Only for foreing flag ship)",
-        "issue": "2024-07-24",
-        "expiry": "2026-07-23",
+        "issue": "2026-07-24",
+        "expiry": "2028-07-23",
         "place": "",
         "certNum": "2024009131",
         "notes": "Yearly",
@@ -15181,10 +15181,10 @@
       {
         "n": "2",
         "name": "CERTIFICATE OF REGISTRY",
-        "issue": "2025-07-15",
-        "expiry": "2026-07-23",
+        "issue": "2026-07-20",
+        "expiry": "2027-07-23",
         "place": "MALTA",
-        "certNum": "1175028",
+        "certNum": "1189375",
         "notes": "Permanent - Malta Flags Yearly",
         "category": "ISM/ISPS",
         "isChild": false,
@@ -15242,37 +15242,29 @@
         "n": "",
         "name": "Annual or Intermediate Survey",
         "issue": "2026-04-15",
-        "expiry": "",
+        "expiry": "2027-09-25",
         "place": "SHANGHAI",
         "certNum": "",
-        "notes": "",
+        "notes": "Finestra visita: 2027-03-25 → 2027-09-25 (anniversario 2027-06-25)",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
-      },
-      {
-        "n": "6 A",
-        "name": "DUAL CLASS CERTIFICATE (ABS or DNV, etc.)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Validity 5 years",
-        "category": "Statutory/Class",
-        "isChild": false,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-03-25",
+        "anniversary": "2027-06-25"
       },
       {
         "n": "",
         "name": "Annual or Intermediate Survey",
         "issue": "",
-        "expiry": "",
+        "expiry": "2027-09-25",
         "place": "",
         "certNum": "",
-        "notes": "",
+        "notes": "Finestra visita: 2027-03-25 → 2027-09-25 (anniversario 2027-06-25)",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-03-25",
+        "anniversary": "2027-06-25"
       },
       {
         "n": "7",
@@ -15290,13 +15282,15 @@
         "n": "",
         "name": "Annual Survey",
         "issue": "2026-04-15",
-        "expiry": "",
+        "expiry": "2027-09-25",
         "place": "SHANGHAI",
         "certNum": "",
-        "notes": "",
+        "notes": "Finestra visita: 2027-03-25 → 2027-09-25 (anniversario 2027-06-25)",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-03-25",
+        "anniversary": "2027-06-25"
       },
       {
         "n": "7 A",
@@ -15309,18 +15303,6 @@
         "category": "Statutory/Class",
         "isChild": false,
         "isPermanent": true
-      },
-      {
-        "n": "8",
-        "name": "INTERNATIONAL LOAD LINE CERTIFICATES \nFOR REDUCED DW",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Validity 5 years",
-        "category": "Statutory/Class",
-        "isChild": false,
-        "isPermanent": false
       },
       {
         "n": "",
@@ -15350,37 +15332,15 @@
         "n": "",
         "name": "Intermediate Survey or Annual Survey",
         "issue": "2026-04-15",
-        "expiry": "",
+        "expiry": "2027-09-25",
         "place": "SHANGHAI",
         "certNum": "",
-        "notes": "",
+        "notes": "Finestra visita: 2027-03-25 → 2027-09-25 (anniversario 2027-06-25)",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
-      },
-      {
-        "n": "9 A",
-        "name": "CERTIFICATE FOR CARRIAGE OF 12 PASSENGERS (Italian flag only)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Yearly - issued by Capitaneria di Porto",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "9 B",
-        "name": "CERTIFICATE/STATEMENT FOR ARMY AND AMMUNITION LOCKER (Italian flag only)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Permanent",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": true
+        "isPermanent": false,
+        "windowFrom": "2027-03-25",
+        "anniversary": "2027-06-25"
       },
       {
         "n": "9 C",
@@ -15427,18 +15387,6 @@
         "certNum": "20260053021563",
         "notes": "Yearly",
         "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "9 G",
-        "name": "EXEMPTION CERTIFICATE",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Other",
         "isChild": false,
         "isPermanent": false
       },
@@ -15503,18 +15451,6 @@
         "isPermanent": false
       },
       {
-        "n": "9 O",
-        "name": "ECDIS - Shore Based Maintenance",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Yearly",
-        "category": "Radio/GMDSS",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "10",
         "name": "SAFETY MANAGEMENT CERTIFICATE (SMC)",
         "issue": "2025-01-27",
@@ -15530,13 +15466,15 @@
         "n": "",
         "name": "Intermediate Survey",
         "issue": "",
-        "expiry": "",
+        "expiry": "2028-01-27",
         "place": "",
         "certNum": "",
-        "notes": "Between second and third year of certificate validity",
+        "notes": "Between second and third year of certificate validity · Finestra visita intermedia: 2027-01-27 → 2028-01-27",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-01-27",
+        "anniversary": ""
       },
       {
         "n": "11",
@@ -15601,10 +15539,10 @@
       {
         "n": "14",
         "name": "RADIO STATION LICENCE",
-        "issue": "2025-07-17",
-        "expiry": "2026-07-23",
+        "issue": "2026-07-16",
+        "expiry": "2028-07-23",
         "place": "MALTA",
-        "certNum": "22995/03",
+        "certNum": "22995/04",
         "notes": "YEARLY",
         "category": "Radio/GMDSS",
         "isChild": false,
@@ -15638,13 +15576,15 @@
         "n": "",
         "name": "Annual Survey",
         "issue": "2026-04-15",
-        "expiry": "",
+        "expiry": "2027-09-25",
         "place": "SHANGHAI",
         "certNum": "",
-        "notes": "",
+        "notes": "Finestra visita: 2027-03-25 → 2027-09-25 (anniversario 2027-06-25)",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-03-25",
+        "anniversary": "2027-06-25"
       },
       {
         "n": "15 B",
@@ -15686,22 +15626,10 @@
         "n": "15 DD",
         "name": "HRU EPIRB",
         "issue": "",
-        "expiry": "2026-08-01",
+        "expiry": "2027-08-01",
         "place": "",
         "certNum": "",
         "notes": "",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "15 E",
-        "name": "EPIRB  5  YEARS TEST CERTIFICATE (SBM)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Every 5 eyars or any time the battery is replaced",
         "category": "Safety Equipment",
         "isChild": false,
         "isPermanent": false
@@ -15758,13 +15686,15 @@
         "n": "",
         "name": "Annual or Intermediate Survey",
         "issue": "2026-04-15",
-        "expiry": "",
+        "expiry": "2027-09-25",
         "place": "SHANGHAI",
         "certNum": "",
-        "notes": "",
+        "notes": "Finestra visita: 2027-03-25 → 2027-09-25 (anniversario 2027-06-25)",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-03-25",
+        "anniversary": "2027-06-25"
       },
       {
         "n": "17",
@@ -15782,13 +15712,15 @@
         "n": "",
         "name": "Annual or Intermediate Survey",
         "issue": "2026-04-15",
-        "expiry": "",
+        "expiry": "2027-09-25",
         "place": "SHANGHAI",
         "certNum": "",
-        "notes": "",
+        "notes": "Finestra visita: 2027-03-25 → 2027-09-25 (anniversario 2027-06-25)",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-03-25",
+        "anniversary": "2027-06-25"
       },
       {
         "n": "17 A",
@@ -15815,18 +15747,6 @@
         "isPermanent": false
       },
       {
-        "n": "17B",
-        "name": "ODME Annual",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "17 C",
         "name": "INTERNATIONAL BALLAST WATER MANAGEMENT STATMENT OF COMPLIANCE",
         "issue": "2025-05-22",
@@ -15842,13 +15762,15 @@
         "n": "",
         "name": "Annual or Intermediate Survey",
         "issue": "2026-04-15",
-        "expiry": "",
+        "expiry": "2027-09-25",
         "place": "SHANGHAI",
         "certNum": "",
-        "notes": "",
+        "notes": "Finestra visita: 2027-03-25 → 2027-09-25 (anniversario 2027-06-25)",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-03-25",
+        "anniversary": "2027-06-25"
       },
       {
         "n": "17 D",
@@ -15885,18 +15807,6 @@
         "category": "Other",
         "isChild": false,
         "isPermanent": false
-      },
-      {
-        "n": "18 B",
-        "name": "RIGGING PLAN",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Permanent (attached to Cargo Gear Booklet)",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": true
       },
       {
         "n": "19",
@@ -15971,18 +15881,6 @@
         "isPermanent": true
       },
       {
-        "n": "19 D",
-        "name": "DOCUMENT OF COMPLIANCE FOR EMISSIONS REPORT EU VOY",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Yearly (Only if performed voy/load/disport in Europe previous Year)",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "19 E",
         "name": "DOCUMENT OF COMPLIANCE FOR IMO DCS",
         "issue": "2026-05-27",
@@ -16009,8 +15907,8 @@
       {
         "n": "20A",
         "name": "Annual Test of purified Sewage",
-        "issue": "2025-05-26",
-        "expiry": "2026-05-25",
+        "issue": "2026-07-27",
+        "expiry": "2027-07-27",
         "place": "SINGAPORE",
         "certNum": "AC/WE/02/2025",
         "notes": "Yearly",
@@ -16019,40 +15917,18 @@
         "isPermanent": false
       },
       {
-        "n": "21",
-        "name": "INTERNATIONAL CERTIFICATE OF FITNESS (ICOF) (for Chem. Tanker only)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Validity 5 years",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "",
         "name": "Annual or Intermediate Survey",
         "issue": "",
-        "expiry": "",
+        "expiry": "2026-10-27",
         "place": "",
         "certNum": "",
-        "notes": "",
+        "notes": "Finestra visita: 2026-04-27 → 2026-10-27 (anniversario 2026-07-27)",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
-      },
-      {
-        "n": "21 A",
-        "name": "ATTACHEMENT TO ICOF",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "5 Years",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2026-04-27",
+        "anniversary": "2026-07-27"
       },
       {
         "n": "22",
@@ -16070,13 +15946,15 @@
         "n": "",
         "name": "Annual Survey",
         "issue": "2026-04-15",
-        "expiry": "",
+        "expiry": "2027-09-25",
         "place": "SHANGHAI",
         "certNum": "",
-        "notes": "",
+        "notes": "Finestra visita: 2027-03-25 → 2027-09-25 (anniversario 2027-06-25)",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-03-25",
+        "anniversary": "2027-06-25"
       },
       {
         "n": "22 A",
@@ -16106,13 +15984,15 @@
         "n": "",
         "name": "Annual Survey",
         "issue": "2026-04-15",
-        "expiry": "",
+        "expiry": "2027-09-25",
         "place": "SHANGHAI",
         "certNum": "",
-        "notes": "",
+        "notes": "Finestra visita: 2027-03-25 → 2027-09-25 (anniversario 2027-06-25)",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-03-25",
+        "anniversary": "2027-06-25"
       },
       {
         "n": "22 C",
@@ -16125,18 +16005,6 @@
         "category": "Other",
         "isChild": false,
         "isPermanent": true
-      },
-      {
-        "n": "22 D",
-        "name": "STATEMENT OF COMPLIANCE FOR THE CARRIAGE OF SOLID DANGEROUS GOODS IN BULK (DM 22.7.91), Italian flag only",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Validity 5 years",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
       },
       {
         "n": "",
@@ -16175,18 +16043,6 @@
         "isPermanent": false
       },
       {
-        "n": "23A",
-        "name": "Dichiarazione di conformita",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "23B",
         "name": "Statement for VGP",
         "issue": "2026-02-11",
@@ -16211,22 +16067,10 @@
         "isPermanent": false
       },
       {
-        "n": "24",
-        "name": "I.P.S.E.M.A. CREW INSURANCE CERTIFICATE (Italian Flag)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Yearly",
-        "category": "Insurance/P&I",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "24A",
         "name": "HULL and MACHINERY INSURANCE CERTIFICATE",
-        "issue": "2025-07-22",
-        "expiry": "2026-07-22",
+        "issue": "2026-07-22",
+        "expiry": "2028-01-22",
         "place": "",
         "certNum": "",
         "notes": "Yearly",
@@ -16253,18 +16097,6 @@
         "expiry": "2027-02-20",
         "place": "DUBLIN",
         "certNum": "OW/2026/001710/11",
-        "notes": "Yearly",
-        "category": "Insurance/P&I",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "26",
-        "name": "CERTIFICATE OF INSURANCE OF (CLC 92) FOR OIL POLLUTION DAMAGE",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
         "notes": "Yearly",
         "category": "Insurance/P&I",
         "isChild": false,
@@ -16319,22 +16151,10 @@
         "isPermanent": false
       },
       {
-        "n": "28",
-        "name": "INTERNATIONAL TANKER OWNERS POLLUTION FEDERATION Limited (ITOPF)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Yearly",
-        "category": "Insurance/P&I",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "29",
         "name": "U.S.C.G. COFR - VESSEL CERTIFICATE OF FINANCIAL RESPONSIBILITY",
-        "issue": "2025-09-30",
-        "expiry": "2026-09-29",
+        "issue": "2026-09-30",
+        "expiry": "2027-09-29",
         "place": "",
         "certNum": "",
         "notes": "3 years",
@@ -16382,13 +16202,15 @@
         "n": "",
         "name": "Intermediate Survey",
         "issue": "",
-        "expiry": "",
+        "expiry": "2028-01-27",
         "place": "",
         "certNum": "",
-        "notes": "Intermediate surveys at 2.5 years",
+        "notes": "Intermediate surveys at 2.5 years · Finestra visita intermedia: 2027-01-27 → 2028-01-27",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-01-27",
+        "anniversary": ""
       },
       {
         "n": "30 B",
@@ -16429,8 +16251,8 @@
       {
         "n": "32",
         "name": "SHIP SANITATION CONTROL EXEMPTION Certificate",
-        "issue": "2026-03-23",
-        "expiry": "2026-09-23",
+        "issue": "2026-09-28",
+        "expiry": "2027-03-27",
         "place": "BUNATI",
         "certNum": "",
         "notes": "6 Months",
@@ -16475,30 +16297,6 @@
         "isPermanent": false
       },
       {
-        "n": "34",
-        "name": "SERVIZI DI BORDO / ON BOARD SERVICES CERTIFICATE (Italian Ships only)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Yearly",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "35",
-        "name": "IGIENE E ABITABILITÁ / TECHNICAL-HEALTH INSPECTION CERTIFICATE (Italian Ships only)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "6 Months",
-        "category": "Crew/Medical",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "35 A",
         "name": "GARBAGE POLLUTION PREVENTION CERTIFICATE Marpol Annex V",
         "issue": "2025-05-22",
@@ -16514,13 +16312,15 @@
         "n": "",
         "name": "Annual Survey",
         "issue": "2026-04-15",
-        "expiry": "",
+        "expiry": "2027-09-25",
         "place": "SHANGHAI",
         "certNum": "",
-        "notes": "",
+        "notes": "Finestra visita: 2027-03-25 → 2027-09-25 (anniversario 2027-06-25)",
         "category": "Other",
         "isChild": true,
-        "isPermanent": false
+        "isPermanent": false,
+        "windowFrom": "2027-03-25",
+        "anniversary": "2027-06-25"
       },
       {
         "n": "36",
@@ -16691,30 +16491,6 @@
         "isPermanent": false
       },
       {
-        "n": "40 D",
-        "name": "45 - 50 Ltr. WHEELED FOAM EXTING. REFILL",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Charge Yearly- See Flag Requirements",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "40 E",
-        "name": "45 - 50 Ltr. WHEELED FOAM EXTING. HYDR. PRESSURE TEST",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "5 Years - Malta Flags 10 Years",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "40 F",
         "name": "150 Ltr. WHEELED FOAM EXTING. REFILL",
         "issue": "2026-04-13",
@@ -16782,18 +16558,6 @@
         "place": "SHANGHAI",
         "certNum": "",
         "notes": "After 3 years every year / Follow the Foam fix Sys",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "40 N",
-        "name": "FIXED - FOAM CERTIFICATE of analysis on Deck Plant",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "After 3 Years and thereafter every YEAR",
         "category": "Safety Equipment",
         "isChild": false,
         "isPermanent": false
@@ -16895,22 +16659,10 @@
         "isPermanent": false
       },
       {
-        "n": "45",
-        "name": "FREE FALL AIR BOTTLE CERTIFICATE",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Validity  5 Years",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "46",
         "name": "LIFERAFTS CERTIFICATE",
-        "issue": "2025-08-20",
-        "expiry": "2026-08-20",
+        "issue": "2026-07-14",
+        "expiry": "2029-01-14",
         "place": "",
         "certNum": "303293281/303514481/303419952",
         "notes": "Yearly",
@@ -16921,8 +16673,8 @@
       {
         "n": "46 A",
         "name": "LIFERAFTS HYDROSTATIC HOOK RELEASE CERTIFICATE",
-        "issue": "2024-06-21",
-        "expiry": "2026-08-20",
+        "issue": "2026-07-17",
+        "expiry": "2029-07-17",
         "place": "",
         "certNum": "",
         "notes": "2 Years",
@@ -16937,30 +16689,6 @@
         "expiry": "",
         "place": "",
         "certNum": "1320/1321",
-        "notes": "",
-        "category": "Operational",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "47 A",
-        "name": "Magnetic compass Bi-annual Check (italian flag only)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "2 Years",
-        "category": "Operational",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "47 B",
-        "name": "Magnetic compass 4 Years Check (italian flag only)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
         "notes": "",
         "category": "Operational",
         "isChild": false,
@@ -16998,18 +16726,6 @@
         "place": "",
         "certNum": "BY CREW AT ANCHORAGE",
         "notes": "Yearly",
-        "category": "Operational",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "51",
-        "name": "MOORING ROPES / WIRES CERTIFICATES",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Can be filed into dedicate folder if necessary",
         "category": "Operational",
         "isChild": false,
         "isPermanent": false
@@ -17053,8 +16769,8 @@
       {
         "n": "54",
         "name": "WINCH BRAKE TEST",
-        "issue": "2025-08-21",
-        "expiry": "2026-08-21",
+        "issue": "2025-05-15",
+        "expiry": "2027-05-15",
         "place": "",
         "certNum": "",
         "notes": "Yearly",
@@ -17087,30 +16803,6 @@
         "isPermanent": false
       },
       {
-        "n": "57",
-        "name": "Reference Thermometer Certificate",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Yearly",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "58",
-        "name": "Reference Manometer Certificate",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Yearly",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "59",
         "name": "DRUG & ALCOHOL MEDSCREEN CERTIFICATE - TANKERS",
         "issue": "2026-04-25",
@@ -17123,22 +16815,10 @@
         "isPermanent": false
       },
       {
-        "n": "60",
-        "name": "VERBALE ISPEZIONE MEDICO COMPETENTE (Italian Ships only)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "6 Months",
-        "category": "Other",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
         "n": "60 A",
         "name": "NOISE SURVEY REPORT",
-        "issue": "2026-04-11",
-        "expiry": "2027-04-11",
+        "issue": "2026-07-10",
+        "expiry": "2027-07-10",
         "place": "",
         "certNum": "",
         "notes": "Yearly",
@@ -17149,24 +16829,12 @@
       {
         "n": "60 B",
         "name": "VIBRATION SURVEY REPORT",
-        "issue": "2026-04-11",
+        "issue": "2026-07-10",
         "expiry": "2027-04-11",
         "place": "",
         "certNum": "",
         "notes": "Yearly",
         "category": "Crew/Medical",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "60 C",
-        "name": "VAPOUR TIGHTNESS TEST CERTIFICATE (Tanker Only)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Yearly",
-        "category": "Other",
         "isChild": false,
         "isPermanent": false
       },
@@ -17179,18 +16847,6 @@
         "certNum": "",
         "notes": "Yearly",
         "category": "Crew/Medical",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "60 E",
-        "name": "STATEMENT OF COMPLIANCE WITH USCG  CODE OF FEDERAL REGULATIONS CONCERNING THE VAPOUR CONTROL SYSTEMS (Tanker Only)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Other",
         "isChild": false,
         "isPermanent": false
       },
@@ -17214,18 +16870,6 @@
         "place": "",
         "certNum": "",
         "notes": "",
-        "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "62A",
-        "name": "PNEUMATIC LINE THROWING APPARATUS",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "Validity  5 Years from the date of air cylinder hydro test",
         "category": "Safety Equipment",
         "isChild": false,
         "isPermanent": false
@@ -17275,18 +16919,6 @@
         "certNum": "",
         "notes": "",
         "category": "Safety Equipment",
-        "isChild": false,
-        "isPermanent": false
-      },
-      {
-        "n": "67",
-        "name": "RED STAR SIGNAL (italian flag only)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Other",
         "isChild": false,
         "isPermanent": false
       },
@@ -17501,7 +17133,7 @@
         "expiry": "",
         "place": "No3.KTS19671/04",
         "certNum": "No4.2022/5636-1",
-        "notes": "No.1 -01/12/22,No.2 -01/12/2022. No3-26/09/24. No 4.27/09/24",
+        "notes": "No.1 -01/12/22,No.2 -01/12/2022. No3-26/09/24. No 4.27/09/24 · Data non riconosciuta nel file: \"No1.JSLS20190308/28\" — verificare a mano. · Scadenza non riconosciuta nel file: \"No2.JSLS20190308/29\" — verificare a mano.",
         "category": "Operational",
         "isChild": false,
         "isPermanent": false
@@ -17513,7 +17145,7 @@
         "expiry": "",
         "place": "No3.RP20SC",
         "certNum": "No4. JSLS20190221/11",
-        "notes": "No.1 -23/06/24.No.2 -05/05/23. No3-03.12.2022. No 4. 19.08.22",
+        "notes": "No.1 -23/06/24.No.2 -05/05/23. No3-03.12.2022. No 4. 19.08.22 · Data non riconosciuta nel file: \"No1.2023/3326-2\" — verificare a mano. · Scadenza non riconosciuta nel file: \"No2.2022/5636-2\" — verificare a mano.",
         "category": "Operational",
         "isChild": true,
         "isPermanent": false
@@ -17568,30 +17200,6 @@
       },
       {
         "n": "",
-        "name": "VOLATILE ORGANIC COMPOUND (VOC)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Other",
-        "isChild": true,
-        "isPermanent": false
-      },
-      {
-        "n": "",
-        "name": "SHIP To SHIP (Tanker)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "",
-        "category": "Other",
-        "isChild": true,
-        "isPermanent": false
-      },
-      {
-        "n": "",
         "name": "VESSEL GENERAL PERMIT (VGP) MANUAL",
         "issue": "2025-09-25",
         "expiry": "",
@@ -17611,18 +17219,6 @@
         "certNum": "",
         "notes": "",
         "category": "Statutory/Class",
-        "isChild": true,
-        "isPermanent": false
-      },
-      {
-        "n": "",
-        "name": "RUOLO EQUIPAGGIO  (Italian flag only)",
-        "issue": "",
-        "expiry": "",
-        "place": "",
-        "certNum": "",
-        "notes": "3 Years",
-        "category": "Other",
         "isChild": true,
         "isPermanent": false
       },
@@ -24918,9 +24514,11 @@
   },
   "certificatesMeta": {
     "peppino": {
-      "fileName": "DOC F01 30.06.2026 - List of certificate REV. 16 - .xls",
-      "importedAt": "2026-07-01T10:57:20.912Z",
-      "count": 208
+      "fileName": "DOC F01 28.09.2026 - List of certificate REV. 16 -.xls",
+      "importedAt": "2026-10-05T07:46:40.494Z",
+      "count": 172,
+      "skipped": 36,
+      "lastDate": "2026-09-30"
     },
     "medliguria": {
       "fileName": "DOC F01 - List of certificate REV. 16 - 03-09-2026.xls",
@@ -35611,7 +35209,7 @@
     "completionsHistory": "2026-10-02T09:46:59.054Z",
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
-    "certificates": "2026-10-05T07:39:35.258Z",
+    "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-05T07:44:26.738Z",
     "outlookCompletionQueue": "2026-10-02T14:47:18.356Z",
     "manualOrders": "2026-10-02T10:25:28.126Z",
@@ -37232,6 +36830,6 @@
       ]
     }
   },
-  "rev": 3790,
-  "savedAt": "2026-10-05T07:44:26.740Z"
+  "rev": 3791,
+  "savedAt": "2026-10-05T07:46:43.943Z"
 }
