@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T13:27:03.114Z",
+  "pushedAt": "2026-10-06T13:27:20.618Z",
   "todosCount": 567,
   "todos": [
     {
@@ -26279,7 +26279,7 @@
         "id": "mo_1791293186190_mgt3",
         "rfqNum": "",
         "poNum": "2026-NOR-00077",
-        "description": "",
+        "description": "BATTERY FOR GENERATOR -",
         "supplier": "Sekerciler Group",
         "status": "rfq",
         "rfqDate": "2026-10-06",
@@ -26287,7 +26287,7 @@
         "amount": "",
         "currency": "EUR",
         "createdAt": "2026-10-06T13:26:26.190Z",
-        "updatedAt": "2026-10-06T13:26:59.678Z"
+        "updatedAt": "2026-10-06T13:27:17.208Z"
       }
     ]
   },
@@ -35715,7 +35715,7 @@
     "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-05T13:54:47.589Z",
     "outlookCompletionQueue": "2026-10-06T13:25:14.247Z",
-    "manualOrders": "2026-10-06T13:27:03.113Z",
+    "manualOrders": "2026-10-06T13:27:20.617Z",
     "deliveries": "2026-10-05T08:01:02.698Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35774,8 +35774,8 @@
         "2026-10-06T08:43:17.550Z"
       ],
       "norrbotten|mo_1791293186190_mgt3": [
-        "33uqcv7h",
-        "2026-10-06T13:26:59.984Z"
+        "84oqab84",
+        "2026-10-06T13:27:17.522Z"
       ]
     },
     "shipments": {
@@ -37373,6 +37373,6 @@
       ]
     }
   },
-  "rev": 3901,
-  "savedAt": "2026-10-06T13:27:03.118Z"
+  "rev": 3902,
+  "savedAt": "2026-10-06T13:27:20.620Z"
 }
