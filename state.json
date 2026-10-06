@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T13:23:10.134Z",
+  "pushedAt": "2026-10-06T13:25:14.248Z",
   "todosCount": 567,
   "todos": [
     {
@@ -13414,9 +13414,10 @@
       "dueDate": "2026-10-06",
       "note": "",
       "createdAt": "2026-10-06T13:09:01.5609254Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-10-06T13:25:10.417Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-10-06T13:25:10.417Z"
     }
   ],
   "notes": {
@@ -26132,6 +26133,13 @@
       "completedAt": "2026-10-06T13:20:10.449Z",
       "todoId": "outlook_AAKHtr-1AAA=",
       "title": "M/V MED TOSCANA PR79 HQPO-00114 MDT-SHPR-00079 MAS MARINE SHIPPING SUPPLIES /026-62142"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKHtr-7AAA=",
+      "listId": "",
+      "completedAt": "2026-10-06T13:25:10.424Z",
+      "todoId": "outlook_AAKHtr-7AAA=",
+      "title": "TEF064985 Fornitura catena portacavi ATLAS "
     }
   ],
   "manualOrders": {
@@ -35680,7 +35688,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-06T13:23:10.134Z",
+    "todos": "2026-10-06T13:25:14.247Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -35689,7 +35697,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-05T13:54:47.589Z",
-    "outlookCompletionQueue": "2026-10-06T13:20:13.862Z",
+    "outlookCompletionQueue": "2026-10-06T13:25:14.247Z",
     "manualOrders": "2026-10-06T08:43:20.682Z",
     "deliveries": "2026-10-05T08:01:02.698Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -37344,6 +37352,6 @@
       ]
     }
   },
-  "rev": 3896,
-  "savedAt": "2026-10-06T13:23:10.136Z"
+  "rev": 3897,
+  "savedAt": "2026-10-06T13:25:14.249Z"
 }
