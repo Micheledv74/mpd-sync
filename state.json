@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T13:27:55.403Z",
+  "pushedAt": "2026-10-06T13:28:03.276Z",
   "todosCount": 567,
   "todos": [
     {
@@ -26289,6 +26289,20 @@
         "createdAt": "2026-10-06T13:26:26.190Z",
         "updatedAt": "2026-10-06T13:27:51.962Z",
         "poDate": "2026-10-06"
+      },
+      {
+        "id": "mo_1791293276670_p928",
+        "rfqNum": "",
+        "poNum": "",
+        "description": "",
+        "supplier": "se",
+        "status": "rfq",
+        "rfqDate": "2026-10-06",
+        "date": "",
+        "amount": "",
+        "currency": "EUR",
+        "createdAt": "2026-10-06T13:27:56.670Z",
+        "updatedAt": "2026-10-06T13:27:59.815Z"
       }
     ]
   },
@@ -35725,7 +35739,7 @@
     "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-05T13:54:47.589Z",
     "outlookCompletionQueue": "2026-10-06T13:25:14.247Z",
-    "manualOrders": "2026-10-06T13:27:51.923Z",
+    "manualOrders": "2026-10-06T13:28:03.275Z",
     "deliveries": "2026-10-05T08:01:02.698Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35786,6 +35800,10 @@
       "norrbotten|mo_1791293186190_mgt3": [
         "1gzr3dc97",
         "2026-10-06T13:27:52.274Z"
+      ],
+      "norrbotten|mo_1791293276670_p928": [
+        "naorvs6p",
+        "2026-10-06T13:28:00.123Z"
       ]
     },
     "shipments": {
@@ -37383,6 +37401,6 @@
       ]
     }
   },
-  "rev": 3907,
-  "savedAt": "2026-10-06T13:27:55.405Z"
+  "rev": 3908,
+  "savedAt": "2026-10-06T13:28:03.278Z"
 }
