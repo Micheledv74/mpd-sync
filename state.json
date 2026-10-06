@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T08:42:18.798Z",
+  "pushedAt": "2026-10-06T08:42:22.386Z",
   "todosCount": 564,
   "todos": [
     {
@@ -26147,14 +26147,14 @@
         "rfqNum": "",
         "poNum": "",
         "description": "Filtri e giranti",
-        "supplier": "dE",
+        "supplier": "Delta Service srl",
         "status": "rfq",
         "rfqDate": "2026-10-06",
         "date": "",
         "amount": "",
         "currency": "EUR",
         "createdAt": "2026-10-06T08:42:01.138Z",
-        "updatedAt": "2026-10-06T08:42:15.321Z"
+        "updatedAt": "2026-10-06T08:42:18.955Z"
       }
     ],
     "norrbotten": []
@@ -35600,8 +35600,8 @@
         "2026-10-06T08:41:39.992Z"
       ],
       "vegauno|mo_1791276121138_z67c": [
-        "1ihh42d75",
-        "2026-10-06T08:42:15.623Z"
+        "d4wgaq7k",
+        "2026-10-06T08:42:19.265Z"
       ]
     },
     "shipments": {
@@ -37191,6 +37191,6 @@
       ]
     }
   },
-  "rev": 3862,
-  "savedAt": "2026-10-06T08:42:18.800Z"
+  "rev": 3863,
+  "savedAt": "2026-10-06T08:42:22.387Z"
 }
