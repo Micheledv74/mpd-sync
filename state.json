@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T13:36:52.071Z",
+  "pushedAt": "2026-10-06T16:59:49.705Z",
   "todosCount": 568,
   "todos": [
     {
@@ -26288,6 +26288,20 @@
         "createdAt": "2026-10-06T08:42:46.593Z",
         "updatedAt": "2026-10-06T13:30:18.996Z",
         "poDate": "2026-10-06"
+      },
+      {
+        "id": "mo_1791305986270_g5az",
+        "rfqNum": "",
+        "poNum": "",
+        "description": "",
+        "supplier": "",
+        "status": "rfq",
+        "rfqDate": "2026-10-06",
+        "date": "",
+        "amount": "",
+        "currency": "EUR",
+        "createdAt": "2026-10-06T16:59:46.270Z",
+        "updatedAt": "2026-10-06T16:59:46.270Z"
       }
     ],
     "norrbotten": [
@@ -35811,7 +35825,7 @@
     "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-05T13:54:47.589Z",
     "outlookCompletionQueue": "2026-10-06T13:25:14.247Z",
-    "manualOrders": "2026-10-06T13:30:22.440Z",
+    "manualOrders": "2026-10-06T16:59:49.704Z",
     "deliveries": "2026-10-06T13:36:43.068Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35880,6 +35894,10 @@
       "norrbotten|mo_1791293339248_bqa1": [
         "a5mr4e8v",
         "2026-10-06T13:29:57.666Z"
+      ],
+      "vegauno|mo_1791305986270_g5az": [
+        "fg22oc6n",
+        "2026-10-06T16:59:46.579Z"
       ]
     },
     "shipments": {
@@ -37481,6 +37499,6 @@
       ]
     }
   },
-  "rev": 3926,
-  "savedAt": "2026-10-06T13:36:52.072Z"
+  "rev": 3927,
+  "savedAt": "2026-10-06T16:59:49.707Z"
 }
