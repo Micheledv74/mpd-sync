@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T08:41:13.696Z",
+  "pushedAt": "2026-10-06T08:41:28.219Z",
   "todosCount": 564,
   "todos": [
     {
@@ -26130,16 +26130,17 @@
       {
         "id": "mo_1790936724711_f1lh",
         "rfqNum": "",
-        "poNum": "",
+        "poNum": "2026-VGU-00005",
         "description": "Giornali Antincendio",
         "supplier": "Caim",
-        "status": "rfq",
+        "status": "delivered",
         "rfqDate": "2026-05-21",
         "date": "",
         "amount": "",
         "currency": "EUR",
         "createdAt": "2026-10-02T10:25:24.711Z",
-        "updatedAt": "2026-10-06T08:41:10.068Z"
+        "updatedAt": "2026-10-06T08:41:24.754Z",
+        "deliveredAt": "2026-10-06"
       }
     ],
     "norrbotten": []
@@ -35285,6 +35286,12 @@
       "closeInInfoship": false,
       "updatedAt": "2026-10-05T10:31:23.118Z",
       "since": "2026-10-05"
+    },
+    "mo::vegauno::mo_1790936724711_f1lh": {
+      "pos": "onboard",
+      "since": "2026-10-06",
+      "updatedAt": "2026-10-06T08:41:16.006Z",
+      "dnClosedAt": "2026-10-06"
     }
   },
   "delivGoal": {
@@ -35411,6 +35418,14 @@
       "out": "made",
       "vid": "vegauno",
       "updatedAt": "2026-10-02T10:24:59.400Z"
+    },
+    "mo::vegauno::mo_1790936724711_f1lh": {
+      "key": "Torre Annunziata|2026-10-13",
+      "port": "Torre Annunziata",
+      "etd": "2026-10-13",
+      "out": "made",
+      "vid": "vegauno",
+      "updatedAt": "2026-10-06T08:41:16.036Z"
     }
   },
   "todoTombs": {
@@ -35520,7 +35535,7 @@
     "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-05T13:54:47.589Z",
     "outlookCompletionQueue": "2026-10-05T15:32:49.131Z",
-    "manualOrders": "2026-10-06T08:41:08.628Z",
+    "manualOrders": "2026-10-06T08:41:28.219Z",
     "deliveries": "2026-10-05T08:01:02.698Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35567,8 +35582,8 @@
         "2026-10-06T08:39:23.535Z"
       ],
       "vegauno|mo_1790936724711_f1lh": [
-        "rthsxu7b",
-        "2026-10-06T08:41:10.384Z"
+        "87hmzp8m",
+        "2026-10-06T08:41:25.056Z"
       ]
     },
     "shipments": {
@@ -37158,6 +37173,6 @@
       ]
     }
   },
-  "rev": 3858,
-  "savedAt": "2026-10-06T08:41:13.697Z"
+  "rev": 3859,
+  "savedAt": "2026-10-06T08:41:28.220Z"
 }
