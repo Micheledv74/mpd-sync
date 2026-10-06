@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T13:28:25.147Z",
+  "pushedAt": "2026-10-06T13:28:29.506Z",
   "todosCount": 567,
   "todos": [
     {
@@ -26298,11 +26298,11 @@
         "supplier": "Sekerciler Group",
         "status": "po",
         "rfqDate": "2026-10-01",
-        "date": "",
+        "date": "2026-10-02",
         "amount": "",
         "currency": "EUR",
         "createdAt": "2026-10-06T13:27:56.670Z",
-        "updatedAt": "2026-10-06T13:28:21.663Z",
+        "updatedAt": "2026-10-06T13:28:26.034Z",
         "poDate": "2026-10-06"
       }
     ]
@@ -35812,8 +35812,8 @@
         "2026-10-06T13:27:52.274Z"
       ],
       "norrbotten|mo_1791293276670_p928": [
-        "ft5d3x89",
-        "2026-10-06T13:28:22.040Z"
+        "a0mtxn8j",
+        "2026-10-06T13:28:26.343Z"
       ]
     },
     "shipments": {
@@ -37411,6 +37411,6 @@
       ]
     }
   },
-  "rev": 3910,
-  "savedAt": "2026-10-06T13:28:25.149Z"
+  "rev": 3911,
+  "savedAt": "2026-10-06T13:28:29.509Z"
 }
