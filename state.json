@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T13:29:40.541Z",
+  "pushedAt": "2026-10-06T13:30:00.828Z",
   "todosCount": 567,
   "todos": [
     {
@@ -26311,13 +26311,13 @@
         "poNum": "2026-NOR-00079",
         "description": "Fornitura catena portacavi",
         "supplier": "TEFIN SCRL",
-        "status": "po",
+        "status": "shipped",
         "rfqDate": "2026-10-06",
         "date": "",
         "amount": "4000",
         "currency": "EUR",
         "createdAt": "2026-10-06T13:28:59.248Z",
-        "updatedAt": "2026-10-06T13:29:37.106Z",
+        "updatedAt": "2026-10-06T13:29:57.365Z",
         "poDate": "2026-10-06"
       }
     ]
@@ -35773,7 +35773,7 @@
     "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-05T13:54:47.589Z",
     "outlookCompletionQueue": "2026-10-06T13:25:14.247Z",
-    "manualOrders": "2026-10-06T13:29:40.540Z",
+    "manualOrders": "2026-10-06T13:30:00.827Z",
     "deliveries": "2026-10-05T08:01:02.698Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35840,8 +35840,8 @@
         "2026-10-06T13:28:57.126Z"
       ],
       "norrbotten|mo_1791293339248_bqa1": [
-        "whc6rj8q",
-        "2026-10-06T13:29:37.408Z"
+        "a5mr4e8v",
+        "2026-10-06T13:29:57.666Z"
       ]
     },
     "shipments": {
@@ -37439,6 +37439,6 @@
       ]
     }
   },
-  "rev": 3919,
-  "savedAt": "2026-10-06T13:29:40.546Z"
+  "rev": 3920,
+  "savedAt": "2026-10-06T13:30:00.830Z"
 }
