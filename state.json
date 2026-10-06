@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T17:02:40.066Z",
+  "pushedAt": "2026-10-06T17:03:14.032Z",
   "todosCount": 568,
   "todos": [
     {
@@ -35294,6 +35294,19 @@
       "eu": true,
       "note": "",
       "updatedAt": "2026-10-05T15:10:30.712Z"
+    },
+    "TORRE ANNUNZIATA": {
+      "port": "Torre Annunziata",
+      "customs": [
+        1,
+        1
+      ],
+      "notice": 24,
+      "rel": 0,
+      "agent": "",
+      "eu": false,
+      "note": "",
+      "updatedAt": "2026-10-06T17:03:10.586Z"
     }
   },
   "logbook": {},
@@ -35848,7 +35861,7 @@
     "pinnedActions": "",
     "rfqChases": "2026-10-02T10:00:20.097Z",
     "rfqVendors": "2026-10-02T09:50:56.223Z",
-    "portProfiles": "2026-10-05T15:10:34.148Z",
+    "portProfiles": "2026-10-06T17:03:14.032Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-10-06T13:26:29.647Z",
@@ -37509,6 +37522,6 @@
       ]
     }
   },
-  "rev": 3933,
-  "savedAt": "2026-10-06T17:02:40.068Z"
+  "rev": 3934,
+  "savedAt": "2026-10-06T17:03:14.034Z"
 }
