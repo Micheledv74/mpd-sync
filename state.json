@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T13:28:29.506Z",
+  "pushedAt": "2026-10-06T13:28:41.855Z",
   "todosCount": 567,
   "todos": [
     {
@@ -26293,7 +26293,7 @@
       {
         "id": "mo_1791293276670_p928",
         "rfqNum": "",
-        "poNum": "",
+        "poNum": "2026-NOR-00078",
         "description": "COBRA HH350 end tools",
         "supplier": "Sekerciler Group",
         "status": "po",
@@ -26302,7 +26302,7 @@
         "amount": "",
         "currency": "EUR",
         "createdAt": "2026-10-06T13:27:56.670Z",
-        "updatedAt": "2026-10-06T13:28:26.034Z",
+        "updatedAt": "2026-10-06T13:28:37.625Z",
         "poDate": "2026-10-06"
       }
     ]
@@ -35749,7 +35749,7 @@
     "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-05T13:54:47.589Z",
     "outlookCompletionQueue": "2026-10-06T13:25:14.247Z",
-    "manualOrders": "2026-10-06T13:28:25.146Z",
+    "manualOrders": "2026-10-06T13:28:41.855Z",
     "deliveries": "2026-10-05T08:01:02.698Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35812,8 +35812,8 @@
         "2026-10-06T13:27:52.274Z"
       ],
       "norrbotten|mo_1791293276670_p928": [
-        "a0mtxn8j",
-        "2026-10-06T13:28:26.343Z"
+        "979m4b8x",
+        "2026-10-06T13:28:37.926Z"
       ]
     },
     "shipments": {
@@ -37411,6 +37411,6 @@
       ]
     }
   },
-  "rev": 3911,
-  "savedAt": "2026-10-06T13:28:29.509Z"
+  "rev": 3912,
+  "savedAt": "2026-10-06T13:28:41.862Z"
 }
