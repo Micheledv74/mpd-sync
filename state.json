@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T08:40:57.844Z",
+  "pushedAt": "2026-10-06T08:41:02.096Z",
   "todosCount": 564,
   "todos": [
     {
@@ -26134,12 +26134,12 @@
         "description": "Giornali Antincendio",
         "supplier": "Caim",
         "status": "rfq",
-        "rfqDate": "2026-10-21",
+        "rfqDate": "2026-01-21",
         "date": "",
         "amount": "",
         "currency": "EUR",
         "createdAt": "2026-10-02T10:25:24.711Z",
-        "updatedAt": "2026-10-06T08:40:54.457Z"
+        "updatedAt": "2026-10-06T08:40:58.697Z"
       }
     ],
     "norrbotten": []
@@ -35567,8 +35567,8 @@
         "2026-10-06T08:39:23.535Z"
       ],
       "vegauno|mo_1790936724711_f1lh": [
-        "1vu3pwx7b",
-        "2026-10-06T08:40:54.770Z"
+        "1cl5akp7b",
+        "2026-10-06T08:40:59.000Z"
       ]
     },
     "shipments": {
@@ -37158,6 +37158,6 @@
       ]
     }
   },
-  "rev": 3855,
-  "savedAt": "2026-10-06T08:40:57.845Z"
+  "rev": 3856,
+  "savedAt": "2026-10-06T08:41:02.097Z"
 }
