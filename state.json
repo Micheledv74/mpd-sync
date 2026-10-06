@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T13:25:14.248Z",
+  "pushedAt": "2026-10-06T13:26:29.648Z",
   "todosCount": 567,
   "todos": [
     {
@@ -26274,7 +26274,22 @@
         "poDate": "2026-10-06"
       }
     ],
-    "norrbotten": []
+    "norrbotten": [
+      {
+        "id": "mo_1791293186190_mgt3",
+        "rfqNum": "",
+        "poNum": "",
+        "description": "",
+        "supplier": "",
+        "status": "rfq",
+        "rfqDate": "2026-10-06",
+        "date": "",
+        "amount": "",
+        "currency": "EUR",
+        "createdAt": "2026-10-06T13:26:26.190Z",
+        "updatedAt": "2026-10-06T13:26:26.190Z"
+      }
+    ]
   },
   "deliveries": {
     "peppino::spa req aux boiler mission oc": {
@@ -35222,12 +35237,13 @@
     "peppino::urgent engine store cotton rags": {
       "pos": "onboard",
       "closeInInfoship": true,
-      "updatedAt": "2026-09-30T07:27:30.238Z",
+      "updatedAt": "2026-10-06T13:26:24.679Z",
       "since": "2026-09-30",
       "by": "scheda",
       "hub": "it-goa",
       "port": "Tema, Ghana",
-      "agent": "OMA Ghana"
+      "agent": "OMA Ghana",
+      "dnClosedAt": "2026-10-06"
     },
     "med toscana::talk back card": {
       "pos": "onboard",
@@ -35247,8 +35263,9 @@
       "pos": "onboard",
       "closeInInfoship": true,
       "by": "scheda",
-      "updatedAt": "2026-09-29T08:03:44.339Z",
-      "since": "2026-09-29"
+      "updatedAt": "2026-10-06T13:26:24.679Z",
+      "since": "2026-09-29",
+      "dnClosedAt": "2026-10-06"
     },
     "med liguria::deck & engine paint": {
       "pos": "onboard",
@@ -35698,7 +35715,7 @@
     "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-05T13:54:47.589Z",
     "outlookCompletionQueue": "2026-10-06T13:25:14.247Z",
-    "manualOrders": "2026-10-06T08:43:20.682Z",
+    "manualOrders": "2026-10-06T13:26:29.647Z",
     "deliveries": "2026-10-05T08:01:02.698Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35714,7 +35731,7 @@
     "portProfiles": "2026-10-05T15:10:34.148Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-06T13:04:29.946Z",
+    "matPos": "2026-10-06T13:26:29.647Z",
     "delivGoal": "2026-10-06T08:43:10.947Z",
     "reminders": "2026-10-01T11:02:41.545Z"
   },
@@ -35755,6 +35772,10 @@
       "vegauno|mo_1791276166593_3hta": [
         "1xu5rbe82",
         "2026-10-06T08:43:17.550Z"
+      ],
+      "norrbotten|mo_1791293186190_mgt3": [
+        "d1hwel6n",
+        "2026-10-06T13:26:26.492Z"
       ]
     },
     "shipments": {
@@ -37352,6 +37373,6 @@
       ]
     }
   },
-  "rev": 3897,
-  "savedAt": "2026-10-06T13:25:14.249Z"
+  "rev": 3898,
+  "savedAt": "2026-10-06T13:26:29.649Z"
 }
