@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T17:01:03.198Z",
+  "pushedAt": "2026-10-06T17:02:40.066Z",
   "todosCount": 568,
   "todos": [
     {
@@ -26282,11 +26282,11 @@
         "supplier": "Total ERG",
         "status": "shipped",
         "rfqDate": "2026-10-06",
-        "date": "",
+        "date": "2026-10-08",
         "amount": "",
         "currency": "EUR",
         "createdAt": "2026-10-06T08:42:46.593Z",
-        "updatedAt": "2026-10-06T13:30:18.996Z",
+        "updatedAt": "2026-10-06T17:02:36.658Z",
         "poDate": "2026-10-06"
       },
       {
@@ -35835,7 +35835,7 @@
     "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-05T13:54:47.589Z",
     "outlookCompletionQueue": "2026-10-06T13:25:14.247Z",
-    "manualOrders": "2026-10-06T17:01:03.198Z",
+    "manualOrders": "2026-10-06T17:02:40.066Z",
     "deliveries": "2026-10-06T13:36:43.068Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35890,8 +35890,8 @@
         "2026-10-06T08:42:42.510Z"
       ],
       "vegauno|mo_1791276166593_3hta": [
-        "1jcl63187",
-        "2026-10-06T13:30:19.297Z"
+        "gintk48h",
+        "2026-10-06T17:02:36.967Z"
       ],
       "norrbotten|mo_1791293186190_mgt3": [
         "e5lk6ya5",
@@ -37509,6 +37509,6 @@
       ]
     }
   },
-  "rev": 3932,
-  "savedAt": "2026-10-06T17:01:03.200Z"
+  "rev": 3933,
+  "savedAt": "2026-10-06T17:02:40.068Z"
 }
