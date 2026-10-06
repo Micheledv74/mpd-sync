@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T08:39:51.479Z",
+  "pushedAt": "2026-10-06T08:40:42.978Z",
   "todosCount": 564,
   "todos": [
     {
@@ -26131,15 +26131,15 @@
         "id": "mo_1790936724711_f1lh",
         "rfqNum": "",
         "poNum": "",
-        "description": "",
-        "supplier": "",
+        "description": "Giornali Antincendio",
+        "supplier": "Caim",
         "status": "rfq",
         "rfqDate": "2026-10-02",
         "date": "",
         "amount": "",
         "currency": "EUR",
         "createdAt": "2026-10-02T10:25:24.711Z",
-        "updatedAt": "2026-10-02T10:25:24.711Z"
+        "updatedAt": "2026-10-06T08:40:39.571Z"
       }
     ],
     "norrbotten": []
@@ -35520,7 +35520,7 @@
     "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-05T13:54:47.589Z",
     "outlookCompletionQueue": "2026-10-05T15:32:49.131Z",
-    "manualOrders": "2026-10-06T08:39:51.479Z",
+    "manualOrders": "2026-10-06T08:40:42.978Z",
     "deliveries": "2026-10-05T08:01:02.698Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35567,8 +35567,8 @@
         "2026-10-06T08:39:23.535Z"
       ],
       "vegauno|mo_1790936724711_f1lh": [
-        "1qg05qh6n",
-        "2026-10-02T10:25:25.014Z"
+        "g85yie7b",
+        "2026-10-06T08:40:39.878Z"
       ]
     },
     "shipments": {
@@ -37158,6 +37158,6 @@
       ]
     }
   },
-  "rev": 3853,
-  "savedAt": "2026-10-06T08:39:51.483Z"
+  "rev": 3854,
+  "savedAt": "2026-10-06T08:40:42.979Z"
 }
