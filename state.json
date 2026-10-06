@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T13:30:09.569Z",
+  "pushedAt": "2026-10-06T13:30:22.440Z",
   "todosCount": 567,
   "todos": [
     {
@@ -26264,13 +26264,13 @@
         "poNum": "2026-VGU-00009",
         "description": "Olio ME",
         "supplier": "Total ERG",
-        "status": "po",
+        "status": "shipped",
         "rfqDate": "2026-10-06",
         "date": "",
         "amount": "",
         "currency": "EUR",
         "createdAt": "2026-10-06T08:42:46.593Z",
-        "updatedAt": "2026-10-06T08:43:17.242Z",
+        "updatedAt": "2026-10-06T13:30:18.996Z",
         "poDate": "2026-10-06"
       }
     ],
@@ -35789,7 +35789,7 @@
     "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-05T13:54:47.589Z",
     "outlookCompletionQueue": "2026-10-06T13:25:14.247Z",
-    "manualOrders": "2026-10-06T13:30:00.827Z",
+    "manualOrders": "2026-10-06T13:30:22.440Z",
     "deliveries": "2026-10-05T08:01:02.698Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35844,8 +35844,8 @@
         "2026-10-06T08:42:42.510Z"
       ],
       "vegauno|mo_1791276166593_3hta": [
-        "1xu5rbe82",
-        "2026-10-06T08:43:17.550Z"
+        "1jcl63187",
+        "2026-10-06T13:30:19.297Z"
       ],
       "norrbotten|mo_1791293186190_mgt3": [
         "e5lk6ya5",
@@ -37455,6 +37455,6 @@
       ]
     }
   },
-  "rev": 3922,
-  "savedAt": "2026-10-06T13:30:09.571Z"
+  "rev": 3923,
+  "savedAt": "2026-10-06T13:30:22.442Z"
 }
