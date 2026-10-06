@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-06T08:42:50.047Z",
+  "pushedAt": "2026-10-06T08:42:57.240Z",
   "todosCount": 564,
   "todos": [
     {
@@ -26161,15 +26161,15 @@
         "id": "mo_1791276166593_3hta",
         "rfqNum": "",
         "poNum": "",
-        "description": "",
-        "supplier": "",
+        "description": "Olio ME",
+        "supplier": "T",
         "status": "rfq",
         "rfqDate": "2026-10-06",
         "date": "",
         "amount": "",
         "currency": "EUR",
         "createdAt": "2026-10-06T08:42:46.593Z",
-        "updatedAt": "2026-10-06T08:42:46.593Z"
+        "updatedAt": "2026-10-06T08:42:57.122Z"
       }
     ],
     "norrbotten": []
@@ -35573,7 +35573,7 @@
     "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-05T13:54:47.589Z",
     "outlookCompletionQueue": "2026-10-05T15:32:49.131Z",
-    "manualOrders": "2026-10-06T08:42:45.621Z",
+    "manualOrders": "2026-10-06T08:42:57.240Z",
     "deliveries": "2026-10-05T08:01:02.698Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-08-21T07:32:33.905Z",
@@ -35628,8 +35628,8 @@
         "2026-10-06T08:42:42.510Z"
       ],
       "vegauno|mo_1791276166593_3hta": [
-        "ccaimy6n",
-        "2026-10-06T08:42:46.899Z"
+        "wmhnir6v",
+        "2026-10-06T08:42:57.241Z"
       ]
     },
     "shipments": {
@@ -37219,6 +37219,6 @@
       ]
     }
   },
-  "rev": 3866,
-  "savedAt": "2026-10-06T08:42:50.049Z"
+  "rev": 3867,
+  "savedAt": "2026-10-06T08:42:57.242Z"
 }
