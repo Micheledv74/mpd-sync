@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-07T09:04:31.570Z",
+  "pushedAt": "2026-10-07T09:04:58.334Z",
   "todosCount": 568,
   "todos": [
     {
@@ -35244,8 +35244,9 @@
     "mo::vegauno::mo_1791276166593_3hta": {
       "pos": "office",
       "closeInInfoship": false,
-      "updatedAt": "2026-10-07T09:04:27.942Z",
-      "since": "2026-10-07"
+      "updatedAt": "2026-10-07T09:04:54.902Z",
+      "since": "2026-10-07",
+      "by": "scheda"
     }
   },
   "delivGoal": {
@@ -35397,7 +35398,8 @@
       "port": "Torre Annunziata",
       "etd": "2026-10-13",
       "vid": "vegauno",
-      "updatedAt": "2026-10-06T08:43:07.509Z"
+      "out": "made",
+      "updatedAt": "2026-10-07T09:04:48.043Z"
     },
     "mo::norrbotten::mo_1791293186190_mgt3": {
       "worst": "late",
@@ -35561,8 +35563,8 @@
     "portProfiles": "2026-10-06T17:03:14.032Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-07T09:04:31.570Z",
-    "delivGoal": "2026-10-06T13:36:52.070Z",
+    "matPos": "2026-10-07T09:04:58.334Z",
+    "delivGoal": "2026-10-07T09:04:58.334Z",
     "reminders": "2026-10-01T11:02:41.545Z"
   },
   "recRev": {
@@ -37223,6 +37225,6 @@
       ]
     }
   },
-  "rev": 3965,
-  "savedAt": "2026-10-07T09:04:31.571Z"
+  "rev": 3966,
+  "savedAt": "2026-10-07T09:04:58.335Z"
 }
