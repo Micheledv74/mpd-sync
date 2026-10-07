@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-07T08:36:56.319Z",
+  "pushedAt": "2026-10-07T08:37:24.385Z",
   "todosCount": 568,
   "todos": [
     {
@@ -35231,6 +35231,12 @@
       "since": "2026-10-06",
       "updatedAt": "2026-10-06T13:30:06.007Z",
       "dnClosedAt": "2026-10-06"
+    },
+    "peppino::hydr system for deck machinery": {
+      "pos": "supplier",
+      "closeInInfoship": false,
+      "updatedAt": "2026-10-07T08:37:20.788Z",
+      "since": "2026-10-07"
     }
   },
   "delivGoal": {
@@ -35546,7 +35552,7 @@
     "portProfiles": "2026-10-06T17:03:14.032Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-06T13:26:29.647Z",
+    "matPos": "2026-10-07T08:37:24.384Z",
     "delivGoal": "2026-10-06T13:36:52.070Z",
     "reminders": "2026-10-01T11:02:41.545Z"
   },
@@ -37204,6 +37210,6 @@
       ]
     }
   },
-  "rev": 3958,
-  "savedAt": "2026-10-07T08:36:56.320Z"
+  "rev": 3959,
+  "savedAt": "2026-10-07T08:37:24.386Z"
 }
