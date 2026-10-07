@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-07T09:50:20.859Z",
+  "pushedAt": "2026-10-07T11:01:33.751Z",
   "todosCount": 568,
   "todos": [
     {
@@ -13275,12 +13275,12 @@
       "dueDate": "2026-10-07",
       "note": "",
       "createdAt": "2026-10-05T14:43:39.408143Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-10-07T11:01:30.315Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-06T13:19:59.506Z"
+      "updatedAt": "2026-10-07T11:01:30.315Z"
     },
     {
       "category": "Nave",
@@ -25844,6 +25844,13 @@
       "completedAt": "2026-10-07T09:50:17.963Z",
       "todoId": "outlook_AAKFkWYjAAA=",
       "title": "M/B VEGA UNO - Richiesta quotazione olio"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKHtr-2AAA=",
+      "listId": "",
+      "completedAt": "2026-10-07T11:01:30.319Z",
+      "todoId": "outlook_AAKHtr-2AAA=",
+      "title": "SALDO FATTURE SCADUTE"
     }
   ],
   "manualOrders": {
@@ -35577,7 +35584,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-07T09:50:20.858Z",
+    "todos": "2026-10-07T11:01:33.751Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -35586,7 +35593,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-07T07:58:28.707Z",
     "voyages": "2026-10-06T17:05:06.736Z",
-    "outlookCompletionQueue": "2026-10-07T09:50:20.858Z",
+    "outlookCompletionQueue": "2026-10-07T11:01:33.751Z",
     "manualOrders": "2026-10-07T09:04:03.197Z",
     "deliveries": "2026-10-07T09:19:50.140Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -37273,6 +37280,6 @@
       ]
     }
   },
-  "rev": 3981,
-  "savedAt": "2026-10-07T09:50:20.872Z"
+  "rev": 3982,
+  "savedAt": "2026-10-07T11:01:33.752Z"
 }
