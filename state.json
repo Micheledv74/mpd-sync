@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-07T09:08:37.330Z",
+  "pushedAt": "2026-10-07T09:08:58.115Z",
   "todosCount": 568,
   "todos": [
     {
@@ -31846,6 +31846,21 @@
         "updatedAt": "2026-09-29T07:36:12.902Z",
         "source": "17track-manual"
       }
+    ],
+    "med toscana::emergency diesel generator tacho sensor": [
+      {
+        "id": "shmuxvyam1zya",
+        "partial": false,
+        "route": "supplier-hub",
+        "carrier": "Altro",
+        "hub": "TML GENOA",
+        "number": "NN668934150",
+        "status": "not_found",
+        "pickup": "2026-10-07",
+        "eta": "",
+        "events": [],
+        "updatedAt": "2026-10-07T09:08:54.719Z"
+      }
     ]
   },
   "rfqChases": {
@@ -35562,7 +35577,7 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-10-07T08:37:41.895Z",
     "repliesDismissed": "2026-10-02T12:48:00.413Z",
-    "shipments": "2026-10-07T09:08:37.330Z",
+    "shipments": "2026-10-07T09:08:58.114Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
     "rfqChases": "2026-10-02T10:00:20.097Z",
@@ -35783,8 +35798,8 @@
         ""
       ],
       "med toscana::emergency diesel generator tacho sensor": [
-        null,
-        "2026-10-07T09:08:34.194Z"
+        "5i4nhp69",
+        "2026-10-07T09:08:55.034Z"
       ]
     },
     "deliveries": {
@@ -37236,6 +37251,6 @@
       ]
     }
   },
-  "rev": 3971,
-  "savedAt": "2026-10-07T09:08:37.332Z"
+  "rev": 3972,
+  "savedAt": "2026-10-07T09:08:58.117Z"
 }
