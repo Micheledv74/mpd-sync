@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-07T12:36:49.871Z",
+  "pushedAt": "2026-10-07T12:57:04.101Z",
   "todosCount": 568,
   "todos": [
     {
@@ -27025,7 +27025,8 @@
       "email": "info@gmsupplies.it,",
       "phone": "+10 7499190",
       "rating": 0,
-      "_notionId": "3952131b-343e-81fb-b8bc-c3db9933cf58"
+      "_notionId": "3952131b-343e-81fb-b8bc-c3db9933cf58",
+      "contact": "Riccardo Leone"
     },
     "Gulf Oil Marine Ltd.": {
       "email": "emilia.arena@gulf-marine.com,operation.eu@gulf-marine.com",
@@ -35597,7 +35598,7 @@
     "manualOrders": "2026-10-07T09:04:03.197Z",
     "deliveries": "2026-10-07T09:19:50.140Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
-    "supplierProfiles": "2026-08-21T07:32:33.905Z",
+    "supplierProfiles": "2026-10-07T12:57:04.100Z",
     "agencyProfiles": "2026-10-02T12:50:40.531Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-10-07T09:21:38.151Z",
@@ -36517,8 +36518,8 @@
         ""
       ],
       "GLOBAL MARINE SUPPLIES SPA": [
-        "1042nbj37",
-        ""
+        "10d7lj93y",
+        "2026-10-07T12:57:00.999Z"
       ],
       "Gulf Oil Marine Ltd.": [
         "1yrywdr4f",
@@ -37280,6 +37281,6 @@
       ]
     }
   },
-  "rev": 3983,
-  "savedAt": "2026-10-07T12:36:49.873Z"
+  "rev": 3984,
+  "savedAt": "2026-10-07T12:57:04.102Z"
 }
