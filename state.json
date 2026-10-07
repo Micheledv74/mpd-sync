@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-07T07:46:11.873Z",
+  "pushedAt": "2026-10-07T07:46:56.839Z",
   "todosCount": 568,
   "todos": [
     {
@@ -13378,12 +13378,12 @@
       "dueDate": "2026-10-07",
       "note": "",
       "createdAt": "2026-10-06T12:06:23.274836Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-10-07T07:46:53.423Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-06T13:21:16.181Z"
+      "updatedAt": "2026-10-07T07:46:53.423Z"
     },
     {
       "category": "Nave",
@@ -26156,6 +26156,13 @@
       "completedAt": "2026-10-06T13:25:10.424Z",
       "todoId": "outlook_AAKHtr-7AAA=",
       "title": "TEF064985 Fornitura catena portacavi ATLAS "
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKHtr-6AAA=",
+      "listId": "",
+      "completedAt": "2026-10-07T07:46:53.428Z",
+      "todoId": "outlook_AAKHtr-6AAA=",
+      "title": "urgent purchase request"
     }
   ],
   "manualOrders": {
@@ -35832,7 +35839,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-07T07:46:09.512Z",
+    "todos": "2026-10-07T07:46:56.838Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -35841,7 +35848,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-05T07:46:43.941Z",
     "voyages": "2026-10-06T17:05:06.736Z",
-    "outlookCompletionQueue": "2026-10-06T13:25:14.247Z",
+    "outlookCompletionQueue": "2026-10-07T07:46:56.838Z",
     "manualOrders": "2026-10-06T17:02:40.066Z",
     "deliveries": "2026-10-07T07:00:05.004Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -37516,6 +37523,6 @@
       ]
     }
   },
-  "rev": 3953,
-  "savedAt": "2026-10-07T07:46:11.877Z"
+  "rev": 3954,
+  "savedAt": "2026-10-07T07:46:56.841Z"
 }
