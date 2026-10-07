@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-07T13:50:45.480Z",
+  "pushedAt": "2026-10-07T15:39:40.984Z",
   "todosCount": 568,
   "todos": [
     {
@@ -31885,6 +31885,29 @@
         "events": [],
         "updatedAt": "2026-10-07T09:08:54.719Z"
       }
+    ],
+    "peppino::steering gear filter cartridges": [
+      {
+        "id": "shmuy8uldj599",
+        "partial": false,
+        "route": "supplier-hub",
+        "carrier": "DHL Express",
+        "hub": "TML GENOVA",
+        "number": "58 5828 6486",
+        "status": "in_transit",
+        "pickup": "2026-10-07",
+        "eta": "2026-10-07",
+        "events": [
+          {
+            "ts": "2026-10-07T15:13",
+            "place": "NAPLES - ITALY",
+            "text": "Shipment picked up",
+            "code": "transit"
+          }
+        ],
+        "updatedAt": "2026-10-07T15:10:23.309Z",
+        "source": "17track-manual"
+      }
     ]
   },
   "rfqChases": {
@@ -35306,6 +35329,13 @@
       "by": "scheda",
       "updatedAt": "2026-10-07T09:20:58.206Z",
       "since": "2026-10-07"
+    },
+    "peppino::steering gear filter cartridges": {
+      "pos": "transit",
+      "hub": "it-goa",
+      "closeInInfoship": false,
+      "updatedAt": "2026-10-07T15:10:33.306Z",
+      "since": "2026-10-07"
     }
   },
   "delivGoal": {
@@ -35614,7 +35644,7 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-10-07T09:21:38.151Z",
     "repliesDismissed": "2026-10-02T12:48:00.413Z",
-    "shipments": "2026-10-07T09:08:58.114Z",
+    "shipments": "2026-10-07T15:39:40.984Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
     "rfqChases": "2026-10-02T10:00:20.097Z",
@@ -35622,7 +35652,7 @@
     "portProfiles": "2026-10-06T17:03:14.032Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-07T09:21:01.629Z",
+    "matPos": "2026-10-07T15:39:40.984Z",
     "delivGoal": "2026-10-07T09:04:58.334Z",
     "reminders": "2026-10-01T11:02:41.545Z"
   },
@@ -35837,6 +35867,10 @@
       "med toscana::emergency diesel generator tacho sensor": [
         "5i4nhp69",
         "2026-10-07T09:08:55.034Z"
+      ],
+      "peppino::steering gear filter cartridges": [
+        "1u30pya5",
+        "2026-10-07T15:10:23.613Z"
       ]
     },
     "deliveries": {
@@ -37292,6 +37326,6 @@
       ]
     }
   },
-  "rev": 4012,
-  "savedAt": "2026-10-07T13:50:45.482Z"
+  "rev": 4013,
+  "savedAt": "2026-10-07T15:39:40.985Z"
 }
