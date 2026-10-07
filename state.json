@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-07T13:03:31.230Z",
+  "pushedAt": "2026-10-07T13:03:37.033Z",
   "todosCount": 568,
   "todos": [
     {
@@ -26834,7 +26834,8 @@
       "whatsapp": "+393381955585",
       "contact": "Ricccardo Leone",
       "address": "via Rivarolo, 53/A",
-      "city": "Genova"
+      "city": "Genova",
+      "country": "Italia"
     },
     "HAKEPA SRL": {
       "email": "sales@hakepa.com, eugenio.mele@hakepa.com",
@@ -36394,8 +36395,8 @@
         ""
       ],
       "Global Marine Supplies Spa": [
-        "1v17dv464",
-        "2026-10-07T13:03:27.070Z"
+        "1i0oudc6n",
+        "2026-10-07T13:03:32.120Z"
       ],
       "HAKEPA SRL": [
         "bywtqg3z",
@@ -37289,6 +37290,6 @@
       ]
     }
   },
-  "rev": 3999,
-  "savedAt": "2026-10-07T13:03:31.231Z"
+  "rev": 4000,
+  "savedAt": "2026-10-07T13:03:37.035Z"
 }
