@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-08T12:01:21.462Z",
-  "todosCount": 571,
+  "pushedAt": "2026-10-08T12:01:31.381Z",
+  "todosCount": 573,
   "todos": [
     {
       "category": "Nave",
@@ -13508,6 +13508,52 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-10-08T10:35:32.944Z"
+    },
+    {
+      "id": "outlook_AAKJM00jAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKJM00jAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60YAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B6ONAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-08",
+      "outlookLinkedName": "I: MV PEPPINO at Juruti - Ship Spare Parts Delivery on board [JUR-PEPPINO-6708]",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "MV PEPPINO at Juruti - Ship Spare Parts Delivery on board [JUR-PEPPINO-6708]",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-08",
+      "note": "",
+      "createdAt": "2026-10-08T11:50:47.4651877Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKJM00iAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKJM00iAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKJMe25AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-08",
+      "outlookLinkedName": "Medical Oxygen",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "Medical Oxygen",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-08",
+      "note": "",
+      "createdAt": "2026-10-08T10:36:17.4239374Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -35770,7 +35816,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-08T10:35:34.587Z",
+    "todos": "2026-10-08T12:01:31.381Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -37470,6 +37516,6 @@
       ]
     }
   },
-  "rev": 4029,
-  "savedAt": "2026-10-08T12:01:21.465Z"
+  "rev": 4030,
+  "savedAt": "2026-10-08T12:01:31.383Z"
 }
