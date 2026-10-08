@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-08T12:57:20.725Z",
+  "pushedAt": "2026-10-08T12:58:02.026Z",
   "todosCount": 573,
   "todos": [
     {
@@ -35288,7 +35288,7 @@
     "peppino::welding machine": {
       "pos": "onboard",
       "closeInInfoship": true,
-      "updatedAt": "2026-09-30T07:27:19.189Z",
+      "updatedAt": "2026-10-08T12:57:58.520Z",
       "since": "2026-09-30",
       "by": "scheda"
     },
@@ -35854,7 +35854,7 @@
     "portProfiles": "2026-10-06T17:03:14.032Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-08T12:57:20.725Z",
+    "matPos": "2026-10-08T12:58:02.026Z",
     "delivGoal": "2026-10-07T09:04:58.334Z",
     "reminders": "2026-10-01T11:02:41.545Z"
   },
@@ -37528,6 +37528,6 @@
       ]
     }
   },
-  "rev": 4034,
-  "savedAt": "2026-10-08T12:57:20.728Z"
+  "rev": 4035,
+  "savedAt": "2026-10-08T12:58:02.028Z"
 }
