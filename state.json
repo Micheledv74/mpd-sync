@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-09T15:07:58.101Z",
+  "pushedAt": "2026-10-09T15:12:13.257Z",
   "todosCount": 577,
   "todos": [
     {
@@ -32242,11 +32242,49 @@
         "carrier": "Altro",
         "hub": "",
         "number": "202619100013713",
-        "status": "not_found",
+        "status": "in_transit",
         "pickup": "2026-10-09",
-        "eta": "",
-        "events": [],
-        "updatedAt": "2026-10-09T11:11:11.862Z"
+        "eta": "2026-10-09",
+        "events": [
+          {
+            "ts": "2026-10-09T16:49",
+            "place": "",
+            "text": "IN TRANSIT CASERTA",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-10-08T23:45",
+            "place": "",
+            "text": "STARTED FROM PONTEDERA",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-10-08T20:05",
+            "place": "",
+            "text": "IN TRANSIT PONTEDERA",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-10-08T18:10",
+            "place": "",
+            "text": "STARTED FROM LUCCA",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-10-08T16:54",
+            "place": "",
+            "text": "GOODS RECEIVED",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-10-08T16:32",
+            "place": "",
+            "text": "SHIPMENT CREATED",
+            "code": "transit"
+          }
+        ],
+        "updatedAt": "2026-10-09T15:12:09.807Z",
+        "source": "17track-manual"
       }
     ]
   },
@@ -65451,7 +65489,7 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-10-09T11:13:33.078Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
-    "shipments": "2026-10-09T11:11:15.301Z",
+    "shipments": "2026-10-09T15:12:13.256Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
     "rfqChases": "2026-10-02T10:00:20.097Z",
@@ -65681,8 +65719,8 @@
         "2026-10-08T12:57:06.876Z"
       ],
       "mo::vegauno::mo_1791305986270_g5az": [
-        "131bn2065",
-        "2026-10-09T11:11:12.166Z"
+        "1a4sze3kt",
+        "2026-10-09T15:12:10.115Z"
       ]
     },
     "deliveries": {
@@ -67146,6 +67184,6 @@
       ]
     }
   },
-  "rev": 4068,
-  "savedAt": "2026-10-09T15:07:58.103Z"
+  "rev": 4069,
+  "savedAt": "2026-10-09T15:12:13.260Z"
 }
