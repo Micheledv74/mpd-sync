@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-09T08:28:05.848Z",
-  "todosCount": 576,
+  "pushedAt": "2026-10-09T10:57:30.256Z",
+  "todosCount": 577,
   "todos": [
     {
       "category": "Nave",
@@ -13634,6 +13634,29 @@
       "dueDate": "2026-10-08",
       "note": "",
       "createdAt": "2026-10-08T15:25:25.7303119Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKJM00nAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKJM00nAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKJMe3FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-09",
+      "outlookLinkedName": "Re: Ossigeno MED LIGURIA",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "Ossigeno MED LIGURIA",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-09",
+      "note": "",
+      "createdAt": "2026-10-09T06:38:06.0939219Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -35918,7 +35941,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-09T08:28:05.848Z",
+    "todos": "2026-10-09T10:57:30.255Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -37618,6 +37641,6 @@
       ]
     }
   },
-  "rev": 4050,
-  "savedAt": "2026-10-09T08:28:05.849Z"
+  "rev": 4051,
+  "savedAt": "2026-10-09T10:57:30.257Z"
 }
