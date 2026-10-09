@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-09T10:57:30.256Z",
+  "pushedAt": "2026-10-09T10:57:43.426Z",
   "todosCount": 577,
   "todos": [
     {
@@ -13616,6 +13616,12 @@
       "updatedAt": "2026-10-08T15:22:24.871Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "Conferma d'ordine RIB300",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKJM00mAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKJM00mAAA=",
       "outlookListId": "",
@@ -13623,14 +13629,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BuQAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-08",
       "outlookLinkedName": "R: Conferma d'ordine RIB300",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "Conferma d'ordine RIB300",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-08",
       "note": "",
       "createdAt": "2026-10-08T15:25:25.7303119Z",
@@ -13639,6 +13639,12 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "Ossigeno MED LIGURIA",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKJM00nAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKJM00nAAA=",
       "outlookListId": "",
@@ -13646,14 +13652,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKJMe3FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-09",
       "outlookLinkedName": "Re: Ossigeno MED LIGURIA",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "Ossigeno MED LIGURIA",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-09",
       "note": "",
       "createdAt": "2026-10-09T06:38:06.0939219Z",
@@ -35941,7 +35941,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-09T10:57:30.255Z",
+    "todos": "2026-10-09T10:57:43.426Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -37641,6 +37641,6 @@
       ]
     }
   },
-  "rev": 4051,
-  "savedAt": "2026-10-09T10:57:30.257Z"
+  "rev": 4052,
+  "savedAt": "2026-10-09T10:57:43.428Z"
 }
