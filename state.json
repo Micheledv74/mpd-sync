@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-09T17:16:12.361Z",
+  "pushedAt": "2026-10-09T17:16:38.067Z",
   "todosCount": 577,
   "todos": [
     {
@@ -13500,7 +13500,7 @@
       "outlookLinkedName": "Re: Ossigeno MED LIGURIA",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-10-09",
+      "dueDate": "2026-10-12",
       "note": "",
       "createdAt": "2026-10-08T07:24:54.1893591Z",
       "done": false,
@@ -13508,7 +13508,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-08T10:35:32.944Z"
+      "updatedAt": "2026-10-09T17:16:34.606Z"
     },
     {
       "category": "Altro",
@@ -65492,7 +65492,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-09T17:16:12.361Z",
+    "todos": "2026-10-09T17:16:38.066Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67205,6 +67205,6 @@
       ]
     }
   },
-  "rev": 4077,
-  "savedAt": "2026-10-09T17:16:12.365Z"
+  "rev": 4078,
+  "savedAt": "2026-10-09T17:16:38.069Z"
 }
