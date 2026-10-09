@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-09T15:54:11.901Z",
+  "pushedAt": "2026-10-09T15:59:17.024Z",
   "todosCount": 577,
   "todos": [
     {
@@ -65181,6 +65181,12 @@
       "closeInInfoship": false,
       "updatedAt": "2026-10-09T11:11:47.906Z",
       "since": "2026-10-09"
+    },
+    "med toscana::pressure drop indicator for fuel oil filter type: fm 152de24/12a05; maker: alfa laval": {
+      "pos": "supplier",
+      "closeInInfoship": false,
+      "updatedAt": "2026-10-09T15:59:13.614Z",
+      "since": "2026-10-09"
     }
   },
   "delivGoal": {
@@ -65497,7 +65503,7 @@
     "portProfiles": "2026-10-06T17:03:14.032Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-09T11:11:51.312Z",
+    "matPos": "2026-10-09T15:59:17.023Z",
     "delivGoal": "2026-10-07T09:04:58.334Z",
     "reminders": "2026-10-01T11:02:41.545Z",
     "infoshipLedger": "2026-10-09T11:06:41.445Z"
@@ -67184,6 +67190,6 @@
       ]
     }
   },
-  "rev": 4070,
-  "savedAt": "2026-10-09T15:54:11.904Z"
+  "rev": 4071,
+  "savedAt": "2026-10-09T15:59:17.026Z"
 }
