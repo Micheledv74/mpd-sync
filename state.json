@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-10T20:22:46.202Z",
-  "todosCount": 579,
+  "pushedAt": "2026-10-10T20:22:52.733Z",
+  "todosCount": 580,
   "todos": [
     {
       "category": "Nave",
@@ -13717,6 +13717,29 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-10-09T17:19:45.957Z"
+    },
+    {
+      "id": "outlook_AAKLBKpAAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKLBKpAAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAKLBG1rAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-10",
+      "outlookLinkedName": "Requisition for provision cranes",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "Requisition for provision cranes",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-10",
+      "note": "",
+      "createdAt": "2026-10-10T17:21:39.4289814Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -65555,7 +65578,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-10T20:22:46.201Z",
+    "todos": "2026-10-10T20:22:52.732Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67268,6 +67291,6 @@
       ]
     }
   },
-  "rev": 4088,
-  "savedAt": "2026-10-10T20:22:46.204Z"
+  "rev": 4089,
+  "savedAt": "2026-10-10T20:22:52.735Z"
 }
