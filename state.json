@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-09T17:20:13.378Z",
+  "pushedAt": "2026-10-10T20:22:46.202Z",
   "todosCount": 579,
   "todos": [
     {
@@ -13666,6 +13666,12 @@
       "updatedAt": "2026-10-09T17:20:09.976Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "MYTHMAR-26.7949 & 26.8173 & 26.8176 & 26.8177/ MV ATLAS / INVOICE",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKJM00pAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKJM00pAAA=",
       "outlookListId": "",
@@ -13673,14 +13679,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKJMe3WAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-09",
       "outlookLinkedName": "Re: MYTHMAR-26.7949 & 26.8173 & 26.8176 & 26.8177/ MV ATLAS / INVOICE",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "MYTHMAR-26.7949 & 26.8173 & 26.8176 & 26.8177/ MV ATLAS / INVOICE",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-12",
       "note": "",
       "createdAt": "2026-10-09T16:00:54.6565771Z",
@@ -13692,6 +13692,13 @@
       "updatedAt": "2026-10-09T17:19:24.671Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED TOSCANA PR72 HQPO-00113 MDT-SHPR-00072 MAS MARINE SHIPPING SUPPLIES / 026-62441",
+      "tags": [
+        "outlook",
+        "fornitore:MAS"
+      ],
       "id": "outlook_AAKJM00oAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKJM00oAAA=",
       "outlookListId": "",
@@ -13699,15 +13706,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60eAABYWF9qc37UTpbqyo%2B4NVKtAAHdVZ1lAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-09",
       "outlookLinkedName": "Re: M/V MED TOSCANA PR72 HQPO-00113 MDT-SHPR-00072 MAS MARINE SHIPPING SUPPLIES / 026-62441",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "M/V MED TOSCANA PR72 HQPO-00113 MDT-SHPR-00072 MAS MARINE SHIPPING SUPPLIES / 026-62441",
-      "tags": [
-        "outlook",
-        "fornitore:MAS"
-      ],
       "dueDate": "2026-10-12",
       "note": "",
       "createdAt": "2026-10-09T15:59:46.5590846Z",
@@ -65555,7 +65555,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-09T17:20:13.377Z",
+    "todos": "2026-10-10T20:22:46.201Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67268,6 +67268,6 @@
       ]
     }
   },
-  "rev": 4087,
-  "savedAt": "2026-10-09T17:20:13.380Z"
+  "rev": 4088,
+  "savedAt": "2026-10-10T20:22:46.204Z"
 }
