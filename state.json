@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-12T15:39:07.044Z",
+  "pushedAt": "2026-10-12T15:39:13.715Z",
   "todosCount": 584,
   "todos": [
     {
@@ -13755,7 +13755,7 @@
       "outlookLinkedName": "Requisition for provision cranes",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-10-12",
+      "dueDate": "2026-10-13",
       "note": "",
       "createdAt": "2026-10-10T17:21:39.4289814Z",
       "done": false,
@@ -13763,7 +13763,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-10T20:24:23.118Z"
+      "updatedAt": "2026-10-12T15:39:09.480Z"
     },
     {
       "category": "Nave",
@@ -67519,6 +67519,6 @@
       ]
     }
   },
-  "rev": 4182,
-  "savedAt": "2026-10-12T15:39:07.047Z"
+  "rev": 4183,
+  "savedAt": "2026-10-12T15:39:13.721Z"
 }
