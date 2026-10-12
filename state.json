@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-12T08:23:26.321Z",
+  "pushedAt": "2026-10-12T08:24:41.628Z",
   "todosCount": 581,
   "todos": [
     {
@@ -27871,6 +27871,9 @@
     },
     "mo::vegauno::mo_1791305986270_g5az": {
       "leadTimeDays": 2
+    },
+    "med toscana::pressure drop indicator for fuel oil filter type: fm 152de24/12a05; maker: alfa laval": {
+      "origin": "Napoli"
     }
   },
   "repliesDismissed": [
@@ -65633,7 +65636,7 @@
     "supplierProfiles": "2026-10-07T13:08:02.595Z",
     "agencyProfiles": "2026-10-02T12:50:40.531Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
-    "itemOverrides": "2026-10-09T11:13:33.078Z",
+    "itemOverrides": "2026-10-12T08:24:41.627Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-10-09T15:12:13.256Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
@@ -66857,6 +66860,10 @@
       "mo::vegauno::mo_1791305986270_g5az": [
         "x0f6a5i",
         "2026-10-09T11:13:36.064Z"
+      ],
+      "med toscana::pressure drop indicator for fuel oil filter type: fm 152de24/12a05; maker: alfa laval": [
+        "1epsddij",
+        "2026-10-12T08:24:38.507Z"
       ]
     },
     "certExtras": {
@@ -67334,6 +67341,6 @@
       ]
     }
   },
-  "rev": 4139,
-  "savedAt": "2026-10-12T08:23:26.324Z"
+  "rev": 4140,
+  "savedAt": "2026-10-12T08:24:41.631Z"
 }
