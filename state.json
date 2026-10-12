@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-12T10:11:57.630Z",
+  "pushedAt": "2026-10-12T10:12:01.201Z",
   "todosCount": 581,
   "todos": [
     {
@@ -65357,9 +65357,9 @@
     },
     "peppino::spa req fresh water generator": {
       "pos": "hub",
-      "hub": "it-goa",
+      "hub": "cn-sha",
       "closeInInfoship": false,
-      "updatedAt": "2026-10-12T10:11:54.187Z",
+      "updatedAt": "2026-10-12T10:11:57.771Z",
       "since": "2026-10-12"
     }
   },
@@ -67372,6 +67372,6 @@
       ]
     }
   },
-  "rev": 4148,
-  "savedAt": "2026-10-12T10:11:57.632Z"
+  "rev": 4149,
+  "savedAt": "2026-10-12T10:12:01.204Z"
 }
