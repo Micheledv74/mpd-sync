@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-12T10:30:20.609Z",
+  "pushedAt": "2026-10-12T10:31:30.960Z",
   "todosCount": 581,
   "todos": [
     {
@@ -65364,6 +65364,12 @@
       "closeInInfoship": false,
       "updatedAt": "2026-10-12T10:11:57.771Z",
       "since": "2026-10-12"
+    },
+    "peppino::spa req marine cargo lights": {
+      "pos": "supplier",
+      "closeInInfoship": false,
+      "updatedAt": "2026-10-12T10:31:27.559Z",
+      "since": "2026-10-12"
     }
   },
   "delivGoal": {
@@ -65680,7 +65686,7 @@
     "portProfiles": "2026-10-06T17:03:14.032Z",
     "todoTombs": "2026-10-01T07:13:49.210Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-12T10:11:57.630Z",
+    "matPos": "2026-10-12T10:31:30.960Z",
     "delivGoal": "2026-10-12T07:53:05.247Z",
     "reminders": "2026-10-01T11:02:41.545Z",
     "infoshipLedger": "2026-10-09T11:06:41.445Z"
@@ -67379,6 +67385,6 @@
       ]
     }
   },
-  "rev": 4150,
-  "savedAt": "2026-10-12T10:30:20.611Z"
+  "rev": 4151,
+  "savedAt": "2026-10-12T10:31:30.963Z"
 }
