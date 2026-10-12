@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-12T13:26:58.116Z",
+  "pushedAt": "2026-10-12T13:28:31.452Z",
   "todosCount": 583,
   "todos": [
     {
@@ -32442,8 +32442,32 @@
         "number": "202619100013713",
         "status": "in_transit",
         "pickup": "2026-10-09",
-        "eta": "2026-10-09",
+        "eta": "2026-10-12",
         "events": [
+          {
+            "ts": "2026-10-12T12:26",
+            "place": "",
+            "text": "BOOKED FOR 13/10/2026|OPENING HOURS 08:30-13:00 CIRO",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-10-12T12:19",
+            "place": "",
+            "text": "ARRIVED TO NAPOLI|PHONE NUMBER 0812509174 arco.napoli@arcospedizioni.it",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-10-12T12:17",
+            "place": "",
+            "text": "RECEIVER DOES NOT REPLY AT 12:17",
+            "code": "transit"
+          },
+          {
+            "ts": "2026-10-12T11:09",
+            "place": "",
+            "text": "STARTED FROM CASERTA",
+            "code": "transit"
+          },
           {
             "ts": "2026-10-09T16:49",
             "place": "",
@@ -32481,7 +32505,7 @@
             "code": "transit"
           }
         ],
-        "updatedAt": "2026-10-09T15:12:09.807Z",
+        "updatedAt": "2026-10-12T13:28:27.896Z",
         "source": "17track-manual"
       }
     ]
@@ -65724,7 +65748,7 @@
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-10-12T10:30:20.609Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
-    "shipments": "2026-10-09T15:12:13.256Z",
+    "shipments": "2026-10-12T13:28:31.451Z",
     "certExtras": "2026-08-21T07:32:33.905Z",
     "pinnedActions": "",
     "rfqChases": "2026-10-02T10:00:20.097Z",
@@ -65954,8 +65978,8 @@
         "2026-10-08T12:57:06.876Z"
       ],
       "mo::vegauno::mo_1791305986270_g5az": [
-        "1a4sze3kt",
-        "2026-10-09T15:12:10.115Z"
+        "1hbzrnows",
+        "2026-10-12T13:28:28.212Z"
       ]
     },
     "deliveries": {
@@ -67431,6 +67455,6 @@
       ]
     }
   },
-  "rev": 4154,
-  "savedAt": "2026-10-12T13:26:58.119Z"
+  "rev": 4155,
+  "savedAt": "2026-10-12T13:28:31.455Z"
 }
