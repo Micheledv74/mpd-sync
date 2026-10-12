@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-12T09:04:32.349Z",
+  "pushedAt": "2026-10-12T09:34:52.231Z",
   "todosCount": 581,
   "todos": [
     {
@@ -13267,12 +13267,15 @@
       "outlookLinkedName": "Re: M/V MED TOSCANA - Quotation reminder - RFQ 2026-MDT-HQRQ-00216",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "",
+      "dueDate": "2026-10-13",
       "note": "",
       "createdAt": "2026-10-03T07:59:47.0171663Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "kind": "todo",
+      "recur": null,
+      "updatedAt": "2026-10-12T09:34:48.796Z"
     },
     {
       "category": "Altro",
@@ -65622,7 +65625,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-12T08:23:26.321Z",
+    "todos": "2026-10-12T09:34:52.231Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67343,6 +67346,6 @@
       ]
     }
   },
-  "rev": 4142,
-  "savedAt": "2026-10-12T09:04:32.351Z"
+  "rev": 4143,
+  "savedAt": "2026-10-12T09:34:52.234Z"
 }
