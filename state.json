@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-13T10:43:44.577Z",
-  "todosCount": 589,
+  "pushedAt": "2026-10-13T10:54:08.550Z",
+  "todosCount": 590,
   "todos": [
     {
       "id": "td_1791874981379_n2kjv",
@@ -13949,6 +13949,29 @@
       "dueDate": "2026-10-13",
       "note": "",
       "createdAt": "2026-10-13T07:42:14.2962614Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKNCiNdAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKNCiNdAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKNCdEIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-13",
+      "outlookLinkedName": "FIO064725 MED LIGURIA AGGIUNTA GYRO ",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "FIO064725 MED LIGURIA AGGIUNTA GYRO ",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-13",
+      "note": "",
+      "createdAt": "2026-10-13T10:18:46.994709Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -66042,7 +66065,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-13T10:22:17.180Z",
+    "todos": "2026-10-13T10:54:08.550Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67771,6 +67794,6 @@
       ]
     }
   },
-  "rev": 4233,
-  "savedAt": "2026-10-13T10:43:44.580Z"
+  "rev": 4234,
+  "savedAt": "2026-10-13T10:54:08.553Z"
 }
