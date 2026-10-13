@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-13T10:10:13.502Z",
+  "pushedAt": "2026-10-13T10:10:51.117Z",
   "todosCount": 589,
   "todos": [
     {
@@ -25400,6 +25400,27 @@
         "supEmailOverride": "",
         "masterEmailOverride": "medtoscana@shipsemail.it",
         "updatedAt": "2026-10-13T10:10:10.000Z"
+      },
+      "n:72|PARACHUTE SIGNALS": {
+        "n": "",
+        "name": "",
+        "certNum": "",
+        "category": "",
+        "notes": "Life boat",
+        "expiry": "",
+        "place": "",
+        "supplier": "",
+        "needsService": false,
+        "plan": {
+          "type": "service",
+          "status": "none",
+          "date": "",
+          "port": "",
+          "supplier": ""
+        },
+        "supEmailOverride": "",
+        "masterEmailOverride": "medtoscana@shipsemail.it",
+        "updatedAt": "2026-10-13T10:10:47.481Z"
       }
     }
   },
@@ -66012,7 +66033,7 @@
     "itemOverrides": "2026-10-12T10:30:20.609Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-10-12T14:02:48.566Z",
-    "certExtras": "2026-10-13T10:10:13.501Z",
+    "certExtras": "2026-10-13T10:10:51.116Z",
     "pinnedActions": "",
     "rfqChases": "2026-10-02T10:00:20.097Z",
     "rfqVendors": "2026-10-09T11:06:33.863Z",
@@ -67249,8 +67270,8 @@
     },
     "certExtras": {
       "medtoscana": [
-        "1o9mthj6b5",
-        "2026-10-13T10:10:10.308Z"
+        "1s2r1ye6kg",
+        "2026-10-13T10:10:47.783Z"
       ]
     },
     "notes": {
@@ -67722,6 +67743,6 @@
       ]
     }
   },
-  "rev": 4226,
-  "savedAt": "2026-10-13T10:10:13.507Z"
+  "rev": 4227,
+  "savedAt": "2026-10-13T10:10:51.123Z"
 }
