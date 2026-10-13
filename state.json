@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-13T09:53:03.662Z",
+  "pushedAt": "2026-10-13T10:07:25.283Z",
   "todosCount": 589,
   "todos": [
     {
@@ -25358,6 +25358,27 @@
         "certNum": "",
         "category": "Radio/GMDSS",
         "notes": ""
+      },
+      "n:83|ENGINE ROOM CRANE WIRE RENEWAL": {
+        "n": "",
+        "name": "",
+        "certNum": "",
+        "category": "",
+        "notes": "",
+        "expiry": "2026-05-21",
+        "place": "",
+        "supplier": "",
+        "needsService": false,
+        "plan": {
+          "type": "service",
+          "status": "none",
+          "date": "",
+          "port": "",
+          "supplier": ""
+        },
+        "supEmailOverride": "",
+        "masterEmailOverride": "medtoscana@shipsemail.it",
+        "updatedAt": "2026-10-13T10:07:21.863Z"
       }
     }
   },
@@ -65970,7 +65991,7 @@
     "itemOverrides": "2026-10-12T10:30:20.609Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-10-12T14:02:48.566Z",
-    "certExtras": "2026-10-13T09:53:03.662Z",
+    "certExtras": "2026-10-13T10:07:25.281Z",
     "pinnedActions": "",
     "rfqChases": "2026-10-02T10:00:20.097Z",
     "rfqVendors": "2026-10-09T11:06:33.863Z",
@@ -67207,8 +67228,8 @@
     },
     "certExtras": {
       "medtoscana": [
-        "13kdawv5sw",
-        "2026-10-13T09:53:00.563Z"
+        "1r3h7ot62l",
+        "2026-10-13T10:07:22.165Z"
       ]
     },
     "notes": {
@@ -67680,6 +67701,6 @@
       ]
     }
   },
-  "rev": 4223,
-  "savedAt": "2026-10-13T09:53:03.665Z"
+  "rev": 4224,
+  "savedAt": "2026-10-13T10:07:25.288Z"
 }
