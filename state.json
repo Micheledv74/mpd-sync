@@ -1,19 +1,19 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-13T13:07:22.265Z",
+  "pushedAt": "2026-10-13T13:24:52.918Z",
   "todosCount": 594,
   "todos": [
     {
-      "id": "td_1791896834190_1avw7",
       "category": "Ufficio",
       "priority": "alta",
-      "vessel": "",
-      "action": "Altro",
       "reference": "Verifica problemi invio letture motore principale",
       "tags": [
         "posta"
       ],
+      "id": "td_1791896834190_1avw7",
+      "vessel": "",
+      "action": "Altro",
       "dueDate": "2026-10-14",
       "note": "Tekomar Xpert Reporting  · da Aggelos Charitos · Chiede assistenza per invio letture motore principale Tekomar Xpert",
       "recur": null,
@@ -25,15 +25,15 @@
       "updatedAt": "2026-10-13T13:07:14.190Z"
     },
     {
-      "id": "td_1791896822878_dhc0h",
       "category": "Ufficio",
       "priority": "alta",
-      "vessel": "",
-      "action": "Altro",
       "reference": "Verifica presenza indicatore digitale pressione cilindri",
       "tags": [
         "posta"
       ],
+      "id": "td_1791896822878_dhc0h",
+      "vessel": "",
+      "action": "Altro",
       "dueDate": "2026-10-14",
       "note": "Tekomar XPERT Reporting · da Aggelos Charitos · Chiede conferma su strumentazione digitale per pressioni cilindri",
       "recur": null,
@@ -45,15 +45,15 @@
       "updatedAt": "2026-10-13T13:07:02.878Z"
     },
     {
-      "id": "td_1791896815878_vdgxo",
       "category": "Ufficio",
       "priority": "alta",
-      "vessel": "",
-      "action": "Altro",
       "reference": "Stabilizzare valori di ottimizzazione motore",
       "tags": [
         "posta"
       ],
+      "id": "td_1791896815878_vdgxo",
+      "vessel": "",
+      "action": "Altro",
       "dueDate": "2026-10-14",
       "note": "Tekomar XPERT Reporting  · da Aggelos Charitos · Chiede attenzione su fluttuazioni valori ottimizzazione motori",
       "recur": null,
@@ -14037,6 +14037,12 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": ": Friendly reminder certificate of entry for shipment of order-nos. CBH 43940+43941",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKNCiNeAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKNCiNeAAA=",
       "outlookListId": "",
@@ -14044,14 +14050,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKNCdENAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-13",
       "outlookLinkedName": "WG: : Friendly reminder certificate of entry for shipment of order-nos. CBH 43940+43941",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": ": Friendly reminder certificate of entry for shipment of order-nos. CBH 43940+43941",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-13",
       "note": "",
       "createdAt": "2026-10-13T12:22:53.5725183Z",
@@ -66147,7 +66147,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-13T13:07:20.703Z",
+    "todos": "2026-10-13T13:24:52.917Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67876,6 +67876,6 @@
       ]
     }
   },
-  "rev": 4246,
-  "savedAt": "2026-10-13T13:07:22.272Z"
+  "rev": 4247,
+  "savedAt": "2026-10-13T13:24:52.921Z"
 }
