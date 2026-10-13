@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-13T10:43:08.996Z",
+  "pushedAt": "2026-10-13T10:43:23.157Z",
   "todosCount": 589,
   "todos": [
     {
@@ -25683,12 +25683,12 @@
         "from": "Tanga",
         "to": "Vila do Conde",
         "etb": "",
-        "eta": "2026-10-30T12:42",
-        "etd": "",
+        "eta": "2026-10-20T12:42",
+        "etd": "2026-10-30T12:43",
         "agency": null
       },
       "notes": "POL: Yangzhou, China - Lianyungang, China - Singapore (intended bunker port)\nPOD: Tanga, Tanzania - Vila do Conde, Brazil",
-      "updatedAt": "2026-10-13T10:43:05.482Z",
+      "updatedAt": "2026-10-13T10:43:19.698Z",
       "fromNoon": "2026-10-06",
       "history": [
         {
@@ -66050,7 +66050,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-13T09:44:57.745Z",
-    "voyages": "2026-10-13T10:43:08.995Z",
+    "voyages": "2026-10-13T10:43:23.157Z",
     "outlookCompletionQueue": "2026-10-13T10:22:17.180Z",
     "manualOrders": "2026-10-12T09:04:32.348Z",
     "deliveries": "2026-10-12T07:55:33.844Z",
@@ -67482,8 +67482,8 @@
         "2026-10-13T07:46:53.077Z"
       ],
       "medliguria": [
-        "1mv199v5py",
-        "2026-10-13T10:43:05.784Z"
+        "xebujw5qe",
+        "2026-10-13T10:43:19.999Z"
       ],
       "medtoscana": [
         "1shtdbx40z",
@@ -67771,6 +67771,6 @@
       ]
     }
   },
-  "rev": 4231,
-  "savedAt": "2026-10-13T10:43:08.998Z"
+  "rev": 4232,
+  "savedAt": "2026-10-13T10:43:23.159Z"
 }
