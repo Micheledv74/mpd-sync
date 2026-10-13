@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-13T07:14:15.945Z",
+  "pushedAt": "2026-10-13T07:27:02.129Z",
   "todosCount": 586,
   "todos": [
     {
@@ -24876,7 +24876,7 @@
   "certificatesMeta": {
     "peppino": {
       "fileName": "DOC F01 28.09.2026 - List of certificate REV. 16 -.xls",
-      "importedAt": "2026-10-05T07:46:40.494Z",
+      "importedAt": "2026-10-13T07:26:58.731Z",
       "count": 172,
       "skipped": 36,
       "lastDate": "2026-09-30"
@@ -65864,7 +65864,7 @@
     "completionsHistory": "2026-10-02T09:46:59.054Z",
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
-    "certificates": "2026-10-07T07:58:28.707Z",
+    "certificates": "2026-10-13T07:27:02.129Z",
     "voyages": "2026-10-13T07:14:15.945Z",
     "outlookCompletionQueue": "2026-10-12T15:39:41.937Z",
     "manualOrders": "2026-10-12T09:04:32.348Z",
@@ -67586,6 +67586,6 @@
       ]
     }
   },
-  "rev": 4196,
-  "savedAt": "2026-10-13T07:14:15.948Z"
+  "rev": 4197,
+  "savedAt": "2026-10-13T07:27:02.132Z"
 }
