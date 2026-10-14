@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T13:03:12.841Z",
+  "pushedAt": "2026-10-14T13:03:16.712Z",
   "todosCount": 597,
   "todos": [
     {
@@ -25642,6 +25642,13 @@
         "resp": "master",
         "respName": "",
         "updatedAt": "2026-10-14T13:03:07.396Z"
+      }
+    },
+    "norrbotten": {
+      "n:60 D|DECLARATION OF ASBESTOS FREE (issued by R.I.Na.)": {
+        "resp": "master",
+        "respName": "",
+        "updatedAt": "2026-10-14T13:03:13.251Z"
       }
     }
   },
@@ -67529,6 +67536,10 @@
       "medliguria": [
         "1x8sqx63m",
         "2026-10-14T13:03:07.711Z"
+      ],
+      "norrbotten": [
+        "uzran53m",
+        "2026-10-14T13:03:13.561Z"
       ]
     },
     "notes": {
@@ -68000,6 +68011,6 @@
       ]
     }
   },
-  "rev": 4310,
-  "savedAt": "2026-10-14T13:03:12.844Z"
+  "rev": 4311,
+  "savedAt": "2026-10-14T13:03:16.715Z"
 }
