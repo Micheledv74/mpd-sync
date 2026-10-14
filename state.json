@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T15:27:53.436Z",
+  "pushedAt": "2026-10-14T15:28:42.554Z",
   "todosCount": 599,
   "todos": [
     {
@@ -28421,8 +28421,7 @@
     "mo::norrbotten::mo_1791293339248_bqa1": {
       "mode": "manual",
       "port": "Marina di Carrara",
-      "date": "2026-10-16",
-      "frozenFromVoyage": true
+      "date": "2026-10-21"
     },
     "med toscana::paga talk back system": {
       "mode": "manual",
@@ -66988,7 +66987,7 @@
     "voyages": "2026-10-14T15:27:53.435Z",
     "outlookCompletionQueue": "2026-10-14T14:49:10.936Z",
     "manualOrders": "2026-10-14T11:55:42.912Z",
-    "deliveries": "2026-10-13T12:30:04.503Z",
+    "deliveries": "2026-10-14T15:28:42.553Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-10-07T13:08:02.595Z",
     "agencyProfiles": "2026-10-02T12:50:40.531Z",
@@ -67751,8 +67750,8 @@
         "2026-10-05T07:58:44.110Z"
       ],
       "mo::norrbotten::mo_1791293339248_bqa1": [
-        "cr08d12g",
-        "2026-10-06T13:36:39.889Z"
+        "m1myb41s",
+        "2026-10-14T15:28:39.441Z"
       ],
       "med toscana::paga talk back system": [
         "nlhl5m1i",
@@ -68718,6 +68717,6 @@
       ]
     }
   },
-  "rev": 4403,
-  "savedAt": "2026-10-14T15:27:53.438Z"
+  "rev": 4404,
+  "savedAt": "2026-10-14T15:28:42.557Z"
 }
