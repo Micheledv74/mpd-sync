@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T13:32:43.450Z",
+  "pushedAt": "2026-10-14T13:32:48.564Z",
   "todosCount": 599,
   "todos": [
     {
@@ -26000,6 +26000,11 @@
         "resp": "agency",
         "respName": "",
         "updatedAt": "2026-10-14T13:32:07.594Z"
+      },
+      "n:32|SHIP SANITATION CONTROL EXEMPTION Certificate": {
+        "resp": "agency",
+        "respName": "",
+        "updatedAt": "2026-10-14T13:32:45.091Z"
       }
     },
     "medliguria": {
@@ -68188,8 +68193,8 @@
         "2026-10-14T13:32:37.196Z"
       ],
       "peppino": [
-        "3ksl6x2dv",
-        "2026-10-14T13:32:07.896Z"
+        "1faxj6j2hb",
+        "2026-10-14T13:32:45.396Z"
       ],
       "medliguria": [
         "dtx3i52bs",
@@ -68669,6 +68674,6 @@
       ]
     }
   },
-  "rev": 4384,
-  "savedAt": "2026-10-14T13:32:43.453Z"
+  "rev": 4385,
+  "savedAt": "2026-10-14T13:32:48.566Z"
 }
