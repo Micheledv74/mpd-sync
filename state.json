@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T13:02:31.237Z",
+  "pushedAt": "2026-10-14T13:03:07.856Z",
   "todosCount": 597,
   "todos": [
     {
@@ -25623,6 +25623,20 @@
         "supEmailOverride": "",
         "masterEmailOverride": "medtoscana@shipsemail.it",
         "updatedAt": "2026-10-13T10:10:55.984Z"
+      }
+    },
+    "peppino": {
+      "n:60 D|DECLARATION OF ASBESTOS FREE (issued by R.I.Na.)": {
+        "resp": "master",
+        "respName": "",
+        "updatedAt": "2026-10-14T13:03:04.298Z"
+      }
+    },
+    "medliguria": {
+      "n:60 D|DECLARATION OF ASBESTOS FREE (issued by R.I.Na.)": {
+        "resp": "master",
+        "respName": "",
+        "updatedAt": "2026-10-14T13:03:07.396Z"
       }
     }
   },
@@ -66263,7 +66277,7 @@
     "itemOverrides": "2026-10-12T10:30:20.609Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-10-12T14:02:48.566Z",
-    "certExtras": "2026-10-13T10:10:59.476Z",
+    "certExtras": "2026-10-14T13:03:07.855Z",
     "pinnedActions": "",
     "rfqChases": "2026-10-02T10:00:20.097Z",
     "rfqVendors": "2026-10-09T11:06:33.863Z",
@@ -67502,6 +67516,14 @@
       "medtoscana": [
         "qi75n66tp",
         "2026-10-13T10:10:56.288Z"
+      ],
+      "peppino": [
+        "1lyw29a3m",
+        "2026-10-14T13:03:04.609Z"
+      ],
+      "medliguria": [
+        "1x8sqx63m",
+        "2026-10-14T13:03:07.711Z"
       ]
     },
     "notes": {
@@ -67973,6 +67995,6 @@
       ]
     }
   },
-  "rev": 4309,
-  "savedAt": "2026-10-14T13:02:31.239Z"
+  "rev": 4310,
+  "savedAt": "2026-10-14T13:03:07.858Z"
 }
