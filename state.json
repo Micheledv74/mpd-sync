@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T09:49:48.034Z",
+  "pushedAt": "2026-10-14T09:53:29.117Z",
   "todosCount": 597,
   "todos": [
     {
@@ -68,9 +68,10 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKNCdECAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Tekomar Xpert Reporting ",
-      "done": false,
+      "done": true,
       "createdAt": "2026-10-13T13:07:14.190Z",
-      "updatedAt": "2026-10-14T07:14:18.583Z"
+      "updatedAt": "2026-10-14T09:53:25.697Z",
+      "doneAt": "2026-10-14T09:53:25.697Z"
     },
     {
       "category": "Nave",
@@ -66237,7 +66238,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-14T09:49:48.034Z",
+    "todos": "2026-10-14T09:53:29.117Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67966,6 +67967,6 @@
       ]
     }
   },
-  "rev": 4290,
-  "savedAt": "2026-10-14T09:49:48.037Z"
+  "rev": 4291,
+  "savedAt": "2026-10-14T09:53:29.120Z"
 }
