@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T15:06:06.343Z",
+  "pushedAt": "2026-10-14T15:26:45.578Z",
   "todosCount": 599,
   "todos": [
     {
@@ -27052,28 +27052,33 @@
     "norrbotten": {
       "status": "drydock",
       "current": {
-        "id": "vmrkbu5nnjjfi",
-        "from": "Yalova",
-        "to": "Yalova",
-        "etd": "2026-10-14T20:02",
-        "etb": "2026-05-04T23:30",
-        "eta": "2026-05-04T22:30",
-        "agency": {
-          "name": "MARİNSA LOJİSTİK VE İNŞAAT LTD ŞTİ",
-          "contacts": "Vergi no : 6121816103\nTCDD Haydarpaşa Liman İçi , A Kapısı Üsküdar Harem Sahil Yolu 30-8 Selimiye ,\n34668 Üsküdar/İstanbul\ne-posta : info@parsshippingagency.com"
-        }
-      },
-      "next": {
+        "etd": "",
         "id": "vmtvc0so3ba8v",
         "from": "Yalova",
         "to": "Istambul",
         "etb": "",
         "eta": "2026-10-14T11:35",
-        "etd": "",
         "agency": null
       },
+      "next": {},
       "notes": "",
-      "updatedAt": "2026-10-14T09:06:44.500Z"
+      "updatedAt": "2026-10-14T15:26:42.120Z",
+      "history": [
+        {
+          "id": "vmrkbu5nnjjfi",
+          "from": "Yalova",
+          "to": "Yalova",
+          "etd": "2026-10-14T20:02",
+          "etb": "2026-05-04T23:30",
+          "eta": "2026-05-04T22:30",
+          "agency": {
+            "name": "MARİNSA LOJİSTİK VE İNŞAAT LTD ŞTİ",
+            "contacts": "Vergi no : 6121816103\nTCDD Haydarpaşa Liman İçi , A Kapısı Üsküdar Harem Sahil Yolu 30-8 Selimiye ,\n34668 Üsküdar/İstanbul\ne-posta : info@parsshippingagency.com"
+          },
+          "closedAt": "2026-10-14T15:26:42.118Z",
+          "deliveredItems": []
+        }
+      ]
     },
     "vegauno": {
       "status": "in_port",
@@ -66971,7 +66976,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-13T09:44:57.745Z",
-    "voyages": "2026-10-14T09:12:30.966Z",
+    "voyages": "2026-10-14T15:26:45.578Z",
     "outlookCompletionQueue": "2026-10-14T14:49:10.936Z",
     "manualOrders": "2026-10-14T11:55:42.912Z",
     "deliveries": "2026-10-13T12:30:04.503Z",
@@ -68423,8 +68428,8 @@
         "2026-10-08T12:01:18.368Z"
       ],
       "norrbotten": [
-        "1tdy1snfj",
-        "2026-10-14T09:06:44.804Z"
+        "1pa20pzhk",
+        "2026-10-14T15:26:42.423Z"
       ],
       "vegauno": [
         "1s75inp16x",
@@ -68704,6 +68709,6 @@
       ]
     }
   },
-  "rev": 4401,
-  "savedAt": "2026-10-14T15:06:06.348Z"
+  "rev": 4402,
+  "savedAt": "2026-10-14T15:26:45.580Z"
 }
