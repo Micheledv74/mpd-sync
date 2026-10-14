@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T09:49:41.616Z",
+  "pushedAt": "2026-10-14T09:49:48.034Z",
   "todosCount": 597,
   "todos": [
     {
@@ -14106,6 +14106,13 @@
       "updatedAt": "2026-10-14T09:12:48.666Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V MED LIGURIA PO88 HQPO-00088 MLG-HQPO-00088 FARMACIA GHIGLIAZZA",
+      "tags": [
+        "outlook",
+        "fornitore:FARMACIA"
+      ],
       "id": "outlook_AAKNuVdBAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKNuVdBAAA=",
       "outlookListId": "",
@@ -14113,15 +14120,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAAAABHq%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-14",
       "outlookLinkedName": "Re: M/V MED LIGURIA PO88 HQPO-00088 MLG-HQPO-00088 FARMACIA GHIGLIAZZA",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medliguria",
       "action": "Altro",
-      "reference": "M/V MED LIGURIA PO88 HQPO-00088 MLG-HQPO-00088 FARMACIA GHIGLIAZZA",
-      "tags": [
-        "outlook",
-        "fornitore:FARMACIA"
-      ],
       "dueDate": "2026-10-14",
       "note": "",
       "createdAt": "2026-10-14T09:36:54.635225Z",
@@ -66237,7 +66237,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-14T09:49:30.951Z",
+    "todos": "2026-10-14T09:49:48.034Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67967,5 +67967,5 @@
     }
   },
   "rev": 4290,
-  "savedAt": "2026-10-14T09:49:41.618Z"
+  "savedAt": "2026-10-14T09:49:48.037Z"
 }
