@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T10:06:41.806Z",
+  "pushedAt": "2026-10-14T10:08:01.517Z",
   "todosCount": 597,
   "todos": [
     {
@@ -171,10 +171,11 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAKLBG1rAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "Requisition for provision cranes",
-      "done": false,
+      "done": true,
       "createdAt": "2026-10-11T09:30:29.328Z",
-      "updatedAt": "2026-10-14T07:11:10.030Z",
-      "dueCleared": false
+      "updatedAt": "2026-10-14T10:07:58.099Z",
+      "dueCleared": false,
+      "doneAt": "2026-10-14T10:07:58.099Z"
     },
     {
       "category": "Nave",
@@ -66241,7 +66242,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-14T10:06:41.806Z",
+    "todos": "2026-10-14T10:08:01.517Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67970,6 +67971,6 @@
       ]
     }
   },
-  "rev": 4294,
-  "savedAt": "2026-10-14T10:06:41.816Z"
+  "rev": 4295,
+  "savedAt": "2026-10-14T10:08:01.520Z"
 }
