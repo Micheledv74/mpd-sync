@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T13:15:37.684Z",
+  "pushedAt": "2026-10-14T13:15:42.365Z",
   "todosCount": 597,
   "todos": [
     {
@@ -25881,6 +25881,11 @@
         "resp": "supt",
         "respName": "",
         "updatedAt": "2026-10-14T13:15:10.803Z"
+      },
+      "c:.0189026.": {
+        "resp": "master",
+        "respName": "",
+        "updatedAt": "2026-10-14T13:15:38.834Z"
       }
     },
     "norrbotten": {
@@ -67827,8 +67832,8 @@
         "2026-10-14T13:15:09.145Z"
       ],
       "medliguria": [
-        "1addgp21ag",
-        "2026-10-14T13:15:11.105Z"
+        "ahlweg1ct",
+        "2026-10-14T13:15:39.138Z"
       ],
       "norrbotten": [
         "1vivtc3zg",
@@ -68304,6 +68309,6 @@
       ]
     }
   },
-  "rev": 4347,
-  "savedAt": "2026-10-14T13:15:37.686Z"
+  "rev": 4348,
+  "savedAt": "2026-10-14T13:15:42.367Z"
 }
