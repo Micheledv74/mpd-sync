@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T13:21:03.695Z",
+  "pushedAt": "2026-10-14T13:21:08.998Z",
   "todosCount": 597,
   "todos": [
     {
@@ -26105,6 +26105,11 @@
         "resp": "buy",
         "respName": "",
         "updatedAt": "2026-10-14T13:20:31.965Z"
+      },
+      "n:65|PARACHUTE SIGNALS": {
+        "resp": "buy",
+        "respName": "",
+        "updatedAt": "2026-10-14T13:21:05.532Z"
       }
     }
   },
@@ -67994,8 +67999,8 @@
         "2026-10-14T13:21:00.459Z"
       ],
       "norrbotten": [
-        "ia6bnt1ez",
-        "2026-10-14T13:20:32.273Z"
+        "1tupplr1hk",
+        "2026-10-14T13:21:05.838Z"
       ]
     },
     "notes": {
@@ -68467,6 +68472,6 @@
       ]
     }
   },
-  "rev": 4363,
-  "savedAt": "2026-10-14T13:21:03.698Z"
+  "rev": 4364,
+  "savedAt": "2026-10-14T13:21:09.001Z"
 }
