@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T09:53:29.117Z",
+  "pushedAt": "2026-10-14T10:05:09.995Z",
   "todosCount": 597,
   "todos": [
     {
@@ -83,7 +83,7 @@
       "id": "td_1791896822878_dhc0h",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-10-14",
+      "dueDate": "2026-10-15",
       "note": "Tekomar XPERT Reporting · da Aggelos Charitos · Chiede conferma su strumentazione digitale per pressioni cilindri",
       "recur": null,
       "kind": "todo",
@@ -91,7 +91,8 @@
       "outlookLinkedName": "Tekomar XPERT Reporting",
       "done": false,
       "createdAt": "2026-10-13T13:07:02.878Z",
-      "updatedAt": "2026-10-14T07:14:41.183Z"
+      "updatedAt": "2026-10-14T10:05:04.866Z",
+      "dueCleared": false
     },
     {
       "category": "Nave",
@@ -103,7 +104,7 @@
       "id": "td_1791896815878_vdgxo",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-10-14",
+      "dueDate": "2026-10-15",
       "note": "Tekomar XPERT Reporting  · da Aggelos Charitos · Chiede attenzione su fluttuazioni valori ottimizzazione motori",
       "recur": null,
       "kind": "todo",
@@ -111,7 +112,8 @@
       "outlookLinkedName": "Tekomar XPERT Reporting ",
       "done": false,
       "createdAt": "2026-10-13T13:06:55.878Z",
-      "updatedAt": "2026-10-14T07:14:56.654Z"
+      "updatedAt": "2026-10-14T10:05:06.553Z",
+      "dueCleared": false
     },
     {
       "category": "Nave",
@@ -66238,7 +66240,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-14T09:53:29.117Z",
+    "todos": "2026-10-14T10:05:09.995Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67967,6 +67969,6 @@
       ]
     }
   },
-  "rev": 4291,
-  "savedAt": "2026-10-14T09:53:29.120Z"
+  "rev": 4292,
+  "savedAt": "2026-10-14T10:05:09.999Z"
 }
