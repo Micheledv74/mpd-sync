@@ -1,9 +1,25 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T15:31:23.405Z",
-  "todosCount": 599,
+  "pushedAt": "2026-10-14T15:36:09.780Z",
+  "todosCount": 600,
   "todos": [
+    {
+      "id": "td_1791992166201_dg9c9",
+      "category": "Nave",
+      "priority": "alta",
+      "vessel": "norrbotten",
+      "action": "Controllare",
+      "reference": "",
+      "tags": [],
+      "dueDate": "2026-10-26",
+      "note": "Container a Marina di Massa",
+      "recur": null,
+      "kind": "todo",
+      "done": false,
+      "createdAt": "2026-10-14T15:36:06.201Z",
+      "updatedAt": "2026-10-14T15:36:06.201Z"
+    },
     {
       "category": "Nave",
       "priority": "media",
@@ -66987,7 +67003,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-14T15:06:06.341Z",
+    "todos": "2026-10-14T15:36:09.780Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -68736,6 +68752,6 @@
       ]
     }
   },
-  "rev": 4410,
-  "savedAt": "2026-10-14T15:31:23.407Z"
+  "rev": 4411,
+  "savedAt": "2026-10-14T15:36:09.783Z"
 }
