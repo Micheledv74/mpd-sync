@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T13:25:35.516Z",
+  "pushedAt": "2026-10-14T13:25:39.894Z",
   "todosCount": 597,
   "todos": [
     {
@@ -25752,6 +25752,11 @@
         "resp": "service",
         "respName": "FARMACIA GHIGLIAZZA",
         "updatedAt": "2026-10-14T13:23:56.118Z"
+      },
+      "c:N/A": {
+        "resp": "service",
+        "respName": "FARMACIA GHIGLIAZZA",
+        "updatedAt": "2026-10-14T13:25:36.232Z"
       }
     },
     "peppino": {
@@ -68060,8 +68065,8 @@
     },
     "certExtras": {
       "medtoscana": [
-        "1g01url8ps",
-        "2026-10-14T13:23:56.425Z"
+        "i3qall8sj",
+        "2026-10-14T13:25:36.543Z"
       ],
       "peppino": [
         "p6vhz62be",
@@ -68545,6 +68550,6 @@
       ]
     }
   },
-  "rev": 4373,
-  "savedAt": "2026-10-14T13:25:35.518Z"
+  "rev": 4374,
+  "savedAt": "2026-10-14T13:25:39.896Z"
 }
