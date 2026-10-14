@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T13:16:57.468Z",
+  "pushedAt": "2026-10-14T13:17:02.172Z",
   "todosCount": 597,
   "todos": [
     {
@@ -25835,6 +25835,11 @@
         "resp": "supt",
         "respName": "",
         "updatedAt": "2026-10-14T13:16:12.923Z"
+      },
+      "n:76|FIRST AID KIT": {
+        "resp": "office",
+        "respName": "",
+        "updatedAt": "2026-10-14T13:16:58.699Z"
       }
     },
     "medliguria": {
@@ -67877,8 +67882,8 @@
         "2026-10-14T13:16:54.321Z"
       ],
       "peppino": [
-        "12cpiyr1if",
-        "2026-10-14T13:16:13.235Z"
+        "1pjnl0x1kz",
+        "2026-10-14T13:16:59.005Z"
       ],
       "medliguria": [
         "1jrfw9d1fn",
@@ -68358,6 +68363,6 @@
       ]
     }
   },
-  "rev": 4352,
-  "savedAt": "2026-10-14T13:16:57.471Z"
+  "rev": 4353,
+  "savedAt": "2026-10-14T13:17:02.175Z"
 }
