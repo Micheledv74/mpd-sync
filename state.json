@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T13:04:17.038Z",
+  "pushedAt": "2026-10-14T13:04:27.989Z",
   "todosCount": 597,
   "todos": [
     {
@@ -25628,6 +25628,11 @@
         "resp": "master",
         "respName": "",
         "updatedAt": "2026-10-14T13:03:11.370Z"
+      },
+      "n:33 A|FRESH WATER TANKS CERTIFICATE/CLEANING PORT SIDE": {
+        "resp": "master",
+        "respName": "",
+        "updatedAt": "2026-10-14T13:04:24.506Z"
       }
     },
     "peppino": {
@@ -25635,6 +25640,11 @@
         "resp": "master",
         "respName": "",
         "updatedAt": "2026-10-14T13:03:04.298Z"
+      },
+      "n:33 A|FRESH WATER TANKS CERTIFICATE/CLEANING PORT SIDE": {
+        "resp": "master",
+        "respName": "",
+        "updatedAt": "2026-10-14T13:04:22.164Z"
       }
     },
     "medliguria": {
@@ -25654,6 +25664,11 @@
         "resp": "master",
         "respName": "",
         "updatedAt": "2026-10-14T13:03:13.251Z"
+      },
+      "n:33 A|FRESH WATER TANKS CERTIFICATE/CLEANING PORT SIDE": {
+        "resp": "master",
+        "respName": "",
+        "updatedAt": "2026-10-14T13:04:27.811Z"
       }
     }
   },
@@ -66294,7 +66309,7 @@
     "itemOverrides": "2026-10-12T10:30:20.609Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-10-12T14:02:48.566Z",
-    "certExtras": "2026-10-14T13:04:17.037Z",
+    "certExtras": "2026-10-14T13:04:27.989Z",
     "pinnedActions": "",
     "rfqChases": "2026-10-02T10:00:20.097Z",
     "rfqVendors": "2026-10-09T11:06:33.863Z",
@@ -67531,20 +67546,20 @@
     },
     "certExtras": {
       "medtoscana": [
-        "hnv9v86xa",
-        "2026-10-14T13:03:11.677Z"
+        "mzhygq70v",
+        "2026-10-14T13:04:24.816Z"
       ],
       "peppino": [
-        "1lyw29a3m",
-        "2026-10-14T13:03:04.609Z"
+        "1srmgiq77",
+        "2026-10-14T13:04:22.465Z"
       ],
       "medliguria": [
         "1oj7vjk77",
         "2026-10-14T13:04:13.909Z"
       ],
       "norrbotten": [
-        "uzran53m",
-        "2026-10-14T13:03:13.561Z"
+        "wy38eb77",
+        "2026-10-14T13:04:27.991Z"
       ]
     },
     "notes": {
@@ -68016,6 +68031,6 @@
       ]
     }
   },
-  "rev": 4312,
-  "savedAt": "2026-10-14T13:04:17.040Z"
+  "rev": 4313,
+  "savedAt": "2026-10-14T13:04:27.992Z"
 }
