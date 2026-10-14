@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T07:17:47.491Z",
-  "todosCount": 596,
+  "pushedAt": "2026-10-14T09:06:47.934Z",
+  "todosCount": 595,
   "todos": [
     {
       "id": "td_rem_tekomar_norrbotten_2026_09",
@@ -14079,29 +14079,6 @@
       "outlookStatus": "notStarted",
       "dueCleared": false,
       "updatedAt": "2026-10-14T07:13:36.543Z"
-    },
-    {
-      "id": "outlook_AAKLBKpAAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKLBKpAAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAKLBG1rAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookFlagDate": "2026-10-10",
-      "outlookLinkedName": "Requisition for provision cranes",
-      "category": "Altro",
-      "priority": "media",
-      "vessel": "",
-      "action": "Altro",
-      "reference": "Requisition for provision cranes",
-      "tags": [
-        "outlook"
-      ],
-      "dueDate": "2026-10-10",
-      "note": "",
-      "createdAt": "2026-10-10T17:21:39.4289814Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -26329,14 +26306,14 @@
       "next": {
         "id": "vmtvc0so3ba8v",
         "from": "Yalova",
-        "to": "Marina di Carrara",
+        "to": "Istambul",
         "etb": "",
-        "eta": "2026-10-20T11:35",
-        "etd": "2026-11-01T17:30",
+        "eta": "2026-10-14T11:35",
+        "etd": "",
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-10-13T15:30:48.580Z"
+      "updatedAt": "2026-10-14T09:06:44.500Z"
     },
     "vegauno": {
       "status": "in_port",
@@ -66203,7 +66180,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-14T07:17:41.139Z",
+    "todos": "2026-10-14T07:17:52.661Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -66211,7 +66188,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-13T09:44:57.745Z",
-    "voyages": "2026-10-14T07:06:22.754Z",
+    "voyages": "2026-10-14T09:06:47.934Z",
     "outlookCompletionQueue": "2026-10-13T10:22:17.180Z",
     "manualOrders": "2026-10-12T09:04:32.348Z",
     "deliveries": "2026-10-13T12:30:04.503Z",
@@ -67651,8 +67628,8 @@
         "2026-10-08T12:01:18.368Z"
       ],
       "norrbotten": [
-        "fcb7h3g8",
-        "2026-10-13T15:30:49.047Z"
+        "1tdy1snfj",
+        "2026-10-14T09:06:44.804Z"
       ],
       "vegauno": [
         "1s75inp16x",
@@ -67932,6 +67909,6 @@
       ]
     }
   },
-  "rev": 4277,
-  "savedAt": "2026-10-14T07:17:47.493Z"
+  "rev": 4278,
+  "savedAt": "2026-10-14T09:06:47.936Z"
 }
