@@ -1,19 +1,19 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T09:45:56.767Z",
-  "todosCount": 596,
+  "pushedAt": "2026-10-14T09:49:30.951Z",
+  "todosCount": 597,
   "todos": [
     {
-      "id": "td_rem_tekomar_norrbotten_2026_09",
       "category": "Nave",
       "priority": "media",
-      "vessel": "norrbotten",
-      "action": "Inviare email",
       "reference": "M/V ATLAS - TEKOMAR XPERT – September Data Update",
       "tags": [
         "avviso"
       ],
+      "id": "td_rem_tekomar_norrbotten_2026_09",
+      "vessel": "norrbotten",
+      "action": "Inviare email",
       "dueDate": "2026-09-25",
       "note": "Avviso periodico «TEKOMAR XPERT · aggiornamento mensile» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
@@ -29,15 +29,15 @@
       "doneAt": "2026-10-14T07:08:32.746Z"
     },
     {
-      "id": "td_rem_tekomar_vegauno_2026_09",
       "category": "Nave",
       "priority": "media",
-      "vessel": "vegauno",
-      "action": "Inviare email",
       "reference": "M/V VEGA UNO - TEKOMAR XPERT – September Data Update",
       "tags": [
         "avviso"
       ],
+      "id": "td_rem_tekomar_vegauno_2026_09",
+      "vessel": "vegauno",
+      "action": "Inviare email",
       "dueDate": "2026-09-25",
       "note": "Avviso periodico «TEKOMAR XPERT · aggiornamento mensile» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
@@ -376,15 +376,15 @@
       "doneAt": "2026-10-01T07:13:28.090Z"
     },
     {
-      "id": "td_rem_tekomar_medtoscana_2026_09",
       "category": "Nave",
       "priority": "media",
-      "vessel": "medtoscana",
-      "action": "Inviare email",
       "reference": "M/V MED TOSCANA - TEKOMAR XPERT – September Data Update",
       "tags": [
         "avviso"
       ],
+      "id": "td_rem_tekomar_medtoscana_2026_09",
+      "vessel": "medtoscana",
+      "action": "Inviare email",
       "dueDate": "2026-09-25",
       "note": "Avviso periodico «TEKOMAR XPERT · aggiornamento mensile» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
@@ -400,15 +400,15 @@
       "doneAt": "2026-10-14T07:09:08.805Z"
     },
     {
-      "id": "td_rem_tekomar_medliguria_2026_09",
       "category": "Nave",
       "priority": "media",
-      "vessel": "medliguria",
-      "action": "Inviare email",
       "reference": "M/V MED LIGURIA - TEKOMAR XPERT – September Data Update",
       "tags": [
         "avviso"
       ],
+      "id": "td_rem_tekomar_medliguria_2026_09",
+      "vessel": "medliguria",
+      "action": "Inviare email",
       "dueDate": "2026-09-25",
       "note": "Avviso periodico «TEKOMAR XPERT · aggiornamento mensile» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
@@ -424,15 +424,15 @@
       "doneAt": "2026-10-14T07:09:09.397Z"
     },
     {
-      "id": "td_rem_tekomar_peppino_2026_09",
       "category": "Nave",
       "priority": "media",
-      "vessel": "peppino",
-      "action": "Inviare email",
       "reference": "M/V PEPPINO - TEKOMAR XPERT – September Data Update",
       "tags": [
         "avviso"
       ],
+      "id": "td_rem_tekomar_peppino_2026_09",
+      "vessel": "peppino",
+      "action": "Inviare email",
       "dueDate": "2026-09-25",
       "note": "Avviso periodico «TEKOMAR XPERT · aggiornamento mensile» · settembre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
@@ -14081,6 +14081,12 @@
       "updatedAt": "2026-10-14T07:13:36.543Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "Requisition for provision cranes",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKLBKpAAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKLBKpAAAA=",
       "outlookListId": "",
@@ -14088,14 +14094,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAKLBG1rAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-10",
       "outlookLinkedName": "Requisition for provision cranes",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "Requisition for provision cranes",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-14",
       "note": "",
       "createdAt": "2026-10-10T17:21:39.4289814Z",
@@ -14104,6 +14104,30 @@
       "outlookStatus": "notStarted",
       "dueCleared": false,
       "updatedAt": "2026-10-14T09:12:48.666Z"
+    },
+    {
+      "id": "outlook_AAKNuVdBAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKNuVdBAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAAAABHq%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-14",
+      "outlookLinkedName": "Re: M/V MED LIGURIA PO88 HQPO-00088 MLG-HQPO-00088 FARMACIA GHIGLIAZZA",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "M/V MED LIGURIA PO88 HQPO-00088 MLG-HQPO-00088 FARMACIA GHIGLIAZZA",
+      "tags": [
+        "outlook",
+        "fornitore:FARMACIA"
+      ],
+      "dueDate": "2026-10-14",
+      "note": "",
+      "createdAt": "2026-10-14T09:36:54.635225Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -66213,7 +66237,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-14T09:12:52.144Z",
+    "todos": "2026-10-14T09:49:30.951Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67942,6 +67966,6 @@
       ]
     }
   },
-  "rev": 4288,
-  "savedAt": "2026-10-14T09:45:56.769Z"
+  "rev": 4289,
+  "savedAt": "2026-10-14T09:49:30.955Z"
 }
