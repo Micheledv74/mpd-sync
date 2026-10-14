@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T07:14:44.045Z",
+  "pushedAt": "2026-10-14T07:15:01.250Z",
   "todosCount": 595,
   "todos": [
     {
@@ -93,14 +93,14 @@
       "updatedAt": "2026-10-14T07:14:41.183Z"
     },
     {
-      "category": "Ufficio",
+      "category": "Nave",
       "priority": "alta",
       "reference": "Stabilizzare valori di ottimizzazione motore",
       "tags": [
         "posta"
       ],
       "id": "td_1791896815878_vdgxo",
-      "vessel": "",
+      "vessel": "medliguria",
       "action": "Altro",
       "dueDate": "2026-10-14",
       "note": "Tekomar XPERT Reporting  · da Aggelos Charitos · Chiede attenzione su fluttuazioni valori ottimizzazione motori",
@@ -110,7 +110,7 @@
       "outlookLinkedName": "Tekomar XPERT Reporting ",
       "done": false,
       "createdAt": "2026-10-13T13:06:55.878Z",
-      "updatedAt": "2026-10-13T13:06:55.878Z"
+      "updatedAt": "2026-10-14T07:14:56.654Z"
     },
     {
       "category": "Nave",
@@ -66180,7 +66180,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-14T07:14:44.044Z",
+    "todos": "2026-10-14T07:15:01.250Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67909,6 +67909,6 @@
       ]
     }
   },
-  "rev": 4274,
-  "savedAt": "2026-10-14T07:14:44.049Z"
+  "rev": 4275,
+  "savedAt": "2026-10-14T07:15:01.252Z"
 }
