@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T07:12:10.849Z",
+  "pushedAt": "2026-10-14T07:12:46.169Z",
   "todosCount": 595,
   "todos": [
     {
@@ -14021,12 +14021,14 @@
       "outlookLinkedName": "Re: I: I: Offerta nr. 359.268-26 REV.01 M/V NORBOTTEN - Gas Detector",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-10-13",
+      "dueDate": "2026-10-15",
       "note": "",
       "createdAt": "2026-10-13T07:42:14.2962614Z",
       "done": false,
       "doneAt": null,
-      "outlookStatus": "notStarted"
+      "outlookStatus": "notStarted",
+      "dueCleared": false,
+      "updatedAt": "2026-10-14T07:12:42.782Z"
     },
     {
       "category": "Nave",
@@ -66174,7 +66176,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-14T07:12:10.849Z",
+    "todos": "2026-10-14T07:12:46.169Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67903,6 +67905,6 @@
       ]
     }
   },
-  "rev": 4269,
-  "savedAt": "2026-10-14T07:12:10.852Z"
+  "rev": 4270,
+  "savedAt": "2026-10-14T07:12:46.172Z"
 }
