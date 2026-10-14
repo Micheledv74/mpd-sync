@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T15:30:03.538Z",
+  "pushedAt": "2026-10-14T15:30:23.873Z",
   "todosCount": 599,
   "todos": [
     {
@@ -28437,6 +28437,11 @@
       "mode": "manual",
       "port": "Torre Annunziata",
       "date": "2026-09-14"
+    },
+    "mo::norrbotten::mo_1791293186190_mgt3": {
+      "mode": "manual",
+      "port": "Yalova",
+      "date": "2026-10-09"
     }
   },
   "vesselPos": {
@@ -66567,7 +66572,7 @@
     "mo::norrbotten::mo_1791293186190_mgt3": {
       "pos": "onboard",
       "since": "2026-10-06",
-      "updatedAt": "2026-10-14T15:30:00.114Z",
+      "updatedAt": "2026-10-14T15:30:19.466Z",
       "dnClosedAt": "2026-10-06"
     },
     "mo::norrbotten::mo_1791293276670_p928": {
@@ -66988,7 +66993,7 @@
     "voyages": "2026-10-14T15:29:28.253Z",
     "outlookCompletionQueue": "2026-10-14T14:49:10.936Z",
     "manualOrders": "2026-10-14T11:55:42.912Z",
-    "deliveries": "2026-10-14T15:28:42.553Z",
+    "deliveries": "2026-10-14T15:30:23.873Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-10-07T13:08:02.595Z",
     "agencyProfiles": "2026-10-02T12:50:40.531Z",
@@ -67003,7 +67008,7 @@
     "portProfiles": "2026-10-06T17:03:14.032Z",
     "todoTombs": "2026-10-14T07:11:50.854Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-14T15:30:03.537Z",
+    "matPos": "2026-10-14T15:30:23.873Z",
     "delivGoal": "2026-10-14T15:27:53.435Z",
     "reminders": "2026-10-14T07:08:33.560Z",
     "infoshipLedger": "2026-10-09T11:06:41.445Z"
@@ -67765,6 +67770,10 @@
       "mo::vegauno::mo_1791276121138_z67c": [
         "v8l6bm1r",
         "2026-10-12T07:55:30.604Z"
+      ],
+      "mo::norrbotten::mo_1791293186190_mgt3": [
+        "z88hnv1h",
+        "2026-10-14T15:30:17.442Z"
       ]
     },
     "vesselPos": {
@@ -68718,6 +68727,6 @@
       ]
     }
   },
-  "rev": 4407,
-  "savedAt": "2026-10-14T15:30:03.540Z"
+  "rev": 4408,
+  "savedAt": "2026-10-14T15:30:23.875Z"
 }
