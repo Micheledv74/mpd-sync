@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T13:09:31.847Z",
+  "pushedAt": "2026-10-14T13:09:35.460Z",
   "todosCount": 597,
   "todos": [
     {
@@ -25727,9 +25727,9 @@
         "updatedAt": "2026-10-14T13:08:42.262Z"
       },
       "n:17 D|Analysis of BALLAST WATER (Only for the Vessel fitted with B": {
-        "resp": "service",
-        "respName": "TEFIN SCRL",
-        "updatedAt": "2026-10-14T13:09:28.399Z"
+        "resp": "",
+        "respName": "",
+        "updatedAt": "2026-10-14T13:09:32.014Z"
       }
     },
     "norrbotten": {
@@ -67632,8 +67632,8 @@
         "2026-10-14T13:08:49.388Z"
       ],
       "medliguria": [
-        "12ld339pb",
-        "2026-10-14T13:09:28.700Z"
+        "13oe6xou",
+        "2026-10-14T13:09:32.317Z"
       ],
       "norrbotten": [
         "1iytee2a0",
@@ -68109,6 +68109,6 @@
       ]
     }
   },
-  "rev": 4324,
-  "savedAt": "2026-10-14T13:09:31.850Z"
+  "rev": 4325,
+  "savedAt": "2026-10-14T13:09:35.462Z"
 }
