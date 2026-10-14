@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T13:07:43.325Z",
+  "pushedAt": "2026-10-14T13:07:48.116Z",
   "todosCount": 597,
   "todos": [
     {
@@ -25684,8 +25684,27 @@
       },
       "n:53|CHARTS & PUBLICATIONS MANAGEMENT SERVICE (CAIM)": {
         "resp": "supm",
-        "respName": "",
-        "updatedAt": "2026-10-14T13:07:37.725Z"
+        "respName": "CAIM",
+        "updatedAt": "2026-10-14T13:07:44.676Z",
+        "n": "",
+        "name": "",
+        "certNum": "",
+        "category": "",
+        "notes": "",
+        "expiry": "",
+        "place": "",
+        "supplier": "",
+        "needsService": false,
+        "where": "",
+        "plan": {
+          "type": "service",
+          "status": "none",
+          "date": "",
+          "port": "",
+          "supplier": ""
+        },
+        "supEmailOverride": "",
+        "masterEmailOverride": "medliguria@shipsemail.it"
       }
     },
     "norrbotten": {
@@ -67583,8 +67602,8 @@
         "2026-10-14T13:07:15.597Z"
       ],
       "medliguria": [
-        "1g5t5vman",
-        "2026-10-14T13:07:38.032Z"
+        "77xux5ia",
+        "2026-10-14T13:07:44.982Z"
       ],
       "norrbotten": [
         "wy38eb77",
@@ -68060,6 +68079,6 @@
       ]
     }
   },
-  "rev": 4317,
-  "savedAt": "2026-10-14T13:07:43.327Z"
+  "rev": 4318,
+  "savedAt": "2026-10-14T13:07:48.118Z"
 }
