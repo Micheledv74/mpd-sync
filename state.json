@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T07:09:12.555Z",
+  "pushedAt": "2026-10-14T07:11:13.480Z",
   "todosCount": 596,
   "todos": [
     {
@@ -161,7 +161,7 @@
       "id": "td_1791711029328_bhre8",
       "vessel": "peppino",
       "action": "Altro",
-      "dueDate": "2026-10-13",
+      "dueDate": "2026-10-14",
       "note": "Requisition for provision cranes",
       "recur": null,
       "kind": "todo",
@@ -169,7 +169,8 @@
       "outlookLinkedName": "Requisition for provision cranes",
       "done": false,
       "createdAt": "2026-10-11T09:30:29.328Z",
-      "updatedAt": "2026-10-12T15:40:02.048Z"
+      "updatedAt": "2026-10-14T07:11:10.030Z",
+      "dueCleared": false
     },
     {
       "category": "Nave",
@@ -66193,7 +66194,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-14T07:09:12.555Z",
+    "todos": "2026-10-14T07:11:13.480Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67922,6 +67923,6 @@
       ]
     }
   },
-  "rev": 4263,
-  "savedAt": "2026-10-14T07:09:12.558Z"
+  "rev": 4264,
+  "savedAt": "2026-10-14T07:11:13.482Z"
 }
