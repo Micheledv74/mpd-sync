@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T13:13:49.399Z",
+  "pushedAt": "2026-10-14T13:13:54.986Z",
   "todosCount": 597,
   "todos": [
     {
@@ -25841,6 +25841,11 @@
         "resp": "master",
         "respName": "",
         "updatedAt": "2026-10-14T13:13:16.393Z"
+      },
+      "c:2025WS01-1554-002": {
+        "resp": "class",
+        "respName": "RINA Consulting S.p.A.",
+        "updatedAt": "2026-10-14T13:13:51.554Z"
       }
     },
     "norrbotten": {
@@ -67767,8 +67772,8 @@
         "2026-10-14T13:13:46.268Z"
       ],
       "medliguria": [
-        "wrl11n10r",
-        "2026-10-14T13:13:16.703Z"
+        "18of9uq13x",
+        "2026-10-14T13:13:51.855Z"
       ],
       "norrbotten": [
         "ezqaiin1",
@@ -68244,6 +68249,6 @@
       ]
     }
   },
-  "rev": 4340,
-  "savedAt": "2026-10-14T13:13:49.401Z"
+  "rev": 4341,
+  "savedAt": "2026-10-14T13:13:54.988Z"
 }
