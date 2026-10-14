@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T13:20:30.649Z",
+  "pushedAt": "2026-10-14T13:20:35.681Z",
   "todosCount": 597,
   "todos": [
     {
@@ -26088,6 +26088,11 @@
         },
         "supEmailOverride": "",
         "masterEmailOverride": "norrbotten@shipsemail.it"
+      },
+      "n:71|SMOKE SIGNALS": {
+        "resp": "buy",
+        "respName": "",
+        "updatedAt": "2026-10-14T13:20:31.965Z"
       }
     }
   },
@@ -67977,8 +67982,8 @@
         "2026-10-14T13:20:27.444Z"
       ],
       "norrbotten": [
-        "18lgr941ci",
-        "2026-10-14T13:19:16.323Z"
+        "ia6bnt1ez",
+        "2026-10-14T13:20:32.273Z"
       ]
     },
     "notes": {
@@ -68450,6 +68455,6 @@
       ]
     }
   },
-  "rev": 4360,
-  "savedAt": "2026-10-14T13:20:30.652Z"
+  "rev": 4361,
+  "savedAt": "2026-10-14T13:20:35.684Z"
 }
