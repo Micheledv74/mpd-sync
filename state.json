@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-14T07:11:37.525Z",
-  "todosCount": 596,
+  "pushedAt": "2026-10-14T07:11:50.002Z",
+  "todosCount": 595,
   "todos": [
     {
       "id": "td_rem_tekomar_norrbotten_2026_09",
@@ -13878,32 +13878,6 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-10-12T15:39:03.631Z"
-    },
-    {
-      "category": "Altro",
-      "priority": "media",
-      "reference": "Requisition for provision cranes",
-      "tags": [
-        "outlook"
-      ],
-      "id": "outlook_AAKLBKpAAAA=",
-      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKLBKpAAAA=",
-      "outlookListId": "",
-      "outlookSourceImported": true,
-      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60XAABYWF9qc37UTpbqyo%2B4NVKtAAKLBG1rAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "outlookFlagDate": "2026-10-10",
-      "outlookLinkedName": "Requisition for provision cranes",
-      "vessel": "",
-      "action": "Altro",
-      "dueDate": "2026-10-13",
-      "note": "",
-      "createdAt": "2026-10-10T17:21:39.4289814Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
-      "kind": "todo",
-      "recur": null,
-      "updatedAt": "2026-10-12T15:39:09.480Z"
     },
     {
       "category": "Nave",
@@ -66093,6 +66067,7 @@
     }
   },
   "todoTombs": {
+    "outlook_AAKLBKpAAAA=": "2026-10-14T07:11:46.598Z",
     "td_rem_tekomar_norrbotten_2026_09": "2026-10-01T07:13:49.138Z",
     "td_rem_tekomar_vegauno_2026_09": "2026-10-01T07:13:44.307Z",
     "td_1790155636360_ptweu": "2026-09-28T07:37:27.685Z",
@@ -66197,7 +66172,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-14T07:11:34.283Z",
+    "todos": "2026-10-14T07:11:50.002Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -66221,7 +66196,7 @@
     "rfqChases": "2026-10-02T10:00:20.097Z",
     "rfqVendors": "2026-10-09T11:06:33.863Z",
     "portProfiles": "2026-10-06T17:03:14.032Z",
-    "todoTombs": "2026-10-01T07:13:49.210Z",
+    "todoTombs": "2026-10-14T07:11:50.002Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-10-13T15:30:08.917Z",
     "delivGoal": "2026-10-13T15:30:52.311Z",
@@ -67926,6 +67901,6 @@
       ]
     }
   },
-  "rev": 4267,
-  "savedAt": "2026-10-14T07:11:37.527Z"
+  "rev": 4268,
+  "savedAt": "2026-10-14T07:11:50.004Z"
 }
