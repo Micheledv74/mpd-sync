@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-15T10:00:37.766Z",
+  "pushedAt": "2026-10-15T10:00:53.716Z",
   "todosCount": 603,
   "todos": [
     {
@@ -14226,11 +14226,11 @@
       "dueDate": "2026-10-15",
       "note": "",
       "createdAt": "2026-10-14T15:50:50.071908Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-10-15T10:00:50.260Z",
       "outlookStatus": "notStarted",
       "dueCleared": false,
-      "updatedAt": "2026-10-15T08:56:20.464Z"
+      "updatedAt": "2026-10-15T10:00:50.261Z"
     },
     {
       "id": "outlook_AAKNuVdGAAA=",
@@ -27584,6 +27584,13 @@
       "completedAt": "2026-10-15T08:56:38.631Z",
       "todoId": "outlook_AAKNuVdFAAA=",
       "title": "URGENT: Requisition for Sea Water Cooling Pump "
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKNuVdEAAA=",
+      "listId": "",
+      "completedAt": "2026-10-15T10:00:50.266Z",
+      "todoId": "outlook_AAKNuVdEAAA=",
+      "title": "M/V ATLAS -  SOA  and payment  / DD1263"
     }
   ],
   "manualOrders": {
@@ -67086,7 +67093,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-15T10:00:37.766Z",
+    "todos": "2026-10-15T10:00:53.715Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67095,7 +67102,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-13T09:44:57.745Z",
     "voyages": "2026-10-15T09:50:50.694Z",
-    "outlookCompletionQueue": "2026-10-15T08:56:42.051Z",
+    "outlookCompletionQueue": "2026-10-15T10:00:53.715Z",
     "manualOrders": "2026-10-14T11:55:42.912Z",
     "deliveries": "2026-10-14T15:30:54.960Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -68835,6 +68842,6 @@
       ]
     }
   },
-  "rev": 4427,
-  "savedAt": "2026-10-15T10:00:37.769Z"
+  "rev": 4428,
+  "savedAt": "2026-10-15T10:00:53.718Z"
 }
