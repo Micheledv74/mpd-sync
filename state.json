@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-15T13:46:55.792Z",
+  "pushedAt": "2026-10-15T13:49:15.469Z",
   "todosCount": 607,
   "todos": [
     {
@@ -29182,6 +29182,9 @@
     },
     "OMA Ghana": {
       "rating": 1
+    },
+    "NAABSA": {
+      "notes": "helaine@naabsa.com"
     }
   },
   "worldClockCities": [
@@ -67221,7 +67224,7 @@
     "deliveries": "2026-10-14T15:30:54.960Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-10-07T13:08:02.595Z",
-    "agencyProfiles": "2026-10-02T12:50:40.531Z",
+    "agencyProfiles": "2026-10-15T13:49:15.469Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-10-12T10:30:20.609Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
@@ -68365,6 +68368,10 @@
       "OMA Ghana": [
         "11ddqlvc",
         ""
+      ],
+      "NAABSA": [
+        "mtpsufu",
+        "2026-10-15T13:49:15.384Z"
       ]
     },
     "itemOverrides": {
@@ -68956,6 +68963,6 @@
       ]
     }
   },
-  "rev": 4446,
-  "savedAt": "2026-10-15T13:46:55.795Z"
+  "rev": 4447,
+  "savedAt": "2026-10-15T13:49:15.477Z"
 }
