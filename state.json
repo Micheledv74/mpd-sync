@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-15T10:43:34.494Z",
-  "todosCount": 606,
+  "pushedAt": "2026-10-15T10:43:47.485Z",
+  "todosCount": 607,
   "todos": [
     {
       "category": "Nave",
@@ -14282,6 +14282,12 @@
       "updatedAt": "2026-10-15T08:56:38.623Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO – Main Sea Water Cooling Pump Motor – Supply Enquiry",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKNuVdJAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKNuVdJAAA=",
       "outlookListId": "",
@@ -14289,14 +14295,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BurAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-15",
       "outlookLinkedName": "M/V PEPPINO – Main Sea Water Cooling Pump Motor – Supply Enquiry",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "M/V PEPPINO – Main Sea Water Cooling Pump Motor – Supply Enquiry",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-15",
       "note": "",
       "createdAt": "2026-10-15T08:55:32.4388711Z",
@@ -14305,6 +14305,12 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO – Main Sea Water Cooling Pump Motor – Supply Enquiry",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKNuVdIAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKNuVdIAAA=",
       "outlookListId": "",
@@ -14312,14 +14318,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BuqAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-15",
       "outlookLinkedName": "M/V PEPPINO – Main Sea Water Cooling Pump Motor – Supply Enquiry",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "M/V PEPPINO – Main Sea Water Cooling Pump Motor – Supply Enquiry",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-15",
       "note": "",
       "createdAt": "2026-10-15T08:55:31.9039593Z",
@@ -14328,6 +14328,12 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO – Main Sea Water Cooling Pump Motor – Supply Enquiry",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKNuVdHAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKNuVdHAAA=",
       "outlookListId": "",
@@ -14335,17 +14341,34 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BupAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-15",
       "outlookLinkedName": "M/V PEPPINO – Main Sea Water Cooling Pump Motor – Supply Enquiry",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "M/V PEPPINO – Main Sea Water Cooling Pump Motor – Supply Enquiry",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-15",
       "note": "",
       "createdAt": "2026-10-15T08:55:30.9199478Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKNuVdKAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKNuVdKAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2ButAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-14",
+      "outlookLinkedName": "M/V ATLAS - Cert. Short Term",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "M/V ATLAS - Cert. Short Term",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-14",
+      "note": "",
+      "createdAt": "2026-10-15T10:26:53.1881702Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -67170,13 +67193,15 @@
     }
   },
   "chaseOff": {},
+  "leadMarks": {},
+  "vlMoveOff": {},
   "sourceDevice": {
     "id": "dev_a1lys50jni",
     "name": "PC Ufficio - Windows",
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-15T10:43:34.494Z",
+    "todos": "2026-10-15T10:43:47.485Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -68925,6 +68950,6 @@
       ]
     }
   },
-  "rev": 4431,
-  "savedAt": "2026-10-15T10:43:34.498Z"
+  "rev": 4432,
+  "savedAt": "2026-10-15T10:43:47.488Z"
 }
