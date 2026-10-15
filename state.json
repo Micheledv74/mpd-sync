@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-15T15:27:41.903Z",
+  "pushedAt": "2026-10-15T15:27:57.690Z",
   "todosCount": 607,
   "todos": [
     {
@@ -27914,15 +27914,15 @@
         "id": "mo_1792078058457_ae07",
         "rfqNum": "",
         "poNum": "",
-        "description": "",
-        "supplier": "",
+        "description": "Cambio Nome",
+        "supplier": "TEFIN SCRL",
         "status": "rfq",
         "rfqDate": "2026-10-15",
         "date": "",
         "amount": "",
         "currency": "EUR",
         "createdAt": "2026-10-15T15:27:38.457Z",
-        "updatedAt": "2026-10-15T15:27:38.457Z"
+        "updatedAt": "2026-10-15T15:27:54.291Z"
       }
     ]
   },
@@ -67604,7 +67604,7 @@
     "certificates": "2026-10-13T09:44:57.745Z",
     "voyages": "2026-10-15T14:05:52.175Z",
     "outlookCompletionQueue": "2026-10-15T10:03:01.629Z",
-    "manualOrders": "2026-10-15T15:27:41.903Z",
+    "manualOrders": "2026-10-15T15:27:57.689Z",
     "deliveries": "2026-10-14T15:30:54.960Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-10-07T13:08:02.595Z",
@@ -67680,8 +67680,8 @@
         "2026-10-14T11:55:39.801Z"
       ],
       "norrbotten|mo_1792078058457_ae07": [
-        "v9tzrb6n",
-        "2026-10-15T15:27:38.758Z"
+        "1cdjlz778",
+        "2026-10-15T15:27:54.603Z"
       ]
     },
     "shipments": {
@@ -69351,6 +69351,6 @@
       ]
     }
   },
-  "rev": 4456,
-  "savedAt": "2026-10-15T15:27:41.906Z"
+  "rev": 4457,
+  "savedAt": "2026-10-15T15:27:57.693Z"
 }
