@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-15T15:29:29.369Z",
+  "pushedAt": "2026-10-15T15:29:47.941Z",
   "todosCount": 607,
   "todos": [
     {
@@ -28686,6 +28686,11 @@
       "mode": "manual",
       "port": "Yalova",
       "date": "2026-10-09"
+    },
+    "mo::norrbotten::mo_1792078058457_ae07": {
+      "mode": "manual",
+      "port": "Yalova",
+      "date": "2026-09-08"
     }
   },
   "vesselPos": {
@@ -67620,7 +67625,7 @@
     "voyages": "2026-10-15T14:05:52.175Z",
     "outlookCompletionQueue": "2026-10-15T10:03:01.629Z",
     "manualOrders": "2026-10-15T15:29:16.171Z",
-    "deliveries": "2026-10-14T15:30:54.960Z",
+    "deliveries": "2026-10-15T15:29:47.940Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-10-07T13:08:02.595Z",
     "agencyProfiles": "2026-10-15T13:49:15.469Z",
@@ -68409,6 +68414,10 @@
       "mo::norrbotten::mo_1791293276670_p928": [
         "z88hnv1h",
         "2026-10-14T15:30:49.809Z"
+      ],
+      "mo::norrbotten::mo_1792078058457_ae07": [
+        "19g8eki1h",
+        "2026-10-15T15:29:44.740Z"
       ]
     },
     "vesselPos": {
@@ -69366,6 +69375,6 @@
       ]
     }
   },
-  "rev": 4463,
-  "savedAt": "2026-10-15T15:29:29.371Z"
+  "rev": 4464,
+  "savedAt": "2026-10-15T15:29:47.944Z"
 }
