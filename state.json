@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-16T07:07:26.132Z",
+  "pushedAt": "2026-10-16T07:07:42.882Z",
   "todosCount": 608,
   "todos": [
     {
@@ -159,7 +159,7 @@
       "id": "td_1791874981379_n2kjv",
       "vessel": "peppino",
       "action": "Aspettare risposta",
-      "dueDate": "2026-10-15",
+      "dueDate": "2026-10-16",
       "note": "Re: M/V PEPPINO PR115 HQPO-00148 PEP-SHPR-00115 MAS MARINE SHIPPING SUPPLIES / 026-60929 · da Mas Marine s.r.l. (Info)",
       "recur": null,
       "kind": "todo",
@@ -167,7 +167,7 @@
       "outlookLinkedName": "Re: M/V PEPPINO PR115 HQPO-00148 PEP-SHPR-00115 MAS MARINE SHIPPING SUPPLIES / 026-60929",
       "done": false,
       "createdAt": "2026-10-13T07:03:01.379Z",
-      "updatedAt": "2026-10-14T10:05:18.081Z",
+      "updatedAt": "2026-10-16T07:07:39.435Z",
       "dueCleared": false
     },
     {
@@ -67636,7 +67636,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-16T07:07:20.935Z",
+    "todos": "2026-10-16T07:07:42.882Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69397,6 +69397,6 @@
       ]
     }
   },
-  "rev": 4471,
-  "savedAt": "2026-10-16T07:07:26.135Z"
+  "rev": 4472,
+  "savedAt": "2026-10-16T07:07:42.885Z"
 }
