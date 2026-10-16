@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-16T13:14:44.577Z",
+  "pushedAt": "2026-10-16T13:15:45.561Z",
   "todosCount": 608,
   "todos": [
     {
@@ -27931,11 +27931,11 @@
         "supplier": "TEFIN SCRL",
         "status": "shipped",
         "rfqDate": "2026-10-06",
-        "date": "",
+        "date": "2026-10-31",
         "amount": "4000",
         "currency": "EUR",
         "createdAt": "2026-10-06T13:28:59.248Z",
-        "updatedAt": "2026-10-14T11:55:32.557Z",
+        "updatedAt": "2026-10-16T13:15:42.145Z",
         "poDate": "2026-10-06",
         "deliveredAt": "2026-10-14"
       },
@@ -67687,7 +67687,7 @@
     "certificates": "2026-10-13T09:44:57.745Z",
     "voyages": "2026-10-15T14:05:52.175Z",
     "outlookCompletionQueue": "2026-10-16T08:08:47.021Z",
-    "manualOrders": "2026-10-16T13:14:44.576Z",
+    "manualOrders": "2026-10-16T13:15:45.560Z",
     "deliveries": "2026-10-15T15:29:47.940Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-10-07T13:08:02.595Z",
@@ -67755,8 +67755,8 @@
         "2026-10-06T13:30:06.344Z"
       ],
       "norrbotten|mo_1791293339248_bqa1": [
-        "espekf9m",
-        "2026-10-14T11:55:32.860Z"
+        "1hh1vns9w",
+        "2026-10-16T13:15:42.452Z"
       ],
       "vegauno|mo_1791305986270_g5az": [
         "rb7f469y",
@@ -69446,6 +69446,6 @@
       ]
     }
   },
-  "rev": 4495,
-  "savedAt": "2026-10-16T13:14:44.579Z"
+  "rev": 4496,
+  "savedAt": "2026-10-16T13:15:45.563Z"
 }
