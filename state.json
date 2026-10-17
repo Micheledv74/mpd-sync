@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-17T11:36:47.158Z",
+  "pushedAt": "2026-10-17T11:36:53.117Z",
   "todosCount": 610,
   "todos": [
     {
@@ -27348,26 +27348,29 @@
     "norrbotten": {
       "status": "at_sea",
       "current": {
-        "id": "vmtvc0so3ba8v",
-        "from": "Yalova",
-        "to": "Istambul",
-        "etd": "2026-10-14T23:00",
-        "etb": "",
-        "eta": "2026-10-14T11:35",
-        "agency": null
-      },
-      "next": {
+        "etd": "2026-11-30T17:29",
         "id": "vmv89klrc4shj",
         "from": "Instabul",
         "to": "Marina di Carrara",
         "etb": "",
         "eta": "2026-10-20T17:27",
-        "etd": "2026-11-30T17:29",
         "agency": null
       },
+      "next": {},
       "notes": "",
-      "updatedAt": "2026-10-17T11:36:43.743Z",
+      "updatedAt": "2026-10-17T11:36:49.713Z",
       "history": [
+        {
+          "id": "vmtvc0so3ba8v",
+          "from": "Yalova",
+          "to": "Istambul",
+          "etd": "2026-10-14T23:00",
+          "etb": "",
+          "eta": "2026-10-14T11:35",
+          "agency": null,
+          "closedAt": "2026-10-17T11:36:49.713Z",
+          "deliveredItems": []
+        },
         {
           "id": "vmrkbu5nnjjfi",
           "from": "Yalova",
@@ -69319,8 +69322,8 @@
         "2026-10-08T12:01:18.368Z"
       ],
       "norrbotten": [
-        "lg1ttllr",
-        "2026-10-17T11:36:44.051Z"
+        "1oempejng",
+        "2026-10-17T11:36:50.025Z"
       ],
       "vegauno": [
         "hkrxjy18f",
@@ -69600,6 +69603,6 @@
       ]
     }
   },
-  "rev": 4508,
-  "savedAt": "2026-10-17T11:36:47.160Z"
+  "rev": 4509,
+  "savedAt": "2026-10-17T11:36:53.119Z"
 }
