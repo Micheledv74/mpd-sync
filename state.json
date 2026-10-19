@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-19T09:50:18.295Z",
+  "pushedAt": "2026-10-19T09:50:29.966Z",
   "todosCount": 615,
   "todos": [
     {
@@ -28082,8 +28082,7 @@
     "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": {
       "mode": "manual",
       "port": "Port Louis",
-      "date": "2026-08-18",
-      "frozenFromVoyage": true
+      "date": "2026-08-18"
     },
     "med toscana::ships crane spare parts": {
       "mode": "manual",
@@ -67733,7 +67732,7 @@
     "voyages": "2026-10-19T07:36:28.862Z",
     "outlookCompletionQueue": "2026-10-19T09:37:57.592Z",
     "manualOrders": "2026-10-16T13:15:45.560Z",
-    "deliveries": "2026-10-15T15:29:47.940Z",
+    "deliveries": "2026-10-19T09:50:29.966Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
     "supplierProfiles": "2026-10-07T13:08:02.595Z",
     "agencyProfiles": "2026-10-15T13:49:15.469Z",
@@ -68181,8 +68180,8 @@
         ""
       ],
       "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": [
-        "3ncypw29",
-        ""
+        "1l49x2r1l",
+        "2026-10-19T09:50:26.835Z"
       ],
       "med toscana::ships crane spare parts": [
         "3ncypw29",
@@ -69492,6 +69491,6 @@
       ]
     }
   },
-  "rev": 4549,
-  "savedAt": "2026-10-19T09:50:18.298Z"
+  "rev": 4550,
+  "savedAt": "2026-10-19T09:50:29.969Z"
 }
