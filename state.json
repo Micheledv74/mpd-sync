@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-19T09:10:37.989Z",
+  "pushedAt": "2026-10-19T09:11:14.636Z",
   "todosCount": 614,
   "todos": [
     {
@@ -13869,7 +13869,7 @@
       "outlookLinkedName": "R: M/V ATLAS -  SOA  and payment  / DD1263",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-19",
+      "dueDate": "2026-10-26",
       "note": "",
       "createdAt": "2026-10-08T15:15:30.01489Z",
       "done": false,
@@ -13877,7 +13877,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-08T15:24:34.856Z"
+      "updatedAt": "2026-10-19T09:11:11.217Z"
     },
     {
       "category": "Nave",
@@ -27556,13 +27556,6 @@
     }
   },
   "outlookCompletionQueue": [
-    {
-      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKAS8xRAAA=",
-      "listId": "",
-      "completedAt": "2026-09-28T08:26:19.150Z",
-      "todoId": "outlook_AAKAS8xRAAA=",
-      "title": "[QTN] RE: I: M/V MED TOSCANA PR98 HQRQ-00219 MDT-SHPR-00098 (FB26262575)"
-    },
     {
       "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKAS8xPAAA=",
       "listId": "",
@@ -67950,7 +67943,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-19T09:10:37.989Z",
+    "todos": "2026-10-19T09:11:14.636Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69719,6 +69712,6 @@
       ]
     }
   },
-  "rev": 4537,
-  "savedAt": "2026-10-19T09:10:37.999Z"
+  "rev": 4538,
+  "savedAt": "2026-10-19T09:11:14.639Z"
 }
