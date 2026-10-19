@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-19T09:06:18.040Z",
+  "pushedAt": "2026-10-19T09:06:34.325Z",
   "todosCount": 614,
   "todos": [
     {
@@ -10900,7 +10900,7 @@
       "outlookLinkedName": "PPG Past Due Balance-0010075152-BE04-20260905",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-19",
+      "dueDate": "2026-10-20",
       "note": "",
       "createdAt": "2026-09-05T10:33:50.5259523Z",
       "done": false,
@@ -10908,8 +10908,9 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-12T07:36:45.791Z",
-      "outlookFlagDate": "2026-09-05"
+      "updatedAt": "2026-10-19T09:06:30.918Z",
+      "outlookFlagDate": "2026-09-05",
+      "dueCleared": false
     },
     {
       "category": "Altro",
@@ -67940,7 +67941,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-19T09:06:18.039Z",
+    "todos": "2026-10-19T09:06:34.325Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69709,6 +69710,6 @@
       ]
     }
   },
-  "rev": 4533,
-  "savedAt": "2026-10-19T09:06:18.042Z"
+  "rev": 4534,
+  "savedAt": "2026-10-19T09:06:34.328Z"
 }
