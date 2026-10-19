@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-19T09:51:04.208Z",
+  "pushedAt": "2026-10-19T09:51:53.804Z",
   "todosCount": 615,
   "todos": [
     {
@@ -67223,10 +67223,10 @@
       "dnClosedAt": "2026-10-08"
     },
     "med toscana::emergency diesel generator tacho sensor": {
-      "pos": "transit",
+      "pos": "hub",
       "closeInInfoship": false,
-      "updatedAt": "2026-10-07T09:07:44.049Z",
-      "since": "2026-10-07",
+      "updatedAt": "2026-10-19T09:51:50.386Z",
+      "since": "2026-10-19",
       "hub": "it-goa"
     },
     "med toscana::log book med toscana": {
@@ -67761,7 +67761,7 @@
     "portProfiles": "2026-10-16T13:16:32.560Z",
     "todoTombs": "2026-10-14T07:11:50.854Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-19T09:51:04.207Z",
+    "matPos": "2026-10-19T09:51:53.804Z",
     "delivGoal": "2026-10-19T07:33:04.116Z",
     "reminders": "2026-10-14T07:08:33.560Z",
     "infoshipLedger": "2026-10-19T09:43:38.828Z",
@@ -69505,6 +69505,6 @@
       ]
     }
   },
-  "rev": 4552,
-  "savedAt": "2026-10-19T09:51:04.210Z"
+  "rev": 4553,
+  "savedAt": "2026-10-19T09:51:53.807Z"
 }
