@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-19T08:52:50.090Z",
+  "pushedAt": "2026-10-19T08:52:55.987Z",
   "todosCount": 614,
   "todos": [
     {
@@ -14174,14 +14174,14 @@
       "outlookLinkedName": "FIO064725 MED LIGURIA AGGIUNTA GYRO ",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-10-17",
+      "dueDate": "2026-10-20",
       "note": "",
       "createdAt": "2026-10-13T10:18:46.994709Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted",
       "dueCleared": false,
-      "updatedAt": "2026-10-16T07:09:54.547Z"
+      "updatedAt": "2026-10-19T08:52:52.507Z"
     },
     {
       "category": "Altro",
@@ -69704,6 +69704,6 @@
       ]
     }
   },
-  "rev": 4528,
-  "savedAt": "2026-10-19T08:52:50.092Z"
+  "rev": 4529,
+  "savedAt": "2026-10-19T08:52:55.989Z"
 }
