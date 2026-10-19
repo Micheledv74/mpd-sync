@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-19T09:50:50.097Z",
+  "pushedAt": "2026-10-19T09:51:04.208Z",
   "todosCount": 615,
   "todos": [
     {
@@ -67350,6 +67350,13 @@
       "by": "scheda",
       "updatedAt": "2026-10-19T09:50:46.667Z",
       "since": "2026-10-19"
+    },
+    "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": {
+      "pos": "onboard",
+      "closeInInfoship": true,
+      "by": "scheda",
+      "updatedAt": "2026-10-19T09:51:00.770Z",
+      "since": "2026-10-19"
     }
   },
   "delivGoal": {
@@ -67754,7 +67761,7 @@
     "portProfiles": "2026-10-16T13:16:32.560Z",
     "todoTombs": "2026-10-14T07:11:50.854Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-19T09:50:50.096Z",
+    "matPos": "2026-10-19T09:51:04.207Z",
     "delivGoal": "2026-10-19T07:33:04.116Z",
     "reminders": "2026-10-14T07:08:33.560Z",
     "infoshipLedger": "2026-10-19T09:43:38.828Z",
@@ -69498,6 +69505,6 @@
       ]
     }
   },
-  "rev": 4551,
-  "savedAt": "2026-10-19T09:50:50.099Z"
+  "rev": 4552,
+  "savedAt": "2026-10-19T09:51:04.210Z"
 }
