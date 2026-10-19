@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-19T15:03:59.609Z",
+  "pushedAt": "2026-10-19T15:04:07.078Z",
   "todosCount": 618,
   "todos": [
     {
@@ -14605,9 +14605,10 @@
       "dueDate": "2026-10-18",
       "note": "",
       "createdAt": "2026-10-19T14:10:20.7459869Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-10-19T15:04:03.656Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-10-19T15:04:03.656Z"
     },
     {
       "id": "outlook_AAKQmyw7AAA=",
@@ -27667,6 +27668,13 @@
       "completedAt": "2026-10-19T15:03:52.838Z",
       "todoId": "outlook_AAKQmyw9AAA=",
       "title": "ETA/ETD VESSEL UPDATE - R: [EXTERNAL] M/V PEPPINO@TEMA (GHANA) ETA SEPT 23rd TBC INGFORMATIONS REQUEST"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKQmyw8AAA=",
+      "listId": "",
+      "completedAt": "2026-10-19T15:04:03.660Z",
+      "todoId": "outlook_AAKQmyw8AAA=",
+      "title": "M/V PEPPINO  PR149  HQRQ-00262  PEP-SHPR-00149  Zephyr Trading srl"
     }
   ],
   "manualOrders": {
@@ -67825,7 +67833,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-19T15:03:56.317Z",
+    "todos": "2026-10-19T15:04:07.078Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67834,7 +67842,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-13T09:44:57.745Z",
     "voyages": "2026-10-19T07:36:28.862Z",
-    "outlookCompletionQueue": "2026-10-19T15:03:56.317Z",
+    "outlookCompletionQueue": "2026-10-19T15:04:07.078Z",
     "manualOrders": "2026-10-16T13:15:45.560Z",
     "deliveries": "2026-10-19T09:50:29.966Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -69595,6 +69603,6 @@
       ]
     }
   },
-  "rev": 4562,
-  "savedAt": "2026-10-19T15:03:59.616Z"
+  "rev": 4563,
+  "savedAt": "2026-10-19T15:04:07.081Z"
 }
