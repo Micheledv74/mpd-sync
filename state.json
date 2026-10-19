@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-19T09:37:57.592Z",
+  "pushedAt": "2026-10-19T09:43:38.828Z",
   "todosCount": 615,
   "todos": [
     {
@@ -45809,13 +45809,13 @@
       "source": "infoship",
       "infoshipSupplier": "YH MARINE TRADE CO.,LTD",
       "code": "SSS0003",
-      "status": "RFQ Sent to Vendor",
+      "status": "RFQ Offer Acknowledged",
       "issuedAt": "2026-10-15",
       "deadline": "2026-10-30",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "YH MARINE TRADE CO.,LTD",
       "email": "supply@yhmarine.com.cn",
-      "updatedAt": "2026-10-15T15:24:58.668Z"
+      "updatedAt": "2026-10-19T09:43:35.405Z"
     },
     "2026-PEP-HQRQ-00257": {
       "source": "infoship",
@@ -45824,7 +45824,7 @@
       "status": "RFQ Sent to Vendor",
       "issuedAt": "2026-10-15",
       "deadline": "2026-10-30",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "Draft Marine Supply",
       "email": "",
       "updatedAt": "2026-10-15T15:24:58.668Z"
@@ -45833,13 +45833,13 @@
       "source": "infoship",
       "infoshipSupplier": "G&P TECH CO.",
       "code": "SSS0010",
-      "status": "RFQ Sent to Vendor",
+      "status": "RFQ Offer Acknowledged",
       "issuedAt": "2026-10-15",
       "deadline": "2026-10-30",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "G&P TECH CO.",
       "email": "jeon@gandptech.com",
-      "updatedAt": "2026-10-15T15:24:58.668Z"
+      "updatedAt": "2026-10-19T09:43:35.405Z"
     },
     "2026-MDT-HQRQ-00230": {
       "source": "infoship",
@@ -45848,7 +45848,7 @@
       "status": "RFQ Sent to Vendor",
       "issuedAt": "2026-10-15",
       "deadline": "2026-10-30",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "DUBHE CO., LTD.",
       "email": "service@dubheco.com",
       "updatedAt": "2026-10-15T15:24:58.668Z"
@@ -45857,25 +45857,25 @@
       "source": "infoship",
       "infoshipSupplier": "SUNJIN ENTECH Co.,Ltd.",
       "code": "SSS0011",
-      "status": "RFQ Sent to Vendor",
+      "status": "RFQ Refused",
       "issuedAt": "2026-10-15",
       "deadline": "2026-10-30",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "SUNJIN ENTECH Co.,Ltd.",
       "email": "service@sunjincmk.com",
-      "updatedAt": "2026-10-15T15:24:58.668Z"
+      "updatedAt": "2026-10-19T09:43:35.405Z"
     },
     "2026-MDT-HQRQ-00228": {
       "source": "infoship",
       "infoshipSupplier": "Dongjin Intec Co., Ltd.",
       "code": "SSS0012",
-      "status": "RFQ Sent to Vendor",
+      "status": "RFQ Offer Acknowledged",
       "issuedAt": "2026-10-15",
       "deadline": "2026-10-30",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "Dongjin Intec Co., Ltd.",
       "email": "dintec.sales1@dintec.co.kr",
-      "updatedAt": "2026-10-15T15:24:58.668Z"
+      "updatedAt": "2026-10-19T09:43:35.405Z"
     },
     "2026-MDT-HQRQ-00227": {
       "source": "infoship",
@@ -45884,7 +45884,7 @@
       "status": "RFQ Sent to Vendor",
       "issuedAt": "2026-10-15",
       "deadline": "2026-10-30",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "MacGregor Pte Ltd",
       "email": "customer.care.italy@macgregor.com",
       "updatedAt": "2026-10-15T15:24:58.668Z"
@@ -45896,7 +45896,7 @@
       "status": "RFQ Refused",
       "issuedAt": "2026-10-14",
       "deadline": "2026-10-29",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "SUNJIN ENTECH Co.,Ltd.",
       "email": "service@sunjincmk.com",
       "updatedAt": "2026-10-15T15:24:58.668Z"
@@ -45908,7 +45908,7 @@
       "status": "RFQ Offer Acknowledged",
       "issuedAt": "2026-10-14",
       "deadline": "2026-10-29",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "G&P TECH CO.",
       "email": "jeon@gandptech.com",
       "updatedAt": "2026-10-15T15:24:58.668Z"
@@ -45920,7 +45920,7 @@
       "status": "RFQ Sent to Vendor",
       "issuedAt": "2026-10-14",
       "deadline": "2026-10-29",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "DUBHE CO., LTD.",
       "email": "service@dubheco.com",
       "updatedAt": "2026-10-15T15:24:58.668Z"
@@ -45932,7 +45932,7 @@
       "status": "RFQ Sent to Vendor",
       "issuedAt": "2026-10-14",
       "deadline": "2026-10-29",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "Dongjin Intec Co., Ltd.",
       "email": "dintec.sales1@dintec.co.kr",
       "updatedAt": "2026-10-15T15:24:58.668Z"
@@ -45944,7 +45944,7 @@
       "status": "RFQ Sent to Vendor",
       "issuedAt": "2026-10-14",
       "deadline": "2026-10-29",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "LG Marine Services(HK) Co.,Limited",
       "email": "lgmarine@lgmarineservices.com",
       "updatedAt": "2026-10-15T15:24:58.668Z"
@@ -45956,7 +45956,7 @@
       "status": "RFQ Offer Acknowledged",
       "issuedAt": "2026-10-14",
       "deadline": "2026-10-29",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "YH MARINE TRADE CO.,LTD",
       "email": "supply@yhmarine.com.cn",
       "updatedAt": "2026-10-15T15:24:58.668Z"
@@ -45968,10 +45968,58 @@
       "status": "RFQ Sent to Vendor",
       "issuedAt": "2026-10-14",
       "deadline": "2026-10-29",
-      "importedAt": "2026-10-15T15:24:58.668Z",
+      "importedAt": "2026-10-19T09:43:35.405Z",
       "supplier": "FUJI ELECTRIC Co.; Ltd",
       "email": "MACH-1@FUJITRADING.CO.JP",
       "updatedAt": "2026-10-15T15:24:58.668Z"
+    },
+    "2026-PEP-HQRQ-00262": {
+      "source": "infoship",
+      "infoshipSupplier": "Zephyr Trading srl",
+      "code": "SSS0005",
+      "status": "RFQ Sent to Vendor",
+      "issuedAt": "2026-10-16",
+      "deadline": "2026-10-31",
+      "importedAt": "2026-10-19T09:43:35.405Z",
+      "supplier": "Zephyr Trading srl",
+      "email": "info@zephyrtrading.com",
+      "updatedAt": "2026-10-19T09:43:35.405Z"
+    },
+    "2026-PEP-HQRQ-00261": {
+      "source": "infoship",
+      "infoshipSupplier": "MAS MARINE SHIPPING SUPPLIES",
+      "code": "SSS0002",
+      "status": "RFQ Sent to Vendor",
+      "issuedAt": "2026-10-16",
+      "deadline": "2026-10-31",
+      "importedAt": "2026-10-19T09:43:35.405Z",
+      "supplier": "MAS MARINE SHIPPING SUPPLIES",
+      "email": "info@masmarine.it",
+      "updatedAt": "2026-10-19T09:43:35.405Z"
+    },
+    "2026-PEP-HQRQ-00260": {
+      "source": "infoship",
+      "infoshipSupplier": "HAKEPA SRL",
+      "code": "SSS0001",
+      "status": "RFQ Sent to Vendor",
+      "issuedAt": "2026-10-16",
+      "deadline": "2026-10-31",
+      "importedAt": "2026-10-19T09:43:35.405Z",
+      "supplier": "HAKEPA SRL",
+      "email": "sales@hakepa.com, eugenio.mele@hakepa.com",
+      "updatedAt": "2026-10-19T09:43:35.405Z"
+    },
+    "2026-PEP-HQRQ-00259": {
+      "source": "infoship",
+      "infoshipSupplier": "Everllence Italia S.r.l.",
+      "code": "SSS0023",
+      "status": "RFQ Sent to Vendor",
+      "issuedAt": "2026-10-16",
+      "deadline": "2026-10-31",
+      "importedAt": "2026-10-19T09:43:35.405Z",
+      "supplier": "Everllence Italia S.r.l.",
+      "email": "primeserv-parts-it@everllence.com",
+      "updatedAt": "2026-10-19T09:43:35.405Z"
     }
   },
   "infoshipLedger": {
@@ -59504,14 +59552,14 @@
         "n": "2026-PEP-HQRQ-00258",
         "s": "PEP",
         "ds": "URGENT- MOTOR- MSCW PUMP",
-        "st": "RFQ Sent to Vendor",
+        "st": "RFQ Offer Acknowledged",
         "d": "2026-10-15",
-        "dl": "2026-10-30",
+        "dl": "2026-10-18",
         "h": "YH MARINE TRADE CO.,LTD",
         "c": "SSS0003",
-        "v": 0,
+        "v": 3124.8,
         "cu": "USD",
-        "u": "2026-10-15T15:24:58.668Z",
+        "u": "2026-10-19T09:43:35.405Z",
         "ql": "2026-10-30"
       },
       "2026-PEP-HQRQ-00257": {
@@ -59532,14 +59580,14 @@
         "n": "2026-MDT-HQRQ-00231",
         "s": "MDT",
         "ds": "New type power connection for cargo Grabs, Catalog \"ODU-Heavy Duty Connectors\".",
-        "st": "RFQ Sent to Vendor",
+        "st": "RFQ Offer Acknowledged",
         "d": "2026-10-15",
         "dl": "2026-10-30",
         "h": "G&P TECH CO.",
         "c": "SSS0010",
-        "v": 0,
+        "v": 26017.02,
         "cu": "USD",
-        "u": "2026-10-15T15:24:58.668Z",
+        "u": "2026-10-19T09:43:35.405Z",
         "ql": "2026-10-30"
       },
       "2026-MDT-HQRQ-00230": {
@@ -59560,28 +59608,28 @@
         "n": "2026-MDT-HQRQ-00229",
         "s": "MDT",
         "ds": "New type power connection for cargo Grabs, Catalog \"ODU-Heavy Duty Connectors\".",
-        "st": "RFQ Sent to Vendor",
+        "st": "RFQ Refused",
         "d": "2026-10-15",
         "dl": "2026-10-30",
         "h": "SUNJIN ENTECH Co.,Ltd.",
         "c": "SSS0011",
         "v": 0,
         "cu": "USD",
-        "u": "2026-10-15T15:24:58.668Z",
+        "u": "2026-10-19T09:43:35.405Z",
         "ql": "2026-10-30"
       },
       "2026-MDT-HQRQ-00228": {
         "n": "2026-MDT-HQRQ-00228",
         "s": "MDT",
         "ds": "New type power connection for cargo Grabs, Catalog \"ODU-Heavy Duty Connectors\".",
-        "st": "RFQ Sent to Vendor",
+        "st": "RFQ Offer Acknowledged",
         "d": "2026-10-15",
         "dl": "2026-10-30",
         "h": "Dongjin Intec Co., Ltd.",
         "c": "SSS0012",
-        "v": 0,
+        "v": 27185.05,
         "cu": "USD",
-        "u": "2026-10-15T15:24:58.668Z",
+        "u": "2026-10-19T09:43:35.405Z",
         "ql": "2026-10-30"
       },
       "2026-MDT-HQRQ-00227": {
@@ -59695,6 +59743,62 @@
         "cu": "USD",
         "u": "2026-10-15T15:24:58.668Z",
         "ql": "2026-10-29"
+      },
+      "2026-PEP-HQRQ-00262": {
+        "n": "2026-PEP-HQRQ-00262",
+        "s": "PEP",
+        "ds": "URGENT AUX. GENERATOR REQUISITION (5L23/30H X 720RPM)",
+        "st": "RFQ Sent to Vendor",
+        "d": "2026-10-16",
+        "dl": "2026-10-31",
+        "h": "Zephyr Trading srl",
+        "c": "SSS0005",
+        "v": 0,
+        "cu": "EUR",
+        "u": "2026-10-19T09:43:35.405Z",
+        "ql": "2026-10-31"
+      },
+      "2026-PEP-HQRQ-00261": {
+        "n": "2026-PEP-HQRQ-00261",
+        "s": "PEP",
+        "ds": "URGENT AUX. GENERATOR REQUISITION (5L23/30H X 720RPM)",
+        "st": "RFQ Sent to Vendor",
+        "d": "2026-10-16",
+        "dl": "2026-10-31",
+        "h": "MAS MARINE SHIPPING SUPPLIES",
+        "c": "SSS0002",
+        "v": 0,
+        "cu": "EUR",
+        "u": "2026-10-19T09:43:35.405Z",
+        "ql": "2026-10-31"
+      },
+      "2026-PEP-HQRQ-00260": {
+        "n": "2026-PEP-HQRQ-00260",
+        "s": "PEP",
+        "ds": "URGENT AUX. GENERATOR REQUISITION (5L23/30H X 720RPM)",
+        "st": "RFQ Sent to Vendor",
+        "d": "2026-10-16",
+        "dl": "2026-10-31",
+        "h": "HAKEPA SRL",
+        "c": "SSS0001",
+        "v": 0,
+        "cu": "EUR",
+        "u": "2026-10-19T09:43:35.405Z",
+        "ql": "2026-10-31"
+      },
+      "2026-PEP-HQRQ-00259": {
+        "n": "2026-PEP-HQRQ-00259",
+        "s": "PEP",
+        "ds": "URGENT AUX. GENERATOR REQUISITION (5L23/30H X 720RPM)",
+        "st": "RFQ Sent to Vendor",
+        "d": "2026-10-16",
+        "dl": "2026-10-31",
+        "h": "Everllence Italia S.r.l.",
+        "c": "SSS0023",
+        "v": 0,
+        "cu": "USD",
+        "u": "2026-10-19T09:43:35.405Z",
+        "ql": "2026-10-31"
       }
     },
     "po": {
@@ -66798,8 +66902,8 @@
       }
     },
     "meta": {
-      "importedAt": "2026-10-15T15:24:58.668Z",
-      "lastDate": "2026-10-15"
+      "importedAt": "2026-10-19T09:43:35.405Z",
+      "lastDate": "2026-10-16"
     }
   },
   "rfqGenuine": {},
@@ -67617,14 +67721,14 @@
     "certExtras": "2026-10-14T13:32:40.302Z",
     "pinnedActions": "",
     "rfqChases": "2026-10-02T10:00:20.097Z",
-    "rfqVendors": "2026-10-15T15:25:02.148Z",
+    "rfqVendors": "2026-10-19T09:43:38.828Z",
     "portProfiles": "2026-10-16T13:16:32.560Z",
     "todoTombs": "2026-10-14T07:11:50.854Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-10-15T15:34:25.765Z",
     "delivGoal": "2026-10-19T07:33:04.116Z",
     "reminders": "2026-10-14T07:08:33.560Z",
-    "infoshipLedger": "2026-10-15T15:25:02.148Z"
+    "infoshipLedger": "2026-10-19T09:43:38.828Z"
   },
   "recRev": {
     "manualOrders": {
@@ -69364,6 +69468,6 @@
       ]
     }
   },
-  "rev": 4543,
-  "savedAt": "2026-10-19T09:37:57.595Z"
+  "rev": 4544,
+  "savedAt": "2026-10-19T09:43:38.831Z"
 }
