@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-19T08:48:45.364Z",
+  "pushedAt": "2026-10-19T08:49:35.243Z",
   "todosCount": 614,
   "todos": [
     {
@@ -14471,14 +14471,14 @@
       "outlookLinkedName": "M/V ATLAS - Cert. Short Term",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-16",
+      "dueDate": "2026-10-20",
       "note": "",
       "createdAt": "2026-10-15T10:26:53.1881702Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted",
       "dueCleared": false,
-      "updatedAt": "2026-10-15T10:50:36.804Z"
+      "updatedAt": "2026-10-19T08:49:31.378Z"
     },
     {
       "id": "outlook_AAKQmyw5AAA=",
@@ -67935,7 +67935,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-19T08:48:45.364Z",
+    "todos": "2026-10-19T08:49:35.242Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69704,6 +69704,6 @@
       ]
     }
   },
-  "rev": 4525,
-  "savedAt": "2026-10-19T08:48:45.367Z"
+  "rev": 4526,
+  "savedAt": "2026-10-19T08:49:35.252Z"
 }
