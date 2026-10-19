@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-19T09:43:38.828Z",
+  "pushedAt": "2026-10-19T09:43:58.168Z",
   "todosCount": 615,
   "todos": [
     {
@@ -66906,7 +66906,12 @@
       "lastDate": "2026-10-16"
     }
   },
-  "rfqGenuine": {},
+  "rfqGenuine": {
+    "2026-MDT-HQRQ-00231": {
+      "g": "G",
+      "updatedAt": "2026-10-19T09:43:54.759Z"
+    }
+  },
   "portProfiles": {
     "TEMA, GHANA": {
       "port": "Tema, Ghana",
@@ -67728,7 +67733,8 @@
     "matPos": "2026-10-15T15:34:25.765Z",
     "delivGoal": "2026-10-19T07:33:04.116Z",
     "reminders": "2026-10-14T07:08:33.560Z",
-    "infoshipLedger": "2026-10-19T09:43:38.828Z"
+    "infoshipLedger": "2026-10-19T09:43:38.828Z",
+    "rfqGenuine": "2026-10-19T09:43:58.168Z"
   },
   "recRev": {
     "manualOrders": {
@@ -69468,6 +69474,6 @@
       ]
     }
   },
-  "rev": 4544,
-  "savedAt": "2026-10-19T09:43:38.831Z"
+  "rev": 4545,
+  "savedAt": "2026-10-19T09:43:58.171Z"
 }
