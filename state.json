@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-17T11:39:06.185Z",
+  "pushedAt": "2026-10-19T07:33:04.117Z",
   "todosCount": 610,
   "todos": [
     {
@@ -67667,7 +67667,9 @@
       "port": "SAO LUIS",
       "etd": "2026-10-23",
       "vid": "peppino",
-      "updatedAt": "2026-10-17T11:36:02.573Z"
+      "worst": "risk",
+      "tightAt": "2026-10-19",
+      "updatedAt": "2026-10-19T07:32:59.323Z"
     },
     "peppino::spa req fwg ejector pump new top urgent::2026-PEP-HQPO-00148": {
       "key": "SAO LUIS|2026-11-01",
@@ -67861,7 +67863,7 @@
     "todoTombs": "2026-10-14T07:11:50.854Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
     "matPos": "2026-10-15T15:34:25.765Z",
-    "delivGoal": "2026-10-17T11:36:06.001Z",
+    "delivGoal": "2026-10-19T07:33:04.116Z",
     "reminders": "2026-10-14T07:08:33.560Z",
     "infoshipLedger": "2026-10-15T15:25:02.148Z"
   },
@@ -69603,6 +69605,6 @@
       ]
     }
   },
-  "rev": 4510,
-  "savedAt": "2026-10-17T11:39:06.187Z"
+  "rev": 4511,
+  "savedAt": "2026-10-19T07:33:04.120Z"
 }
