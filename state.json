@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-19T09:00:02.226Z",
+  "pushedAt": "2026-10-19T09:06:12.081Z",
   "todosCount": 614,
   "todos": [
     {
@@ -61,14 +61,14 @@
       "outlookLinkedName": "R: ATLAS  MOORING ROPES REQUEST No 54",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-19",
+      "dueDate": "2026-10-20",
       "note": "",
       "createdAt": "2026-10-16T13:32:12.4195907Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted",
       "dueCleared": false,
-      "updatedAt": "2026-10-19T08:21:54.820Z"
+      "updatedAt": "2026-10-19T09:06:08.662Z"
     },
     {
       "category": "Ufficio",
@@ -67939,7 +67939,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-19T09:00:02.226Z",
+    "todos": "2026-10-19T09:06:12.081Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69708,6 +69708,6 @@
       ]
     }
   },
-  "rev": 4531,
-  "savedAt": "2026-10-19T09:00:02.241Z"
+  "rev": 4532,
+  "savedAt": "2026-10-19T09:06:12.084Z"
 }
