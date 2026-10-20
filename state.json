@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-20T07:33:58.305Z",
+  "pushedAt": "2026-10-20T07:34:52.317Z",
   "todosCount": 617,
   "todos": [
     {
@@ -14590,8 +14590,8 @@
       "updatedAt": "2026-10-19T15:04:03.656Z"
     },
     {
-      "category": "Altro",
-      "priority": "media",
+      "category": "Nave",
+      "priority": "alta",
       "reference": ": Friendly reminder certificate of entry for shipment of order-nos. CBH 43940+43941",
       "tags": [
         "outlook"
@@ -14603,16 +14603,18 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2Bu5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-18",
       "outlookLinkedName": "R: : Friendly reminder certificate of entry for shipment of order-nos. CBH 43940+43941",
-      "vessel": "",
-      "action": "Altro",
+      "vessel": "norrbotten",
+      "action": "Telefonare",
       "dueDate": "2026-10-20",
-      "note": "",
+      "note": "Chiamre Lorenzo per conferma indirizzo nave ATLAS e sollecito x questa email",
       "createdAt": "2026-10-19T14:10:20.4000244Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted",
       "dueCleared": false,
-      "updatedAt": "2026-10-19T15:04:10.129Z"
+      "updatedAt": "2026-10-20T07:34:48.909Z",
+      "kind": "todo",
+      "recur": null
     }
   ],
   "notes": {
@@ -67836,7 +67838,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-20T07:33:58.304Z",
+    "todos": "2026-10-20T07:34:52.317Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69606,6 +69608,6 @@
       ]
     }
   },
-  "rev": 4585,
-  "savedAt": "2026-10-20T07:33:58.307Z"
+  "rev": 4586,
+  "savedAt": "2026-10-20T07:34:52.320Z"
 }
