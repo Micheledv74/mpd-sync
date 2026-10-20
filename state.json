@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-20T07:29:51.753Z",
+  "pushedAt": "2026-10-20T07:29:59.513Z",
   "todosCount": 617,
   "todos": [
     {
@@ -14167,7 +14167,7 @@
     {
       "category": "Nave",
       "priority": "media",
-      "reference": "FIO064725 MED LIGURIA AGGIUNTA GYRO ",
+      "reference": "FIO064725 MED LIGURIA AGGIUNTA GYRO",
       "tags": [
         "outlook"
       ],
@@ -14180,14 +14180,16 @@
       "outlookLinkedName": "FIO064725 MED LIGURIA AGGIUNTA GYRO ",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-10-20",
+      "dueDate": "2026-10-23",
       "note": "",
       "createdAt": "2026-10-13T10:18:46.994709Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted",
       "dueCleared": false,
-      "updatedAt": "2026-10-19T08:52:52.507Z"
+      "updatedAt": "2026-10-20T07:29:56.059Z",
+      "kind": "todo",
+      "recur": null
     },
     {
       "category": "Altro",
@@ -67818,7 +67820,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-20T07:29:51.752Z",
+    "todos": "2026-10-20T07:29:59.513Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69588,6 +69590,6 @@
       ]
     }
   },
-  "rev": 4578,
-  "savedAt": "2026-10-20T07:29:51.755Z"
+  "rev": 4579,
+  "savedAt": "2026-10-20T07:29:59.516Z"
 }
