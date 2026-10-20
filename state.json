@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-20T07:29:59.513Z",
+  "pushedAt": "2026-10-20T07:30:06.280Z",
   "todosCount": 617,
   "todos": [
     {
@@ -14357,14 +14357,16 @@
       "outlookLinkedName": "I: MYTHMAR-26.7949 & 26.8173 & 26.8176 & 26.8177/ MV ATLAS / INVOICE",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-20",
+      "dueDate": "2026-10-26",
       "note": "",
       "createdAt": "2026-10-15T08:14:27.5678852Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted",
       "dueCleared": false,
-      "updatedAt": "2026-10-19T14:00:32.899Z"
+      "updatedAt": "2026-10-20T07:30:02.827Z",
+      "kind": "todo",
+      "recur": null
     },
     {
       "category": "Altro",
@@ -67820,7 +67822,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-20T07:29:59.513Z",
+    "todos": "2026-10-20T07:30:06.280Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69590,6 +69592,6 @@
       ]
     }
   },
-  "rev": 4579,
-  "savedAt": "2026-10-20T07:29:59.516Z"
+  "rev": 4580,
+  "savedAt": "2026-10-20T07:30:06.282Z"
 }
