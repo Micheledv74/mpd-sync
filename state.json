@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-20T07:30:06.280Z",
+  "pushedAt": "2026-10-20T07:30:12.407Z",
   "todosCount": 617,
   "todos": [
     {
@@ -14460,11 +14460,11 @@
       "dueDate": "2026-10-20",
       "note": "",
       "createdAt": "2026-10-15T10:26:53.1881702Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-10-20T07:30:08.995Z",
       "outlookStatus": "notStarted",
       "dueCleared": false,
-      "updatedAt": "2026-10-19T08:49:31.378Z"
+      "updatedAt": "2026-10-20T07:30:08.995Z"
     },
     {
       "category": "Nave",
@@ -27663,6 +27663,13 @@
       "completedAt": "2026-10-20T07:22:11.405Z",
       "todoId": "outlook_AAKPQg_vAAA=",
       "title": "ATLAS  MOORING ROPES REQUEST No 54"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKNuVdKAAA=",
+      "listId": "",
+      "completedAt": "2026-10-20T07:30:09.001Z",
+      "todoId": "outlook_AAKNuVdKAAA=",
+      "title": "M/V ATLAS - Cert. Short Term"
     }
   ],
   "manualOrders": {
@@ -67822,7 +67829,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-20T07:30:06.280Z",
+    "todos": "2026-10-20T07:30:12.407Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -67831,7 +67838,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-13T09:44:57.745Z",
     "voyages": "2026-10-19T07:36:28.862Z",
-    "outlookCompletionQueue": "2026-10-20T07:22:14.838Z",
+    "outlookCompletionQueue": "2026-10-20T07:30:12.407Z",
     "manualOrders": "2026-10-16T13:15:45.560Z",
     "deliveries": "2026-10-19T09:50:29.966Z",
     "vesselPos": "2026-09-04T14:49:11.282Z",
@@ -69592,6 +69599,6 @@
       ]
     }
   },
-  "rev": 4580,
-  "savedAt": "2026-10-20T07:30:06.282Z"
+  "rev": 4581,
+  "savedAt": "2026-10-20T07:30:12.410Z"
 }
