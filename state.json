@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-20T06:59:12.203Z",
+  "pushedAt": "2026-10-20T06:59:20.693Z",
   "todosCount": 618,
   "todos": [
     {
@@ -11276,15 +11276,15 @@
       "outlookLinkedName": "R: M/V ATLAS -  SOA  and payment  / DD1263",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-13",
+      "dueDate": "2026-09-11",
       "note": "",
       "createdAt": "2026-09-11T08:47:08.7891515Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:21.1755086Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-13T08:53:41.494Z",
+      "updatedAt": "2026-10-19T09:30:21.1755086Z",
       "outlookFlagDate": "2026-09-11"
     },
     {
@@ -12042,15 +12042,15 @@
       "outlookLinkedName": "mv ATLAS (ex NORRBOTTEN) - NORIS assistance is needed / BM260431-LU",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-05",
+      "dueDate": "2026-09-21",
       "note": "",
       "createdAt": "2026-09-21T10:29:12.6243867Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:20.7703828Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-05T11:02:05.971Z",
+      "updatedAt": "2026-10-19T09:30:20.7703828Z",
       "outlookFlagDate": "2026-09-21"
     },
     {
@@ -12168,16 +12168,16 @@
       "outlookLinkedName": "RE: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: Order Confirmation / PO 2026-MDT-HQPO-00057 / VESSEL MED TOSCANA / SO 2386541.",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-10-02",
+      "dueDate": "2026-09-22",
       "note": "",
       "createdAt": "2026-09-22T07:14:11.3291265Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.5163554Z",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-22",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-02T09:36:41.869Z"
+      "updatedAt": "2026-10-19T09:35:20.5163554Z"
     },
     {
       "category": "Nave",
@@ -12566,16 +12566,16 @@
       "outlookLinkedName": "M/V ATLAS -(EX NAME NORRBOTTEN )- Request for Outstanding Invoice and Payment Status / MYTHMAR-26.7523 & 26.7524 & 26.7525 & 26.7526 & 26.7527 & 26.7528 & 26.7529 & 26.7530 )",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-05",
+      "dueDate": "2026-09-23",
       "note": "",
       "createdAt": "2026-09-23T09:45:21.6252775Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:20.7980652Z",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-23",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-05T11:02:15.973Z"
+      "updatedAt": "2026-10-19T09:30:20.7980652Z"
     },
     {
       "category": "Nave",
@@ -12616,16 +12616,16 @@
       "outlookLinkedName": "R: TEF064730 - Nave NORRBOTTEN - installazione della parte elettrica stern thruster e gruppo elettrogeno",
       "vessel": "norrbotten",
       "action": "Controllare",
-      "dueDate": "2026-09-28",
+      "dueDate": "2026-09-24",
       "note": "",
       "createdAt": "2026-09-24T07:03:49.1845Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.4104675Z",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-24",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-29T07:40:28.651Z"
+      "updatedAt": "2026-10-19T09:35:20.4104675Z"
     },
     {
       "category": "Nave",
@@ -12642,16 +12642,16 @@
       "outlookLinkedName": "2026-NOR-00053 R: TEF064427 Supervisione esecuzione strade cavi e stesura cavi  NORRBOTTEN",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-14",
+      "dueDate": "2026-09-23",
       "note": "",
       "createdAt": "2026-09-23T15:02:45.0378467Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:21.0258017Z",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-23",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-14T14:13:39.283Z"
+      "updatedAt": "2026-10-19T09:35:21.0258017Z"
     },
     {
       "category": "Altro",
@@ -12668,16 +12668,16 @@
       "outlookLinkedName": "R: TEF064730 - Nave NORRBOTTEN - installazione della parte elettrica stern thruster e gruppo elettrogeno",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-09-28",
+      "dueDate": "2026-09-23",
       "note": "",
       "createdAt": "2026-09-23T15:02:44.4516046Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:21.1309299Z",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-23",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-28T07:40:32.851Z"
+      "updatedAt": "2026-10-19T09:35:21.1309299Z"
     },
     {
       "category": "Nave",
@@ -12694,16 +12694,16 @@
       "outlookLinkedName": "R: M/B VEGA UNO - Visita di Ispezione della Stazione Radio GMDSS",
       "vessel": "vegauno",
       "action": "Altro",
-      "dueDate": "2026-10-09",
+      "dueDate": "2026-10-01",
       "note": "",
       "createdAt": "2026-09-24T09:23:25.3523936Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:21.0870688Z",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-10-01",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-09T17:15:23.345Z"
+      "updatedAt": "2026-10-19T09:30:21.0870688Z"
     },
     {
       "category": "Altro",
@@ -12766,16 +12766,16 @@
       "outlookLinkedName": "R: TEF064829 ATLAS FORNITURA ACCESSORI PER STRADE CAVI E DI INSTALLAZIONE.",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-09-28",
+      "dueDate": "2026-09-24",
       "note": "",
       "createdAt": "2026-09-24T14:46:19.741416Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:21.1197496Z",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-24",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-28T07:40:47.204Z"
+      "updatedAt": "2026-10-19T09:35:21.1197496Z"
     },
     {
       "category": "Altro",
@@ -12894,15 +12894,15 @@
       "outlookLinkedName": "R: M/V PEPPINO - Purchase Order #2026-PEP-HQPO-00155 – Cotton Rags",
       "vessel": "peppino",
       "action": "Sollecitare",
-      "dueDate": "2026-09-28",
+      "dueDate": "2026-09-25",
       "note": "",
       "createdAt": "2026-09-25T12:47:28.6919664Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.3998015Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-29T07:38:45.089Z"
+      "updatedAt": "2026-10-19T09:35:20.3998015Z"
     },
     {
       "category": "Nave",
@@ -12942,16 +12942,16 @@
       "outlookLinkedName": "MV PEPINO - Urgent order for welding machine",
       "vessel": "peppino",
       "action": "Sollecitare",
-      "dueDate": "2026-09-28",
+      "dueDate": "2026-09-24",
       "note": "",
       "createdAt": "2026-09-25T14:12:04.6793466Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.3919804Z",
+      "outlookStatus": "completed",
       "outlookFlagDate": "2026-09-24",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-29T07:38:46.273Z"
+      "updatedAt": "2026-10-19T09:35:20.3919804Z"
     },
     {
       "category": "Nave",
@@ -12995,9 +12995,9 @@
       "dueDate": "2026-10-01",
       "note": "",
       "createdAt": "2026-09-26T10:55:35.8991524Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:20.6650325Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-01T08:48:49.889Z"
     },
     {
@@ -13019,9 +13019,9 @@
       "dueDate": "2026-09-26",
       "note": "",
       "createdAt": "2026-09-26T10:09:02.741721Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:15:21.9885115Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-09-28T08:26:19.146Z"
     },
     {
@@ -13043,9 +13043,9 @@
       "dueDate": "2026-09-28",
       "note": "",
       "createdAt": "2026-09-28T08:25:32.2408254Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.4208813Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-09-29T07:57:04.061Z"
     },
     {
@@ -13064,15 +13064,15 @@
       "outlookLinkedName": "Re: [EXTERNAL] MV PEPINO - Urgent order for welding machine",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-09-29",
+      "dueDate": "2026-09-27",
       "note": "",
       "createdAt": "2026-09-28T09:44:40.3934717Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:20.6397442Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-09-29T07:57:59.324Z"
+      "updatedAt": "2026-10-19T09:30:20.6397442Z"
     },
     {
       "category": "Altro",
@@ -13133,15 +13133,15 @@
       "outlookLinkedName": "VESSEL: MV NORRBOTTEN / PAYMENT PLAN SCHEDULE",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-05",
+      "dueDate": "2026-09-28",
       "note": "",
       "createdAt": "2026-09-28T14:45:04.0656109Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:25:20.5455244Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-05T11:02:39.820Z"
+      "updatedAt": "2026-10-19T09:25:20.5455244Z"
     },
     {
       "category": "Nave",
@@ -13159,15 +13159,15 @@
       "outlookLinkedName": "MYTHMAR-26.7731 26.7732 26.7733 / MV NORRBOTTEN / INVOICE",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-05",
+      "dueDate": "2026-09-28",
       "note": "",
       "createdAt": "2026-09-28T13:55:08.8239587Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.7443851Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-05T11:02:57.365Z"
+      "updatedAt": "2026-10-19T09:35:20.7443851Z"
     },
     {
       "category": "Nave",
@@ -13207,9 +13207,9 @@
       "dueDate": "2026-09-29",
       "note": "",
       "createdAt": "2026-09-29T09:51:57.3975392Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:20.6445778Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-09-30T09:12:14.476Z"
     },
     {
@@ -13231,9 +13231,9 @@
       "dueDate": "2026-09-30",
       "note": "",
       "createdAt": "2026-09-30T07:13:44.6442225Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.4955719Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-09-30T09:48:01.367Z"
     },
     {
@@ -13282,9 +13282,9 @@
       "dueDate": "2026-09-30",
       "note": "",
       "createdAt": "2026-09-30T17:06:06.8831059Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.4574798Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-01T07:16:12.397Z"
     },
     {
@@ -13306,9 +13306,9 @@
       "dueDate": "2026-10-01",
       "note": "",
       "createdAt": "2026-10-01T07:52:54.9114345Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.4887589Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-01T11:11:26.101Z"
     },
     {
@@ -13328,15 +13328,15 @@
       "outlookLinkedName": "RE: M/V PEPPINO  PR120  HQPO-00156  PEP-SHPR-00120  DUBHE CO., LTD. /A-26102711",
       "vessel": "peppino",
       "action": "Altro",
-      "dueDate": "2026-10-05",
+      "dueDate": "2026-10-01",
       "note": "",
       "createdAt": "2026-10-01T07:02:27.3698798Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.5855363Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-05T08:50:48.155Z"
+      "updatedAt": "2026-10-19T09:35:20.5855363Z"
     },
     {
       "category": "Nave",
@@ -13381,15 +13381,15 @@
       "outlookLinkedName": "RE: MV Peppino calling Brazil",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-10-02",
+      "dueDate": "2026-10-01",
       "note": "",
       "createdAt": "2026-10-01T13:05:36.6937344Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:20.6957879Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-02T09:39:35.932Z"
+      "updatedAt": "2026-10-19T09:30:20.6957879Z"
     },
     {
       "category": "Nave",
@@ -13408,15 +13408,15 @@
       "outlookLinkedName": "R: M/V PEPPINO  PR124  HQPO-00157  PEP-SHPR-00124  HAKEPA SRL 902176",
       "vessel": "peppino",
       "action": "Altro",
-      "dueDate": "2026-10-08",
+      "dueDate": "2026-10-02",
       "note": "",
       "createdAt": "2026-10-02T08:58:38.19487Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:25:20.7120714Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-08T10:34:58.415Z"
+      "updatedAt": "2026-10-19T09:25:20.7120714Z"
     },
     {
       "category": "Nave",
@@ -13434,15 +13434,15 @@
       "outlookLinkedName": "Re: ETA/ETD VESSEL UPDATE - R: [EXTERNAL] M/V PEPPINO@TEMA (GHANA) ETA SEPT 23rd TBC INGFORMATIONS REQUEST",
       "vessel": "peppino",
       "action": "Altro",
-      "dueDate": "2026-10-05",
+      "dueDate": "2026-10-01",
       "note": "",
       "createdAt": "2026-10-02T08:41:58.744673Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.6215715Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-05T08:52:07.982Z"
+      "updatedAt": "2026-10-19T09:35:20.6215715Z"
     },
     {
       "category": "Nave",
@@ -13460,13 +13460,13 @@
       "outlookLinkedName": "R: M/B VEGA UNO - Richiesta quotazione olio",
       "vessel": "vegauno",
       "action": "Altro",
-      "dueDate": "2026-10-07",
+      "dueDate": "2026-10-02",
       "note": "",
       "createdAt": "2026-10-02T10:28:23.79124Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
-      "updatedAt": "2026-10-07T09:50:17.958Z",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.7890099Z",
+      "outlookStatus": "completed",
+      "updatedAt": "2026-10-19T09:35:20.7890099Z",
       "kind": "todo",
       "recur": null
     },
@@ -13486,15 +13486,15 @@
       "outlookLinkedName": "Request for Updated Document F01 and Associated Certificates",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-10-05",
+      "dueDate": "2026-10-02",
       "note": "",
       "createdAt": "2026-10-02T14:01:42.6841597Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.6141179Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-05T08:52:40.845Z"
+      "updatedAt": "2026-10-19T09:35:20.6141179Z"
     },
     {
       "category": "Nave",
@@ -13515,9 +13515,9 @@
       "dueDate": "2026-10-04",
       "note": "",
       "createdAt": "2026-10-05T07:24:07.0376337Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:20.8137971Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-05T15:32:46.500Z"
     },
     {
@@ -13539,9 +13539,9 @@
       "dueDate": "2026-10-13",
       "note": "",
       "createdAt": "2026-10-03T07:59:47.0171663Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.9170747Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-10-12T09:35:17.483Z"
@@ -13562,15 +13562,15 @@
       "outlookLinkedName": "SALDO FATTURE SCADUTE ",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-10-07",
+      "dueDate": "2026-10-05",
       "note": "",
       "createdAt": "2026-10-05T14:43:39.408143Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:20.9860991Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-07T11:01:30.315Z"
+      "updatedAt": "2026-10-19T09:30:20.9860991Z"
     },
     {
       "category": "Nave",
@@ -13589,15 +13589,15 @@
       "outlookLinkedName": "Re: M/V MED TOSCANA PR79 HQPO-00114 MDT-SHPR-00079 MAS MARINE SHIPPING SUPPLIES /026-62142",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-10-06",
+      "dueDate": "2026-10-04",
       "note": "",
       "createdAt": "2026-10-05T10:33:41.2135727Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.7766603Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-06T13:20:10.442Z"
+      "updatedAt": "2026-10-19T09:35:20.7766603Z"
     },
     {
       "category": "Nave",
@@ -13615,15 +13615,15 @@
       "outlookLinkedName": "ATLAS  MOORING ROPES REQUEST No 54",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-16",
+      "dueDate": "2026-10-06",
       "note": "",
       "createdAt": "2026-10-06T07:50:30.522517Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:21.1555536Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-19T08:20:00.634Z",
+      "updatedAt": "2026-10-19T09:35:21.1555536Z",
       "dueCleared": false
     },
     {
@@ -13645,9 +13645,9 @@
       "dueDate": "2026-10-05",
       "note": "",
       "createdAt": "2026-10-06T07:10:05.7922818Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.7803078Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-06T12:26:36.814Z"
     },
     {
@@ -13666,15 +13666,15 @@
       "outlookLinkedName": "urgent purchase request",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-10-07",
+      "dueDate": "2026-10-05",
       "note": "",
       "createdAt": "2026-10-06T12:06:23.274836Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:20.9740471Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-07T07:46:53.423Z"
+      "updatedAt": "2026-10-19T09:30:20.9740471Z"
     },
     {
       "category": "Nave",
@@ -13692,15 +13692,15 @@
       "outlookLinkedName": "R: M/B VEGA UNO - Richiesta quotazione olio",
       "vessel": "vegauno",
       "action": "Altro",
-      "dueDate": "2026-10-07",
+      "dueDate": "2026-10-05",
       "note": "",
       "createdAt": "2026-10-06T09:39:18.3179389Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.817429Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-07T07:47:24.471Z"
+      "updatedAt": "2026-10-19T09:35:20.817429Z"
     },
     {
       "category": "Nave",
@@ -13721,9 +13721,9 @@
       "dueDate": "2026-10-06",
       "note": "",
       "createdAt": "2026-10-06T13:09:01.5609254Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:20.9507923Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-06T13:25:10.417Z"
     },
     {
@@ -13745,9 +13745,9 @@
       "dueDate": "2026-10-08",
       "note": "",
       "createdAt": "2026-10-08T07:07:05.2087725Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.88665Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-08T10:35:10.431Z"
     },
     {
@@ -13770,9 +13770,9 @@
       "dueDate": "2026-10-08",
       "note": "",
       "createdAt": "2026-10-08T07:06:26.6834526Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:21.0041859Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-08T15:22:50.862Z"
     },
     {
@@ -13791,15 +13791,15 @@
       "outlookLinkedName": "Re: Ossigeno MED LIGURIA",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-10-13",
+      "dueDate": "2026-10-08",
       "note": "",
       "createdAt": "2026-10-08T07:24:54.1893591Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.9672391Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-13T10:22:13.769Z"
+      "updatedAt": "2026-10-19T09:35:20.9672391Z"
     },
     {
       "category": "Altro",
@@ -13817,15 +13817,15 @@
       "outlookLinkedName": "I: MV PEPPINO at Juruti - Ship Spare Parts Delivery on board [JUR-PEPPINO-6708]",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-10-19",
+      "dueDate": "2026-10-08",
       "note": "Chiedere a Pasquale",
       "createdAt": "2026-10-08T11:50:47.4651877Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:21.4894357Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-19T09:10:35.377Z"
+      "updatedAt": "2026-10-19T09:30:21.4894357Z"
     },
     {
       "category": "Altro",
@@ -13843,15 +13843,15 @@
       "outlookLinkedName": "Medical Oxygen",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-10-12",
+      "dueDate": "2026-10-08",
       "note": "Aspettare info da farmacia",
       "createdAt": "2026-10-08T10:36:17.4239374Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.9412554Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-12T15:38:49.913Z"
+      "updatedAt": "2026-10-19T09:35:20.9412554Z"
     },
     {
       "category": "Nave",
@@ -13896,15 +13896,15 @@
       "outlookLinkedName": "R: M/V PEPPINO  PR120  HQPO-00156  PEP-SHPR-00120  DUBHE CO., LTD. /A-26102711",
       "vessel": "peppino",
       "action": "Altro",
-      "dueDate": "2026-10-12",
+      "dueDate": "2026-10-07",
       "note": "Aspettare conferma e annulare si Infoship",
       "createdAt": "2026-10-08T15:09:28.6600722Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.8924259Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-12T08:23:14.326Z"
+      "updatedAt": "2026-10-19T09:35:20.8924259Z"
     },
     {
       "category": "Altro",
@@ -13925,9 +13925,9 @@
       "dueDate": "2026-10-08",
       "note": "",
       "createdAt": "2026-10-08T15:25:25.7303119Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:25:20.7854827Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-09T17:14:01.882Z"
     },
     {
@@ -13946,15 +13946,15 @@
       "outlookLinkedName": "Re: Ossigeno MED LIGURIA",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-10-12",
+      "dueDate": "2026-10-09",
       "note": "",
       "createdAt": "2026-10-09T06:38:06.0939219Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:20.881844Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-09T17:20:09.976Z"
+      "updatedAt": "2026-10-19T09:35:20.881844Z"
     },
     {
       "category": "Nave",
@@ -14000,15 +14000,15 @@
       "outlookLinkedName": "Re: M/V MED TOSCANA PR72 HQPO-00113 MDT-SHPR-00072 MAS MARINE SHIPPING SUPPLIES / 026-62441",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-10-12",
+      "dueDate": "2026-10-09",
       "note": "",
       "createdAt": "2026-10-09T15:59:46.5590846Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:21.1707766Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-12T15:39:03.631Z"
+      "updatedAt": "2026-10-19T09:30:21.1707766Z"
     },
     {
       "category": "Nave",
@@ -14055,9 +14055,9 @@
       "dueDate": "2026-10-12",
       "note": "",
       "createdAt": "2026-10-12T09:40:12.1752374Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:21.1671363Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-12T15:39:39.513Z"
     },
     {
@@ -14077,15 +14077,15 @@
       "outlookLinkedName": "Re: M/V PEPPINO PR115 HQPO-00148 PEP-SHPR-00115 MAS MARINE SHIPPING SUPPLIES / 026-60929",
       "vessel": "peppino",
       "action": "Altro",
-      "dueDate": "2026-10-15",
+      "dueDate": "2026-10-12",
       "note": "",
       "createdAt": "2026-10-12T13:34:59.4726239Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:21.4778351Z",
+      "outlookStatus": "completed",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-15T10:02:57.206Z",
+      "updatedAt": "2026-10-19T09:30:21.4778351Z",
       "dueCleared": false
     },
     {
@@ -14107,9 +14107,9 @@
       "dueDate": "2026-10-13",
       "note": "",
       "createdAt": "2026-10-13T07:00:31.6258956Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:21.1826554Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-13T09:03:13.613Z"
     },
     {
@@ -14128,14 +14128,14 @@
       "outlookLinkedName": "I: M/V MED TOSCANA - Quotation reminder - RFQ 2026-MDT-HQRQ-00150 /A-26118276",
       "vessel": "medtoscana",
       "action": "Altro",
-      "dueDate": "2026-10-15",
+      "dueDate": "2026-10-13",
       "note": "",
       "createdAt": "2026-10-13T07:51:13.2308623Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:21.3062549Z",
+      "outlookStatus": "completed",
       "dueCleared": false,
-      "updatedAt": "2026-10-15T10:02:30.446Z"
+      "updatedAt": "2026-10-19T09:30:21.3062549Z"
     },
     {
       "category": "Altro",
@@ -14205,14 +14205,14 @@
       "outlookLinkedName": "WG: : Friendly reminder certificate of entry for shipment of order-nos. CBH 43940+43941",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-10-19",
+      "dueDate": "2026-10-13",
       "note": "",
       "createdAt": "2026-10-13T12:22:53.5725183Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:21.1588031Z",
+      "outlookStatus": "completed",
       "dueCleared": false,
-      "updatedAt": "2026-10-19T09:12:12.812Z"
+      "updatedAt": "2026-10-19T09:35:21.1588031Z"
     },
     {
       "category": "Altro",
@@ -14230,14 +14230,14 @@
       "outlookLinkedName": "Requisition for provision cranes",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-10-14",
+      "dueDate": "2026-10-10",
       "note": "",
       "createdAt": "2026-10-10T17:21:39.4289814Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:21.0067487Z",
+      "outlookStatus": "completed",
       "dueCleared": false,
-      "updatedAt": "2026-10-14T14:49:07.509Z"
+      "updatedAt": "2026-10-19T09:35:21.0067487Z"
     },
     {
       "category": "Nave",
@@ -14286,9 +14286,9 @@
       "dueDate": "2026-10-15",
       "note": "",
       "createdAt": "2026-10-14T12:57:35.3512382Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:21.0216175Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-14T14:15:18.476Z"
     },
     {
@@ -14330,14 +14330,14 @@
       "outlookLinkedName": "Re: M/V ATLAS -  SOA  and payment  / DD1263",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-15",
+      "dueDate": "2026-10-14",
       "note": "",
       "createdAt": "2026-10-14T15:50:50.071908Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:21.0559542Z",
+      "outlookStatus": "completed",
       "dueCleared": false,
-      "updatedAt": "2026-10-15T10:00:50.261Z"
+      "updatedAt": "2026-10-19T09:35:21.0559542Z"
     },
     {
       "category": "Nave",
@@ -14383,9 +14383,9 @@
       "dueDate": "2026-10-14",
       "note": "",
       "createdAt": "2026-10-15T06:57:39.1848791Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:30:21.2806446Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-15T08:56:38.623Z"
     },
     {
@@ -14407,9 +14407,9 @@
       "dueDate": "2026-10-15",
       "note": "",
       "createdAt": "2026-10-15T08:55:32.4388711Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted",
+      "done": true,
+      "doneAt": "2026-10-19T09:35:21.1085555Z",
+      "outlookStatus": "completed",
       "updatedAt": "2026-10-16T08:08:44.915Z"
     },
     {
@@ -67835,7 +67835,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-20T06:59:12.202Z",
+    "todos": "2026-10-20T06:59:20.693Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69605,6 +69605,6 @@
       ]
     }
   },
-  "rev": 4566,
-  "savedAt": "2026-10-20T06:59:12.206Z"
+  "rev": 4567,
+  "savedAt": "2026-10-20T06:59:20.696Z"
 }
