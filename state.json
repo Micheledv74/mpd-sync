@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-21T07:51:02.120Z",
+  "pushedAt": "2026-10-21T07:51:19.496Z",
   "todosCount": 622,
   "todos": [
     {
@@ -14,7 +14,7 @@
       "id": "td_1792396908402_ktizr",
       "vessel": "medtoscana",
       "action": "Controllare",
-      "dueDate": "2026-10-20",
+      "dueDate": "2026-10-22",
       "note": "NT 400976259 / M/V MED TOSCANA  PR104  HQRQ-00227  MDT-SHPR-00104  MacGregor Pte Ltd · da MacGregor · MacGregor conferma richiesta e chiede conferma dettaglio articolo · 400976259 HQRQ-00227 MDT-SHPR-00104",
       "recur": null,
       "kind": "todo",
@@ -22,7 +22,7 @@
       "outlookLinkedName": "NT 400976259 / M/V MED TOSCANA  PR104  HQRQ-00227  MDT-SHPR-00104  MacGregor Pte Ltd",
       "done": false,
       "createdAt": "2026-10-19T08:01:48.402Z",
-      "updatedAt": "2026-10-19T08:59:55.361Z",
+      "updatedAt": "2026-10-21T07:51:16.093Z",
       "dueCleared": false
     },
     {
@@ -302,13 +302,13 @@
       "id": "td_1791293692858_an9zw",
       "vessel": "vegauno",
       "action": "Telefonare",
-      "dueDate": "2026-10-20",
+      "dueDate": "2026-10-22",
       "note": "",
       "recur": null,
       "kind": "todo",
       "done": false,
       "createdAt": "2026-10-06T13:34:52.858Z",
-      "updatedAt": "2026-10-19T08:59:58.025Z",
+      "updatedAt": "2026-10-21T07:51:19.177Z",
       "dueCleared": false
     },
     {
@@ -67953,7 +67953,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-21T07:51:02.120Z",
+    "todos": "2026-10-21T07:51:19.496Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69723,6 +69723,6 @@
       ]
     }
   },
-  "rev": 4590,
-  "savedAt": "2026-10-21T07:51:02.122Z"
+  "rev": 4591,
+  "savedAt": "2026-10-21T07:51:19.498Z"
 }
