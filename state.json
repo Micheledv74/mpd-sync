@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-21T07:50:54.169Z",
-  "todosCount": 619,
+  "pushedAt": "2026-10-21T07:51:02.120Z",
+  "todosCount": 622,
   "todos": [
     {
       "category": "Nave",
@@ -14658,6 +14658,75 @@
       "dueDate": "2026-10-19",
       "note": "",
       "createdAt": "2026-10-20T09:26:49.0041935Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKR7ZVWAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKR7ZVWAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BvGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-20",
+      "outlookLinkedName": "R: WELCOME \"MV.MED TOSCANA\" TO CHITTAGONG/MONGLA/PAYRA /MATARBARI PORT INQUIRY FOR ANY KIND OF SUPPLY OR REPAIR JOB REQUISITION.",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "WELCOME \"MV.MED TOSCANA\" TO CHITTAGONG/MONGLA/PAYRA /MATARBARI PORT INQUIRY FOR ANY KIND OF SUPPLY OR REPAIR JOB REQUISITION.",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-20",
+      "note": "",
+      "createdAt": "2026-10-20T14:44:38.600008Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKR7ZVVAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKR7ZVVAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BvFAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-20",
+      "outlookLinkedName": "R: MED TOSCANA : IMO - 9490741 / Servicing, testing, and supply of LSA/FFA equipments, lifeboats, liferafts, and spare parts at Chattogram Port, Bangladesh",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "MED TOSCANA : IMO - 9490741 / Servicing, testing, and supply of LSA/FFA equipments, lifeboats, liferafts, and spare parts at Chattogram Port, Bangladesh",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-20",
+      "note": "",
+      "createdAt": "2026-10-20T14:36:52.8655704Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKR7ZVUAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKR7ZVUAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BvEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-20",
+      "outlookLinkedName": "I: VSL: MV. MED TOSCANA // TECHNICAL REPAIR & MARINE SUPPLY AT CHITTAGONG, MONGLA & PAYRA PORT, BANGLADESH",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "VSL: MV. MED TOSCANA // TECHNICAL REPAIR & MARINE SUPPLY AT CHITTAGONG, MONGLA & PAYRA PORT, BANGLADESH",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-20",
+      "note": "",
+      "createdAt": "2026-10-20T14:31:12.0676994Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -67884,7 +67953,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-20T13:38:45.685Z",
+    "todos": "2026-10-21T07:51:02.120Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69654,6 +69723,6 @@
       ]
     }
   },
-  "rev": 4589,
-  "savedAt": "2026-10-21T07:50:54.172Z"
+  "rev": 4590,
+  "savedAt": "2026-10-21T07:51:02.122Z"
 }
