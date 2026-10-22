@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-22T13:53:33.642Z",
+  "pushedAt": "2026-10-22T14:50:57.634Z",
   "todosCount": 627,
   "todos": [
     {
@@ -26991,18 +26991,28 @@
     "peppino": {
       "status": "at_sea",
       "current": {
-        "etd": "2026-10-23T20:00",
         "id": "rot:rmvcbm2pv:1",
         "from": "PORTO TROMBETAS",
         "to": "SAO LUIS",
-        "eta": "2026-10-19",
+        "etd": "2026-10-23T20:00",
         "etb": "",
-        "agency": null,
-        "role": "disch"
+        "eta": "2026-10-22T20:00",
+        "agency": {
+          "name": "NAABSA",
+          "contacts": "Agent in Sao Luis, Itaqui Port | Helaine Moraes\nhelaine@naabsa.com | M:+55 (98) 98474-3963 | Office: +55 13 3394-0655 Ext.204\nwww.naabsa.com"
+        }
       },
-      "next": {},
+      "next": {
+        "id": "rot:rmvcbm2pv:2",
+        "from": "SAO LUIS",
+        "to": "PORTO TROMBETAS",
+        "etb": "",
+        "eta": "2026-10-27T07:00",
+        "etd": "2026-10-28T07:00",
+        "agency": null
+      },
       "notes": "",
-      "updatedAt": "2026-10-17T11:39:02.764Z",
+      "updatedAt": "2026-10-22T14:50:54.209Z",
       "fromNoon": "2026-10-17",
       "history": [
         {
@@ -68220,7 +68230,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-13T09:44:57.745Z",
-    "voyages": "2026-10-22T12:38:59.411Z",
+    "voyages": "2026-10-22T14:50:57.634Z",
     "outlookCompletionQueue": "2026-10-21T09:07:49.920Z",
     "manualOrders": "2026-10-22T13:53:17.740Z",
     "deliveries": "2026-10-19T09:50:29.966Z",
@@ -69693,8 +69703,8 @@
     },
     "voyages": {
       "peppino": [
-        "1itecqq4vy",
-        "2026-10-17T11:39:03.067Z"
+        "142eflv546",
+        "2026-10-22T14:50:54.524Z"
       ],
       "medliguria": [
         "11t7wyj5rw",
@@ -69986,6 +69996,6 @@
       ]
     }
   },
-  "rev": 4641,
-  "savedAt": "2026-10-22T13:53:33.645Z"
+  "rev": 4642,
+  "savedAt": "2026-10-22T14:50:57.637Z"
 }
