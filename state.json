@@ -1,19 +1,19 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-22T12:46:20.089Z",
+  "pushedAt": "2026-10-22T13:46:53.234Z",
   "todosCount": 627,
   "todos": [
     {
-      "id": "td_1792659139392_xppiu",
       "category": "Nave",
       "priority": "alta",
-      "vessel": "medliguria",
-      "action": "Altro",
       "reference": "Inviare istruzioni spedizione per elenco stock Fujitrading.",
       "tags": [
         "posta"
       ],
+      "id": "td_1792659139392_xppiu",
+      "vessel": "medliguria",
+      "action": "Altro",
       "dueDate": "2026-10-22",
       "note": "RE: M/V MED LIGURIA  PR51  HQPO-00078  MLG-SHPR-00051  FUJI TRADING JAPAN · da Asuka Michelle Kubo · Fujitrading invia elenco stock pronto per spedizione immediata. · HQPO-00078 MLG-SHPR-00051",
       "recur": null,
@@ -14829,6 +14829,13 @@
       "updatedAt": "2026-10-21T15:33:40.262Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO PR115 HQPO-00148 PEP-SHPR-00115 MAS MARINE SHIPPING SUPPLIES / 026-60929",
+      "tags": [
+        "outlook",
+        "fornitore:MAS"
+      ],
       "id": "outlook_AAKSNudYAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKSNudYAAA=",
       "outlookListId": "",
@@ -14836,15 +14843,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAADqwEPcAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-22",
       "outlookLinkedName": "Re: M/V PEPPINO PR115 HQPO-00148 PEP-SHPR-00115 MAS MARINE SHIPPING SUPPLIES / 026-60929",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "M/V PEPPINO PR115 HQPO-00148 PEP-SHPR-00115 MAS MARINE SHIPPING SUPPLIES / 026-60929",
-      "tags": [
-        "outlook",
-        "fornitore:MAS"
-      ],
       "dueDate": "2026-10-22",
       "note": "",
       "createdAt": "2026-10-22T10:36:53.2966138Z",
@@ -68182,7 +68182,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-22T09:17:41.693Z",
+    "todos": "2026-10-22T13:46:53.234Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69952,6 +69952,6 @@
       ]
     }
   },
-  "rev": 4632,
-  "savedAt": "2026-10-22T12:46:20.092Z"
+  "rev": 4633,
+  "savedAt": "2026-10-22T13:46:53.237Z"
 }
