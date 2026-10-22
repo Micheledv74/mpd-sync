@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-22T14:50:57.634Z",
+  "pushedAt": "2026-10-22T14:52:00.691Z",
   "todosCount": 627,
   "todos": [
     {
@@ -29485,7 +29485,7 @@
       "rating": 1
     },
     "NAABSA": {
-      "notes": "helaine@naabsa.com"
+      "notes": "Naabsa Shipping Agency & Marine Surveyors\nAttn.: Ms Helaine Moraes\nEmail: helaine@naabsa.com\nOperations: operations@naabsa.com\nAdditional contact: arconorte@naabsa.com\nMobile: +55 (98) 98474-3963\nOffice: +55 13 3394-0655, ext. 204"
     }
   },
   "worldClockCities": [
@@ -68236,7 +68236,7 @@
     "deliveries": "2026-10-19T09:50:29.966Z",
     "vesselPos": "2026-10-22T12:46:20.089Z",
     "supplierProfiles": "2026-10-07T13:08:02.595Z",
-    "agencyProfiles": "2026-10-15T13:49:15.469Z",
+    "agencyProfiles": "2026-10-22T14:52:00.690Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-10-16T13:13:45.894Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
@@ -69399,8 +69399,8 @@
         ""
       ],
       "NAABSA": [
-        "mtpsufu",
-        "2026-10-15T13:49:15.384Z"
+        "mtm8it6w",
+        "2026-10-22T14:51:57.555Z"
       ]
     },
     "itemOverrides": {
@@ -69996,6 +69996,6 @@
       ]
     }
   },
-  "rev": 4642,
-  "savedAt": "2026-10-22T14:50:57.637Z"
+  "rev": 4643,
+  "savedAt": "2026-10-22T14:52:00.694Z"
 }
