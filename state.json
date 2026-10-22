@@ -1,9 +1,29 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-22T08:44:26.806Z",
-  "todosCount": 625,
+  "pushedAt": "2026-10-22T08:52:22.936Z",
+  "todosCount": 626,
   "todos": [
+    {
+      "id": "td_1792659139392_xppiu",
+      "category": "Nave",
+      "priority": "alta",
+      "vessel": "medliguria",
+      "action": "Altro",
+      "reference": "Inviare istruzioni spedizione per elenco stock Fujitrading.",
+      "tags": [
+        "posta"
+      ],
+      "dueDate": "2026-10-22",
+      "note": "RE: M/V MED LIGURIA  PR51  HQPO-00078  MLG-SHPR-00051  FUJI TRADING JAPAN · da Asuka Michelle Kubo · Fujitrading invia elenco stock pronto per spedizione immediata. · HQPO-00078 MLG-SHPR-00051",
+      "recur": null,
+      "kind": "todo",
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4mhAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookLinkedName": "RE: M/V MED LIGURIA  PR51  HQPO-00078  MLG-SHPR-00051  FUJI TRADING JAPAN",
+      "done": false,
+      "createdAt": "2026-10-22T08:52:19.392Z",
+      "updatedAt": "2026-10-22T08:52:19.392Z"
+    },
     {
       "category": "Nave",
       "priority": "alta",
@@ -68064,7 +68084,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-22T07:02:13.208Z",
+    "todos": "2026-10-22T08:52:22.935Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69834,6 +69854,6 @@
       ]
     }
   },
-  "rev": 4618,
-  "savedAt": "2026-10-22T08:44:26.813Z"
+  "rev": 4619,
+  "savedAt": "2026-10-22T08:52:22.939Z"
 }
