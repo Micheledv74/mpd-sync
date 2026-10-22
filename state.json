@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-21T17:15:07.861Z",
+  "pushedAt": "2026-10-22T07:02:13.209Z",
   "todosCount": 625,
   "todos": [
     {
-      "id": "td_1792570731171_vc9nb",
       "category": "Nave",
       "priority": "alta",
-      "vessel": "medtoscana",
-      "action": "Controllare",
       "reference": "",
       "tags": [],
+      "id": "td_1792570731171_vc9nb",
+      "vessel": "medtoscana",
+      "action": "Controllare",
       "dueDate": "2026-10-22",
       "note": "Controllare offerte dal Bangladesh",
       "recur": null,
@@ -14659,6 +14659,12 @@
       "updatedAt": "2026-10-21T07:52:05.065Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "ATLAS  MOORING ROPES REQUEST No 54",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKR7ZVTAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKR7ZVTAAA=",
       "outlookListId": "",
@@ -14666,14 +14672,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKR7NAPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-19",
       "outlookLinkedName": "R: ATLAS  MOORING ROPES REQUEST No 54",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "ATLAS  MOORING ROPES REQUEST No 54",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-19",
       "note": "",
       "createdAt": "2026-10-20T09:26:49.0041935Z",
@@ -14683,6 +14683,12 @@
       "updatedAt": "2026-10-21T07:59:15.762Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "WELCOME \"MV.MED TOSCANA\" TO CHITTAGONG/MONGLA/PAYRA /MATARBARI PORT INQUIRY FOR ANY KIND OF SUPPLY OR REPAIR JOB REQUISITION.",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKR7ZVWAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKR7ZVWAAA=",
       "outlookListId": "",
@@ -14690,14 +14696,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BvGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-20",
       "outlookLinkedName": "R: WELCOME \"MV.MED TOSCANA\" TO CHITTAGONG/MONGLA/PAYRA /MATARBARI PORT INQUIRY FOR ANY KIND OF SUPPLY OR REPAIR JOB REQUISITION.",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "WELCOME \"MV.MED TOSCANA\" TO CHITTAGONG/MONGLA/PAYRA /MATARBARI PORT INQUIRY FOR ANY KIND OF SUPPLY OR REPAIR JOB REQUISITION.",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-22",
       "note": "",
       "createdAt": "2026-10-20T14:44:38.600008Z",
@@ -14708,6 +14708,12 @@
       "updatedAt": "2026-10-21T09:07:46.504Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "MED TOSCANA : IMO - 9490741 / Servicing, testing, and supply of LSA/FFA equipments, lifeboats, liferafts, and spare parts at Chattogram Port, Bangladesh",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKR7ZVVAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKR7ZVVAAA=",
       "outlookListId": "",
@@ -14715,14 +14721,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BvFAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-20",
       "outlookLinkedName": "R: MED TOSCANA : IMO - 9490741 / Servicing, testing, and supply of LSA/FFA equipments, lifeboats, liferafts, and spare parts at Chattogram Port, Bangladesh",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "MED TOSCANA : IMO - 9490741 / Servicing, testing, and supply of LSA/FFA equipments, lifeboats, liferafts, and spare parts at Chattogram Port, Bangladesh",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-22",
       "note": "",
       "createdAt": "2026-10-20T14:36:52.8655704Z",
@@ -14733,6 +14733,12 @@
       "updatedAt": "2026-10-21T09:07:54.879Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "VSL: MV. MED TOSCANA // TECHNICAL REPAIR & MARINE SUPPLY AT CHITTAGONG, MONGLA & PAYRA PORT, BANGLADESH",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKR7ZVUAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKR7ZVUAAA=",
       "outlookListId": "",
@@ -14740,14 +14746,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BvEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-20",
       "outlookLinkedName": "I: VSL: MV. MED TOSCANA // TECHNICAL REPAIR & MARINE SUPPLY AT CHITTAGONG, MONGLA & PAYRA PORT, BANGLADESH",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "VSL: MV. MED TOSCANA // TECHNICAL REPAIR & MARINE SUPPLY AT CHITTAGONG, MONGLA & PAYRA PORT, BANGLADESH",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-22",
       "note": "",
       "createdAt": "2026-10-20T14:31:12.0676994Z",
@@ -14758,6 +14758,12 @@
       "updatedAt": "2026-10-21T09:08:09.195Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "R: MED TOSCANA : IMO - 9490741 / Servicing, testing, and supply of LSA/FFA equipments, lifeboats, liferafts, and spare parts at Chattogram Port, Bangladesh",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKSNudXAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKSNudXAAA=",
       "outlookListId": "",
@@ -14765,14 +14771,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKSNk8NAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-20",
       "outlookLinkedName": "Re: R: MED TOSCANA : IMO - 9490741 / Servicing, testing, and supply of LSA/FFA equipments, lifeboats, liferafts, and spare parts at Chattogram Port, Bangladesh",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "R: MED TOSCANA : IMO - 9490741 / Servicing, testing, and supply of LSA/FFA equipments, lifeboats, liferafts, and spare parts at Chattogram Port, Bangladesh",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-22",
       "note": "",
       "createdAt": "2026-10-21T10:43:07.6340418Z",
@@ -14783,6 +14783,12 @@
       "updatedAt": "2026-10-21T15:33:20.713Z"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "I: I: Offerta nr. 359.268-26 REV.01 M/V NORBOTTEN - Gas Detector",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKSNudWAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKSNudWAAA=",
       "outlookListId": "",
@@ -14790,14 +14796,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKSNk8FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-21",
       "outlookLinkedName": "Re: I: I: Offerta nr. 359.268-26 REV.01 M/V NORBOTTEN - Gas Detector",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "I: I: Offerta nr. 359.268-26 REV.01 M/V NORBOTTEN - Gas Detector",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-22",
       "note": "",
       "createdAt": "2026-10-21T08:51:52.9947109Z",
@@ -68064,7 +68064,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-21T15:33:43.705Z",
+    "todos": "2026-10-22T07:02:13.208Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69834,6 +69834,6 @@
       ]
     }
   },
-  "rev": 4613,
-  "savedAt": "2026-10-21T17:15:07.863Z"
+  "rev": 4614,
+  "savedAt": "2026-10-22T07:02:13.211Z"
 }
