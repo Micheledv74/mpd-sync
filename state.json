@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-22T12:38:59.412Z",
+  "pushedAt": "2026-10-22T12:46:20.089Z",
   "todosCount": 627,
   "todos": [
     {
@@ -28945,7 +28945,7 @@
   },
   "vesselPos": {
     "norrbotten": {
-      "city": "Yalova"
+      "city": "Marina di Carrara"
     },
     "vegauno": {
       "city": "Torre Annunziata"
@@ -68194,7 +68194,7 @@
     "outlookCompletionQueue": "2026-10-21T09:07:49.920Z",
     "manualOrders": "2026-10-16T13:15:45.560Z",
     "deliveries": "2026-10-19T09:50:29.966Z",
-    "vesselPos": "2026-09-04T14:49:11.282Z",
+    "vesselPos": "2026-10-22T12:46:20.089Z",
     "supplierProfiles": "2026-10-07T13:08:02.595Z",
     "agencyProfiles": "2026-10-15T13:49:15.469Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
@@ -68995,8 +68995,8 @@
     },
     "vesselPos": {
       "norrbotten": [
-        "1lqg09oh",
-        ""
+        "kyvvyns",
+        "2026-10-22T12:46:16.967Z"
       ],
       "vegauno": [
         "1chss05r",
@@ -69952,6 +69952,6 @@
       ]
     }
   },
-  "rev": 4631,
-  "savedAt": "2026-10-22T12:38:59.415Z"
+  "rev": 4632,
+  "savedAt": "2026-10-22T12:46:20.092Z"
 }
