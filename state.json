@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-22T12:38:46.278Z",
+  "pushedAt": "2026-10-22T12:38:59.412Z",
   "todosCount": 627,
   "todos": [
     {
@@ -27771,7 +27771,7 @@
         "to": "Marina di Carrara",
         "etd": "2026-11-30T17:29",
         "etb": "",
-        "eta": "2026-10-22",
+        "eta": "2026-10-22T19:00",
         "agency": null
       },
       "next": {
@@ -27784,7 +27784,7 @@
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-10-22T12:38:42.820Z",
+      "updatedAt": "2026-10-22T12:38:55.863Z",
       "history": [
         {
           "id": "vmtvc0so3ba8v",
@@ -68190,7 +68190,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-13T09:44:57.745Z",
-    "voyages": "2026-10-22T12:38:46.277Z",
+    "voyages": "2026-10-22T12:38:59.411Z",
     "outlookCompletionQueue": "2026-10-21T09:07:49.920Z",
     "manualOrders": "2026-10-16T13:15:45.560Z",
     "deliveries": "2026-10-19T09:50:29.966Z",
@@ -69671,8 +69671,8 @@
         "2026-10-19T07:36:32.302Z"
       ],
       "norrbotten": [
-        "1c999dwps",
-        "2026-10-22T12:38:43.129Z"
+        "13yra2vpy",
+        "2026-10-22T12:38:56.164Z"
       ],
       "vegauno": [
         "hkrxjy18f",
@@ -69952,6 +69952,6 @@
       ]
     }
   },
-  "rev": 4630,
-  "savedAt": "2026-10-22T12:38:46.280Z"
+  "rev": 4631,
+  "savedAt": "2026-10-22T12:38:59.415Z"
 }
