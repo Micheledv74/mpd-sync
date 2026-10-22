@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-22T13:51:43.238Z",
+  "pushedAt": "2026-10-22T13:51:58.246Z",
   "todosCount": 627,
   "todos": [
     {
@@ -28180,15 +28180,15 @@
         "id": "mo_1792677099834_uex9",
         "rfqNum": "",
         "poNum": "",
-        "description": "",
-        "supplier": "",
+        "description": "Gas Detector",
+        "supplier": "ANCB SRL",
         "status": "rfq",
         "rfqDate": "2026-10-22",
         "date": "",
         "amount": "",
         "currency": "EUR",
         "createdAt": "2026-10-22T13:51:39.834Z",
-        "updatedAt": "2026-10-22T13:51:39.834Z"
+        "updatedAt": "2026-10-22T13:51:54.640Z"
       }
     ]
   },
@@ -68206,7 +68206,7 @@
     "certificates": "2026-10-13T09:44:57.745Z",
     "voyages": "2026-10-22T12:38:59.411Z",
     "outlookCompletionQueue": "2026-10-21T09:07:49.920Z",
-    "manualOrders": "2026-10-22T13:51:43.237Z",
+    "manualOrders": "2026-10-22T13:51:58.245Z",
     "deliveries": "2026-10-19T09:50:29.966Z",
     "vesselPos": "2026-10-22T12:46:20.089Z",
     "supplierProfiles": "2026-10-07T13:08:02.595Z",
@@ -68291,8 +68291,8 @@
         "2026-10-16T13:14:41.291Z"
       ],
       "norrbotten|mo_1792677099834_uex9": [
-        "zsytoc6n",
-        "2026-10-22T13:51:40.137Z"
+        "1r569mk77",
+        "2026-10-22T13:51:54.941Z"
       ]
     },
     "shipments": {
@@ -69970,6 +69970,6 @@
       ]
     }
   },
-  "rev": 4635,
-  "savedAt": "2026-10-22T13:51:43.241Z"
+  "rev": 4636,
+  "savedAt": "2026-10-22T13:51:58.248Z"
 }
