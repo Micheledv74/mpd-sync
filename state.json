@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-22T14:58:10.781Z",
+  "pushedAt": "2026-10-22T14:59:34.814Z",
   "todosCount": 627,
   "todos": [
     {
@@ -14195,11 +14195,11 @@
       "dueDate": "2026-10-23",
       "note": "",
       "createdAt": "2026-10-13T07:42:14.2962614Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-10-22T14:59:32.094Z",
       "outlookStatus": "notStarted",
       "dueCleared": false,
-      "updatedAt": "2026-10-22T14:55:43.583Z",
+      "updatedAt": "2026-10-22T14:59:32.094Z",
       "kind": "todo",
       "recur": null
     },
@@ -27977,6 +27977,13 @@
       "completedAt": "2026-10-22T14:58:03.362Z",
       "todoId": "outlook_AAKSNudXAAA=",
       "title": "R: MED TOSCANA : IMO - 9490741 / Servicing, testing, and supply of LSA/FFA equipments, lifeboats, liferafts, and spare parts at Chattogram Port, Bangladesh"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKNCiNbAAA=",
+      "listId": "",
+      "completedAt": "2026-10-22T14:59:32.098Z",
+      "todoId": "outlook_AAKNCiNbAAA=",
+      "title": "I: I: Offerta nr. 359.268-26 REV.01 M/V NORBOTTEN - Gas Detector"
     }
   ],
   "manualOrders": {
@@ -68245,7 +68252,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-22T14:58:07.832Z",
+    "todos": "2026-10-22T14:59:34.813Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -68254,7 +68261,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-13T09:44:57.745Z",
     "voyages": "2026-10-22T14:50:57.634Z",
-    "outlookCompletionQueue": "2026-10-22T14:58:07.832Z",
+    "outlookCompletionQueue": "2026-10-22T14:59:34.813Z",
     "manualOrders": "2026-10-22T13:53:17.740Z",
     "deliveries": "2026-10-19T09:50:29.966Z",
     "vesselPos": "2026-10-22T12:46:20.089Z",
@@ -70019,6 +70026,6 @@
       ]
     }
   },
-  "rev": 4656,
-  "savedAt": "2026-10-22T14:58:10.788Z"
+  "rev": 4657,
+  "savedAt": "2026-10-22T14:59:34.818Z"
 }
