@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-23T08:25:45.447Z",
+  "pushedAt": "2026-10-23T08:26:25.319Z",
   "todosCount": 629,
   "todos": [
     {
@@ -34813,6 +34813,24 @@
       "supplier": "DUBHE CO., LTD.",
       "description": "New type power connection for cargo Grabs, Catalog \"ODU-Heavy Duty Connectors\".",
       "updatedAt": "2026-10-23T08:25:41.506Z"
+    },
+    "2026-MDT-HQRQ-00227": {
+      "entries": [
+        {
+          "id": "ch_mvkph9hjnl2",
+          "ts": "2026-10-23T08:26:21.895Z",
+          "level": 1,
+          "lang": "en",
+          "to": "",
+          "subject": "",
+          "channel": "manual"
+        }
+      ],
+      "rfqNumber": "2026-MDT-HQRQ-00227",
+      "vesselId": "medtoscana",
+      "supplier": "(più fornitori)",
+      "description": "",
+      "updatedAt": "2026-10-23T08:26:21.895Z"
     }
   },
   "rfqVendors": {
@@ -68398,7 +68416,7 @@
     "shipments": "2026-10-12T14:02:48.566Z",
     "certExtras": "2026-10-23T07:33:13.257Z",
     "pinnedActions": "",
-    "rfqChases": "2026-10-23T08:25:45.446Z",
+    "rfqChases": "2026-10-23T08:26:25.318Z",
     "rfqVendors": "2026-10-19T09:43:38.828Z",
     "portProfiles": "2026-10-16T13:16:32.560Z",
     "todoTombs": "2026-10-23T08:12:48.293Z",
@@ -70151,6 +70169,6 @@
       ]
     }
   },
-  "rev": 4685,
-  "savedAt": "2026-10-23T08:25:45.456Z"
+  "rev": 4686,
+  "savedAt": "2026-10-23T08:26:25.322Z"
 }
