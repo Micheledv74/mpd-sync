@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-23T15:41:29.821Z",
+  "pushedAt": "2026-10-23T15:41:38.906Z",
   "todosCount": 632,
   "todos": [
     {
@@ -14884,14 +14884,16 @@
       "outlookLinkedName": "RE: Perseveranza - Infoship Asset - Peppino - Items",
       "vessel": "",
       "action": "Altro",
-      "dueDate": "2026-10-23",
+      "dueDate": "2026-10-26",
       "note": "",
       "createdAt": "2026-10-22T14:01:14.800587Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted",
       "dueCleared": false,
-      "updatedAt": "2026-10-23T07:12:23.907Z"
+      "updatedAt": "2026-10-23T15:41:35.424Z",
+      "kind": "todo",
+      "recur": null
     },
     {
       "id": "outlook_AAKT16zSAAA=",
@@ -68455,7 +68457,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-23T15:41:29.821Z",
+    "todos": "2026-10-23T15:41:38.906Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -70229,6 +70231,6 @@
       ]
     }
   },
-  "rev": 4698,
-  "savedAt": "2026-10-23T15:41:29.824Z"
+  "rev": 4699,
+  "savedAt": "2026-10-23T15:41:38.909Z"
 }
