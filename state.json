@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-23T08:05:46.387Z",
+  "pushedAt": "2026-10-23T08:05:57.839Z",
   "todosCount": 630,
   "todos": [
     {
@@ -14298,7 +14298,7 @@
       "outlookLinkedName": "Re: M/V MED LIGURIA PO88 HQPO-00088 MLG-HQPO-00088 FARMACIA GHIGLIAZZA",
       "vessel": "medliguria",
       "action": "Altro",
-      "dueDate": "2026-10-23",
+      "dueDate": "2026-10-26",
       "note": "",
       "createdAt": "2026-10-14T09:36:54.635225Z",
       "done": false,
@@ -14306,7 +14306,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-22T14:55:46.518Z",
+      "updatedAt": "2026-10-23T08:05:55.627Z",
       "dueCleared": false
     },
     {
@@ -68344,7 +68344,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-23T08:05:46.387Z",
+    "todos": "2026-10-23T08:05:57.838Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -70118,6 +70118,6 @@
       ]
     }
   },
-  "rev": 4676,
-  "savedAt": "2026-10-23T08:05:46.390Z"
+  "rev": 4677,
+  "savedAt": "2026-10-23T08:05:57.843Z"
 }
