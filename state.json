@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-23T08:03:47.266Z",
+  "pushedAt": "2026-10-23T08:04:37.634Z",
   "todosCount": 630,
   "todos": [
     {
@@ -79,10 +79,11 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60ZAABYWF9qc37UTpbqyo%2B4NVKtAADqwEgVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "M/V PEPPINO  PR153  HQRQ-00257  PEP-SHPR-00153  Draft Marine Supply",
-      "done": false,
+      "done": true,
       "createdAt": "2026-10-19T07:59:37.168Z",
-      "updatedAt": "2026-10-22T14:54:20.693Z",
-      "dueCleared": false
+      "updatedAt": "2026-10-23T08:04:34.219Z",
+      "dueCleared": false,
+      "doneAt": "2026-10-23T08:04:34.219Z"
     },
     {
       "category": "Nave",
@@ -68343,7 +68344,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-23T08:03:47.266Z",
+    "todos": "2026-10-23T08:04:37.634Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -70117,6 +70118,6 @@
       ]
     }
   },
-  "rev": 4672,
-  "savedAt": "2026-10-23T08:03:47.268Z"
+  "rev": 4673,
+  "savedAt": "2026-10-23T08:04:37.637Z"
 }
