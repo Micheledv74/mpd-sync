@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-23T12:42:02.290Z",
+  "pushedAt": "2026-10-23T13:07:17.054Z",
   "todosCount": 630,
   "todos": [
     {
@@ -27918,7 +27918,7 @@
         "id": "vmtn2jhughe8q",
         "from": "Fiumicino",
         "to": "Torre Annunziata",
-        "etd": "2026-10-22T09:00",
+        "etd": "2026-11-02T09:00",
         "etb": "",
         "eta": "2026-09-02T16:47",
         "agency": {
@@ -27936,7 +27936,7 @@
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-10-15T09:50:47.288Z",
+      "updatedAt": "2026-10-23T13:07:13.613Z",
       "history": [
         {
           "id": "vmt734cdz8s4x",
@@ -68427,7 +68427,7 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-13T09:44:57.745Z",
-    "voyages": "2026-10-22T14:50:57.634Z",
+    "voyages": "2026-10-23T13:07:17.053Z",
     "outlookCompletionQueue": "2026-10-23T08:03:47.266Z",
     "manualOrders": "2026-10-22T13:53:17.740Z",
     "deliveries": "2026-10-19T09:50:29.966Z",
@@ -69916,8 +69916,8 @@
         "2026-10-22T12:38:56.164Z"
       ],
       "vegauno": [
-        "hkrxjy18f",
-        "2026-10-15T09:50:47.593Z"
+        "rhpave18f",
+        "2026-10-23T13:07:13.916Z"
       ]
     },
     "snoozed": {
@@ -70193,6 +70193,6 @@
       ]
     }
   },
-  "rev": 4687,
-  "savedAt": "2026-10-23T12:42:02.300Z"
+  "rev": 4688,
+  "savedAt": "2026-10-23T13:07:17.056Z"
 }
