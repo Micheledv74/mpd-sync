@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-23T15:40:55.730Z",
+  "pushedAt": "2026-10-23T15:41:03.452Z",
   "todosCount": 632,
   "todos": [
     {
@@ -14679,14 +14679,14 @@
       "outlookLinkedName": "R: : Friendly reminder certificate of entry for shipment of order-nos. CBH 43940+43941",
       "vessel": "norrbotten",
       "action": "Telefonare",
-      "dueDate": "2026-10-23",
+      "dueDate": "2026-10-26",
       "note": "Chiamre Lorenzo per conferma indirizzo nave ATLAS e sollecito x questa email",
       "createdAt": "2026-10-19T14:10:20.4000244Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted",
       "dueCleared": false,
-      "updatedAt": "2026-10-22T14:54:13.965Z",
+      "updatedAt": "2026-10-23T15:41:00.007Z",
       "kind": "todo",
       "recur": null
     },
@@ -68453,7 +68453,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-23T15:40:55.730Z",
+    "todos": "2026-10-23T15:41:03.451Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -70227,6 +70227,6 @@
       ]
     }
   },
-  "rev": 4694,
-  "savedAt": "2026-10-23T15:40:55.733Z"
+  "rev": 4695,
+  "savedAt": "2026-10-23T15:41:03.454Z"
 }
