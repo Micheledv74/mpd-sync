@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-26T15:38:40.563Z",
-  "todosCount": 635,
+  "pushedAt": "2026-10-26T15:38:49.828Z",
+  "todosCount": 638,
   "todos": [
     {
       "category": "Nave",
@@ -15053,6 +15053,76 @@
       "doneAt": "2026-10-26T13:14:43.755Z",
       "outlookStatus": "notStarted",
       "updatedAt": "2026-10-26T13:14:43.755Z"
+    },
+    {
+      "id": "outlook_AAKVH6K1AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKVH6K1AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAAAHfy3oAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-25",
+      "outlookLinkedName": "M/V PEPPINO  PR126  HQPO-00162  PEP-SHPR-00126  GEORGE MENABONI SRL",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO  PR126  HQPO-00162  PEP-SHPR-00126  GEORGE MENABONI SRL",
+      "tags": [
+        "outlook",
+        "fornitore:GEORGE"
+      ],
+      "dueDate": "2026-10-25",
+      "note": "",
+      "createdAt": "2026-10-26T15:14:10.2162294Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKVH6K0AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKVH6K0AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKVHfUlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-11-05",
+      "outlookLinkedName": "Re: M/V ATLAS -  SOA  and payment  / DD1263",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "M/V ATLAS -  SOA  and payment  / DD1263",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-11-05",
+      "note": "",
+      "createdAt": "2026-10-26T14:20:12.3846157Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKVH6KzAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKVH6KzAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKVHfUgAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-26",
+      "outlookLinkedName": "R: ATLAS  MOORING ROPES REQUEST No 54",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "ATLAS  MOORING ROPES REQUEST No 54",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-26",
+      "note": "",
+      "createdAt": "2026-10-26T13:28:13.1050629Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -68687,7 +68757,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-26T13:27:03.579Z",
+    "todos": "2026-10-26T15:38:49.828Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -70461,6 +70531,6 @@
       ]
     }
   },
-  "rev": 4741,
-  "savedAt": "2026-10-26T15:38:40.565Z"
+  "rev": 4742,
+  "savedAt": "2026-10-26T15:38:49.831Z"
 }
