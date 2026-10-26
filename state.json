@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-26T13:26:25.164Z",
+  "pushedAt": "2026-10-26T13:26:47.822Z",
   "todosCount": 635,
   "todos": [
     {
@@ -14916,14 +14916,14 @@
       "outlookLinkedName": "R: M/V PEPPINO – Richiesta intervento magnetron in Brasile FIO054188",
       "vessel": "peppino",
       "action": "Altro",
-      "dueDate": "2026-10-26",
+      "dueDate": "2026-10-27",
       "note": "",
       "createdAt": "2026-10-23T07:44:12.2427987Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted",
       "dueCleared": false,
-      "updatedAt": "2026-10-23T08:13:40.088Z",
+      "updatedAt": "2026-10-26T13:26:44.372Z",
       "kind": "todo",
       "recur": null
     },
@@ -68687,7 +68687,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-26T13:26:25.164Z",
+    "todos": "2026-10-26T13:26:47.821Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -70461,6 +70461,6 @@
       ]
     }
   },
-  "rev": 4738,
-  "savedAt": "2026-10-26T13:26:25.167Z"
+  "rev": 4739,
+  "savedAt": "2026-10-26T13:26:47.825Z"
 }
