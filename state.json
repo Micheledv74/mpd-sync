@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-26T13:22:39.003Z",
+  "pushedAt": "2026-10-26T13:22:42.726Z",
   "todosCount": 635,
   "todos": [
     {
@@ -54,10 +54,11 @@
       "kind": "todo",
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60cAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4mhAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookLinkedName": "RE: M/V MED LIGURIA  PR51  HQPO-00078  MLG-SHPR-00051  FUJI TRADING JAPAN",
-      "done": false,
+      "done": true,
       "createdAt": "2026-10-22T08:52:19.392Z",
-      "updatedAt": "2026-10-23T15:40:44.855Z",
-      "dueCleared": false
+      "updatedAt": "2026-10-26T13:22:39.233Z",
+      "dueCleared": false,
+      "doneAt": "2026-10-26T13:22:39.233Z"
     },
     {
       "category": "Nave",
@@ -70451,6 +70452,6 @@
       ]
     }
   },
-  "rev": 4721,
-  "savedAt": "2026-10-26T13:22:39.006Z"
+  "rev": 4722,
+  "savedAt": "2026-10-26T13:22:42.729Z"
 }
