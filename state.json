@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-26T12:39:05.195Z",
+  "pushedAt": "2026-10-26T12:39:12.624Z",
   "todosCount": 635,
   "todos": [
     {
@@ -29865,7 +29865,8 @@
     },
     "med liguria::fire gs pump type 150cdb65": {
       "leadTimeDays": 60,
-      "origin": "Kobe"
+      "origin": "Kobe",
+      "transportMode": "TML JAPAN"
     },
     "med toscana::ballast system: actuators pneumatic valve spare; maker: besi marine system info@beside": {
       "origin": "China",
@@ -68666,7 +68667,7 @@
     "supplierProfiles": "2026-10-07T13:08:02.595Z",
     "agencyProfiles": "2026-10-22T14:52:25.640Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
-    "itemOverrides": "2026-10-26T12:39:05.195Z",
+    "itemOverrides": "2026-10-26T12:39:12.623Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
     "shipments": "2026-10-12T14:02:48.566Z",
     "certExtras": "2026-10-23T07:33:13.257Z",
@@ -69873,8 +69874,8 @@
         ""
       ],
       "med liguria::fire gs pump type 150cdb65": [
-        "l46l9mz",
-        "2026-10-26T12:39:02.029Z"
+        "qegobr1r",
+        "2026-10-26T12:39:09.482Z"
       ],
       "med toscana::ballast system: actuators pneumatic valve spare; maker: besi marine system info@beside": [
         "pbsrjz1v",
@@ -70424,6 +70425,6 @@
       ]
     }
   },
-  "rev": 4714,
-  "savedAt": "2026-10-26T12:39:05.199Z"
+  "rev": 4715,
+  "savedAt": "2026-10-26T12:39:12.626Z"
 }
