@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-26T13:25:28.504Z",
+  "pushedAt": "2026-10-26T13:25:49.494Z",
   "todosCount": 635,
   "todos": [
     {
@@ -14509,14 +14509,14 @@
       "outlookLinkedName": "M/V PEPPINO – Main Sea Water Cooling Pump Motor – Supply Enquiry",
       "vessel": "peppino",
       "action": "Altro",
-      "dueDate": "2026-10-26",
+      "dueDate": "2026-10-27",
       "note": "",
       "createdAt": "2026-10-15T08:55:31.9039593Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted",
       "dueCleared": false,
-      "updatedAt": "2026-10-23T08:12:06.088Z",
+      "updatedAt": "2026-10-26T13:25:46.035Z",
       "kind": "todo",
       "recur": null
     },
@@ -68687,7 +68687,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-26T13:25:28.503Z",
+    "todos": "2026-10-26T13:25:49.494Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -70461,6 +70461,6 @@
       ]
     }
   },
-  "rev": 4735,
-  "savedAt": "2026-10-26T13:25:28.516Z"
+  "rev": 4736,
+  "savedAt": "2026-10-26T13:25:49.497Z"
 }
