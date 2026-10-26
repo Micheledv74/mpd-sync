@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-26T13:24:14.499Z",
+  "pushedAt": "2026-10-26T13:24:34.557Z",
   "todosCount": 635,
   "todos": [
     {
@@ -13949,12 +13949,12 @@
       "dueDate": "2026-10-26",
       "note": "",
       "createdAt": "2026-10-08T15:15:30.01489Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-10-26T13:24:32.074Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-19T09:11:11.217Z"
+      "updatedAt": "2026-10-26T13:24:32.074Z"
     },
     {
       "category": "Nave",
@@ -28232,6 +28232,13 @@
       "completedAt": "2026-10-26T13:20:25.871Z",
       "todoId": "outlook_AAKT16zTAAA=",
       "title": "NORRBOTTEN  D16MG IMO III // Sales order"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKJM00lAAA=",
+      "listId": "",
+      "completedAt": "2026-10-26T13:24:32.079Z",
+      "todoId": "outlook_AAKJM00lAAA=",
+      "title": "M/V ATLAS -  SOA  and payment  / DD1263"
     }
   ],
   "manualOrders": {
@@ -68680,7 +68687,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-26T13:24:14.497Z",
+    "todos": "2026-10-26T13:24:34.557Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -68689,7 +68696,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-13T09:44:57.745Z",
     "voyages": "2026-10-26T13:13:30.560Z",
-    "outlookCompletionQueue": "2026-10-26T13:20:29.300Z",
+    "outlookCompletionQueue": "2026-10-26T13:24:34.557Z",
     "manualOrders": "2026-10-22T13:53:17.740Z",
     "deliveries": "2026-10-19T09:50:29.966Z",
     "vesselPos": "2026-10-22T12:46:20.089Z",
@@ -70454,6 +70461,6 @@
       ]
     }
   },
-  "rev": 4731,
-  "savedAt": "2026-10-26T13:24:14.509Z"
+  "rev": 4732,
+  "savedAt": "2026-10-26T13:24:34.562Z"
 }
