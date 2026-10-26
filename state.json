@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-26T13:13:30.560Z",
+  "pushedAt": "2026-10-26T13:14:47.513Z",
   "todosCount": 635,
   "todos": [
     {
@@ -15018,9 +15018,10 @@
       "dueDate": "2026-10-24",
       "note": "",
       "createdAt": "2026-10-24T16:13:14.3030342Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-10-26T13:14:42.731Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-10-26T13:14:42.731Z"
     },
     {
       "category": "Nave",
@@ -15042,9 +15043,10 @@
       "dueDate": "2026-10-24",
       "note": "",
       "createdAt": "2026-10-24T16:12:56.1496964Z",
-      "done": false,
-      "doneAt": null,
-      "outlookStatus": "notStarted"
+      "done": true,
+      "doneAt": "2026-10-26T13:14:43.755Z",
+      "outlookStatus": "notStarted",
+      "updatedAt": "2026-10-26T13:14:43.755Z"
     }
   ],
   "notes": {
@@ -28203,6 +28205,20 @@
       "completedAt": "2026-10-26T11:48:18.043Z",
       "todoId": "outlook_AAKSNudWAAA=",
       "title": "I: I: Offerta nr. 359.268-26 REV.01 M/V NORBOTTEN - Gas Detector"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKUnT-HAAA=",
+      "listId": "",
+      "completedAt": "2026-10-26T13:14:42.736Z",
+      "todoId": "outlook_AAKUnT-HAAA=",
+      "title": "M/V MED TOSCANA PR125 HQRQ-00236 MDT-SHPR-00125 MARINOSHIP SERVICES"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKUnT-GAAA=",
+      "listId": "",
+      "completedAt": "2026-10-26T13:14:43.761Z",
+      "todoId": "outlook_AAKUnT-GAAA=",
+      "title": "M/V MED TOSCANA PR116 HQRQ-00234 MDT-SHPR-00116 MARINOSHIP SERVICES"
     }
   ],
   "manualOrders": {
@@ -68651,7 +68667,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-26T11:48:21.480Z",
+    "todos": "2026-10-26T13:14:47.513Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -68660,7 +68676,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-13T09:44:57.745Z",
     "voyages": "2026-10-26T13:13:30.560Z",
-    "outlookCompletionQueue": "2026-10-26T11:48:21.480Z",
+    "outlookCompletionQueue": "2026-10-26T13:14:47.513Z",
     "manualOrders": "2026-10-22T13:53:17.740Z",
     "deliveries": "2026-10-19T09:50:29.966Z",
     "vesselPos": "2026-10-22T12:46:20.089Z",
@@ -70425,6 +70441,6 @@
       ]
     }
   },
-  "rev": 4717,
-  "savedAt": "2026-10-26T13:13:30.563Z"
+  "rev": 4718,
+  "savedAt": "2026-10-26T13:14:47.516Z"
 }
