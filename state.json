@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-27T10:04:10.067Z",
-  "todosCount": 641,
+  "pushedAt": "2026-10-27T10:04:15.168Z",
+  "todosCount": 644,
   "todos": [
     {
       "id": "td_rem_tekomar_medtoscana_2026_10",
@@ -15197,6 +15197,76 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-10-26T15:39:13.883Z"
+    },
+    {
+      "id": "outlook_AAKVH6K4AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKVH6K4AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAAAABHDfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-26",
+      "outlookLinkedName": "Re: M/V PEPPINO  PR107  HQPO-00161  PEP-SHPR-00107  YH MARINE TRADE CO.,LTD",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "peppino",
+      "action": "Altro",
+      "reference": "M/V PEPPINO  PR107  HQPO-00161  PEP-SHPR-00107  YH MARINE TRADE CO.,LTD",
+      "tags": [
+        "outlook",
+        "fornitore:YH"
+      ],
+      "dueDate": "2026-10-26",
+      "note": "",
+      "createdAt": "2026-10-27T08:16:23.9050433Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKVH6K3AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKVH6K3AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60eAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4%2FGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-26",
+      "outlookLinkedName": "RE: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: Order Confirmation / PO 2026-MDT-HQPO-00057 / VESSEL MED TOSCANA / SO 2386541.",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "medtoscana",
+      "action": "Altro",
+      "reference": "R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: Order Confirmation / PO 2026-MDT-HQPO-00057 / VESSEL MED TOSCANA / SO 2386541.",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-26",
+      "note": "",
+      "createdAt": "2026-10-27T08:07:24.7127743Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "id": "outlook_AAKVH6K2AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKVH6K2AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BvyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-26",
+      "outlookLinkedName": "M/V ATLAS - Requisitions N. 71 and 72,73",
+      "category": "Nave",
+      "priority": "media",
+      "vessel": "norrbotten",
+      "action": "Altro",
+      "reference": "M/V ATLAS - Requisitions N. 71 and 72,73",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-26",
+      "note": "",
+      "createdAt": "2026-10-26T15:39:05.537068Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -70605,6 +70675,6 @@
       ]
     }
   },
-  "rev": 4747,
-  "savedAt": "2026-10-27T10:04:10.070Z"
+  "rev": 4748,
+  "savedAt": "2026-10-27T10:04:15.171Z"
 }
