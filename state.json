@@ -1,19 +1,19 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-27T10:13:41.677Z",
+  "pushedAt": "2026-10-27T10:44:53.581Z",
   "todosCount": 644,
   "todos": [
     {
-      "id": "td_rem_tekomar_medtoscana_2026_10",
       "category": "Nave",
       "priority": "media",
-      "vessel": "medtoscana",
-      "action": "Inviare email",
       "reference": "M/V MED TOSCANA - TEKOMAR XPERT – October Data Update",
       "tags": [
         "avviso"
       ],
+      "id": "td_rem_tekomar_medtoscana_2026_10",
+      "vessel": "medtoscana",
+      "action": "Inviare email",
       "dueDate": "2026-10-27",
       "note": "Avviso periodico «TEKOMAR XPERT · aggiornamento mensile» · ottobre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
@@ -29,15 +29,15 @@
       "doneAt": "2026-10-27T10:13:40.779Z"
     },
     {
-      "id": "td_rem_tekomar_medliguria_2026_10",
       "category": "Nave",
       "priority": "media",
-      "vessel": "medliguria",
-      "action": "Inviare email",
       "reference": "M/V MED LIGURIA - TEKOMAR XPERT – October Data Update",
       "tags": [
         "avviso"
       ],
+      "id": "td_rem_tekomar_medliguria_2026_10",
+      "vessel": "medliguria",
+      "action": "Inviare email",
       "dueDate": "2026-10-27",
       "note": "Avviso periodico «TEKOMAR XPERT · aggiornamento mensile» · ottobre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
@@ -52,15 +52,15 @@
       }
     },
     {
-      "id": "td_rem_tekomar_peppino_2026_10",
       "category": "Nave",
       "priority": "media",
-      "vessel": "peppino",
-      "action": "Inviare email",
       "reference": "M/V PEPPINO - TEKOMAR XPERT – October Data Update",
       "tags": [
         "avviso"
       ],
+      "id": "td_rem_tekomar_peppino_2026_10",
+      "vessel": "peppino",
+      "action": "Inviare email",
       "dueDate": "2026-10-27",
       "note": "Avviso periodico «TEKOMAR XPERT · aggiornamento mensile» · ottobre 2026. Invialo col pulsante ✉ Invia avviso: la to-do si chiude da sola.",
       "recur": null,
@@ -15200,6 +15200,13 @@
       "updatedAt": "2026-10-26T15:39:13.883Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO  PR107  HQPO-00161  PEP-SHPR-00107  YH MARINE TRADE CO.,LTD",
+      "tags": [
+        "outlook",
+        "fornitore:YH"
+      ],
       "id": "outlook_AAKVH6K4AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKVH6K4AAA=",
       "outlookListId": "",
@@ -15207,15 +15214,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAAAABHDfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-26",
       "outlookLinkedName": "Re: M/V PEPPINO  PR107  HQPO-00161  PEP-SHPR-00107  YH MARINE TRADE CO.,LTD",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "peppino",
       "action": "Altro",
-      "reference": "M/V PEPPINO  PR107  HQPO-00161  PEP-SHPR-00107  YH MARINE TRADE CO.,LTD",
-      "tags": [
-        "outlook",
-        "fornitore:YH"
-      ],
       "dueDate": "2026-10-26",
       "note": "",
       "createdAt": "2026-10-27T08:16:23.9050433Z",
@@ -15225,6 +15225,12 @@
       "updatedAt": "2026-10-27T10:04:41.576Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: Order Confirmation / PO 2026-MDT-HQPO-00057 / VESSEL MED TOSCANA / SO 2386541.",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKVH6K3AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKVH6K3AAA=",
       "outlookListId": "",
@@ -15232,14 +15238,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60eAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4%2FGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-26",
       "outlookLinkedName": "RE: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: Order Confirmation / PO 2026-MDT-HQPO-00057 / VESSEL MED TOSCANA / SO 2386541.",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "medtoscana",
       "action": "Altro",
-      "reference": "R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: R: Order Confirmation / PO 2026-MDT-HQPO-00057 / VESSEL MED TOSCANA / SO 2386541.",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-26",
       "note": "",
       "createdAt": "2026-10-27T08:07:24.7127743Z",
@@ -15249,6 +15249,12 @@
       "updatedAt": "2026-10-27T10:04:43.992Z"
     },
     {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V ATLAS - Requisitions N. 71 and 72,73",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKVH6K2AAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKVH6K2AAA=",
       "outlookListId": "",
@@ -15256,14 +15262,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BvyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-26",
       "outlookLinkedName": "M/V ATLAS - Requisitions N. 71 and 72,73",
-      "category": "Nave",
-      "priority": "media",
       "vessel": "norrbotten",
       "action": "Altro",
-      "reference": "M/V ATLAS - Requisitions N. 71 and 72,73",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-28",
       "note": "",
       "createdAt": "2026-10-26T15:39:05.537068Z",
@@ -68928,7 +68928,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-27T10:13:41.676Z",
+    "todos": "2026-10-27T10:44:53.581Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -70702,6 +70702,6 @@
       ]
     }
   },
-  "rev": 4752,
-  "savedAt": "2026-10-27T10:13:41.685Z"
+  "rev": 4753,
+  "savedAt": "2026-10-27T10:44:53.584Z"
 }
