@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-27T11:00:00.996Z",
+  "pushedAt": "2026-10-27T15:31:02.258Z",
   "todosCount": 644,
   "todos": [
     {
@@ -68151,9 +68151,10 @@
     "med toscana::talk back card": {
       "pos": "onboard",
       "closeInInfoship": true,
-      "updatedAt": "2026-09-30T09:08:26.450Z",
+      "updatedAt": "2026-10-27T15:30:58.182Z",
       "since": "2026-09-30",
-      "by": "scheda"
+      "by": "scheda",
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z"
     },
     "peppino::welding machine": {
       "pos": "onboard",
@@ -68257,15 +68258,17 @@
       "pos": "onboard",
       "closeInInfoship": true,
       "by": "scheda",
-      "updatedAt": "2026-10-01T12:23:59.685Z",
-      "since": "2026-10-01"
+      "updatedAt": "2026-10-27T15:30:58.182Z",
+      "since": "2026-10-01",
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z"
     },
     "med toscana::cargo crane claim spare part": {
       "pos": "onboard",
       "closeInInfoship": true,
       "by": "scheda",
-      "updatedAt": "2026-10-01T12:25:53.957Z",
-      "since": "2026-10-01"
+      "updatedAt": "2026-10-27T15:30:58.182Z",
+      "since": "2026-10-01",
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z"
     },
     "peppino::spa req marine cooking range yangcan": {
       "pos": "supplier",
@@ -68400,8 +68403,9 @@
       "pos": "onboard",
       "closeInInfoship": true,
       "by": "scheda",
-      "updatedAt": "2026-10-07T09:20:58.206Z",
-      "since": "2026-10-07"
+      "updatedAt": "2026-10-27T15:30:58.182Z",
+      "since": "2026-10-07",
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z"
     },
     "peppino::steering gear filter cartridges": {
       "pos": "hub",
@@ -68496,29 +68500,33 @@
       "pos": "onboard",
       "closeInInfoship": true,
       "by": "scheda",
-      "updatedAt": "2026-10-19T09:49:50.946Z",
-      "since": "2026-10-19"
+      "updatedAt": "2026-10-27T15:30:58.182Z",
+      "since": "2026-10-19",
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z"
     },
     "med toscana::bridge window wiper twin blades outside mounted model:wsoh2vp1": {
       "pos": "onboard",
       "closeInInfoship": true,
       "by": "scheda",
-      "updatedAt": "2026-10-19T09:50:14.841Z",
-      "since": "2026-10-19"
+      "updatedAt": "2026-10-27T15:30:58.182Z",
+      "since": "2026-10-19",
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z"
     },
     "med toscana::ht cooling electro pneumatic regulator": {
       "pos": "onboard",
       "closeInInfoship": true,
       "by": "scheda",
-      "updatedAt": "2026-10-19T09:50:46.667Z",
-      "since": "2026-10-19"
+      "updatedAt": "2026-10-27T15:30:58.181Z",
+      "since": "2026-10-19",
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z"
     },
     "med toscana::fixed water based local fire extinguishing system; type: aohansafe h1 03: prod no: h10171: working pressure :100 bar": {
       "pos": "onboard",
       "closeInInfoship": true,
       "by": "scheda",
-      "updatedAt": "2026-10-19T09:51:00.770Z",
-      "since": "2026-10-19"
+      "updatedAt": "2026-10-27T15:30:58.182Z",
+      "since": "2026-10-19",
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z"
     },
     "med liguria::fire gs pump type 150cdb65": {
       "pos": "hub",
@@ -68596,6 +68604,90 @@
     "peppino::diesel performance analized": {
       "ifxAskedAt": "2026-10-27T10:59:56.925Z",
       "updatedAt": "2026-10-27T10:59:56.926Z"
+    },
+    "med toscana::underwater inspection barranquilla": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.182Z"
+    },
+    "med toscana::seastream": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.183Z"
+    },
+    "med toscana::navigation light control panel": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.183Z"
+    },
+    "med toscana::bwts suction pump mn 40125": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.183Z"
+    },
+    "med toscana::diesel oil pump imo pump ace 025 l3 nvbp 1year service kit": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.183Z"
+    },
+    "med toscana::hanla level c/h water ingress system sensor": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.183Z"
+    },
+    "med toscana::fuel circulation pump of me ace038 n3 ntbp complete": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.183Z"
+    },
+    "med toscana::annual safety equipment surveys / certification – kandla/bedi": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.183Z"
+    },
+    "med toscana::alarm monitor system; maker: traco power; model: tzl 1002424: input: 1936dc; output: 24 vdc/42 a": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.184Z"
+    },
+    "med toscana::vbelt": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.184Z"
+    },
+    "med toscana::chemicals": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.184Z"
+    },
+    "med toscana::thermometer": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.184Z"
+    },
+    "med toscana::pressure gauge": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.185Z"
+    },
+    "med toscana::battery for uhf icom icf26": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.185Z"
+    },
+    "med toscana::hatch cover clits/spare parts": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.185Z"
+    },
+    "med toscana::provision crane hook 2 t": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.185Z"
+    },
+    "med toscana::fall preventive device fpd annual shore service": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.186Z"
+    },
+    "med toscana::deck fitter": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.186Z"
+    },
+    "med toscana::aux engine flowmeter": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.186Z"
+    },
+    "med toscana::rki bump kit with gas botle 45 gases 1set": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.187Z"
+    },
+    "med toscana::stationary": {
+      "ifxAskedAt": "2026-10-27T15:30:58.181Z",
+      "updatedAt": "2026-10-27T15:30:58.187Z"
     }
   },
   "delivGoal": {
@@ -69019,7 +69111,7 @@
     "portProfiles": "2026-10-16T13:16:32.560Z",
     "todoTombs": "2026-10-23T08:12:48.293Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-27T11:00:00.995Z",
+    "matPos": "2026-10-27T15:31:02.257Z",
     "delivGoal": "2026-10-19T07:33:04.116Z",
     "reminders": "2026-10-27T10:13:41.676Z",
     "infoshipLedger": "2026-10-23T15:44:07.752Z",
@@ -70767,6 +70859,6 @@
       ]
     }
   },
-  "rev": 4762,
-  "savedAt": "2026-10-27T11:00:01.005Z"
+  "rev": 4763,
+  "savedAt": "2026-10-27T15:31:02.268Z"
 }
