@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-27T15:52:39.535Z",
-  "todosCount": 644,
+  "pushedAt": "2026-10-27T16:42:32.556Z",
+  "todosCount": 645,
   "todos": [
     {
       "category": "Nave",
@@ -15272,6 +15272,29 @@
       "outlookStatus": "notStarted",
       "dueCleared": false,
       "updatedAt": "2026-10-27T10:13:06.395Z"
+    },
+    {
+      "id": "outlook_AAKVH6K5AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKVH6K5AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKVHfVdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-26",
+      "outlookLinkedName": "Fattura  n° 742/2026",
+      "category": "Altro",
+      "priority": "media",
+      "vessel": "",
+      "action": "Altro",
+      "reference": "Fattura  n° 742/2026",
+      "tags": [
+        "outlook"
+      ],
+      "dueDate": "2026-10-26",
+      "note": "",
+      "createdAt": "2026-10-27T11:30:05.9202322Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -69109,7 +69132,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-27T10:45:00.694Z",
+    "todos": "2026-10-27T16:42:32.554Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -70887,6 +70910,6 @@
       ]
     }
   },
-  "rev": 4772,
-  "savedAt": "2026-10-27T15:52:39.539Z"
+  "rev": 4773,
+  "savedAt": "2026-10-27T16:42:32.561Z"
 }
