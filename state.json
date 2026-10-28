@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_a1lys50jni",
-  "pushedAt": "2026-10-28T16:52:54.038Z",
+  "pushedAt": "2026-10-28T16:54:23.340Z",
   "todosCount": 648,
   "todos": [
     {
@@ -13447,12 +13447,12 @@
       "dueDate": "2026-10-28",
       "note": "",
       "createdAt": "2026-09-30T07:12:11.4994418Z",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-10-28T16:54:17.637Z",
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-27T21:15:34.741Z",
+      "updatedAt": "2026-10-28T16:54:17.637Z",
       "dueCleared": false
     },
     {
@@ -14164,7 +14164,7 @@
       "outlookLinkedName": "Re: MYTHMAR-26.7949 & 26.8173 & 26.8176 & 26.8177/ MV ATLAS / INVOICE",
       "vessel": "norrbotten",
       "action": "Altro",
-      "dueDate": "2026-10-28",
+      "dueDate": "2026-10-29",
       "note": "",
       "createdAt": "2026-10-09T16:00:54.6565771Z",
       "done": false,
@@ -14172,7 +14172,7 @@
       "outlookStatus": "notStarted",
       "kind": "todo",
       "recur": null,
-      "updatedAt": "2026-10-27T21:15:53.172Z",
+      "updatedAt": "2026-10-28T16:54:19.913Z",
       "dueCleared": false
     },
     {
@@ -28579,6 +28579,13 @@
       "completedAt": "2026-10-27T21:16:24.073Z",
       "todoId": "outlook_AAKSNudZAAA=",
       "title": "Perseveranza - Infoship Asset - Peppino - Items"
+    },
+    {
+      "taskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKEluUyAAA=",
+      "listId": "",
+      "completedAt": "2026-10-28T16:54:17.645Z",
+      "todoId": "outlook_AAKEluUyAAA=",
+      "title": "Nabtesco Main Engine Remote Control System || Required Maintenance || 2026 || Ships Surveys & Services Srl /MED LIGURIA"
     }
   ],
   "manualOrders": {
@@ -69273,7 +69280,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-28T16:52:54.038Z",
+    "todos": "2026-10-28T16:54:23.339Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69282,7 +69289,7 @@
     "supplierLanguages": "2026-09-19T17:20:18.066Z",
     "certificates": "2026-10-13T09:44:57.745Z",
     "voyages": "2026-10-26T13:13:30.560Z",
-    "outlookCompletionQueue": "2026-10-27T21:15:51.676Z",
+    "outlookCompletionQueue": "2026-10-28T16:54:23.339Z",
     "manualOrders": "2026-10-28T13:41:19.470Z",
     "deliveries": "2026-10-19T09:50:29.966Z",
     "vesselPos": "2026-10-22T12:46:20.089Z",
@@ -71063,6 +71070,6 @@
       ]
     }
   },
-  "rev": 4820,
-  "savedAt": "2026-10-28T16:52:54.044Z"
+  "rev": 4821,
+  "savedAt": "2026-10-28T16:54:23.343Z"
 }
