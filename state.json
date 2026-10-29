@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_ex1cq6qu8y",
-  "pushedAt": "2026-10-29T16:11:57.527Z",
+  "pushedAt": "2026-10-29T16:12:19.136Z",
   "todosCount": 650,
   "todos": [
     {
@@ -69896,6 +69896,8 @@
     }
   },
   "chaseOff": {},
+  "leadMarks": {},
+  "vlMoveOff": {},
   "sourceDevice": {
     "id": "dev_a1lys50jni",
     "name": "PC Ufficio - Windows",
@@ -71694,6 +71696,6 @@
       ]
     }
   },
-  "rev": 2422,
-  "savedAt": "2026-10-29T16:11:57.533Z"
+  "rev": 2423,
+  "savedAt": "2026-10-29T16:12:19.141Z"
 }
