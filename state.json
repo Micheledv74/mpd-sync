@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_ex1cq6qu8y",
-  "pushedAt": "2026-10-29T18:18:49.961Z",
-  "todosCount": 650,
+  "pushedAt": "2026-10-30T08:46:55.888Z",
+  "todosCount": 651,
   "todos": [
     {
       "category": "Nave",
@@ -15415,6 +15415,29 @@
       "kind": "todo",
       "recur": null,
       "updatedAt": "2026-10-19T09:35:20.5855363Z"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO - ME Fuel Valve Test Device compatibility",
+      "tags": [
+        "outlook"
+      ],
+      "id": "outlook_AAKYadmWAAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKYadmWAAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEJAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B%2BwkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-30",
+      "outlookLinkedName": "M/V PEPPINO - ME Fuel Valve Test Device compatibility",
+      "vessel": "peppino",
+      "action": "Altro",
+      "dueDate": "2026-10-30",
+      "note": "",
+      "createdAt": "2026-10-30T08:16:25.9932988Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
     }
   ],
   "notes": {
@@ -28399,7 +28422,7 @@
         "id": "vmtn2jhughe8q",
         "from": "Fiumicino",
         "to": "Torre Annunziata",
-        "etd": "2026-11-02T09:00",
+        "etd": "2026-11-03T09:00",
         "etb": "",
         "eta": "2026-09-02T16:47",
         "agency": {
@@ -28412,12 +28435,12 @@
         "from": "Torre Annunziata",
         "to": "Fiumicino",
         "etb": "",
-        "eta": "2026-10-22T11:50",
+        "eta": "2026-11-04T09:36",
         "etd": "",
         "agency": null
       },
       "notes": "",
-      "updatedAt": "2026-10-23T13:07:13.613Z",
+      "updatedAt": "2026-10-30T08:36:20.345Z",
       "history": [
         {
           "id": "vmt734cdz8s4x",
@@ -28924,14 +28947,15 @@
         "poNum": "2026-NOR-00084",
         "description": "Carte e pubblicazioni",
         "supplier": "CAIM",
-        "status": "po",
+        "status": "delivered",
         "rfqDate": "2026-10-28",
         "date": "",
         "amount": "748,19",
         "currency": "EUR",
         "createdAt": "2026-10-28T13:40:04.718Z",
-        "updatedAt": "2026-10-28T13:41:16.027Z",
-        "poDate": "2026-10-28"
+        "updatedAt": "2026-10-30T08:32:28.855Z",
+        "poDate": "2026-10-28",
+        "deliveredAt": "2026-10-30"
       }
     ]
   },
@@ -30133,6 +30157,14 @@
       "phone": "010 7491280",
       "rating": 0,
       "_notionId": "3952131b-343e-810a-a151-fe880be27ec1"
+    },
+    "MARINOSHIP SERVICES": {
+      "rating": 0,
+      "email": "info@marinoship.com",
+      "country": "BANGLADESH",
+      "city": "CHITTAGONG",
+      "notes": "Da Scoperti: Riparazioni tecniche, approvvigionamento e servizi di manutenzione 24/7 · porti CHITTAGONG, MONGLA, PAYRA, MONGLIA",
+      "updatedAt": "2026-10-29T18:36:09.890Z"
     }
   },
   "agencyProfiles": {
@@ -69489,6 +69521,12 @@
     "med toscana::seastream::2026-MDT-HQPO-00069": {
       "ifxAskedAt": "2026-10-29T14:12:14.203Z",
       "updatedAt": "2026-10-29T14:12:14.206Z"
+    },
+    "mo::norrbotten::mo_1793194804718_9lwg": {
+      "pos": "onboard",
+      "since": "2026-10-30",
+      "updatedAt": "2026-10-30T08:32:29.023Z",
+      "dnClosedAt": "2026-10-30"
     }
   },
   "delivGoal": {
@@ -69783,7 +69821,8 @@
       "port": "Marina di Carrara",
       "etd": "2026-11-30",
       "vid": "norrbotten",
-      "updatedAt": "2026-10-28T13:40:26.610Z"
+      "out": "made",
+      "updatedAt": "2026-10-30T08:32:29.068Z"
     }
   },
   "todoTombs": {
@@ -69896,15 +69935,25 @@
     }
   },
   "chaseOff": {},
-  "leadMarks": {},
+  "leadMarks": {
+    "marinoship.com": {
+      "promoted": true,
+      "rubrica": {
+        "kind": "supplier",
+        "name": "MARINOSHIP SERVICES"
+      },
+      "updatedAt": "2026-10-29T18:36:09.891Z"
+    }
+  },
   "vlMoveOff": {},
+  "shipPreAlert": {},
   "sourceDevice": {
     "id": "dev_a1lys50jni",
     "name": "PC Ufficio - Windows",
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-29T16:11:56.095Z",
+    "todos": "2026-10-30T08:46:55.888Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -69912,27 +69961,28 @@
     "supplierTimezones": "2026-08-21T07:32:33.905Z",
     "supplierLanguages": "2026-09-21T07:17:38.762Z",
     "certificates": "2026-10-13T09:44:57.745Z",
-    "voyages": "2026-10-26T13:13:30.560Z",
-    "outlookCompletionQueue": "2026-10-29T16:12:16.750Z",
-    "manualOrders": "2026-10-28T13:41:19.470Z",
+    "voyages": "2026-10-30T08:36:23.163Z",
+    "outlookCompletionQueue": "2026-10-30T08:02:56.017Z",
+    "manualOrders": "2026-10-30T08:32:32.258Z",
     "deliveries": "2026-10-19T09:50:29.966Z",
     "vesselPos": "2026-10-22T12:46:20.089Z",
-    "supplierProfiles": "2026-10-07T13:08:02.595Z",
+    "supplierProfiles": "2026-10-30T08:02:56.017Z",
     "agencyProfiles": "2026-10-22T14:52:25.640Z",
     "worldClockCities": "2026-08-21T07:32:33.905Z",
     "itemOverrides": "2026-10-28T09:22:37.816Z",
     "repliesDismissed": "2026-07-28T08:20:16.880Z",
-    "shipments": "2026-10-29T16:06:44.220Z",
+    "shipments": "2026-10-29T16:11:01.477Z",
     "certExtras": "2026-10-23T07:33:13.257Z",
-    "delivGoal": "2026-10-19T07:33:04.116Z",
+    "delivGoal": "2026-10-30T08:32:32.258Z",
     "rfqChases": "2026-10-23T08:26:25.318Z",
     "portProfiles": "2026-10-16T13:16:32.560Z",
     "critFlags": "2026-09-25T20:47:32.850Z",
-    "matPos": "2026-10-29T16:06:44.220Z",
+    "matPos": "2026-10-30T08:32:32.258Z",
     "reminders": "2026-10-27T10:13:41.676Z",
     "rfqVendors": "2026-10-29T13:32:10.076Z",
     "infoshipLedger": "2026-10-29T13:32:10.076Z",
-    "rfqGenuine": "2026-10-19T09:44:24.594Z"
+    "rfqGenuine": "2026-10-19T09:44:24.594Z",
+    "leadMarks": "2026-10-30T08:02:56.017Z"
   },
   "recRev": {
     "manualOrders": {
@@ -70005,8 +70055,8 @@
         "2026-10-27T15:52:23.836Z"
       ],
       "norrbotten|mo_1793194804718_9lwg": [
-        "ibmshc8h",
-        "2026-10-28T13:41:16.329Z"
+        "s0qe9d9f",
+        "2026-10-30T08:32:29.384Z"
       ]
     },
     "shipments": {
@@ -71031,6 +71081,10 @@
       "WESTEAM": [
         "72ayk03u",
         ""
+      ],
+      "MARINOSHIP SERVICES": [
+        "1u04nvf7a",
+        "2026-10-29T18:36:10.205Z"
       ]
     },
     "agencyProfiles": {
@@ -71419,8 +71473,8 @@
         "2026-10-22T12:38:56.164Z"
       ],
       "vegauno": [
-        "rhpave18f",
-        "2026-10-23T13:07:13.916Z"
+        "zmdqq718f",
+        "2026-10-30T08:36:20.647Z"
       ]
     },
     "snoozed": {
@@ -71697,5 +71751,5 @@
     }
   },
   "rev": 2425,
-  "savedAt": "2026-10-29T18:18:50.070Z"
+  "savedAt": "2026-10-30T08:46:55.894Z"
 }
