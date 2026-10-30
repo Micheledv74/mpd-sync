@@ -1,10 +1,16 @@
 {
   "schemaVersion": "1.3",
   "deviceId": "dev_ex1cq6qu8y",
-  "pushedAt": "2026-10-30T17:09:53.924Z",
-  "todosCount": 654,
+  "pushedAt": "2026-10-30T17:10:12.389Z",
+  "todosCount": 655,
   "todos": [
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "Quotazioni Stationary N73- Safety N71- Deck N72",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKYadmYAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKYadmYAAA=",
       "outlookListId": "",
@@ -12,14 +18,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKYaYz4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-30",
       "outlookLinkedName": "Quotazioni Stationary N73- Safety N71- Deck N72",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "Quotazioni Stationary N73- Safety N71- Deck N72",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-30",
       "note": "",
       "createdAt": "2026-10-30T14:05:49.7814144Z",
@@ -28,6 +28,12 @@
       "outlookStatus": "notStarted"
     },
     {
+      "category": "Altro",
+      "priority": "media",
+      "reference": "OFFERTA TASCHE PER TWISTLOVCK E TWIST LOCK",
+      "tags": [
+        "outlook"
+      ],
       "id": "outlook_AAKYadmZAAA=",
       "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKYadmZAAA=",
       "outlookListId": "",
@@ -35,14 +41,8 @@
       "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAAAAAEMAABYWF9qc37UTpbqyo%2B4NVKtAAKYaYz9AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "outlookFlagDate": "2026-10-29",
       "outlookLinkedName": "I: OFFERTA TASCHE PER TWISTLOVCK E TWIST LOCK",
-      "category": "Altro",
-      "priority": "media",
       "vessel": "",
       "action": "Altro",
-      "reference": "OFFERTA TASCHE PER TWISTLOVCK E TWIST LOCK",
-      "tags": [
-        "outlook"
-      ],
       "dueDate": "2026-10-29",
       "note": "",
       "createdAt": "2026-10-30T15:33:51.9275599Z",
@@ -15504,6 +15504,30 @@
       "dueDate": "2026-10-30",
       "note": "",
       "createdAt": "2026-10-30T08:16:25.9932988Z",
+      "done": false,
+      "doneAt": null,
+      "outlookStatus": "notStarted"
+    },
+    {
+      "category": "Nave",
+      "priority": "media",
+      "reference": "M/V PEPPINO PO164 HQPO-00164 PEP-HQPO-00164 ANCB SRL",
+      "tags": [
+        "outlook",
+        "fornitore:ANCB"
+      ],
+      "id": "outlook_AAKY3Pt2AAA=",
+      "outlookTaskId": "AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx-PR6MWu34vnklfBwBYWF9qc37UTpbqyo_4NVKtAACaX_4EAABYWF9qc37UTpbqyo_4NVKtAAKY3Pt2AAA=",
+      "outlookListId": "",
+      "outlookSourceImported": true,
+      "outlookWebUrl": "https://outlook.office365.com/owa/?ItemID=AAMkAGNhMTA4ZjE5LTk3ZGQtNGMwYS1hYWExLTZhNjQ2YWMxMDZiNQBGAAAAAAC1d6vpnx%2FPR6MWu34vnklfBwBYWF9qc37UTpbqyo%2B4NVKtAAHHe60aAABYWF9qc37UTpbqyo%2B4NVKtAAIG%2B4vxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "outlookFlagDate": "2026-10-29",
+      "outlookLinkedName": "R: M/V PEPPINO PO164 HQPO-00164 PEP-HQPO-00164 ANCB SRL",
+      "vessel": "peppino",
+      "action": "Altro",
+      "dueDate": "2026-10-29",
+      "note": "",
+      "createdAt": "2026-10-30T16:59:22.0834786Z",
       "done": false,
       "doneAt": null,
       "outlookStatus": "notStarted"
@@ -70248,7 +70272,7 @@
     "ts": "2026-08-25T14:37:28.175Z"
   },
   "collMeta": {
-    "todos": "2026-10-30T16:01:02.290Z",
+    "todos": "2026-10-30T17:10:12.388Z",
     "notes": "2026-10-01T12:18:26.768Z",
     "snoozed": "2026-08-21T07:32:33.905Z",
     "archivedActions": "2026-10-02T09:46:59.054Z",
@@ -72103,5 +72127,5 @@
     }
   },
   "rev": 2427,
-  "savedAt": "2026-10-30T17:09:53.930Z"
+  "savedAt": "2026-10-30T17:10:12.395Z"
 }
